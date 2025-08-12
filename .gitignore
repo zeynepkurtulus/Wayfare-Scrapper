@@ -40,6 +40,11 @@ price_scraping_log_*.txt
 backup_categories_*/
 generative_files/backup/**
 
+# Data directories (ignored)
+cities/
+raw_data/
+updated_cities/
+
 # Data dumps/temp
 *.tmp
 *.temp
