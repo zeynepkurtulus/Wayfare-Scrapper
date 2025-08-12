@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Piazzale Michelangelo",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/7c/14/50/20190511-164120-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242858-Reviews-Piazzale_Michelangelo-Florence_Tuscany.html"
+  },
+  {
+    "name": "2. Gallerie Degli Uffizi",
+    "category": "Art Museums",
+    "price": "Admission tickets from $44",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/93/4f/fd/uffizi-gallery.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d191153-Reviews-Gallerie_Degli_Uffizi-Florence_Tuscany.html"
+  },
+  {
+    "name": "3. Duomo - Cattedrale di Santa Maria del Fiore",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Admission tickets from $77",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/36/f8/00/duomo-cattedrale-di-santa.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d198675-Reviews-Duomo_Cattedrale_di_Santa_Maria_del_Fiore-Florence_Tuscany.html"
+  },
+  {
+    "name": "4. Galleria dell'Accademia",
+    "category": "Art Museums",
+    "price": "Admission tickets from $35",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/3b/67/b6/hall-of-prisoners-looking.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195556-Reviews-Galleria_dell_Accademia-Florence_Tuscany.html"
+  },
+  {
+    "name": "5. Mercato Centrale",
+    "category": "San Lorenzo",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b6/e2/c3/dettagli.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195018-Reviews-Mercato_Centrale-Florence_Tuscany.html"
+  },
+  {
+    "name": "6. Piazza della Signoria",
+    "category": "Uffizi",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/f7/b4/38/piazza-della-signoria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195931-Reviews-Piazza_della_Signoria-Florence_Tuscany.html"
+  },
+  {
+    "name": "7. Piazza del Duomo",
+    "category": "Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/21/71/98/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195699-Reviews-Piazza_del_Duomo-Florence_Tuscany.html"
+  },
+  {
+    "name": "8. Museo Leonardo Da Vinci",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Admission tickets from $12",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/da/00/ad/sala-delle-armi-di-leonardo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2242695-Reviews-Museo_Leonardo_Da_Vinci-Florence_Tuscany.html"
+  },
+  {
+    "name": "9. Basilica of Santa Croce",
+    "category": "Historic Sites • Churches & Cathedrals",
+    "price": "Admission tickets from $19",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/87/64/08/basilica-de-santa-crocce.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195017-Reviews-Basilica_of_Santa_Croce-Florence_Tuscany.html"
+  },
+  {
+    "name": "10. Ponte Vecchio",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7d/56/ff/varied-views.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195009-Reviews-Ponte_Vecchio-Florence_Tuscany.html"
+  },
+  {
+    "name": "11. Palazzo Vecchio",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Admission tickets from $28",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/81/88/48/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195010-Reviews-Palazzo_Vecchio-Florence_Tuscany.html"
+  },
+  {
+    "name": "12. Campanile di Giotto",
+    "category": "San Lorenzo",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6d/51/40/the-tower.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242864-Reviews-Campanile_di_Giotto-Florence_Tuscany.html"
+  },
+  {
+    "name": "13. Palazzo Pitti",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Admission tickets from $31",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/db/75/dd/attractions-florence.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209474-Reviews-Palazzo_Pitti-Florence_Tuscany.html"
+  },
+  {
+    "name": "14. Basilica San Miniato al Monte",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/94/7e/d5/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195940-Reviews-Basilica_San_Miniato_al_Monte-Florence_Tuscany.html"
+  },
+  {
+    "name": "15. Cupola Del Brunelleschi",
+    "category": "Points of Interest & Landmarks",
+    "price": "Admission tickets from $77",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/41/7e/37/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4873331-Reviews-Cupola_Del_Brunelleschi-Florence_Tuscany.html"
+  },
+  {
+    "name": "16. Museo Dell'opera Del Duomo",
+    "category": "Art Museums • History Museums",
+    "price": "Admission tickets from $77",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d2/83/de/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d191154-Reviews-Museo_Dell_opera_Del_Duomo-Florence_Tuscany.html"
+  },
+  {
+    "name": "17. Museo Galileo",
+    "category": "Science Museums • History Museums",
+    "price": "Admission tickets from $23",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/1f/82/3b/it-s-amazing-how-old.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195401-Reviews-Museo_Galileo-Florence_Tuscany.html"
+  },
+  {
+    "name": "18. Cappelle Medicee",
+    "category": "San Lorenzo",
+    "price": "Admission tickets from $21",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/52/ae/ca/vision-d-ensemble-c-est.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209482-Reviews-Cappelle_Medicee-Florence_Tuscany.html"
+  },
+  {
+    "name": "19. Museo Nazionale del Bargello",
+    "category": "Art Museums",
+    "price": "Admission tickets from $22",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/9d/19/8c/5.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195701-Reviews-Museo_Nazionale_del_Bargello-Florence_Tuscany.html"
+  },
+  {
+    "name": "20. Basilica of Santa Maria Novella",
+    "category": "Architectural Buildings • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0d/21/70/chiesa-di-santa-maria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209207-Reviews-Basilica_of_Santa_Maria_Novella-Florence_Tuscany.html"
+  },
+  {
+    "name": "21. Centro Storico",
+    "category": "Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/55/15/17/centro.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d196111-Reviews-Centro_Storico-Florence_Tuscany.html"
+  },
+  {
+    "name": "22. Museo di San Marco",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $17",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/15/99/e1/museo-di-san-marco-piazza.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195942-Reviews-Museo_di_San_Marco-Florence_Tuscany.html"
+  },
+  {
+    "name": "23. Leonardo Interactive Museum",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Admission tickets from $12",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/5d/1b/04/r.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4409736-Reviews-Leonardo_Interactive_Museum-Florence_Tuscany.html"
+  },
+  {
+    "name": "24. Museo di Palazzo Vecchio",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/1c/53/museo-di-palazzo-vecchio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2004221-Reviews-Museo_di_Palazzo_Vecchio-Florence_Tuscany.html"
+  },
+  {
+    "name": "25. Loggia dei Lanzi",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5a/f2/14/1.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d591565-Reviews-Loggia_dei_Lanzi-Florence_Tuscany.html"
+  },
+  {
+    "name": "26. Giardino Bardini",
+    "category": "Points of Interest & Landmarks • Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5b/e3/c9/20190501-165658-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2081152-Reviews-Giardino_Bardini-Florence_Tuscany.html"
+  },
+  {
+    "name": "27. Battistero Di San Giovanni",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Admission tickets from $77",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/5b/c3/b9/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209050-Reviews-Battistero_Di_San_Giovanni-Florence_Tuscany.html"
+  },
+  {
+    "name": "28. Perseus with the Head of Medusa by Benvenuto Cellini",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6f/81/03/perseus-statue.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3341800-Reviews-Perseus_with_the_Head_of_Medusa_by_Benvenuto_Cellini-Florence_Tuscany.html"
+  },
+  {
+    "name": "29. Church and Museum of Orsanmichele",
+    "category": "Religious Sites • Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/62/34/14/orsanmichele-interior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195936-Reviews-Church_and_Museum_of_Orsanmichele-Florence_Tuscany.html"
+  },
+  {
+    "name": "30. Mercato di Sant'Ambrogio",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4d/a8/b5/sant-ambrogio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195019-Reviews-Mercato_di_Sant_Ambrogio-Florence_Tuscany.html"
+  },
+  {
+    "name": "31. Palazzo Strozzi",
+    "category": "Points of Interest & Landmarks • Art Museums",
+    "price": "Admission tickets from $24",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ab/b5/e5/palazzo-strozzi-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195020-Reviews-Palazzo_Strozzi-Florence_Tuscany.html"
+  },
+  {
+    "name": "32. Palazzo Medici Riccardi",
+    "category": "Art Museums • History Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/39/92/86/benozzo-gozzoli-cappella.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242857-Reviews-Palazzo_Medici_Riccardi-Florence_Tuscany.html"
+  },
+  {
+    "name": "33. Museo Stibbert",
+    "category": "Military Museums • Art Museums",
+    "price": "Admission tickets from $17",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/2b/fd/5c/museo-stibbert.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209475-Reviews-Museo_Stibbert-Florence_Tuscany.html"
+  },
+  {
+    "name": "34. Galleria Palatina in Palazzo Pitti",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/18/7e/8f/galleria-palatina-in.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d523496-Reviews-Galleria_Palatina_in_Palazzo_Pitti-Florence_Tuscany.html"
+  },
+  {
+    "name": "35. Museo Opificio delle Pietre Dure",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $13",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0a/60/40/interno-museo-opificio.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242854-Reviews-Museo_Opificio_delle_Pietre_Dure-Florence_Tuscany.html"
+  },
+  {
+    "name": "36. Basilica della Santissima Annunziata - Chiesa di Santa Maria della Scala",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/14/68/bd/interno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242861-Reviews-Basilica_della_Santissima_Annunziata_Chiesa_di_Santa_Maria_della_Scala-Florence_Tu.html"
+  },
+  {
+    "name": "37. Chiesa di San Salvatore in Ognissanti",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/0b/b7/54/la-chiesa-di-ognissanti.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1652938-Reviews-Chiesa_di_San_Salvatore_in_Ognissanti-Florence_Tuscany.html"
+  },
+  {
+    "name": "38. Fontana del Porcellino",
+    "category": "Monuments & Statues • Fountains",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/5f/c8/2a/mercado.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1699712-Reviews-Fontana_del_Porcellino-Florence_Tuscany.html"
+  },
+  {
+    "name": "39. Jimmy's Leather Collection",
+    "category": "Speciality & Gift Shops • Factory Outlets",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/83/ff/fa/volvere-a-comprar-si.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d6902377-Reviews-Jimmy_s_Leather_Collection-Florence_Tuscany.html"
+  },
+  {
+    "name": "40. Piazza della Repubblica",
+    "category": "Duomo",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/c3/9b/5e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195008-Reviews-Piazza_della_Repubblica-Florence_Tuscany.html"
+  },
+  {
+    "name": "41. Fontana Del Nettuno",
+    "category": "Fountains",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7e/2d/c7/fountain-of-neptune.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2578762-Reviews-Fontana_Del_Nettuno-Florence_Tuscany.html"
+  },
+  {
+    "name": "42. Piazza Santo Spirito",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d2/54/91/piazza-santo-spirito.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1207225-Reviews-Piazza_Santo_Spirito-Florence_Tuscany.html"
+  },
+  {
+    "name": "43. Ars et Fides Firenze",
+    "category": "Visitor Centers",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/d6/50/31/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3811941-Reviews-Ars_et_Fides_Firenze-Florence_Tuscany.html"
+  },
+  {
+    "name": "44. Gucci Garden",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/50/25/f3/a-small-yet-fascinating.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3183522-Reviews-Gucci_Garden-Florence_Tuscany.html"
+  },
+  {
+    "name": "45. Museo Delle Illusioni Firenze",
+    "category": "Science Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b3/c7/22/20190522-133456-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1724632-Reviews-Basilica_di_San_Lorenzo-Florence_Tuscany.html"
+  },
+  {
+    "name": "46. Basilica di San Lorenzo",
+    "category": "Religious Sites • Art Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b3/c7/22/20190522-133456-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1724632-Reviews-Basilica_di_San_Lorenzo-Florence_Tuscany.html"
+  },
+  {
+    "name": "47. Piazza Santa Croce",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/58/87/b3/piazza-santa-croce.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d246550-Reviews-Piazza_Santa_Croce-Florence_Tuscany.html"
+  },
+  {
+    "name": "48. Museo di Storia Naturale - La Specola",
+    "category": "Science Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/46/5f/45/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242855-Reviews-Museo_di_Storia_Naturale_La_Specola-Florence_Tuscany.html"
+  },
+  {
+    "name": "49. Biblioteca Medicea Laurenziana",
+    "category": "Libraries",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/0f/37/93/biblioteca-medicea-laurenziana.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d312076-Reviews-Biblioteca_Medicea_Laurenziana-Florence_Tuscany.html"
+  },
+  {
+    "name": "50. Museo di Palazzo Davanzati",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/da/24/5c/museo-di-palazzo-davanzati.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d591563-Reviews-Museo_di_Palazzo_Davanzati-Florence_Tuscany.html"
+  },
+  {
+    "name": "51. Oltrarno",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/61/bc/0b/view-of-the-pitti-palace.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d534922-Reviews-Oltrarno-Florence_Tuscany.html"
+  },
+  {
+    "name": "52. David 2 Leather Factory",
+    "category": "Factory Outlets",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d0/1f/45/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d5988194-Reviews-David_2_Leather_Factory-Florence_Tuscany.html"
+  },
+  {
+    "name": "53. Villa Medicea La Petraia",
+    "category": "Historic Sites • Gardens",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c1/da/a9/img-20180922-140202-246.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d240781-Reviews-Villa_Medicea_La_Petraia-Florence_Tuscany.html"
+  },
+  {
+    "name": "54. Fiume Arno",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/45/41/1d/arno-river.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2578700-Reviews-Fiume_Arno-Florence_Tuscany.html"
+  },
+  {
+    "name": "55. Santa Maria Novella",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/6e/85/8c/piazza-di-santa-maria.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2587431-Reviews-Santa_Maria_Novella-Florence_Tuscany.html"
+  },
+  {
+    "name": "56. Folon e il Giardino delle Rose",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9a/65/19/vista-divina.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3183527-Reviews-Folon_e_il_Giardino_delle_Rose-Florence_Tuscany.html"
+  },
+  {
+    "name": "57. Biblioteca delle Oblate",
+    "category": "Libraries",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/80/6a/b6/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4788046-Reviews-Biblioteca_delle_Oblate-Florence_Tuscany.html"
+  },
+  {
+    "name": "58. Corridoio Vasariano",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9f/c9/a7/corridoio-vasariano.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2537932-Reviews-Corridoio_Vasariano-Florence_Tuscany.html"
+  },
+  {
+    "name": "59. Torre di Arnolfo",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/22/46/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d12539636-Reviews-Torre_di_Arnolfo-Florence_Tuscany.html"
+  },
+  {
+    "name": "60. Scarpelli Mosaici",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/a7/e3/c1/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3657015-Reviews-Scarpelli_Mosaici-Florence_Tuscany.html"
+  },
+  {
+    "name": "61. Mercato del Porcellino",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ac/c8/bb/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d6614982-Reviews-Mercato_del_Porcellino-Florence_Tuscany.html"
+  },
+  {
+    "name": "62. Basilica di Santo Spirito",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/de/a9/b6/firenze-basilica-s-spirito.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209211-Reviews-Basilica_di_Santo_Spirito-Florence_Tuscany.html"
+  },
+  {
+    "name": "63. Italian Opera in Santa Monaca Church",
+    "category": "Operas",
+    "price": "Admission tickets from $34",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/28/56/9e/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d5967767-Reviews-Italian_Opera_in_Santa_Monaca_Church-Florence_Tuscany.html"
+  },
+  {
+    "name": "64. Cappella Brancacci",
+    "category": "Speciality Museums • Religious Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d4/42/5a/hhhhhhhhh.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d523488-Reviews-Cappella_Brancacci-Florence_Tuscany.html"
+  },
+  {
+    "name": "65. Art Gallery Studio Iguarnieri",
+    "category": "Art Galleries • Art Museums",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/44/df/a2/2022-lungarno-benvenuto.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1880439-Reviews-Art_Gallery_Studio_Iguarnieri-Florence_Tuscany.html"
+  },
+  {
+    "name": "66. Museo Del Giocattolo E Di Pinocchio",
+    "category": "Children's Museums",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/9e/94/fa/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d24002972-Reviews-Museo_Del_Giocattolo_E_Di_Pinocchio-Florence_Tuscany.html"
+  },
+  {
+    "name": "67. Sinagoga e Museo Ebraico",
+    "category": "Speciality Museums • Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bd/98/8a/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242862-Reviews-Sinagoga_e_Museo_Ebraico-Florence_Tuscany.html"
+  },
+  {
+    "name": "68. Officina Profumo Farmaceutica Di Santa Maria Novella",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fc/4f/83/pharmacy.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195012-Reviews-Officina_Profumo_Farmaceutica_Di_Santa_Maria_Novella-Florence_Tuscany.html"
+  },
+  {
+    "name": "69. Forte di Belvedere o di San Giorgio Firenze",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fe/4c/ab/forte-di-belvedere-o.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4471953-Reviews-Forte_di_Belvedere_o_di_San_Giorgio_Firenze-Florence_Tuscany.html"
+  },
+  {
+    "name": "70. Basilica di Santa Trinita",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/95/c3/0e/basilica-di-santa-trinita.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209210-Reviews-Basilica_di_Santa_Trinita-Florence_Tuscany.html"
+  },
+  {
+    "name": "71. Europass Teacher Academy",
+    "category": "Universities & Schools",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d8/a4/35/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d25346212-Reviews-Europass_Teacher_Academy-Florence_Tuscany.html"
+  },
+  {
+    "name": "72. Accademia di Belle Arti",
+    "category": "Libraries • Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/40/e3/12/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2368837-Reviews-Accademia_di_Belle_Arti-Florence_Tuscany.html"
+  },
+  {
+    "name": "73. Certosa Di Firenze",
+    "category": "Speciality Museums • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/bf/bc/e9/la-facciata-della-chiesa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1581851-Reviews-Certosa_Di_Firenze-Florence_Tuscany.html"
+  },
+  {
+    "name": "74. Via de' Tornabuoni",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d9/74/e1/via-de-tornabuoni.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209294-Reviews-Via_de_Tornabuoni-Florence_Tuscany.html"
+  },
+  {
+    "name": "75. Museo Salvatore Ferragamo",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $21",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/75/3c/41/dsc-0147-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195400-Reviews-Museo_Salvatore_Ferragamo-Florence_Tuscany.html"
+  },
+  {
+    "name": "76. Archea Brewery",
+    "category": "Breweries",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d2/58/86/archea-brewery-1.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3400980-Reviews-Archea_Brewery-Florence_Tuscany.html"
+  },
+  {
+    "name": "77. Giardino dell'Iris",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/42/bc/a4/panoramica.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3206748-Reviews-Giardino_dell_Iris-Florence_Tuscany.html"
+  },
+  {
+    "name": "78. Hzero Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/fb/8c/29/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d23950719-Reviews-Hzero_Museum-Florence_Tuscany.html"
+  },
+  {
+    "name": "79. Crypt of Santa Reparata",
+    "category": "Churches & Cathedrals",
+    "price": "Admission tickets from $77",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/8a/69/1b/santa-reparata-15.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d5773179-Reviews-Crypt_of_Santa_Reparata-Florence_Tuscany.html"
+  },
+  {
+    "name": "80. Piazza San Giovanni",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d1/1a/11/from-the-other-side.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d12188824-Reviews-Piazza_San_Giovanni-Florence_Tuscany.html"
+  },
+  {
+    "name": "81. Museo Archeologico Nazionale",
+    "category": "Art Museums • History Museums",
+    "price": "Admission tickets from $15",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/24/da/8f/museo-archeologico-nazionale.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2658543-Reviews-Museo_Archeologico_Nazionale-Florence_Tuscany.html"
+  },
+  {
+    "name": "82. Santa Maria Maggiore",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ee/aa/2d/santa-maria-maggiore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d591556-Reviews-Santa_Maria_Maggiore-Florence_Tuscany.html"
+  },
+  {
+    "name": "83. Santa Maria del Carmine",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7a/fe/74/santa-maria-del-carmine.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209480-Reviews-Santa_Maria_del_Carmine-Florence_Tuscany.html"
+  },
+  {
+    "name": "84. Museo Casa Martelli",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/db/d8/19/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1949708-Reviews-Museo_Casa_Martelli-Florence_Tuscany.html"
+  },
+  {
+    "name": "85. Via dei Calzaiuoli",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/ce/cb/90/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d196320-Reviews-Via_dei_Calzaiuoli-Florence_Tuscany.html"
+  },
+  {
+    "name": "86. Ratto della Sabina",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/da/0c/2a/il-ratto-della-sabina.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d6598821-Reviews-Ratto_della_Sabina-Florence_Tuscany.html"
+  },
+  {
+    "name": "87. Sant'Apollonia",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2d/2e/3e/cenacolo-di-sant-apollonia.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195913-Reviews-Sant_Apollonia-Florence_Tuscany.html"
+  },
+  {
+    "name": "88. Museum of the Cenacolo of Andrea del Sarto",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/23/22/1b/la-ultima-cena-por-andrea.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1635001-Reviews-Museum_of_the_Cenacolo_of_Andrea_del_Sarto-Florence_Tuscany.html"
+  },
+  {
+    "name": "89. Monumento a Dante Alighieri",
+    "category": "Historic Walking Areas • Monuments & Statues",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d9/69/69/monumento-a-dante-alighieri.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d10154038-Reviews-Monumento_a_Dante_Alighieri-Florence_Tuscany.html"
+  },
+  {
+    "name": "90. Casa Buonarroti",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6e/c8/b7/photo5jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d242865-Reviews-Casa_Buonarroti-Florence_Tuscany.html"
+  },
+  {
+    "name": "91. Museo Stefano Bardini",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/da/58/04/museo-stefano-bardini.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1652935-Reviews-Museo_Stefano_Bardini-Florence_Tuscany.html"
+  },
+  {
+    "name": "92. The Arts Inn",
+    "category": "Art Galleries • Bars & Clubs",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/2b/92/d2/dipinti.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d14137334-Reviews-The_Arts_Inn-Florence_Tuscany.html"
+  },
+  {
+    "name": "93. Church of Santa Felicita",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ac/02/03/interno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1727766-Reviews-Church_of_Santa_Felicita-Florence_Tuscany.html"
+  },
+  {
+    "name": "94. Museo dell'Opera di Santa Croce",
+    "category": "Religious Sites • History Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/24/35/87/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d209206-Reviews-Museo_dell_Opera_di_Santa_Croce-Florence_Tuscany.html"
+  },
+  {
+    "name": "95. Chiostro dello Scalzo",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/48/a8/46/chiostro-dello-scalzo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1597751-Reviews-Chiostro_dello_Scalzo-Florence_Tuscany.html"
+  },
+  {
+    "name": "96. Ponte Santa Trinita",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8b/22/64/ponte-santa-trinita-firenze.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d8724114-Reviews-Ponte_Santa_Trinita-Florence_Tuscany.html"
+  },
+  {
+    "name": "97. Badia Fiorentina",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8d/a6/6f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3780582-Reviews-Badia_Fiorentina-Florence_Tuscany.html"
+  },
+  {
+    "name": "98. La Terrazza Rooftop Bar",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f5/56/df/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4358975-Reviews-La_Terrazza_Rooftop_Bar-Florence_Tuscany.html"
+  },
+  {
+    "name": "99. Piazza Della Santissima Annunziata",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/54/c7/0f/piazza-della-santissima_rotated_90.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d5984467-Reviews-Piazza_Della_Santissima_Annunziata-Florence_Tuscany.html"
+  },
+  {
+    "name": "100. MG Design",
+    "category": "Speciality & Gift Shops • Art Galleries",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0b/60/ae/plates-in-tuscany-landscapes.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2165086-Reviews-MG_Design-Florence_Tuscany.html"
+  },
+  {
+    "name": "101. Monumento Equestre Di Cosimo I",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/af/dd/5d/from-one-side.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2578872-Reviews-Monumento_Equestre_Di_Cosimo_I-Florence_Tuscany.html"
+  },
+  {
+    "name": "102. Museo Fondazione Franco Zeffirelli Onlus",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/9d/2d/cb/located-in-the-historic.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d12705016-Reviews-Museo_Fondazione_Franco_Zeffirelli_Onlus-Florence_Tuscany.html"
+  },
+  {
+    "name": "103. Santi Michele e Gaetano",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d9/dc/22/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d6847909-Reviews-Santi_Michele_e_Gaetano-Florence_Tuscany.html"
+  },
+  {
+    "name": "104. Cappella Pazzi",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2d/7f/7e/pazzi-chapel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195013-Reviews-Cappella_Pazzi-Florence_Tuscany.html"
+  },
+  {
+    "name": "105. Chiesa dei Santi Apostoli",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bd/18/18/chiesa-dei-santi-apostoli.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d591557-Reviews-Chiesa_dei_Santi_Apostoli-Florence_Tuscany.html"
+  },
+  {
+    "name": "106. Oratio",
+    "category": "Libraries • Wine Bars",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/32/99/46/the-cellar.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d25793416-Reviews-Oratio-Florence_Tuscany.html"
+  },
+  {
+    "name": "107. Alessandro Dari Gioielli",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/2d/27/fe/volo-d-amore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4734818-Reviews-Alessandro_Dari_Gioielli-Florence_Tuscany.html"
+  },
+  {
+    "name": "108. Museo Horne",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9f/44/d1/horne-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d195914-Reviews-Museo_Horne-Florence_Tuscany.html"
+  },
+  {
+    "name": "109. Torre di San Niccolo",
+    "category": "Piazzale Michelangelo",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/de/32/de/torre-san-niccolo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2475908-Reviews-Torre_di_San_Niccolo-Florence_Tuscany.html"
+  },
+  {
+    "name": "110. Dalle Nostre Mani",
+    "category": "Cooking Classes",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/67/ca/05/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d16745524-Reviews-Dalle_Nostre_Mani-Florence_Tuscany.html"
+  },
+  {
+    "name": "111. Pasta Class Florence",
+    "category": "Cooking Classes",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/99/18/56/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d19838979-Reviews-Pasta_Class_Florence-Florence_Tuscany.html"
+  },
+  {
+    "name": "112. Goccia Shoes",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/d1/62/95/goccia-shoes.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d3210344-Reviews-Goccia_Shoes-Florence_Tuscany.html"
+  },
+  {
+    "name": "113. Opera at St. Mark's Anglican Church",
+    "category": "Operas • Theater & Performances",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f9/39/64/traviata-atto-i.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d1918667-Reviews-Opera_at_St_Mark_s_Anglican_Church-Florence_Tuscany.html"
+  },
+  {
+    "name": "114. Tesoro dei Granduchi",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/53/90/84/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4560889-Reviews-Tesoro_dei_Granduchi-Florence_Tuscany.html"
+  },
+  {
+    "name": "115. Scuola del Cuoio",
+    "category": "Lessons & Workshops",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/72/48/0a/scuola-del-cuoio.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4458701-Reviews-Scuola_del_Cuoio-Florence_Tuscany.html"
+  },
+  {
+    "name": "116. Enoteca Pontevecchio",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/aa/e5/a8/we-have-a-great-selection.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d2157936-Reviews-Enoteca_Pontevecchio-Florence_Tuscany.html"
+  },
+  {
+    "name": "117. Michelangelo Florentine Leather",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/17/e1/f3/we-are-proud-that-we.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4688360-Reviews-Michelangelo_Florentine_Leather-Florence_Tuscany.html"
+  },
+  {
+    "name": "118. Picteau Bistrot & Bar",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c5/9e/a9/picteau-lounge-private.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d8124227-Reviews-Picteau_Bistrot_Bar-Florence_Tuscany.html"
+  },
+  {
+    "name": "119. Leonardo Shoes",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/80/b5/89/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d13397003-Reviews-Deluxe_Limo_Italy-Florence_Tuscany.html"
+  },
+  {
+    "name": "120. The Gold Market",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/53/90/84/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187895-d4560889-Reviews-Tesoro_dei_Granduchi-Florence_Tuscany.html"
+  }
+]

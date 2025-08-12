@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Museum of New Zealand Te Papa Tongarewa",
+    "category": "Speciality Museums",
+    "price": "$22",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/be/32/36/museum-of-new-zealand.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257133-Reviews-Museum_of_New_Zealand_Te_Papa_Tongarewa-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "2. ZEALANDIA Ecosanctuary",
+    "category": "Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/81/b3/c7/zealandia-formerly-known.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257121-Reviews-ZEALANDIA_Ecosanctuary-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "9:00 AM - 4:30 PM",
+      "Monday": "9:00 AM - 4:30 PM",
+      "Tuesday": "9:00 AM - 4:30 PM",
+      "Wednesday": "9:00 AM - 4:30 PM",
+      "Thursday": "9:00 AM - 4:30 PM",
+      "Friday": "9:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "3. Wellington Cable Car",
+    "category": "Historic Sites • Trams",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/52/fa/77/best-views-in-wellington.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d547258-Reviews-Wellington_Cable_Car-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "8:30 AM - 9:00 PM",
+      "Sunday": "8:30 AM - 7:00 PM",
+      "Monday": "7:30 AM - 8:00 PM",
+      "Tuesday": "7:30 AM - 8:00 PM",
+      "Wednesday": "7:30 AM - 8:00 PM",
+      "Thursday": "7:30 AM - 8:00 PM",
+      "Friday": "7:30 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "4. Mount Victoria",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/9f/3c/7d/img-20171229-151333-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d291415-Reviews-Mount_Victoria-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "5. Wellington Botanic Garden",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/92/28/a2/wellington-botanic-garden.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257627-Reviews-Wellington_Botanic_Garden-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "6. Interislander",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b6/da/16/you-ll-want-your-camera.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2229892-Reviews-Interislander-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "7. Oriental Bay",
+    "category": "Bodies of Water • Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b3/a4/d7/20151208-144243-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592342-Reviews-Oriental_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "8. Old St Paul's",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/c4/cb/ba/interior-to-the-altar.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d300545-Reviews-Old_St_Paul_s-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "9. Wellington Zoo",
+    "category": "Nature & Wildlife Areas • Zoos",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/20/5b/da/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257138-Reviews-Wellington_Zoo-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 5:00 PM",
+      "Sunday": "9:30 AM - 5:00 PM",
+      "Monday": "9:30 AM - 5:00 PM",
+      "Tuesday": "9:30 AM - 5:00 PM",
+      "Wednesday": "9:30 AM - 5:00 PM",
+      "Thursday": "9:30 AM - 5:00 PM",
+      "Friday": "9:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "10. Cuba Street",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f7/a2/de/rue.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592236-Reviews-Cuba_Street-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "11. New Zealand Parliament",
+    "category": "Government Buildings",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/cc/1d/56/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257135-Reviews-New_Zealand_Parliament-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "12. Wellington Museum",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/92/40/0c/wellington-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257131-Reviews-Wellington_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "13. Northern Explorer Train",
+    "category": "Scenic Railroads",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/a1/38/bb/northern-explorer-train.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d1752446-Reviews-Northern_Explorer_Train-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "14. Space Place at Carter Observatory",
+    "category": "Observatories & Planetariums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/92/45/9d/space-place-te-ara-whanui.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592219-Reviews-Space_Place_at_Carter_Observatory-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "15. National War Memorial",
+    "category": "Military Museums • Speciality Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/02/3b/dd/national-war-memorial.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d566867-Reviews-National_War_Memorial-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "16. Pinnacles Track",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/65/7e/9f/putangirua-pinnacles.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3546252-Reviews-Pinnacles_Track-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "17. Cape Palliser Lighthouse",
+    "category": "Points of Interest & Landmarks • Lighthouses",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e8/6d/14/looking-west.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d6353359-Reviews-Cape_Palliser_Lighthouse-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "18. Government House",
+    "category": "Historic Sites • Government Buildings",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/64/1b/46/government-house.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592257-Reviews-Government_House-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "19. Otari-Wilton's Bush Native Botanic Garden",
+    "category": "Nature & Wildlife Areas • Forests",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/51/65/e3/waterfall-below-the-nature.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d301100-Reviews-Otari_Wilton_s_Bush_Native_Botanic_Garden-Wellington_Greater_Wellington_North_Isla.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "20. Red Rocks Reserve",
+    "category": "Geologic Formations",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/dd/55/cc/view-toward-reserve-entrance.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3348726-Reviews-Red_Rocks_Reserve-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "21. Scorching Bay",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/65/79/a0/filename-scorching-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592366-Reviews-Scorching_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "22. Harbourside Market Wellington",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cb/c8/5c/big-range-fruit-and-vegetables.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2414227-Reviews-Harbourside_Market_Wellington-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Matiu / Somes Island",
+    "category": "Islands • Hiking Trails",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fa/1d/27/coast.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2477245-Reviews-Matiu_Somes_Island-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 5:00 PM",
+      "Tuesday": "8:30 AM - 5:00 PM",
+      "Wednesday": "8:30 AM - 5:00 PM",
+      "Thursday": "8:30 AM - 5:00 PM",
+      "Friday": "8:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "24. Bluebridge Cook Strait Ferries",
+    "category": "Ferries",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/59/d5/fb/connemara-traveling-through.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2301463-Reviews-Bluebridge_Cook_Strait_Ferries-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 8:15 PM",
+      "Sunday": "6:00 AM - 1:45 AM",
+      "Monday": "6:00 AM - 1:45 AM",
+      "Tuesday": "6:00 AM - 1:45 AM",
+      "Wednesday": "6:00 AM - 1:45 AM",
+      "Thursday": "6:00 AM - 1:45 AM",
+      "Friday": "6:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "25. Mount Kaukau",
+    "category": "Mountains • Lookouts",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/d8/8f/da/mount-kaukau.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592298-Reviews-Mount_Kaukau-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "26. Days Bay",
+    "category": "Bodies of Water • Beaches",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/7d/83/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d300549-Reviews-Days_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "27. Island Bay",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0f/cb/29/baie-des-surfeurs.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592271-Reviews-Island_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Weta Workshop",
+    "category": "Lessons & Workshops",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/14/6c/01/photo-ops-with-trolls.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d1197086-Reviews-Weta_Workshop-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "8:45 AM - 6:15 PM",
+      "Sunday": "8:45 AM - 6:15 PM",
+      "Monday": "8:45 AM - 6:15 PM",
+      "Tuesday": "8:45 AM - 6:15 PM",
+      "Wednesday": "8:45 AM - 6:15 PM",
+      "Thursday": "8:45 AM - 6:15 PM",
+      "Friday": "8:45 AM - 6:15 PM"
+    }
+  },
+  {
+    "name": "29. East By West Ferries",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/45/c5/b8/ika-rere.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2390253-Reviews-East_By_West_Ferries-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "7:00 AM - 8:30 PM",
+      "Tuesday": "7:00 AM - 8:30 PM",
+      "Wednesday": "7:00 AM - 8:30 PM",
+      "Thursday": "7:00 AM - 8:30 PM",
+      "Friday": "7:00 AM - 8:30 PM"
+    }
+  },
+  {
+    "name": "30. City to Sea Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b5/69/b5/city-to-sea-bridge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592222-Reviews-City_to_Sea_Bridge-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Wellington Waterfront",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f6/f2/2d/einblick-vom-mt-victoria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d13430038-Reviews-Wellington_Waterfront-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "32. Cable Car Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/a8/73/10/cable-car-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d6029033-Reviews-Cable_Car_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "33. Wellington isite Visitor Information Centre",
+    "category": "Visitor Centers",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a2/51/14/the-exterior-of-our-newly.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2305163-Reviews-Wellington_isite_Visitor_Information_Centre-Wellington_Greater_Wellington_North_I.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "34. Breaker Bay",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/df/58/ad/view-of-beach-toward.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592211-Reviews-Breaker_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Wellington City Library",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/12/56/9c/westpac-stadium.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2305165-Reviews-Sky_Stadium-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "36. Makara Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/82/e9/wellington-city-library.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592398-Reviews-Wellington_City_Library-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "37. Sky Stadium",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/df/0b/28/makara-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592293-Reviews-Makara_Beach-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "38. Lyall Bay",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e2/e5/fc/sea-view.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592292-Reviews-Lyall_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. Katherine Mansfield House and Garden",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/c7/3e/d0/the-exterior-of-katherine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257122-Reviews-Katherine_Mansfield_House_and_Garden-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "40. Pencarrow Coastal Trail",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/08/f8/e1/from-the-top-where-the.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3199060-Reviews-Pencarrow_Coastal_Trail-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "41. Lady Norwood Rose Garden",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/b1/34/20190404-103000-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d7810785-Reviews-Lady_Norwood_Rose_Garden-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "42. Old Government Buildings",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/10/1f/2b/coat-of-arms-at-roof.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592316-Reviews-Old_Government_Buildings-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. Bolton Street Cemetery",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/1b/d4/7d/wellington-bolton-street.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592210-Reviews-Bolton_Street_Cemetery-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 4:00 PM",
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "44. Wellington Chocolate Factory",
+    "category": "Factory Outlets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/8c/36/7d/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d10098063-Reviews-Wellington_Chocolate_Factory-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "45. Wellington Wind Turbine",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/fd/06/1d/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d300548-Reviews-Wellington_Wind_Turbine-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 9:00 PM",
+      "Sunday": "7:00 AM - 9:00 PM",
+      "Monday": "7:00 AM - 9:00 PM",
+      "Tuesday": "7:00 AM - 9:00 PM",
+      "Wednesday": "7:00 AM - 9:00 PM",
+      "Thursday": "7:00 AM - 9:00 PM",
+      "Friday": "7:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "46. St. Mary Of The Angels Parish",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/dd/96/67/saint-mary-of-the-angels.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592364-Reviews-St_Mary_Of_The_Angels_Parish-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "47. Wellington Railway Station",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/14/64/a3/wellington-railway-station.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d10139279-Reviews-Wellington_Railway_Station-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "48. Garage Project Aro Cellar Door",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/f8/cd/8c/find-us-in-aro-valley.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8608277-Reviews-Garage_Project_Aro_Cellar_Door-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 8:00 PM",
+      "Sunday": "12:00 PM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "12:00 PM - 7:00 PM",
+      "Wednesday": "12:00 PM - 7:00 PM",
+      "Thursday": "12:00 PM - 7:00 PM",
+      "Friday": "12:00 PM - 8:00 PM"
+    }
+  },
+  {
+    "name": "49. Circa Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/32/df/b3/new-circa-theatre-waterfront.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3177497-Reviews-Circa_Theatre-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "1:00 PM - 4:00 PM",
+      "Monday": "10:00 AM - 2:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "50. City Gallery Wellington Te Whare Toi",
+    "category": "Art Galleries • Art Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/a8/6f/6f/city-gallery-wellington.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257626-Reviews-City_Gallery_Wellington_Te_Whare_Toi-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "51. Ataturk Memorial",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/39/5d/d0/ataturk-memorial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d566864-Reviews-Ataturk_Memorial-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "52. Titahi Bay",
+    "category": "Neighborhoods • Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/93/6d/94/20131012-085217-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592687-Reviews-Titahi_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. Old Bank Shopping Arcade",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/c8/c8/c2/arcade-area.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d9740406-Reviews-Old_Bank_Shopping_Arcade-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. Makara Peak Mountain Bike Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1f/68/41/view-from-the-top-of.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d6540925-Reviews-Makara_Peak_Mountain_Bike_Park-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "55. Mount Victoria Lookout",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/77/58/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d19807914-Reviews-Mount_Victoria_Lookout-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Frank Kitts Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9d/c2/85/frank-kitts-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592245-Reviews-Frank_Kitts_Park-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Eastbourne Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ba/09/13/view-of-the-beach.jpg?w=400&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d300550-Reviews-Eastbourne_Beach-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "58. The Dowse Art Museum",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cf/42/68/gavin-hipkins-the-domain.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d257118-Reviews-The_Dowse_Art_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "59. Wright's Hill",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/df/64/60/views-from-wrights-fortress.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d591064-Reviews-Wright_s_Hill-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Princess Bay",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2a/b2/00/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592356-Reviews-Princess_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "61. Wellington Cathedral of St. Paul",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ac/14/48/wellington-cathedral.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592397-Reviews-Wellington_Cathedral_of_St_Paul-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. St James Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d1/e4/d4/side-detail-and-curtained.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2161724-Reviews-St_James_Theatre-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Rimutaka Rail Trail",
+    "category": "Biking Trails • Hiking Trails",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e8/65/cd/rimutaka-rail-trail.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8012087-Reviews-Rimutaka_Rail_Trail-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Butterfly Creek",
+    "category": "Bodies of Water • Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/66/d1/0f/butterfly-creek.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592216-Reviews-Butterfly_Creek-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Nairn Street Cottage",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/7c/b5/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d6914671-Reviews-New_Zealand_Academy_of_Fine_Arts_Academy_Galleries-Wellington_Greater_Wellington_.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. New Zealand Academy of Fine Arts Academy Galleries",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/91/bf/78/nairn-street-cottage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d591061-Reviews-Nairn_Street_Cottage-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 4:00 PM",
+      "Sunday": "12:00 PM - 4:00 PM",
+      "Monday": "12:00 PM - 4:00 PM",
+      "Tuesday": "12:00 PM - 4:00 PM",
+      "Wednesday": "12:00 PM - 4:00 PM",
+      "Thursday": "12:00 PM - 4:00 PM",
+      "Friday": "12:00 PM - 4:00 PM"
+    }
+  },
+  {
+    "name": "67. Dominion Museum",
+    "category": "Military Museums • History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/67/37/ac/dominion-museum-wellington.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8319581-Reviews-Dominion_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Petone Settlers Museum",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/dc/e9/72/img-20161001-121010-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592350-Reviews-Petone_Settlers_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "69. Petone Foreshore",
+    "category": "Beaches",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a0/57/fb/20180610-124743-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592349-Reviews-Petone_Foreshore-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Percy's Reserve",
+    "category": "Nature & Wildlife Areas • Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/56/93/d0/percy-s-reserve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592348-Reviews-Percy_s_Reserve-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. The One Room Fan Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ef/66/00/black-rider-atop-embassy.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d13399297-Reviews-The_One_Room_Fan_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "12:00 PM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "1:00 PM - 5:00 PM"
+    }
+  },
+  {
+    "name": "72. Wellington City Walkways",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/92/2a/1c/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2536824-Reviews-Wellington_City_Walkways-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "73. Massey Memorial",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/12/4e/e9/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592294-Reviews-Massey_Memorial-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. TSB Arena",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/01/76/8d/basketball-at-the-tsb.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d7981701-Reviews-TSB_Arena-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Owhiro Bay",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/8f/0e/6c/filename-5496-689922228887.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592343-Reviews-Owhiro_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Plimmerton Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/71/1f/a4/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592353-Reviews-Plimmerton_Beach-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Michael Fowler Centre",
+    "category": "Convention Centers",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/74/0a/47/looking-ahead-to-stage.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d12050724-Reviews-Michael_Fowler_Centre-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. National Library",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9b/2a/e2/maori-art-detail.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d300541-Reviews-National_Library-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "79. New Zealand Portrait Gallery",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/7e/d8/2f/selwyn-muru-a-life-s.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592303-Reviews-New_Zealand_Portrait_Gallery-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:30 AM - 4:30 PM",
+      "Sunday": "10:30 AM - 4:30 PM",
+      "Monday": "10:30 AM - 4:30 PM",
+      "Tuesday": "10:30 AM - 4:30 PM",
+      "Wednesday": "10:30 AM - 4:30 PM",
+      "Thursday": "10:30 AM - 4:30 PM",
+      "Friday": "10:30 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "80. Basin Reserve",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5d/53/4e/museum-stand.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d17836946-Reviews-Basin_Reserve-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Civic Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/1b/e3/09/wellington-civic-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592230-Reviews-Civic_Square-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. Nōku Te Ao Capital E",
+    "category": "Playgrounds • Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/6e/dc/c3/capital-e.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592218-Reviews-Noku_Te_Ao_Capital_E-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 3:30 PM",
+      "Sunday": "notice",
+      "Monday": "9:30 AM - 3:30 PM",
+      "Tuesday": "9:30 AM - 3:30 PM",
+      "Wednesday": "9:30 AM - 3:30 PM",
+      "Thursday": "9:30 AM - 3:30 PM",
+      "Friday": "9:30 AM - 3:30 PM"
+    }
+  },
+  {
+    "name": "83. Tunnel Gully",
+    "category": "Biking Trails • Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c6/d4/a1/tunnel-gully.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592430-Reviews-Tunnel_Gully-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. East Harbour Regional Park",
+    "category": "Parks • Scenic Walking Areas",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/de/5f/ac/waiohine-gorge.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3983500-Reviews-Waiohine_Gorge-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "85. Waiohine Gorge",
+    "category": "Caverns & Caves",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/31/40/6b/view-from-near-kohangatera.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592241-Reviews-East_Harbour_Regional_Park-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Te Ahumairangi Hill Lookout",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/39/3b/1d/solace-in-the-wind.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d12227845-Reviews-Solace_In_The_Wind-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. Solace In The Wind",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e9/a4/70/te-ahumairangi-hill-lookout.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8039933-Reviews-Te_Ahumairangi_Hill_Lookout-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. He Tohu",
+    "category": "Speciality Museums • Children's Museums",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/57/ca/04/he-tohu-has-an-interactive.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d12411231-Reviews-He_Tohu-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 1:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "89. Karaka Bay",
+    "category": "Bodies of Water • Beaches",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/18/e5/c2/20181007012111-img-6072.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592275-Reviews-Karaka_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. West Wind Recreation Area",
+    "category": "Nature & Wildlife Areas • Hiking Trails",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/c6/0d/d2/looking-north-up-the.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8382289-Reviews-West_Wind_Recreation_Area-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "91. Bluebank Blueberry and Emu Farm",
+    "category": "Farms",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/9e/57/f9/20171229-122116-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592208-Reviews-Bluebank_Blueberry_and_Emu_Farm-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "92. Tarot Zamm - Tarot Reader",
+    "category": "Speciality & Gift Shops • Lessons & Workshops",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/bb/b0/3d/thank-you-to-all-wonderful.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2449588-Reviews-Tarot_Zamm_Tarot_Reader-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 2:00 PM",
+      "Sunday": "notice",
+      "Monday": "4:30 PM - 5:30 PM",
+      "Tuesday": "4:30 PM - 5:30 PM",
+      "Wednesday": "4:30 PM - 5:30 PM",
+      "Thursday": "3:30 PM - 5:30 PM",
+      "Friday": "3:30 PM - 5:30 PM"
+    }
+  },
+  {
+    "name": "93. St. Mary of the Angels Parish",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c6/cb/d6/belmont-regional-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592204-Reviews-Belmont_Regional_Park-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM",
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "94. Belmont Regional Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/bd/13/d9/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d11897262-Reviews-St_Mary_of_the_Angels_Parish-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "95. Reserve Bank Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/38/d9/6d/reserve-bank-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2078755-Reviews-Reserve_Bank_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "96. Supreme Court Of New Zealand",
+    "category": "Government Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0f/28/64/the-supreme-court-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8474396-Reviews-Supreme_Court_Of_New_Zealand-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "97. Tinakori Hill",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/55/7e/cf/tinakori-hill.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592390-Reviews-Tinakori_Hill-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Saint Gerard's Church and Monastery",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/75/11/b8/st-gerard-s.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592362-Reviews-Saint_Gerard_s_Church_and_Monastery-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "10:30 AM - 11:30 AM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "99. World of Wearable Art (WOW)",
+    "category": "Exhibitions",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/59/default-avatar-2020-49.jpg?w=100&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d26694586-Reviews-World_of_Wearable_Art_WOW-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "100. John Plimmer Statue",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/bd/19/b6/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d14995337-Reviews-John_Plimmer_Statue-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Kura Art Gallery",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9b/b3/7e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2425996-Reviews-Kura_Art_Gallery-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. St. Peter's Anglican Church",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/94/33/st-peter-s-anglican-church.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592378-Reviews-St_Peter_s_Anglican_Church-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "103. Wahine Memorial",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/09/ee/b9/anchor-and-chain-running.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2474890-Reviews-Wahine_Memorial-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "104. Shelly Bay",
+    "category": "Bodies of Water • Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cf/94/50/view-down-to-shelly-bay.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d8694939-Reviews-Shelly_Bay-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Hawkins Hill",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b1/d7/46/walkway-reaches-the-esplanade.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d9835256-Reviews-Southern_Walkway-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. Southern Walkway",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8c/fd/b6/imag0369-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592260-Reviews-Hawkins_Hill-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "107. Wellington Cenotaph",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/0a/4a/25/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3199047-Reviews-Wellington_Cenotaph-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. Wellington Tramway Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/04/a4/b1/recent-restoration.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592399-Reviews-Wellington_Tramway_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Akau Tangi Sports Centre",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/41/b6/90/national-volleyball-champs.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3546255-Reviews-Akau_Tangi_Sports_Centre-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 10:00 PM",
+      "Sunday": "7:00 AM - 10:00 PM",
+      "Monday": "7:00 AM - 10:00 PM",
+      "Tuesday": "7:00 AM - 10:00 PM",
+      "Wednesday": "7:00 AM - 10:00 PM",
+      "Thursday": "7:00 AM - 10:00 PM",
+      "Friday": "7:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "110. Carlucci Land Mini Golf",
+    "category": "Points of Interest & Landmarks • Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/cd/43/65/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d3453493-Reviews-Carlucci_Land_Mini_Golf-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. New Zealand Cricket Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/30/60/06/entrance-to-the-new-zealand.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d592300-Reviews-New_Zealand_Cricket_Museum-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "11:00 AM - 2:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "112. BATS Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/6c/e6/93/bats-theatre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d633475-Reviews-BATS_Theatre-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. The Bucket Fountain",
+    "category": "Points of Interest & Landmarks • Fountains",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/96/4f/29/20210131-110644-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d6914635-Reviews-The_Bucket_Fountain-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Orongorongo Track",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ad/f7/f9/view-from-lookout-at.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d7738494-Reviews-Orongorongo_Track-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Wellington Town Hall",
+    "category": "Theaters • Civic Centres",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/60/06/77/wellington-town-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2311618-Reviews-Wellington_Town_Hall-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Akatarawa Forest",
+    "category": "Forests",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6b/c0/19/avatar.jpg?w=100&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d566859-Reviews-Akatarawa_Forest-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. National Archives",
+    "category": "History Museums • Government Buildings",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/7f/fb/4f/filename-120525-nationalarchiv.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d300542-Reviews-National_Archives-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. The Hannah Playhouse",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/73/1a/45/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2056769-Reviews-The_Hannah_Playhouse-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Eastern Walkway",
+    "category": "Jogging Paths & Tracks",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/51/54/a5/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d15769808-Reviews-Eastern_Walkway-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Hill Street Farmers' Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d1/b4/ce/organic-bread.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255115-d2082220-Reviews-Hill_Street_Farmers_Market-Wellington_Greater_Wellington_North_Island.html",
+    "opening_hours": {
+      "Saturday": "8:30 AM - 12:30 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+flowchart TD
+    A["Android App (Kotlin, MVVM)"]
+    B["FastAPI Backend (Python)"]
+    C["MongoDB Database"]
+    D["Google Places API"]
+    E["Nominatim API (Fallback)"]
+    F["User Device (Offline Cache)"]
+
+    A <--> B
+    B <--> C
+    B --> D
+    B --> E
+    A <--> F
+
+    subgraph External APIs
+        D
+        E
+    end
+
+    subgraph Backend
+        B
+        C
+    end
+
+    subgraph Frontend
+        A
+        F
+    end
+
+    style D fill:#FFD700,stroke:#333,stroke-width:2px
+    style E fill:#FFD700,stroke:#333,stroke-width:2px
+    style B fill:#90EE90,stroke:#333,stroke-width:2px
+    style C fill:#90EE90,stroke:#333,stroke-width:2px
+    style A fill:#87CEEB,stroke:#333,stroke-width:2px
+    style F fill:#87CEEB,stroke:#333,stroke-width:2px

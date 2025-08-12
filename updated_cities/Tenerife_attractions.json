@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Siam Park",
+    "category": "Amusement & Theme Parks • Water Parks",
+    "price": "Admission tickets from $50",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b0/c7/13/face-your-fears-and-ride.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315919-d668504-Reviews-Siam_Park-Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "2. Loro Parque",
+    "category": "Zoos • Aquariums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6f/42/32/20190211-145102-hdr-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d190893-Reviews-Loro_Parque-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "3. Volcan El Teide",
+    "category": "Volcanos",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/93/0f/d8/volcan-el-teide.jpg?w=300&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d1723042-Reviews-Volcan_El_Teide-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "4. Teide National Park",
+    "category": "Mountains • National Parks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/2b/4e/02/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d2201799-Reviews-Teide_National_Park-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "5. Lago Martiánez",
+    "category": "Water Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/77/8b/53/costa-martianez.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d247283-Reviews-Lago_Martianez-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "6. Playa del Duque",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1e/90/f5/img-20200805-173903-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d7240363-Reviews-Playa_del_Duque-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "7. Playa de las Teresitas",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/69/e9/02/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d247432-Reviews-Playa_de_las_Teresitas-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "8. Monkey Park",
+    "category": "Zoos",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/de/cc/8e/lemur-catta.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g659661-d593037-Reviews-Monkey_Park-Los_Cristianos_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "9. Masca Valley",
+    "category": "Valleys",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/90/4c/58/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d247440-Reviews-Masca_Valley-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "10. Cueva Del Viento",
+    "category": "Caverns & Caves",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/a4/ae/d1/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d2352938-Reviews-Cueva_Del_Viento-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "11. Botanischer Garten",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c8/f0/f6/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d247267-Reviews-Botanischer_Garten-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "12. Barranco Del Infierno",
+    "category": "Nature & Wildlife Areas • Hiking Trails",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/13/c1/98/20180204-131708-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d6197271-Reviews-Barranco_Del_Infierno-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "13. Mercado Municipal Nuestra Senora de Africa",
+    "category": "go to see the fish market",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b9/29/24/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d4753796-Reviews-Mercado_Municipal_Nuestra_Senora_de_Africa-Santa_Cruz_de_Tenerife_Tenerife_Canary.html"
+  },
+  {
+    "name": "14. Piscinas Naturales El Caletón",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fb/e5/92/meerwasserschwimmbad.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319795-d8310996-Reviews-Piscinas_Naturales_El_Caleton-Garachico_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "15. Playa de las Vistas",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fb/6a/d0/img-20190617-153600-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g659661-d2477533-Reviews-Playa_de_las_Vistas-Los_Cristianos_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "16. Las Montanas de Anaga",
+    "category": "Mountains",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/99/30/e9/las-montanas-de-anaga.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d247410-Reviews-Las_Montanas_de_Anaga-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "17. Masca Gorge Trail",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ad/60/bf/mascaschlucht-weg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1190273-d3670489-Reviews-Masca_Gorge_Trail-Masca_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "18. Siam Mall",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/ba/83/ab/abierto-los-365-dias.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315919-d8017885-Reviews-Siam_Mall-Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "19. Playa de El Médano",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/94/fe/95/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1190083-d247299-Reviews-Playa_de_El_Medano-El_Medano_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "20. Los Gigantes",
+    "category": "Geologic Formations",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b0/e3/5d/los-gigantes.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1079320-d12396166-Reviews-Los_Gigantes-Acantilado_de_los_Gigantes_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "21. Playa de la Tejita",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/04/af/64/playa-de-la-tejita.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1190083-d3500106-Reviews-Playa_de_la_Tejita-El_Medano_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "22. Playa de Fañabé",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d7/52/a0/natale-2018.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d7240378-Reviews-Playa_de_Fanabe-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "23. Playa El Bollullo",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/5b/42/20181006-124420-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d247426-Reviews-Playa_El_Bollullo-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "24. Playa de Abama",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8a/7c/32/img-20190414-120212-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1064199-d6819098-Reviews-Playa_de_Abama-Guia_de_Isora_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "25. Tenerife Auditorium (Auditorio de Tenerife)",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/93/de/7a/20181026-114747-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d294378-Reviews-Tenerife_Auditorium_Auditorio_de_Tenerife-Santa_Cruz_de_Tenerife_Tenerife_Canary_I.html"
+  },
+  {
+    "name": "26. Playa de la Arena",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/70/7f/52/w-kierunku-gigantes.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d247445-Reviews-Playa_de_la_Arena-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "27. Parque Rural de Anaga",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/70/05/95/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d12763301-Reviews-Parque_Rural_de_Anaga-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "28. Los Roques de Garcia",
+    "category": "Geologic Formations",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/46/9f/88/los-roques-venezuela.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1024766-d247305-Reviews-Los_Roques_de_Garcia-Teide_National_Park_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "29. Centro Historico de San Cristobal de la Laguna",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/f2/2a/e5/san-cristobal-de-la-laguna.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d7162348-Reviews-Centro_Historico_de_San_Cristobal_de_la_Laguna-San_Cristobal_de_La_Laguna_Tenerif.html"
+  },
+  {
+    "name": "30. Finca Las Margaritas Banana Experience",
+    "category": "Farms",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3e/f1/06/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1052753-d11949822-Reviews-Finca_Las_Margaritas_Banana_Experience-Las_Galletas_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "31. Jardín Botánico del Palmetum",
+    "category": "Gardens",
+    "price": "Admission tickets from $7",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/cb/03/9d/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d6486544-Reviews-Jardin_Botanico_del_Palmetum-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "32. Basilica de Nuestra Senora de Candelaria",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5f/13/91/la-basilique.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1064198-d247266-Reviews-Basilica_de_Nuestra_Senora_de_Candelaria-Candelaria_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "33. Playa De Las Americas",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4d/2a/a7/playa-de-los-christianos.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d13546304-Reviews-Playa_De_Las_Americas-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "34. Punta de Teno",
+    "category": "Geologic Formations",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/fc/50/6b/punta-de-teno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d247446-Reviews-Punta_de_Teno-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "35. Playa de Benijo",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c6/2a/ff/playa-de-benijo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g7293759-d1907248-Reviews-Playa_de_Benijo-Almaciga_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "36. Valle de La Orotava",
+    "category": "Valleys",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/5a/35/c3/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d247419-Reviews-Valle_de_La_Orotava-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "37. Taganana",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/08/e7/08/playa-de-benijopaysage.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g7322137-d247437-Reviews-Taganana-Taganana_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "38. Centro Comercial Plaza del Duque",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/11/36/d0/centro-comercial-plaza.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d3181889-Reviews-Centro_Comercial_Plaza_del_Duque-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "39. Los Cristianos Harbour",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d3/06/40/20170328-111939-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g659661-d247411-Reviews-Los_Cristianos_Harbour-Los_Cristianos_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "40. Parque Infantil de Playa Jardín",
+    "category": "Beaches • Playgrounds",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/60/af/a4/la-plage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d2619621-Reviews-Parque_Infantil_de_Playa_Jardin-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "41. Plaza Charco",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b9/a9/77/the-greenery-is-abundant.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d197692-Reviews-Plaza_Charco-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "42. Bodegas Monje",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/73/96/73/20200930-123512-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1572345-d1571644-Reviews-Bodegas_Monje-El_Sauzal_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "43. Fountain Las Americas",
+    "category": "Fountains",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ef/ec/3c/20180731-204915-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d3953107-Reviews-Fountain_Las_Americas-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "44. Playa de San Juan",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a3/84/c6/vista-dall-alto.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1889362-d1224577-Reviews-Playa_de_San_Juan-Playa_San_Juan_Guia_de_Isora_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "45. ARTlandya",
+    "category": "Speciality Museums • Amusement & Theme Parks",
+    "price": "Admission tickets from $12",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/13/b9/00/img-20161129-143318-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d3299006-Reviews-ARTlandya-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "46. Playa de Los Cristianos",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c6/86/94/beach-views.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g659661-d10110537-Reviews-Playa_de_Los_Cristianos-Los_Cristianos_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "47. Playa del Camisón",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/bd/db/08/p-20200128-110410-eff.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d6499573-Reviews-Playa_del_Camison-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "48. Sendero El Bosque Encantado",
+    "category": "Hiking Trails • Forests",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5f/2a/56/reserve-naturelle-du.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d7753762-Reviews-Sendero_El_Bosque_Encantado-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "49. Pirámides de Güímar",
+    "category": "Gardens • History Museums",
+    "price": "Admission tickets from $14",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/7e/72/ba/piramides-de-guimar.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2052053-d582417-Reviews-Piramides_de_Guimar-Guimar_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "50. Plaza de Espana",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/87/84/b4/plaza-de-espana.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d247304-Reviews-Plaza_de_Espana-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "51. Museo Historico Militar de Canarias",
+    "category": "Military Museums • Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bb/b3/b3/recorrido-historico-de.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d1576838-Reviews-Museo_Historico_Militar_de_Canarias-Santa_Cruz_de_Tenerife_Tenerife_Canary_Island.html"
+  },
+  {
+    "name": "52. Parque Marítimo César Manrique",
+    "category": "Water Parks",
+    "price": "Admission tickets from $9",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/cd/d8/8b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d4028343-Reviews-Parque_Maritimo_Cesar_Manrique-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "53. Parque Taoro",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b3/fd/e9/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d247291-Reviews-Parque_Taoro-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "54. Finca Canarias Aloe Vera",
+    "category": "Farms",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/10/55/ab/finca-canarias-aloe-vera.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2052053-d14188812-Reviews-Finca_Canarias_Aloe_Vera-Guimar_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "55. Mariposario del Drago",
+    "category": "Amusement & Theme Parks • Zoos",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/0a/a7/c2/papillon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d2590305-Reviews-Mariposario_del_Drago-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "56. Museo de Malvasia",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bf/27/01/museo-malvasia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d8746448-Reviews-Museo_de_Malvasia-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "57. Parque Garcia Sanabria",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/25/fa/6a/img-20160124-034331-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d4108004-Reviews-Parque_Garcia_Sanabria-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "58. El Drago Milenario",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2a/e4/b1/drakblodstradet.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d10520849-Reviews-El_Drago_Milenario-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "59. Parque del Drago",
+    "category": "National Parks",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9e/c0/68/fotok.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d2506888-Reviews-Parque_del_Drago-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "60. Fundación Cristino de Vera-Espacio Cultural CajaCanarias",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8e/76/8a/vista-sala-de-bodegon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d3949479-Reviews-Fundacion_Cristino_de_Vera_Espacio_Cultural_CajaCanarias-San_Cristobal_de_La_Lagu.html"
+  },
+  {
+    "name": "61. Camel Park",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/28/5a/68/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g230096-d1638177-Reviews-Camel_Park-Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "62. La Villa Centro Comercial",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f9/91/10/con-una-decoracion-muy.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315920-d3139391-Reviews-La_Villa_Centro_Comercial-La_Orotava_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "63. Playa De Puerto Colon",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/64/b5/57/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d10364778-Reviews-Playa_De_Puerto_Colon-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "64. Puerto Los Cristianos",
+    "category": "Marinas",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9f/cc/2c/view-over-los-cristianos.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g659661-d6400992-Reviews-Puerto_Los_Cristianos-Los_Cristianos_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "65. Centro Comercial San Eugenio",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f5/b6/63/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d6486196-Reviews-Centro_Comercial_San_Eugenio-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "66. La Caleta National Park",
+    "category": "National Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d8/7f/54/national-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g796999-d3849068-Reviews-La_Caleta_National_Park-La_Caleta_Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "67. Museum Of Illusions Tenerife",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/13/b2/17/museum-of-illusions-tenerife.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d28100013-Reviews-Museum_Of_Illusions_Tenerife-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "68. Jardin de Orquideas de Sitio Litre",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a3/c8/c0/jardin-de-orquideas-de.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d3170881-Reviews-Jardin_de_Orquideas_de_Sitio_Litre-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "69. Museo de Naturaleza y Arqueologia",
+    "category": "Natural History Museums • Children's Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/12/cb/55/museo-de-la-naturaleza.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d247288-Reviews-Museo_de_Naturaleza_y_Arqueologia-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "70. Montaña Roja",
+    "category": "Mountains • Geologic Formations",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ea/d7/1b/montana-roja.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1064195-d8608688-Reviews-Montana_Roja-Granadilla_de_Abona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "71. Troya Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/87/60/0c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d8285114-Reviews-Troya_Beach-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "72. Rambla de Santa Cruz",
+    "category": "Points of Interest & Landmarks • Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/7c/0f/53/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d555222-Reviews-Rambla_de_Santa_Cruz-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "73. Bodegas Reverón",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c0/96/e3/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g673867-d10292905-Reviews-Bodegas_Reveron-Vilaflor_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "74. Vilaflor",
+    "category": "Historic Sites • Neighborhoods",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/81/5d/cd/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g673867-d247307-Reviews-Vilaflor-Vilaflor_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "75. Playa San Telmo",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/40/39/30/aussicht.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d10594295-Reviews-Playa_San_Telmo-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "76. Jardines Victoria",
+    "category": "Parks • Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/32/a8/54/20190705-154827-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315920-d247287-Reviews-Jardines_Victoria-La_Orotava_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "77. La Milla De Oro",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7c/6d/d3/playa-del-bobo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d7984267-Reviews-Playa_del_Bobo-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "78. Montaña Amarilla",
+    "category": "Geologic Formations",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f1/22/93/montana-amarilla.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g635888-d247413-Reviews-Montana_Amarilla-San_Miguel_de_Abona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "79. Natural Park of Teno",
+    "category": "National Parks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/7b/87/2f/schone-berglandschaft.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d498638-Reviews-Natural_Park_of_Teno-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "80. Observatorio del Teide",
+    "category": "Observatories & Planetariums",
+    "price": "Admission tickets from $24",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/12/54/aa/photo8jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d7712739-Reviews-Observatorio_del_Teide-San_Cristobal_de_La_Laguna_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "81. Casa de Los Balcones",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $4",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e8/90/c6/casa-de-los-balcones.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315920-d247274-Reviews-Casa_de_Los_Balcones-La_Orotava_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "82. Iglesia de Nuestra Senora de la Pena Francia",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/76/c0/71/exquisito-retablo-mayor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d247279-Reviews-Iglesia_de_Nuestra_Senora_de_la_Pena_Francia-Puerto_de_la_Cruz_Tenerife_Canary_Isl.html"
+  },
+  {
+    "name": "83. TEA Tenerife Espacio De Las Artes",
+    "category": "Points of Interest & Landmarks • Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/52/be/44/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d5602208-Reviews-TEA_Tenerife_Espacio_De_Las_Artes-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "84. Iglesia de la Concepcion",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c5/c9/0d/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d247282-Reviews-Iglesia_de_la_Concepcion-San_Cristobal_de_La_Laguna_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "85. Playa de Torviscas",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/6e/4a/ff/spiaggia-bianca-sia-spiaggia.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d247436-Reviews-Playa_de_Torviscas-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "86. Piscina Naturales de Bajamar",
+    "category": "Sports Complexes",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/c9/b5/view.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1190086-d7148961-Reviews-Piscina_Naturales_de_Bajamar-Bajamar_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "87. Charco De La Laja",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/37/20/e9/img-20190705-102230-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1190080-d10488814-Reviews-Charco_De_La_Laja-San_Juan_de_la_Rambla_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "88. Casa Del Vino de Tenerife",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ec/75/59/nuestro-patio-central.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1572345-d247268-Reviews-Casa_Del_Vino_de_Tenerife-El_Sauzal_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "89. Puerto Street Art",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/b5/d3/83/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d10538219-Reviews-Puerto_Street_Art-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "90. Playa del Bobo",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7c/6d/d3/playa-del-bobo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d7984267-Reviews-Playa_del_Bobo-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "91. Casa del Plátano",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/92/ad/b7/casa-del-platano.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g675094-d16709276-Reviews-Casa_del_Platano-Icod_de_los_Vinos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "92. Playa Martianez",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e6/c0/15/playa-martianez.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d8599895-Reviews-Playa_Martianez-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "93. Iglesia de Nuestra Senora de la Concepcion",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/79/b3/b2/iglesia-de-nuestra-senora.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d247278-Reviews-Iglesia_de_Nuestra_Senora_de_la_Concepcion-Santa_Cruz_de_Tenerife_Tenerife_Canary_.html"
+  },
+  {
+    "name": "94. Mirador Archipenque",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4c/33/f1/img-20190713-123327-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1058792-d4603227-Reviews-Mirador_Archipenque-Santiago_del_Teide_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "95. Bosque de Esperanza",
+    "category": "Forests",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/7a/4f/16/bosque-de-esperanza.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d7785670-Reviews-Bosque_de_Esperanza-San_Cristobal_de_La_Laguna_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "96. Playa La Jaquita",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/ee/2f/img-20170605-141131-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1773834-d10165848-Reviews-Playa_La_Jaquita-Alcala_Guia_de_Isora_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "97. Iglesia de San Francisco",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/0d/55/80/nef.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d247280-Reviews-Iglesia_de_San_Francisco-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "98. The Cafetería Patch",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/50/2a/06/great-nightlife-area.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d1379977-Reviews-The_Cafeteria_Patch-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "99. Rambla de los Menceyes",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/36/44/df/le-chef-pelinor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1064198-d12275604-Reviews-Rambla_de_los_Menceyes-Candelaria_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "100. Meson el Monasterio",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0a/b1/02/img-20180102-wa0019-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g946908-d5218054-Reviews-Meson_el_Monasterio-Los_Realejos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "101. Santa Iglesia Cathedral",
+    "category": "Historic Sites • Religious Sites",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/e5/0f/64/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d247293-Reviews-Santa_Iglesia_Cathedral-San_Cristobal_de_La_Laguna_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "102. Puerto Deportivo Los Gigantes",
+    "category": "Marinas",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/50/ad/6a/img-20190713-140835-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g673870-d6977224-Reviews-Puerto_Deportivo_Los_Gigantes-Los_Gigantes_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "103. Paisaje Protegido De La Rambla De Castro",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/dc/2b/c5/rambla-de-castro.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g946908-d7688571-Reviews-Paisaje_Protegido_De_La_Rambla_De_Castro-Los_Realejos_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "104. Casa Del Carnaval",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4e/5a/94/headdress.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d14938712-Reviews-Casa_Del_Carnaval-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "105. Museo de Historia y Antropologia de Tenerife (Casa Lercaro)",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/08/ef/46/museo-de-historia-y-antropolog.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d247289-Reviews-Museo_de_Historia_y_Antropologia_de_Tenerife_Casa_Lercaro-San_Cristobal_de_La_Lagu.html"
+  },
+  {
+    "name": "106. Plaza de Patrona de Canarias",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/fe/5a/fd/plaza-de-patrona-de-canarias.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1064198-d7785308-Reviews-Plaza_de_Patrona_de_Canarias-Candelaria_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "107. Golf Costa Adeje",
+    "category": "Golf Courses",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/56/d7/83/golf-costa-adeje-tenerife.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187479-d489658-Reviews-Golf_Costa_Adeje-Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "108. Golf del Sur Campo de Golf - Tenerife",
+    "category": "Golf Courses",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/08/ef/46/museo-de-historia-y-antropolog.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d247289-Reviews-Museo_de_Historia_y_Antropologia_de_Tenerife_Casa_Lercaro-San_Cristobal_de_La_Lagu.html"
+  },
+  {
+    "name": "109. Mirador Cruz del Carmen",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b4/4c/0e/mirador.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187480-d11707456-Reviews-Mirador_Cruz_del_Carmen-San_Cristobal_de_La_Laguna_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "110. Malpais de Güimar",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/80/db/61/reserva-natural-especial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2052053-d5123712-Reviews-Malpais_de_Guimar-Guimar_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "111. Sendero de los Sentidos",
+    "category": "Forests",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b6/fd/2c/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187482-d8599847-Reviews-Sendero_de_los_Sentidos-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "112. Mirador de la Concepcion",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b6/5e/01/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d7274679-Reviews-Mirador_De_La_Paz-Puerto_de_la_Cruz_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "113. Plaza de La Libertad",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5f/ff/95/img-20181103-110617258.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319795-d10819834-Reviews-Plaza_de_La_Libertad-Garachico_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "114. Magic Lounge Club",
+    "category": "Bars & Clubs • Dance Clubs & Discos",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/d8/a0/d1/fiesta-cada-noche-como.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d15687931-Reviews-Magic_Lounge_Club-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "115. Marina Del Sur",
+    "category": "Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/7a/53/0d/20181120-143927-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1052753-d8734007-Reviews-Marina_Del_Sur-Las_Galletas_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "116. Golf Las Americas",
+    "category": "Golf Courses",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/27/b7/a4/golf-course.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g562820-d266906-Reviews-Golf_Las_Americas-Playa_de_las_Americas_Arona_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "117. Historico Muelle Pesquero Puerto de la Cruz",
+    "category": "Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/d5/76/27/img-20190815-wa0093-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187481-d10545240-Reviews-Historico_Muelle_Pesquero_Puerto_de_la_Cruz-Puerto_de_la_Cruz_Tenerife_Canary_Is.html"
+  },
+  {
+    "name": "118. Iristellar Plaza Del Duque",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/dd/73/5e/our-location-at-centro.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g662606-d27648801-Reviews-Iristellar_Plaza_Del_Duque-Costa_Adeje_Adeje_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "119. Casa Lercaro",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a9/17/c5/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315920-d2102248-Reviews-Casa_Lercaro-La_Orotava_Tenerife_Canary_Islands.html"
+  },
+  {
+    "name": "120. Centro de visitantes Telesforo Bravo",
+    "category": "Natural History Museums",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/83/a7/f9/video.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g315920-d8342730-Reviews-Centro_de_visitantes_Telesforo_Bravo-La_Orotava_Tenerife_Canary_Islands.html"
+  }
+]

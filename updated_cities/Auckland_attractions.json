@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Sky Tower",
+    "category": "Points of Interest & Landmarks • Observation Decks & Towers",
+    "price": "Admission tickets from $34",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/dc/e6/a1/enjoy-beautiful-views.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256867-Reviews-Sky_Tower-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "2. Mount Eden",
+    "category": "Volcanos",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/30/ba/fc/lrm-export-20180818-193718.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d300529-Reviews-Mount_Eden-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "3. Auckland Museum",
+    "category": "Military Museums • Speciality Museums",
+    "price": "Admission tickets from $11",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e2/4a/d1/maori-court-houses-one.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d257273-Reviews-Auckland_Museum-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "4. Tiritiri Matangi Island",
+    "category": "Islands • Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c7/e0/4e/our-island.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3701674-Reviews-Tiritiri_Matangi_Island-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "5. Auckland Zoo",
+    "category": "Zoos",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a1/d4/32/asian-elephant-burma.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256913-Reviews-Auckland_Zoo-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "6. Rangitoto Island",
+    "category": "Islands • Volcanos",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b7/a7/51/20190525-120723-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d273862-Reviews-Rangitoto_Island-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "7. Viaduct Harbour",
+    "category": "Marinas • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e6/92/0f/viaduct-harbour.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258359-Reviews-Viaduct_Harbour-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "8. SEA LIFE Kelly Tarlton's Aquarium",
+    "category": "Nature & Wildlife Areas • Aquariums",
+    "price": "Admission tickets from $22",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/46/6d/49/sea-life-kelly-tarlton.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256914-Reviews-SEA_LIFE_Kelly_Tarlton_s_Aquarium-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "9. Auckland Art Gallery",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/9d/e8/b6/auckland-art-gallery.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256912-Reviews-Auckland_Art_Gallery-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "10. New Zealand Maritime Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/65/0c/d6/ted-ashby-heritage-vessel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256869-Reviews-New_Zealand_Maritime_Museum-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "11. Cornwall Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5b/99/fa/huia-lodge-left-and-acacia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d257380-Reviews-Cornwall_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "12. One Tree Hill (Maungakiekie)",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ff/32/63/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d300530-Reviews-One_Tree_Hill_Maungakiekie-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "13. Bethells Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/76/ed/ae/bethells-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d531944-Reviews-Bethells_Beach-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "14. Ponsonby",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f8/0d/11/great-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258183-Reviews-Ponsonby-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "15. Auckland Domain",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/00/01/71/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258015-Reviews-Auckland_Domain-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "16. Winter Garden Auckland Domain",
+    "category": "Parks • Gardens",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/33/96/f1/winter-garden-auckland.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7932541-Reviews-Winter_Garden_Auckland_Domain-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "17. Queen Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/6b/75/85/queen-street.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d257437-Reviews-Queen_Street-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "18. Mission Bay Auckland",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/98/26/9b/a-walk-at-mission-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d545997-Reviews-Mission_Bay_Auckland-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "19. Howick Historical Village",
+    "category": "Historic Sites • History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f0/43/1c/summer-soiree-event-2021.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d311964-Reviews-Howick_Historical_Village-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "20. Stardome Observatory & Planetarium",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/ca/a0/3d/stardome-s-immersive.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d311961-Reviews-Stardome_Observatory_Planetarium-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "21. Takapuna Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4e/00/4c/view-towards-rangitoto.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7307121-Reviews-Takapuna_Beach-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "22. Albert Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/84/1c/20/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d300523-Reviews-Albert_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "23. Hauraki Gulf",
+    "category": "Islands",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a3/46/19/hauraki-gulf.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d300534-Reviews-Hauraki_Gulf-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "24. The Alan Gibbs Farm",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b9/ae/c5/gibbs-farm-sculptures.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7235320-Reviews-The_Alan_Gibbs_Farm-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "25. Parnell",
+    "category": "Historic Sites • Neighborhoods",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/64/ec/0e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258016-Reviews-Parnell-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "26. Britomart",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/0b/2c/c4/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8066393-Reviews-Britomart-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "27. Auckland Harbour Bridge",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/49/49/05/view.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d263794-Reviews-Auckland_Harbour_Bridge-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "28. Butterfly Creek",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b0/5d/79/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d1978079-Reviews-Butterfly_Creek-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "29. Parnell Rose Gardens",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/86/c9/9b/parnell-rose-garden.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d527413-Reviews-Parnell_Rose_Gardens-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "30. Ferry Building",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4a/1f/fc/auckland-ferry-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d527401-Reviews-Ferry_Building-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "31. North Head Historic Reserve",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/56/82/de/20190716-153755-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d4459093-Reviews-North_Head_Historic_Reserve-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "32. St. Patrick's Cathedral",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2e/e1/9c/st-patrick-s-cathedral.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d2070875-Reviews-St_Patrick_s_Cathedral-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "33. Fullers Ferries",
+    "category": "Ferries",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/94/59/4f/fullers360-has-been-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d12819359-Reviews-Fullers_Ferries-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "34. Vulcan Lane",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/7b/d5/8e/vulcan-lane.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d581760-Reviews-Vulcan_Lane-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "35. SkyCity Casino",
+    "category": "Casinos",
+    "price": "Admission tickets from $34",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/7b/f1/41/blackjack.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d272271-Reviews-SkyCity_Casino-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "36. Holy Trinity Cathedral",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/6d/a0/15/holy-trinity-cathedral.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d591861-Reviews-Holy_Trinity_Cathedral-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "37. St. Helier's Bay",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/9b/73/a0/st-helier-s-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3844826-Reviews-St_Helier_s_Bay-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "38. Kiwi Valley Farm Park",
+    "category": "Farms",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a8/ac/3e/farm-walk.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3460031-Reviews-Kiwi_Valley_Farm_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "39. Otara Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/7e/39/08/nice-n-fresh.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258734-Reviews-Otara_Market-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "40. Manukau Heads Lighthouse",
+    "category": "Lighthouses",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c1/d5/79/inlet.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3444204-Reviews-Manukau_Heads_Lighthouse-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "41. Spark Arena",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/af/99/2b/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d4742064-Reviews-Spark_Arena-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "42. The Civic",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/be/f3/b9/the-civic-exterior-cabaret.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8052145-Reviews-The_Civic-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "43. Kawakawa Bay",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/69/92/bf/beautiful-kawakawa-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d1020876-Reviews-Kawakawa_Bay-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "44. Titirangi",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/1f/00/31/in-titirangi-waitakere.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d1771974-Reviews-Titirangi-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "45. Coast-to-Coast Walkway",
+    "category": "Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/12/bc/16/walking-through-university.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d257379-Reviews-Coast_to_Coast_Walkway-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "46. Achilles Point",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/82/6c/ba/achilles-point.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d566858-Reviews-Achilles_Point-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "47. MJ Savage Memorial Park",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a4/bf/ab/the-view-of-the-memorial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d676022-Reviews-MJ_Savage_Memorial_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "48. Karangahape Road (K Road)",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/84/99/9d/old-naval-hotel-symbol.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d999505-Reviews-Karangahape_Road_K_Road-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "49. Wynyard Quarter",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/01/23/23/wynyard-quarter.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d12290385-Reviews-Wynyard_Quarter-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "50. The Warehouse",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/87/c9/03/l-entree-au-1er-etage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d12120734-Reviews-The_Warehouse-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "51. Silo Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/66/79/0d/views-from-the-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d6418025-Reviews-Silo_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "52. Whatipu Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/cf/26/f1/view-from-top.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10391937-Reviews-Whatipu_Beach-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "53. America's Cup Village",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/cb/db/a8/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258182-Reviews-America_s_Cup_Village-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "54. Parnell Farmers' Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9e/e8/2e/parnell-farmers-market.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d2234890-Reviews-Parnell_Farmers_Market-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "55. Alberton",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/13/7e/d7/alberton.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256909-Reviews-Alberton-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "56. Auckland Town Hall",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/bf/1a/6d/the-auckland-town-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d591509-Reviews-Auckland_Town_Hall-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "57. Twin Coast Discovery Highway",
+    "category": "Scenic Drives",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/0e/66/99/twin-coast-discovery.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d258441-Reviews-Twin_Coast_Discovery_Highway-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "58. St Matthew-in-the-City Church",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1c/c2/32/st-matthew-in-the-city.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7712387-Reviews-St_Matthew_in_the_City_Church-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "59. Princes Wharf",
+    "category": "Piers & Boardwalks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d8/91/c3/cbd-looking-pretty-sweet.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10239942-Reviews-Princes_Wharf-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "60. Tamaki Drive",
+    "category": "Scenic Drives",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/48/2b/8f/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10065539-Reviews-Tamaki_Drive-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "61. Motutapu Island",
+    "category": "Islands",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/b8/c3/7f/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3701606-Reviews-Motutapu_Island-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "62. Western Springs Lakeside Park",
+    "category": "Bodies of Water • Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a1/82/52/received-368881213704671.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7276747-Reviews-Western_Springs_Lakeside_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "63. Queens Wharf",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/77/72/76/auckland-queens-wharf.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d13505624-Reviews-Queens_Wharf-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "64. Auckland Sea Shuttles",
+    "category": "Ferries",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f3/1f/12/couple-of-quick-snaps.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7333747-Reviews-Auckland_Sea_Shuttles-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "65. St. Mary's In Holy Trinity Church",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/87/23/af/cathedral-church-of-st.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d527396-Reviews-St_Mary_s_In_Holy_Trinity_Church-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "66. Highwic",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/69/6f/69/highwic-located-in-newmarket.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256911-Reviews-Highwic-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "67. Westhaven Promenade",
+    "category": "Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/11/7b/ad/westhaven-auckland.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7715141-Reviews-Westhaven_Promenade-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "68. Omanawanui Track",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/98/23/22/view-of-the-lookout.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10430141-Reviews-Omanawanui_Track-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "69. Mangere Mountain",
+    "category": "Volcanos",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f6/88/35/20181005-122942-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d9749103-Reviews-Mangere_Mountain-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "70. Hobsonville Point Farmers Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e7/36/28/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3515200-Reviews-Hobsonville_Point_Farmers_Market-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "71. Auckland Dockline Tram",
+    "category": "Trams",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/02/55/61/auckland-dockline-tram.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d2232988-Reviews-Auckland_Dockline_Tram-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "72. Odyssey Sensory Maze",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/36/cd/70/odyssey-sensory-maze.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3792725-Reviews-Odyssey_Sensory_Maze-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "73. Myers Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/94/ba/55/myers-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d6474851-Reviews-Myers_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "74. Sweet Axe Throwing Co.",
+    "category": "Bars & Clubs • Sporting Events",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a4/62/46/our-axe-perts-are-with.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d18188706-Reviews-Sweet_Axe_Throwing_Co-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "75. Auckland Tourist Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/73/df/e0/tourist-centre-by-night.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d4745480-Reviews-Auckland_Tourist_Market-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "76. Commercial Bay",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/a1/92/5e/commercial-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d21346434-Reviews-Commercial_Bay-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "77. Coopers Creek Vineyard",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/21/35/04/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d4895216-Reviews-Coopers_Creek_Vineyard-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "78. Waitawa Regional Park",
+    "category": "Nature & Wildlife Areas • Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/62/bd/ab/waitawa-regional-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7658818-Reviews-Waitawa_Regional_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "79. Kiri Te Kanawa Theatre ( formerly ASB Theatre, Aotea Centre)",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d1/e4/37/asb-theatre-aotea-centre.jpg?w=300&h=200&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10180208-Reviews-Kiri_Te_Kanawa_Theatre_formerly_ASB_Theatre_Aotea_Centre-Auckland_Central_North_.html"
+  },
+  {
+    "name": "80. Grey Lynn",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/0d/01/44/balcony.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d581758-Reviews-Grey_Lynn-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "81. Totara Park",
+    "category": "Lookouts • Parks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d7/08/d2/totara-park-mountain.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8424825-Reviews-Totara_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "82. Emily Place Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/1c/f2/45/the-other-direction.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3509971-Reviews-Emily_Place_Reserve-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "83. Babich Wines",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/52/74/e2/inside-cellar-door.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d12326225-Reviews-Babich_Wines-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "84. Lake Pupuke",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ee/19/8c/lake-pupuke-has-a-handy.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d11966592-Reviews-Lake_Pupuke-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "85. Rothesay Bay",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/61/e5/08/rothesay-bay.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7310211-Reviews-Rothesay_Bay-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "86. Virtual Reality Studio",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c4/23/d4/vr-studio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d11669139-Reviews-Virtual_Reality_Studio-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "87. ASB Waterfront Theatre",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/dc/8b/9e/the-complex-features.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d13010219-Reviews-ASB_Waterfront_Theatre-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "88. awesomeNZ",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/34/2c/c0/hobbiton.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d17545280-Reviews-AwesomeNZ-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "89. Clip 'n Climb",
+    "category": "Sports Complexes",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/26/40/57/clip-n-climb.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3978247-Reviews-Clip_n_Climb-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "90. Nelson Street Cycleway",
+    "category": "Biking Trails • Jogging Paths & Tracks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/aa/40/38/20160615-183442-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d9996657-Reviews-Nelson_Street_Cycleway-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "91. Massage Eden Auckland",
+    "category": "Health Clubs • Spas",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/70/1f/ef/massage-me-day-spa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d5828569-Reviews-Massage_Eden_Auckland-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "92. Blockhouse Bay Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/cb/7f/1f/20180421-132944-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7609970-Reviews-Blockhouse_Bay_Beach-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "93. Hare Krishna Temple",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7a/de/a7/temple.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d5978723-Reviews-Hare_Krishna_Temple-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "94. North Wharf",
+    "category": "Piers & Boardwalks • Scenic Walking Areas",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/42/12/65/skytower-from-the-waterfront.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7982965-Reviews-North_Wharf-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "95. Whatipu Caves Track",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/b3/de/36/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d12362269-Reviews-Whatipu_Caves_Track-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "96. Foxes Island",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/4f/cb/9b/foxes-island-wines-ltd.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d4223746-Reviews-Foxes_Island-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "97. Oakley Creek Walkway",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0c/a6/ed/oakley-creek-waterfall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10455578-Reviews-Oakley_Creek_Walkway-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "98. Tāmaki Makaurau Auckland isite Visitor Information Centre",
+    "category": "Visitor Centers",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f2/0b/65/tamaki-makaurau-auckland.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8377733-Reviews-Tamaki_Makaurau_Auckland_isite_Visitor_Information_Centre-Auckland_Central_North_.html"
+  },
+  {
+    "name": "99. Dfs Auckland",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "3.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/2b/e9/48/fashion-accessories.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d9820312-Reviews-Dfs_Auckland-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "100. Escapade NZ",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cd/8f/df/there-s-gold-to-be-had.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7625081-Reviews-Escapade_NZ-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "101. Wynyard Crossing",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/43/a8/d6/wynyard-crossing.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8066832-Reviews-Wynyard_Crossing-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "102. Takutai Square",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6d/bd/f2/takutai-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8066235-Reviews-Takutai_Square-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "103. Mathesons Bay",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/eb/d3/36/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8012208-Reviews-Mathesons_Bay-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "104. Queens Court",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3e/4e/fc/queens-court-s-signage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3530263-Reviews-Queens_Court-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "105. Grey Lynn Paddling Pool",
+    "category": "Water Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4b/4a/0e/grey-lynn-paddling-pool.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d3825756-Reviews-Grey_Lynn_Paddling_Pool-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "106. J.F Kennedy Memorial Park",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ed/39/ef/rangitoto-from-kenedy.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10252615-Reviews-J_F_Kennedy_Memorial_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "107. Onehunga Night Markets",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/1c/8d/c0/sven-j.jpg?w=100&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8406983-Reviews-Onehunga_Night_Markets-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "108. Gravity NZ Mt Wellington",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b1/a0/c4/over-1000-square-meters.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d12572545-Reviews-Gravity_NZ_Mt_Wellington-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "109. Musick Point",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/02/41/4f/part-of-the-brown-island.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7381225-Reviews-Musick_Point-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "110. Stanmore Bay",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d15850154-Reviews-Stanmore_Bay-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "111. Western Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/83/68/10/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8843651-Reviews-Western_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "112. Pakuranga Rotary Walkway",
+    "category": "Biking Trails • Jogging Paths & Tracks",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ac/27/e8/a-lovely-walk.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d10435363-Reviews-Pakuranga_Rotary_Walkway-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "113. Mt William Walkway",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/58/0d/74/mt-william-walkway.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d4049381-Reviews-Mt_William_Walkway-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "114. Ewelme Cottage",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/51/c3/15/ewelme-cottage-at-twilight.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d256910-Reviews-Ewelme_Cottage-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "115. Victoria Park",
+    "category": "Parks • Playgrounds",
+    "price": "Free",
+    "rating": "3.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e5/e2/9f/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d9706033-Reviews-Victoria_Park-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "116. Great Escape",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3e/a3/63/zm-at-the-great-escape.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d7200178-Reviews-Great_Escape-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "117. Symonds Street Cemetary",
+    "category": "Historic Sites • Cemeteries",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2f/64/f8/symonds-street-cemetary.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d8785557-Reviews-Symonds_Street_Cemetary-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "118. Snickel Lane",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/57/67/df/a-shot-of-snickel-lane.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d14109747-Reviews-Snickel_Lane-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "119. The Strand Arcade",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/49/4d/54/the-strand-arcade.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d9723536-Reviews-The_Strand_Arcade-Auckland_Central_North_Island.html"
+  },
+  {
+    "name": "120. Mangere Mountain Education Centre (MMEC)",
+    "category": "Natural History Museums • History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/b4/ff/de/vietnamese-visitors-learning.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255106-d11802196-Reviews-Mangere_Mountain_Education_Centre_MMEC-Auckland_Central_North_Island.html"
+  }
+]

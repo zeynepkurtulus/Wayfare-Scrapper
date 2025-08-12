@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Place de la Bourse",
+    "category": "Rue Sainte-Catherine",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/60/4e/b2/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d245765-Reviews-Place_de_la_Bourse-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "2. La Cité du Vin",
+    "category": "Speciality Museums • Architectural Buildings",
+    "price": "Admission tickets from $25",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0d/0f/b2/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10200972-Reviews-La_Cite_du_Vin-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "3. Bassins De Lumières",
+    "category": "",
+    "price": "Admission tickets from $19",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/60/67/97/gustav-klimt-d-or-et.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d19925664-Reviews-Bassins_De_Lumieres-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "4. The Water Mirror",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/62/38/fe/the-water-mirror.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d5400497-Reviews-The_Water_Mirror-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "5. Château Pape Clément",
+    "category": "Wineries & Vineyards • Castles",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/42/99/a1/chateau-pape-clement.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g196515-d3827019-Reviews-Chateau_Pape_Clement-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "6. Cathédrale Saint-André Bordeaux",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/27/57/36/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219045-Reviews-Cathedrale_Saint_Andre_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "7. Marché des Capucins",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/55/c6/13/fruits-vegetables.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3376896-Reviews-Marche_des_Capucins-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "8. Musée Du Vin Et Du Négoce",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $14",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/45/7d/2e/in-the-cellar-dans-la.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3233256-Reviews-Musee_Du_Vin_Et_Du_Negoce-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "9. Grosse Cloche",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/84/1d/cd/grosse-cloche-de-bordeaux.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3233249-Reviews-Grosse_Cloche-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "10. Pont de Pierre",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c4/61/89/the-pont-de-pierre-or.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d290953-Reviews-Pont_de_Pierre-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "11. Grand Theatre",
+    "category": "Operas • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b5/62/7a/opera-house.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219111-Reviews-Grand_Theatre-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "12. Jardin Public",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ea/4c/35/juin-2016.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d5223220-Reviews-Jardin_Public-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "13. Promenade Sainte Catherine",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/14/c3/67/rue-sainte-catherine.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8737499-Reviews-Promenade_Sainte_Catherine-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "14. Monument aux Girondins",
+    "category": "",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e2/de/af/monument-aux-girondins.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6900364-Reviews-Monument_aux_Girondins-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "15. Musée d'Aquitaine",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/91/17/5f/musee-d-aquitaine-bordeaux.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d2234701-Reviews-Musee_d_Aquitaine-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "16. Esplanade des Quinconces",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/c7/1a/a8/esplanade-des-quinconces.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219109-Reviews-Esplanade_des_Quinconces-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "17. Porte Cailhau",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b9/14/f6/20160824-212406-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3568983-Reviews-Porte_Cailhau-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "18. Base Sous-Marine de Bordeaux",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/52/45/d3/jeux-d-eaux-d-ombres.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6428741-Reviews-Base_Sous_Marine_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "19. Office de Tourisme de Bordeaux",
+    "category": "Visitor Centers",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/da/9d/a3/bordeaux.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d2266877-Reviews-Office_de_Tourisme_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "20. Pont Jacques Chaban Delmas",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/b0/f2/7b/le-pont-chaban-delmas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4311273-Reviews-Pont_Jacques_Chaban_Delmas-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "21. Tour Pey-Berland",
+    "category": "Architectural Buildings • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5f/ab/90/tour-pey-berland.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d2397741-Reviews-Tour_Pey_Berland-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "22. Musée des Beaux-Arts de Bordeaux",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/89/80/6c/foto-2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219047-Reviews-Musee_des_Beaux_Arts_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "23. Church of Notre-Dame de Bordeaux",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/08/d0/e7/iglesia.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219049-Reviews-Church_of_Notre_Dame_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "24. Parc de Majolan",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f5/01/3a/parc-le-lac.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g676155-d3928855-Reviews-Parc_de_Majolan-Blanquefort_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "25. Zoo de Bordeaux Pessac",
+    "category": "Zoos",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/7e/11/bb/zoobordeauxpessac.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g196515-d6117129-Reviews-Zoo_de_Bordeaux_Pessac-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "26. Muséum de Bordeaux",
+    "category": "Natural History Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/9d/57/8b/grande-salle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d230597-Reviews-Museum_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "27. The Naked Vigneron",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4d/bc/28/a-beautiful-day-at-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6501756-Reviews-The_Naked_Vigneron-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "28. Place du Parlement",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/30/60/a5/vue-de-la-place.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219051-Reviews-Place_du_Parlement-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "29. Port de la Lune",
+    "category": "Historic Sites • Neighborhoods",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/91/35/81/port-of-the-moon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d670953-Reviews-Port_de_la_Lune-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "30. Château Saint Ahon",
+    "category": "Castles",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/76/dd/90/vue-du-chateau.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g676155-d3349633-Reviews-Chateau_Saint_Ahon-Blanquefort_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "31. Cap Sciences",
+    "category": "Science Museums",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/54/43/4e/cap-sciences-est-ouvert.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4063044-Reviews-Cap_Sciences-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "32. La Galerie des Grands Hommes",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4f/3a/31/exterior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d219050-Reviews-La_Galerie_des_Grands_Hommes-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "33. Basilique Saint-Michel",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ba/3d/7d/basilique-saint-michel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d7930649-Reviews-Basilique_Saint_Michel-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "34. Hotel de Ville de Bordeaux",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a5/7b/21/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d230595-Reviews-Hotel_de_Ville_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "35. Institut Culturel Bernard Magrez",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3d/d5/57/exposition-seth-au-chateau.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6901620-Reviews-Institut_Culturel_Bernard_Magrez-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "36. Les Puces de St Michel",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/5f/d1/19/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3888363-Reviews-Les_Puces_de_St_Michel-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "37. Chateau du Taillan",
+    "category": "Castles",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9c/a7/5b/chateau-du-taillan.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1939141-d2542613-Reviews-Chateau_du_Taillan-Le_Taillan_Medoc_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "38. Place de la Victoire",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/dc/8f/4c/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d5005057-Reviews-Place_de_la_Victoire-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "39. Skatepark Le Hangar Darwin",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/33/a5/47/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d9788585-Reviews-Skatepark_Le_Hangar_Darwin-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "40. Sensas Bordeaux",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/34/a2/53/sensas-bordeaux.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d19588846-Reviews-Sensas_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "41. Matmut Atlantique",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ab/e3/3c/20160618-145526-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8288592-Reviews-Matmut_Atlantique-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "42. Cite Frugès-Le Corbusier",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f7/a0/07/cite-fruges.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g196515-d590991-Reviews-Cite_Fruges_Le_Corbusier-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "43. Château Haut-Marbuzet - Henri Duboscq",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/20/43/1c/chateau-haut-marbuzet.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d230606-Reviews-Chateau_Haut_Marbuzet_Henri_Duboscq-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "44. Parc animalier Rene CANIVENC (Le Moulineau)",
+    "category": "Nature & Wildlife Areas • Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d1/93/9b/au-bout-de-l-allee-qui.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g207337-d7343984-Reviews-Parc_animalier_Rene_CANIVENC_Le_Moulineau-Gradignan_Bordeaux_Gironde_Nouvelle_Aqu.html"
+  },
+  {
+    "name": "45. Centre Commercial Mériadeck",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/52/f3/0e/photo6jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8555606-Reviews-Centre_Commercial_Meriadeck-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "46. La Flèche Saint-Michel",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a5/9b/45/la-fleche-saint-michel.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3568985-Reviews-La_Fleche_Saint_Michel-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "47. Eventyr",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/51/af/8c/eventyr.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g196515-d15748597-Reviews-Eventyr-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "48. Vieux Bordeaux",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/71/24/4c/vieux-bordeaux.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10345112-Reviews-Vieux_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "49. Palais de Justice",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/03/b8/35/vue-sur-la-cathedrale.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d230604-Reviews-Palais_de_Justice-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "50. CAPC Musee d'Art Contemporain",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "3.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/7a/a2/26/the-warehouse-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d1019380-Reviews-CAPC_Musee_d_Art_Contemporain-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "51. Parc Bordelais",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/80/f2/20/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6416877-Reviews-Parc_Bordelais-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "52. Chateau Les Carmes Haut Brion",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/24/29/08/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15075996-Reviews-Chateau_Les_Carmes_Haut_Brion-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "53. Château Haut-Brion",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/33/ee/d0/the-chateau-we-love-and.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g196515-d10166497-Reviews-Chateau_Haut_Brion-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "54. Place Gambetta",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/03/df/f5/very-nice-place-to-visit.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d246706-Reviews-Place_Gambetta-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "55. Darwin",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/90/6c/f0/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d24114119-Reviews-Darwin-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "56. Palais Gallien",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8c/ed/a0/3-palais-gallien-francois.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4096563-Reviews-Palais_Gallien-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "57. BAT3 - Le Bateau De Bordeaux Metropole",
+    "category": "Public Transportation Systems • Ferries",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/35/40/eb/quai-des-queyries-quartier.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10312097-Reviews-BAT3_Le_Bateau_De_Bordeaux_Metropole-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "58. Musee national des douanes",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/52/de/64/musee-national-des-douanes.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4101504-Reviews-Musee_national_des_douanes-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "59. Bordeaux Botanical Garden",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7e/9c/5d/photo7jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d7905554-Reviews-Bordeaux_Botanical_Garden-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "60. Église Sainte-Croix",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b5/43/b8/l-eglise-sainte-croix.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3568984-Reviews-Eglise_Sainte_Croix-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "61. Fontaine des Trois Graces",
+    "category": "Points of Interest & Landmarks • Fountains",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1a/a5/c9/vue-de-nuit-magnifique.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8658031-Reviews-Fontaine_des_Trois_Graces-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "62. Eglise St Pierre",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/73/05/f9/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10514839-Reviews-Eglise_St_Pierre-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "63. Basilique Saint-Seurin",
+    "category": "Points of Interest & Landmarks • Religious Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/77/c5/86/la-basilique-saint-seurin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8670442-Reviews-Basilique_Saint_Seurin-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "64. Musee Mer et Marine",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/70/22/5d/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15535216-Reviews-Musee_Mer_et_Marine-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "65. Ecosite du Bourgailh",
+    "category": "Parks • Forests",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/03/dc/63/matin-brumeux-en-haut.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g196515-d8309328-Reviews-Ecosite_du_Bourgailh-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "66. Porte de Bourgogne",
+    "category": "Hôtel de Ville",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/bf/df/15/beautiful-structure.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8544720-Reviews-Porte_de_Bourgogne-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "67. Sculpture Jaume Plensa",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/da/94/f0/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14792495-Reviews-Sculpture_Jaume_Plensa-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "68. Théâtre Le Victoire",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e4/ae/f6/les-12-travers-d-hercule.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3472719-Reviews-Theatre_Le_Victoire-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "69. Museum of decorative Arts and Design",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b9/3b/23/museum-of-decorative.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4366521-Reviews-Museum_of_decorative_Arts_and_Design-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "70. Antique Dealers of Village Notre Dame",
+    "category": "Speciality & Gift Shops • Art Galleries",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/61/9b/a5/miroirs-anciens-antiquites.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d5018955-Reviews-Antique_Dealers_of_Village_Notre_Dame-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "71. Galerie Bordelaise",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c3/3f/9f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15123220-Reviews-Galerie_Bordelaise-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "72. Porte Dijeaux",
+    "category": "Architectural Buildings • Monuments & Statues",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5a/8c/a6/porte-dijeaux.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4228177-Reviews-Porte_Dijeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "73. Place de la Comedie",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a5/8a/c8/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14792654-Reviews-Place_de_la_Comedie-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "74. Marché de Thouars",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/13/35/fd/marche-dominical-de-thouars.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1055933-d12704057-Reviews-Marche_de_Thouars-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "75. Parc de l'Ermitage",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e9/26/30/parc-de-l-ermitage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g644083-d4005284-Reviews-Parc_de_l_Ermitage-Lormont_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "76. Eglise St Louis des Chartrons",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2b/78/ca/fachada.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8420630-Reviews-Eglise_St_Louis_des_Chartrons-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "77. Théâtre des Chartrons",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/81/1e/a4/restaurant.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d4270210-Reviews-Theatre_des_Chartrons-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "78. Tortues",
+    "category": "",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fa/45/16/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14904341-Reviews-Tortues-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "79. Cimetiere de la Chartreuse",
+    "category": "Cemeteries",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f1/48/de/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d241410-Reviews-Cimetiere_de_la_Chartreuse-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "80. The Hostel Escape Game",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/08/74/e5/the-hostel-escape-game.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d18715953-Reviews-The_Hostel_Escape_Game-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "81. Frac Nouvelle-Aquitaine MÉCA",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c8/7f/c0/la-meca-architecte-architecte.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6918352-Reviews-Frac_Nouvelle_Aquitaine_MECA-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "82. Quai des Marques",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e1/d3/d0/photo5jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15535214-Reviews-Quai_des_Marques-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "83. Prieuré de Cayac",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/dc/70/prieure-de-cayac.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g207337-d7905407-Reviews-Prieure_de_Cayac-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "84. Les Halles de Bacalan",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/10/b5/f0/les-halles-de-bacalan.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d13339610-Reviews-Les_Halles_de_Bacalan-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "85. Pont d'Aquitaine",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ec/fc/08/le-pont-d-aquitaine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8555892-Reviews-Pont_d_Aquitaine-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "86. Château Luchey-Halde",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/9d/47/d8/vins-rouge-et-blanc.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g207338-d4441460-Reviews-Chateau_Luchey_Halde-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "87. Virtual Room Bordeaux",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/27/16/f4/joueur.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15198782-Reviews-Virtual_Room_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "88. Statue de Francisco Goya",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c3/30/9e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8555956-Reviews-Statue_de_Francisco_Goya-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "89. Quiz Room Bordeaux",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/3b/6c/8c/magnifique-salle-pour.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d20347582-Reviews-Quiz_Room_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "90. Musée de la Création Franche",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/db/86/91/une-des-salles-du-musee.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g226847-d6901621-Reviews-Musee_de_la_Creation_Franche-Begles_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "91. Halle des Chartrons",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e5/ad/e4/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15572300-Reviews-Halle_des_Chartrons-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "92. Escape Hunt",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d9/89/38/logo-escape-hunt-gare.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8545109-Reviews-Escape_Hunt-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "93. Théâtre Trianon",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/29/34/ed/theatre-trianon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8336244-Reviews-Theatre_Trianon-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "94. Porte d'Aquitaine",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/16/f5/93/a-panoramic-view-of-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10908021-Reviews-Porte_d_Aquitaine-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "95. Le Rocher de Palmer",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/6c/33/9d/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1938977-d3983876-Reviews-Le_Rocher_de_Palmer-Cenon_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "96. Passage Sarget",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a5/98/dc/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10344870-Reviews-Passage_Sarget-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "97. Musée de l'Histoire Maritime de Bordeaux",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/83/d0/39/vue-de-l-interieur-du.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d13507215-Reviews-Musee_de_l_Histoire_Maritime_de_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "98. La Vieille Eglise Saint-Vincent Mérignac",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/14/57/5b/vue-depuis-le-tram-a.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g207338-d9734167-Reviews-La_Vieille_Eglise_Saint_Vincent_Merignac-Merignac_Bordeaux_Gironde_Nouvelle_Aquit.html"
+  },
+  {
+    "name": "99. Wave Surf Café",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/bf/0d/dd/surf-sur-la-vague.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8399099-Reviews-Wave_Surf_Cafe-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "100. Bourse Maritime",
+    "category": "",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/7f/1e/bc/bordeaux-bourse-maritime.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14903368-Reviews-Bourse_Maritime-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "101. Auditorium",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/92/d0/5c/an-evening-of-adams-and.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d7905591-Reviews-Auditorium-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "102. Eyemazy - Bordeaux",
+    "category": "Speciality & Gift Shops • Art Galleries",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/97/8b/c8/transformez-vos-yeux.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d25264739-Reviews-Eyemazy_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "103. Les Vivres d'Art",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f3/8e/ef/photo6jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d6909585-Reviews-Les_Vivres_d_Art-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "104. L'horizon De Khéops - Bordeaux",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f2/0b/be/imex-horizon-de-kheops.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d26842727-Reviews-L_horizon_De_Kheops_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "105. Blue Lion",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/d7/e2/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14020139-Reviews-Blue_Lion-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "106. Cafe Theatre des Beaux-Arts",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4d/8a/32/20171117-220520-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d2626591-Reviews-Cafe_Theatre_des_Beaux_Arts-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "107. La statue de Jacques Chaban Delmas",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1d/45/5f/un-homme-politique-au.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d10720067-Reviews-La_statue_de_Jacques_Chaban_Delmas-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "108. Église Sainte-Marie-de-la-Bastide Bordeaux",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/34/f4/a8/bordeaux.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8308531-Reviews-Eglise_Sainte_Marie_de_la_Bastide_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "109. Synagogue",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f2/a1/ca/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d15073527-Reviews-Synagogue-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "110. Église Saint-Eloi",
+    "category": "",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3a/27/8c/tres-belle-eglise-du.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d8630901-Reviews-Eglise_Saint_Eloi-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "111. Stade Nautique Henri Deschamps",
+    "category": "Sports Complexes",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a7/20/44/stade-nautique-henri.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1055933-d7032321-Reviews-Stade_Nautique_Henri_Deschamps-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "112. Allees de Tourny",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/01/25/04/fontaine-de-tourny-elle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14792443-Reviews-Allees_de_Tourny-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "113. Site Archéologique de Saint Seurin",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/db/93/10/site-archeologique-de.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d7060692-Reviews-Site_Archeologique_de_Saint_Seurin-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "114. Bar a Vin",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/96/57/bc/the-new-wine-exhibition.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d3557842-Reviews-Bar_a_Vin-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "115. Domaine de Beauval",
+    "category": "Castles",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/be/e6/4b/chateau-beauval-renauve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1938915-d12135572-Reviews-Domaine_de_Beauval-Bassens_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "116. Voie Verte Roger Lapébie",
+    "category": "Biking Trails",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f4/ba/c4/the-roger-lapebie-trail.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d7040172-Reviews-Voie_Verte_Roger_Lapebie-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "117. Parc Palmer",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/25/93/0e/parc-palmer.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1938977-d4005283-Reviews-Parc_Palmer-Cenon_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "118. Reserve Naturelle Marais De Bruges",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/65/78/bc/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1180991-d13002983-Reviews-Reserve_Naturelle_Marais_De_Bruges-Bruges_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "119. Château Canon-la-Gaffelière",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/36/8f/c1/chateau-canon-la-gaffeliere.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187079-d14791402-Reviews-Chateau_Canon_la_Gaffeliere-Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  },
+  {
+    "name": "120. Château de Lisennes",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/2f/26/8d/la-chartreuse-du-xixe.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g635778-d24132097-Reviews-Chateau_de_Lisennes-Tresses_Bordeaux_Gironde_Nouvelle_Aquitaine.html"
+  }
+]

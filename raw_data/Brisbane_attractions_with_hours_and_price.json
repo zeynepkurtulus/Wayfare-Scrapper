@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Lone Pine Koala Sanctuary",
+    "category": "Nature & Wildlife Areas",
+    "price": "$40",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9d/97/9f/koala-mum-and-joey-at.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256511-Reviews-Lone_Pine_Koala_Sanctuary-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "2. South Bank Parklands",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/33/d1/da/south-bank-parklands.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256516-Reviews-South_Bank_Parklands-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 11:59 PM",
+      "Sunday": "6:00 AM - 11:59 PM",
+      "Monday": "6:00 AM - 11:59 PM",
+      "Tuesday": "6:00 AM - 11:59 PM",
+      "Wednesday": "6:00 AM - 11:59 PM",
+      "Thursday": "6:00 AM - 11:59 PM",
+      "Friday": "6:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "3. City Cat",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4c/d5/f3/cruising-the-river-by.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1402943-Reviews-City_Cat-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "4. Mount Coot-Tha Summit Lookout",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/8f/7d/f0/incredible-views.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1206454-Reviews-Mount_Coot_Tha_Summit_Lookout-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "5. XXXX Brewery Tour",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8c/fa/c2/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591743-Reviews-XXXX_Brewery_Tour-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:30 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:30 AM - 5:00 PM",
+      "Thursday": "10:30 AM - 5:00 PM",
+      "Friday": "10:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "6. Roma Street Parkland",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/84/b0/f8/roma-street-parkland.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d273706-Reviews-Roma_Street_Parkland-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "7. Brisbane Botanic Gardens Mt. Coot-tha",
+    "category": "Nature & Wildlife Areas • Lookouts",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/2e/03/41/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256509-Reviews-Brisbane_Botanic_Gardens_Mt_Coot_tha-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM",
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "8. Opal Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/4e/67/be/just-some-of-the-many.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d4318268-Reviews-Opal_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 3:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "9. Eat Street Northshore",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e7/a3/63/20180310-175435-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d5962128-Reviews-Eat_Street_Northshore-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "4:00 PM - 10:00 PM",
+      "Sunday": "4:00 PM - 9:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "4:00 PM - 10:00 PM"
+    }
+  },
+  {
+    "name": "10. City Hopper",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/4a/17/b3/20190817-175807-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d7790923-Reviews-City_Hopper-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "11. City Botanic Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fa/f5/4a/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d300261-Reviews-City_Botanic_Gardens-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "12. The Brisbane River",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ed/7a/4e/the-brisbane-river.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590864-Reviews-The_Brisbane_River-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "13. Gallery of Modern Art",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/10/5c/0c/queen-street-mall.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d544801-Reviews-Queen_Street_Mall-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "14. Queen Street Mall",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f6/dc/8c/margaret-olley-a-generous.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d566856-Reviews-Gallery_of_Modern_Art-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "15. Queensland Museum Kurilpa",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a2/1c/32/queensland-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1861491-Reviews-Queensland_Museum_Kurilpa-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 5:00 PM",
+      "Sunday": "9:30 AM - 5:00 PM",
+      "Monday": "9:30 AM - 5:00 PM",
+      "Tuesday": "9:30 AM - 5:00 PM",
+      "Wednesday": "9:30 AM - 5:00 PM",
+      "Thursday": "9:30 AM - 5:00 PM",
+      "Friday": "9:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "16. Story Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c2/2c/73/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d584302-Reviews-Story_Bridge-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "17. Museum of Brisbane",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/db/e3/7e/museum-of-brisbane-is.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d546231-Reviews-Museum_of_Brisbane-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "18. Suncorp Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/cc/4d/14/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d2064059-Reviews-Suncorp_Stadium-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "19. Queensland Performing Arts Centre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/b5/c2/4a/queensland-performing.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256513-Reviews-Queensland_Performing_Arts_Centre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "20. Channel Seven Wheel of Brisbane",
+    "category": "Amusement & Theme Parks • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/05/a4/c2/a-beautiful-afternoon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1161986-Reviews-Channel_Seven_Wheel_of_Brisbane-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "21. Kangaroo Point Cliffs Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/4b/56/c8/views-across-the-river.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d4021733-Reviews-Kangaroo_Point_Cliffs_Park-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "22. City Hall",
+    "category": "Points of Interest & Landmarks • Government Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/60/62/c5/the-immense-city-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256510-Reviews-City_Hall-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. State Library Of Queensland",
+    "category": "Art Galleries • Libraries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b7/a3/fb/img-20180106-113210-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590882-Reviews-State_Library_Of_Queensland-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "24. Queensland Art Gallery",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f6/df/78/visit-open-studio-for.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d3179551-Reviews-Queensland_Art_Gallery-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "25. Queensland Maritime Museum",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f9/3d/4d/maritime-musuem.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d592863-Reviews-Queensland_Maritime_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:15 PM",
+      "Sunday": "10:00 AM - 4:15 AM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 4:15 PM",
+      "Thursday": "10:00 AM - 4:15 PM",
+      "Friday": "10:00 AM - 4:15 PM"
+    }
+  },
+  {
+    "name": "26. Boggo Road Gaol (Jail)",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2e/32/c4/then-and-now-escape-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d3805124-Reviews-Boggo_Road_Gaol_Jail-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 3:00 PM",
+      "Tuesday": "10:00 AM - 3:00 PM",
+      "Wednesday": "10:00 AM - 3:00 PM",
+      "Thursday": "10:00 AM - 3:00 PM",
+      "Friday": "10:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "27. Brisbane Powerhouse",
+    "category": "Points of Interest & Landmarks • Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f1/a2/85/image-by-falcon-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d257923-Reviews-Brisbane_Powerhouse-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "28. Mt Coot-tha",
+    "category": "Mountains • Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/73/10/78/mt-coot-tha.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d4079567-Reviews-Mt_Coot_tha-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "29. New Farm Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/44/df/7e/jacaranda-new-farm-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d6740699-Reviews-New_Farm_Park-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "6:30 AM - 11:30 AM",
+      "Sunday": "6:30 AM - 11:30 AM",
+      "Monday": "8:30 AM - 11:30 AM",
+      "Tuesday": "8:30 AM - 11:30 AM",
+      "Wednesday": "8:30 AM - 11:30 AM",
+      "Thursday": "8:30 AM - 11:30 AM",
+      "Friday": "8:30 AM - 11:30 AM"
+    }
+  },
+  {
+    "name": "30. West End",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/2a/e5/c2/kookaburra-showboat-at.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d2254425-Reviews-West_End-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Eagle Street Pier",
+    "category": "Piers & Boardwalks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/de/8f/0b/pic-2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1646544-Reviews-Eagle_Street_Pier-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "10:00 AM - 11:00 PM",
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "32. SparkLab, ScienCentre",
+    "category": "Science Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/7c/3a/thong-o-phone-at-sparklab.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256514-Reviews-SparkLab_ScienCentre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 4:00 PM",
+      "Sunday": "9:30 AM - 4:00 PM",
+      "Monday": "9:30 AM - 4:00 PM",
+      "Tuesday": "9:30 AM - 4:00 PM",
+      "Wednesday": "9:30 AM - 4:00 PM",
+      "Thursday": "9:30 AM - 4:00 PM",
+      "Friday": "9:30 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "33. Brisbane Arcade",
+    "category": "Speciality & Gift Shops • Historic Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/5b/a5/5c/view-from-second-floor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8744370-Reviews-Brisbane_Arcade-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "34. Shorncliffe Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/54/a6/cd/shorncliffe.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1587582-Reviews-Shorncliffe_Beach-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. New Farm River Walk",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ff/0e/b4/20151107-093824-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8289351-Reviews-New_Farm_River_Walk-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "36. Gabba Brisbane Cricket Ground",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/01/25/fb/afl-at-the-gabba.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590860-Reviews-Gabba_Brisbane_Cricket_Ground-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 4:00 PM",
+      "Tuesday": "8:00 AM - 4:00 PM",
+      "Wednesday": "8:00 AM - 4:00 PM",
+      "Thursday": "8:00 AM - 4:00 PM",
+      "Friday": "8:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "37. Anzac Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/03/10/ef/shrine-of-remembrance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d566849-Reviews-Anzac_Square-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "38. Cathedral of St. Stephen",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b0/b8/0f/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591734-Reviews-Cathedral_of_St_Stephen-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. D’Aguilar National Park",
+    "category": "National Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e2/f8/60/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d3172873-Reviews-D_Aguilar_National_Park-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "40. MacArthur Museum Brisbane",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d0/5e/a2/general-douglas-macarthur.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d775697-Reviews-MacArthur_Museum_Brisbane-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 3:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 3:00 PM",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "41. South Bank Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/ab/2b/6f/south-bank-market.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d4402881-Reviews-South_Bank_Market-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "5:00 PM - 9:00 PM"
+    }
+  },
+  {
+    "name": "42. PIP Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/52/c1/e8/pip-theatre-s-box-office.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d24102753-Reviews-PIP_Theatre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. Treasury Casino",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/70/0c/49/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d258711-Reviews-Treasury_Casino-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "44. St. John's Anglican Cathedral",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/62/b9/a5/a-massive-cathedral-in.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256517-Reviews-St_John_s_Anglican_Cathedral-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 4:30 PM",
+      "Sunday": "9:30 AM - 4:30 PM",
+      "Monday": "9:30 AM - 4:30 PM",
+      "Tuesday": "9:30 AM - 4:30 PM",
+      "Wednesday": "9:30 AM - 4:30 PM",
+      "Thursday": "9:30 AM - 4:30 PM",
+      "Friday": "9:30 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "45. Rocks Riverside Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a6/d2/8c/photo5jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d5607920-Reviews-Rocks_Riverside_Park-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "46. Direct Factory Outlets",
+    "category": "Factory Outlets",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/75/2c/92/dfo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d7233089-Reviews-Direct_Factory_Outlets-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "47. Albert Street Uniting Church",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b0/f6/21/albert-street-uniting.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d2619508-Reviews-Albert_Street_Uniting_Church-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "48. Street's Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d4/cc/8b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d15920601-Reviews-Street_s_Beach-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "49. Davies Park Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/92/b1/62/filename-120609-daviesparkmark.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d2391458-Reviews-Davies_Park_Market-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 2:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "50. Newstead House",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/f1/1e/80/newstead-house-brisbane.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256512-Reviews-Newstead_House-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "9:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "51. Wivenhoe Dam",
+    "category": "Dams",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/55/54/22/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d4214125-Reviews-Wivenhoe_Dam-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "8:30 AM - 5:00 PM",
+      "Tuesday": "8:30 AM - 5:00 PM",
+      "Wednesday": "8:30 AM - 5:00 PM",
+      "Thursday": "8:30 AM - 5:00 PM",
+      "Friday": "8:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "52. Brisbane Convention & Exhibition Centre",
+    "category": "Convention Centers",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fb/92/a4/exterior-grey-st.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d7099694-Reviews-Brisbane_Convention_Exhibition_Centre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "53. University of Queensland",
+    "category": "Universities & Schools",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/83/d2/4d/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d3461780-Reviews-Brisbane_Visitor_Information_and_Booking_Centre-Brisbane_Brisbane_Region_Queensla.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 4:00 PM",
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "54. Brisbane Visitor Information and Booking Centre",
+    "category": "Visitor Centers",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/75/a0/84/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8423433-Reviews-University_of_Queensland-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "55. Manly Harbour Village",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ca/91/cf/beautiful-harbour-front.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591468-Reviews-Manly_Harbour_Village-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 12:00 PM",
+      "Sunday": "7:00 AM - 12:00 PM",
+      "Monday": "7:00 AM - 12:00 PM",
+      "Tuesday": "7:00 AM - 12:00 PM",
+      "Wednesday": "7:00 AM - 12:00 PM",
+      "Thursday": "7:00 AM - 12:00 PM",
+      "Friday": "7:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "56. Brisbane Sign",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d5/22/ca/brisbane-sign.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d23757234-Reviews-Brisbane_Sign-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "57. Fort Lytton National Park",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/fe/b1/33/cannons.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591769-Reviews-Fort_Lytton_National_Park-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "58. Commissariat Store Museum",
+    "category": "Points of Interest & Landmarks • Children's Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/4c/1e/d1/filename-rhsq-brochure.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d578612-Reviews-Commissariat_Store_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "59. Comiskey Distillery",
+    "category": "Distilleries",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/5e/0c/ec/gin-workshop-at-comiskey.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d25181115-Reviews-Comiskey_Distillery-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Mt Glorious",
+    "category": "Mountains",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f3/38/d9/mt-glorious.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8557423-Reviews-Mt_Glorious-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "61. Howard Smith Wharves",
+    "category": "Points of Interest & Landmarks • Scenic Walking Areas",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f9/f8/05/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d17635306-Reviews-Howard_Smith_Wharves-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. Nudgee Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/7f/64/da/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590923-Reviews-Nudgee_Beach-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Green Beacon Brewing Co.",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/67/08/d9/inside.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d5017496-Reviews-Green_Beacon_Brewing_Co-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 10:00 PM",
+      "Sunday": "12:00 PM - 9:00 PM",
+      "Monday": "2:00 PM - 8:00 PM",
+      "Tuesday": "2:00 PM - 8:00 PM",
+      "Wednesday": "12:00 PM - 9:00 PM",
+      "Thursday": "12:00 PM - 9:00 PM",
+      "Friday": "12:00 PM - 10:00 PM"
+    }
+  },
+  {
+    "name": "64. Brisbane Tramway Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/83/b7/78/the-tram-to-wharf-street.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d2542543-Reviews-Brisbane_Tramway_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Queensland Tennis Centre",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/39/7f/9d/first-day-of-federation.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d5891979-Reviews-Queensland_Tennis_Centre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 7:00 PM",
+      "Sunday": "7:00 AM - 7:00 PM",
+      "Monday": "8:00 AM - 10:30 PM",
+      "Tuesday": "8:00 AM - 10:30 PM",
+      "Wednesday": "8:00 AM - 10:30 PM",
+      "Thursday": "8:00 AM - 10:30 PM",
+      "Friday": "8:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "66. Sir Thomas Brisbane Planetarium",
+    "category": "Speciality & Gift Shops • Observatories & Planetariums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/32/da/94/the-cosmic-skydome-exterior.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d256515-Reviews-Sir_Thomas_Brisbane_Planetarium-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "67. Fox In a Box Brisbane Escape Rooms",
+    "category": "Escape Games",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/08/86/f0/prison-break.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d17234108-Reviews-Fox_In_a_Box_Brisbane_Escape_Rooms-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "68. Portside Wharf",
+    "category": "Points of Interest & Landmarks • Piers & Boardwalks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/32/f9/10/dawn-princess.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d7116557-Reviews-Portside_Wharf-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "69. Customs House",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/61/74/21/customs-house-entrance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591756-Reviews-Customs_House-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:30 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 9:30 PM",
+      "Wednesday": "9:00 AM - 9:30 PM",
+      "Thursday": "9:00 AM - 9:30 PM",
+      "Friday": "9:00 AM - 9:30 PM"
+    }
+  },
+  {
+    "name": "70. Boondall Wetlands Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/f4/c0/41/boondall-wetlands-reserve.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590916-Reviews-Boondall_Wetlands_Reserve-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. Kurilpa Bridge",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/67/98/1f/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d6720629-Reviews-Kurilpa_Bridge-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. iFLY Brisbane Indoor Skydiving",
+    "category": "Amusement & Theme Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/21/bb/73/the-high-flight-is-one.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d17262060-Reviews-IFLY_Brisbane_Indoor_Skydiving-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 9:30 PM",
+      "Thursday": "11:00 AM - 9:30 PM",
+      "Friday": "11:00 AM - 9:30 PM"
+    }
+  },
+  {
+    "name": "73. Brisbane Arts Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/96/05/b8/the-boy-from-oz.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d3152656-Reviews-Brisbane_Arts_Theatre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "9:00 AM - 4:30 PM",
+      "Thursday": "9:00 AM - 4:30 AM",
+      "Friday": "9:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "74. Saturday Fresh Market",
+    "category": "Flea & Street Markets • Farmers Markets",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/74/cf/ec/variety-of-fresh-produce.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8623352-Reviews-Saturday_Fresh_Market-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 12:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "75. Sunnybank Plaza",
+    "category": "Department Stores • Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/ad/e0/sunnybank-plaza.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d11807551-Reviews-Sunnybank_Plaza-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 5:30 PM",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "76. QueensPlaza",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/57/69/c4/queensplaza-outside-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8853810-Reviews-QueensPlaza-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "10:30 AM - 4:00 PM",
+      "Monday": "9:00 AM - 5:30 PM",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 5:30 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "77. Walkabout Creek Discovery Centre",
+    "category": "Visitor Centers",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/c9/c2/f4/water-area-at-walkabout.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d312029-Reviews-Walkabout_Creek_Discovery_Centre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. Westfield Carindale",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/69/21/be/we-are-here-for-one-more.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d9806759-Reviews-Westfield_Carindale-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:30 PM",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "79. Goodwill Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/01/1d/49/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d7785859-Reviews-Goodwill_Bridge-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Old Government House",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e5/c1/f5/old-government-house.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d4829440-Reviews-Old_Government_House-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "81. Gin School Brisbane Distillery",
+    "category": "Distilleries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/21/83/96/distilling-kitchen-at.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d19600781-Reviews-Gin_School_Brisbane_Distillery-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "1:00 PM - 8:30 PM",
+      "Sunday": "1:00 PM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "1:00 PM - 8:30 PM",
+      "Friday": "1:00 PM - 8:30 PM"
+    }
+  },
+  {
+    "name": "82. Brisbane Motor Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/67/68/photos-some-of-vehicles.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d26257844-Reviews-Brisbane_Motor_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 3:00 PM",
+      "Sunday": "8:00 AM - 3:00 PM",
+      "Monday": "8:00 AM - 3:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 3:00 PM",
+      "Thursday": "8:00 AM - 3:00 PM",
+      "Friday": "8:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "83. Clock Tower Tour Brisbane City Hall",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b0/91/a6/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d23886906-Reviews-Clock_Tower_Tour_Brisbane_City_Hall-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. King George Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0a/44/0e/prefeitura-de-brisbane.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d12208468-Reviews-King_George_Square-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "85. Jan Power's Farmers Markets",
+    "category": "Farmers Markets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/64/0a/82/the-colors-of-the-season.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d5575027-Reviews-Jan_Power_s_Farmers_Markets-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 12:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "86. Queensland Parliament House",
+    "category": "Government Buildings",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/38/b2/c9/the-speaker-s-green.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d3846087-Reviews-Queensland_Parliament_House-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 4:45 PM",
+      "Tuesday": "9:00 AM - 4:45 PM",
+      "Wednesday": "9:00 AM - 4:45 PM",
+      "Thursday": "9:00 AM - 4:45 PM",
+      "Friday": "9:00 AM - 4:45 PM"
+    }
+  },
+  {
+    "name": "87. Psychic Twin Featherz",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3f/7a/d6/psychic-twin-featherz.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d14915408-Reviews-Psychic_Twin_Featherz-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 3:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "88. Toohey Forest",
+    "category": "Nature & Wildlife Areas • Parks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e5/8d/cb/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590835-Reviews-Toohey_Forest-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Sherwood Arboretum",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/dc/4c/71/20180506-111855-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591773-Reviews-Sherwood_Arboretum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. Dfo Brisbane",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/3d/9e/a1/dfo-brisbane.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d23908632-Reviews-Dfo_Brisbane-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "91. Boundary Street Markets",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ed/fb/94/boundary-street-markets.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d7396542-Reviews-Boundary_Street_Markets-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "4:00 PM - 10:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "4:00 PM - 10:00 PM"
+    }
+  },
+  {
+    "name": "92. Brisbane's Airtrain",
+    "category": "Public Transportation Systems",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/60/bd/bf/gateway-to-the-small.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590843-Reviews-The_Old_Windmill-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. The Old Windmill",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/a9/0c/13/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d12967203-Reviews-South_Bank_Parklands-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. Queensland Police Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/42/b2/34/queensland-police-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d1647077-Reviews-Queensland_Police_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 4:00 PM",
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "95. South Bank Parklands",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/0b/83/45/new-next-generation-trains.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8071064-Reviews-Brisbane_s_Airtrain-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "96. Nepalese Pagoda",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/91/83/f5/20210125-120742-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d14891874-Reviews-Nepalese_Pagoda-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Zero Latency VR",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/a9/1d/a8/free-roam-vr-with-up.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d13280692-Reviews-Zero_Latency_VR-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:15 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "5:00 PM - 8:00 PM",
+      "Thursday": "5:00 PM - 8:00 PM",
+      "Friday": "2:00 PM - 9:00 PM"
+    }
+  },
+  {
+    "name": "98. Brisbane's Theatre of Magic",
+    "category": "Theater & Performances",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b8/11/36/every-seat-is-a-good.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d26808168-Reviews-Brisbane_s_Theatre_of_Magic-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "5:00 PM - 8:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "99. My Private Transfers",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a9/db/fd/my-private-transfers.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d11832865-Reviews-My_Private_Transfers-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 10:00 PM",
+      "Sunday": "notice",
+      "Monday": "6:00 AM - 10:00 PM",
+      "Tuesday": "6:00 AM - 10:00 PM",
+      "Wednesday": "6:00 AM - 10:00 PM",
+      "Thursday": "6:00 AM - 10:00 PM",
+      "Friday": "6:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "100. The Fortitude Music Hall",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/f0/dd/36/main-corridor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8843002-Reviews-Wintergarden-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Wintergarden",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/24/de/b7/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d19070774-Reviews-The_Fortitude_Music_Hall-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Urban Xtreme",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/85/ce/32/ninja.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d14994698-Reviews-Urban_Xtreme-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "103. Vuly Play",
+    "category": "Speciality & Gift Shops",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/39/09/07/vuly-showroom-at-ingleston.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d23111373-Reviews-Vuly_Play-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "104. Brisbane Ferry Network",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b5/3e/c4/river-bridge-at-night.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d17779024-Reviews-Brisbane_Ferry_Network-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. The Arbour",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6a/9e/12/the-arbour.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d23754211-Reviews-The_Arbour-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "106. Toowong Cemetery",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/8e/68/53/toowong-cemetery.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590715-Reviews-Toowong_Cemetery-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 6:00 PM",
+      "Sunday": "7:00 AM - 6:00 PM",
+      "Monday": "7:00 AM - 6:00 PM",
+      "Tuesday": "7:00 AM - 6:00 PM",
+      "Wednesday": "7:00 AM - 6:00 PM",
+      "Thursday": "7:00 AM - 6:00 PM",
+      "Friday": "7:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "107. Miegunyah House Museum",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/05/0b/1a/miegunyah-house-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d6028072-Reviews-Miegunyah_House_Museum-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. St Mary's Anglican Church Kangaroo Point",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/27/11/f7/st-mary-s-anglican-church.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590886-Reviews-St_Mary_s_Anglican_Church_Kangaroo_Point-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Eagle Farm Racecourse",
+    "category": "Horse Tracks",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ab/24/95/20190525-121420-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d591754-Reviews-Eagle_Farm_Racecourse-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 5:00 PM",
+      "Tuesday": "8:30 AM - 5:00 PM",
+      "Wednesday": "8:30 AM - 5:00 PM",
+      "Thursday": "8:30 AM - 5:00 PM",
+      "Friday": "8:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "110. Walter Taylor Bridge",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ec/14/e2/walter-taylor-bridge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d6779491-Reviews-Walter_Taylor_Bridge-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Ballistic Beer Co",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/47/a5/d8/riverstage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d10498377-Reviews-Riverstage-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Riverstage",
+    "category": "Theaters",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ab/0e/f0/ballistic-beer-co-hq.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d12482271-Reviews-Ballistic_Beer_Co-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "1:00 PM - 10:00 PM",
+      "Sunday": "1:00 PM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "4:00 PM - 6:00 PM",
+      "Friday": "3:30 PM - 10:00 PM"
+    }
+  },
+  {
+    "name": "113. Aboriginal Art Co.",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/4a/47/d0/street-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d24836544-Reviews-Aboriginal_Art_Co-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "114. Downfall Creek Bushland Centre",
+    "category": "Nature & Wildlife Areas • Parks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3a/0f/11/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d10670234-Reviews-Downfall_Creek_Bushland_Centre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Hillstone St. Lucia",
+    "category": "Golf Courses",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a2/8a/1c/hillstone-st-lucia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d590897-Reviews-Hillstone_St_Lucia-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 3:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "116. Frew Park",
+    "category": "Sports Complexes • Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f0/8c/f0/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8291083-Reviews-Frew_Park-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. La Boite Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d4/49/52/crank-indoor-climbing.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d8395933-Reviews-Crank_Indoor_Climbing-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Crank Indoor Climbing",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/8a/80/2c/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d546237-Reviews-La_Boite_Theatre-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "119. Escape Manor",
+    "category": "Escape Games",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/78/0e/7f/book-your-next-corporate.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d12510601-Reviews-Escape_Manor-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Slipstream Brewing",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c5/a0/c0/outdoor-beer-garden-with.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255068-d14765335-Reviews-Slipstream_Brewing-Brisbane_Brisbane_Region_Queensland.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 10:00 PM",
+      "Thursday": "11:00 AM - 10:00 PM",
+      "Friday": "11:00 AM - 10:00 PM"
+    }
+  }
+]

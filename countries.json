@@ -1,0 +1,233 @@
+[
+  {
+    "_id": "6882866130b99b65d30f9c7f",
+    "name": "USA",
+    "country_id": "US",
+    "active": true,
+    "region": "North America"
+  },
+  {
+    "_id": "688286617f36749248ddfc4c",
+    "name": "Canada",
+    "country_id": "CA",
+    "active": true,
+    "region": "North America"
+  },
+  {
+    "_id": "688286619f1cba87106c3bf6",
+    "name": "Mexico",
+    "country_id": "MX",
+    "active": true,
+    "region": "North America"
+  },
+  {
+    "_id": "688286616d1d0b101c72103d",
+    "name": "UK",
+    "country_id": "GB",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "68828661ee4bee45e677e07e",
+    "name": "France",
+    "country_id": "FR",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "68828661939c85c30faee914",
+    "name": "Italy",
+    "country_id": "IT",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "688286613cdab11e2a1f12ae",
+    "name": "Spain",
+    "country_id": "ES",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "688286610fd50081cd12178d",
+    "name": "Netherlands",
+    "country_id": "NL",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "688286617d16a43e589da753",
+    "name": "Portugal",
+    "country_id": "PT",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "6882866130a56fc3a9770026",
+    "name": "Greece",
+    "country_id": "GR",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "68828661efe21971d942a405",
+    "name": "Turkey",
+    "country_id": "TR",
+    "active": true,
+    "region": "Europe/Asia"
+  },
+  {
+    "_id": "6882866195813175a7103628",
+    "name": "Germany",
+    "country_id": "DE",
+    "active": true,
+    "region": "Europe"
+  },
+  {
+    "_id": "68828661530434f7850a90f1",
+    "name": "Japan",
+    "country_id": "JP",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "688286612821c11f5d7df02e",
+    "name": "China",
+    "country_id": "CN",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661d02add75e88ebc44",
+    "name": "South Korea",
+    "country_id": "KR",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661ee49e942d9024b10",
+    "name": "Thailand",
+    "country_id": "TH",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "6882866192d4233ce605fbe7",
+    "name": "Vietnam",
+    "country_id": "VN",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661ff02df6537c6d900",
+    "name": "Singapore",
+    "country_id": "SG",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661bb3ebfca31b4e9c9",
+    "name": "Australia",
+    "country_id": "AU",
+    "active": true,
+    "region": "Oceania"
+  },
+  {
+    "_id": "68828661c5a9ec9d2fc4fcf3",
+    "name": "New Zealand",
+    "country_id": "NZ",
+    "active": true,
+    "region": "Oceania"
+  },
+  {
+    "_id": "6882866166bb6c1495b1acc1",
+    "name": "Brazil",
+    "country_id": "BR",
+    "active": true,
+    "region": "South America"
+  },
+  {
+    "_id": "68828661ae24a72b324f9242",
+    "name": "Argentina",
+    "country_id": "AR",
+    "active": true,
+    "region": "South America"
+  },
+  {
+    "_id": "6882866130a5c6f20331fc3f",
+    "name": "South Africa",
+    "country_id": "ZA",
+    "active": true,
+    "region": "Africa"
+  },
+  {
+    "_id": "688286612f6f0008cca4de45",
+    "name": "Egypt",
+    "country_id": "EG",
+    "active": true,
+    "region": "Africa"
+  },
+  {
+    "_id": "688286618b093200cb1bca26",
+    "name": "Morocco",
+    "country_id": "MA",
+    "active": true,
+    "region": "Africa"
+  },
+  {
+    "_id": "68828661e775f78b3fa19620",
+    "name": "UAE",
+    "country_id": "AE",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661d2bbaf1c1b9e4345",
+    "name": "Israel",
+    "country_id": "IL",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "6882866181d398354337b71d",
+    "name": "Indonesia",
+    "country_id": "ID",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661c13515fd2c1e4644",
+    "name": "Maldives",
+    "country_id": "MV",
+    "active": true,
+    "region": "Asia"
+  },
+  {
+    "_id": "68828661d5ec4fe7a1f4a9b6",
+    "name": "Mauritius",
+    "country_id": "MU",
+    "active": true,
+    "region": "Africa"
+  },
+  {
+    "_id": "68828661d8ddcf80048921b7",
+    "name": "Seychelles",
+    "country_id": "SC",
+    "active": true,
+    "region": "Africa"
+  },
+  {
+    "_id": "6882866110c587829d0db8b5",
+    "name": "French Polynesia",
+    "country_id": "PF",
+    "active": true,
+    "region": "Oceania"
+  },
+  {
+    "_id": "6882866197d01c99f15692be",
+    "name": "Fiji",
+    "country_id": "FJ",
+    "active": true,
+    "region": "Oceania"
+  }
+]

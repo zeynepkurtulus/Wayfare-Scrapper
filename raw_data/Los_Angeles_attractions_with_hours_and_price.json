@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Universal Studios Hollywood",
+    "category": "Amusement & Theme Parks",
+    "price": "$77",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/52/cb/55/universal-studios-hollywood.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d104417-Reviews-Universal_Studios_Hollywood-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 10:00 PM",
+      "Sunday": "8:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "2. Griffith Observatory",
+    "category": "Observatories & Planetariums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e0/4f/1d/vistas-desde-el-observatorio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d116887-Reviews-Griffith_Observatory-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 10:00 PM",
+      "Wednesday": "12:00 PM - 10:00 PM",
+      "Thursday": "12:00 PM - 10:00 PM",
+      "Friday": "12:00 PM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "3. The Getty Center",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/cf/8d/93/the-getty-center.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d147966-Reviews-The_Getty_Center-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM",
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "4. Venice Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/34/dd/28/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d104591-Reviews-Venice_Beach-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "5. Petersen Automotive Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e8/0e/8a/petersen-automotive-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d116989-Reviews-Petersen_Automotive_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "6. Hollywood Sign",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/59/05/ec/the-grove.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d547175-Reviews-The_Grove-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "11:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "7. The Grove",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ab/c5/c2/vuew-from-hollywood-lake.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d144152-Reviews-Hollywood_Sign-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "8. Crypto.com Arena",
+    "category": "Arenas & Stadiums",
+    "price": "$18",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/71/bc/c2/inside.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d143830-Reviews-La_Brea_Tar_Pits_and_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "9:30 AM - 5:00 PM",
+      "Thursday": "9:30 AM - 5:00 PM",
+      "Friday": "9:30 AM - 5:00 PM",
+      "Saturday": "9:30 AM - 5:00 PM",
+      "Sunday": "9:30 AM - 5:00 PM",
+      "Monday": "9:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "9. Battleship USS Iowa Museum",
+    "category": "Military Museums",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3a/15/2b/the-california-science.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d106164-Reviews-California_Science_Center-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "10. Hollywood Walk of Fame",
+    "category": "Hollywood",
+    "price": "$30",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/45/d7/c9/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2440929-Reviews-Battleship_USS_Iowa_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "11. Walt Disney Concert Hall",
+    "category": "Downtown",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/66/29/ef/filename-venice-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d266790-Reviews-Venice_Canals_Walkway-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "12. Dodger Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/7e/99/e7/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d616425-Reviews-Crypto_com_Arena-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "13. Citadel Outlets",
+    "category": "Factory Outlets • Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5e/a9/f9/little-tokyo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d144151-Reviews-Little_Tokyo-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "14. California Science Center",
+    "category": "Science Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9e/bd/e1/walk-of-fame.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d104576-Reviews-Hollywood_Walk_of_Fame-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "15. The Wizarding World of Harry Potter",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/6d/0c/50/unique.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d258384-Reviews-Walt_Disney_Concert_Hall-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "16. Venice Canals Walkway",
+    "category": "Historic Walking Areas",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ce/5c/a2/the-broad.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d8645857-Reviews-The_Broad-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 8:00 PM",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "17. La Brea Tar Pits and Museum",
+    "category": "Natural History Museums • Science Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/43/81/31/los-angeles-county-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d106166-Reviews-Los_Angeles_County_Museum_of_Art-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "11:00 AM - 6:00 PM",
+      "Friday": "11:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "18. Griffith Park",
+    "category": "Parks",
+    "price": "$91",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6c/af/e2/dodger-stadium-is-so.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d615551-Reviews-Dodger_Stadium-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "19. Los Angeles County Museum of Art",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/be/da/81/griffith-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d129312-Reviews-Griffith_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "5:00 AM - 10:30 PM",
+      "Wednesday": "5:00 AM - 10:30 PM",
+      "Thursday": "5:00 AM - 10:30 PM",
+      "Friday": "5:00 AM - 10:30 PM",
+      "Saturday": "5:00 AM - 10:30 PM",
+      "Sunday": "5:00 AM - 10:30 PM",
+      "Monday": "5:00 AM - 10:30 PM"
+    }
+  },
+  {
+    "name": "20. Little Tokyo",
+    "category": "Neighborhoods",
+    "price": "$109",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/f5/58/3b/universal-citywalk-hollywood.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156954-Reviews-Universal_CityWalk_Hollywood-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 9:00 PM",
+      "Wednesday": "11:00 AM - 9:00 PM",
+      "Thursday": "11:00 AM - 9:00 PM",
+      "Friday": "11:00 AM - 10:00 PM",
+      "Saturday": "11:00 AM - 10:00 PM",
+      "Sunday": "11:00 AM - 10:00 PM",
+      "Monday": "11:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "21. The Broad",
+    "category": "Art Museums",
+    "price": "$109",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/68/40/99/castello-di-harry-potter.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d10116569-Reviews-The_Wizarding_World_of_Harry_Potter-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "22. Universal CityWalk Hollywood",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/54/41/f2/the-original-farmers.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d219483-Reviews-The_Original_Farmers_Market-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM",
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "23. The Original Farmers Market",
+    "category": "Farmers Markets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/73/ee/80/citadel-outlets-los-angeles.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1908285-Reviews-Citadel_Outlets-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 9:00 PM",
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "24. TCL Chinese Theatres",
+    "category": "Historic Sites • Movie Theaters",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4f/1e/11/experience-blockbuster.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156499-Reviews-Pantages_Theatre-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "25. Madame Tussauds Hollywood",
+    "category": "Speciality Museums",
+    "price": "$18",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/47/dc/6d/natural-history-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d103412-Reviews-Natural_History_Museum_of_Los_Angeles_County-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "9:30 AM - 5:00 PM",
+      "Thursday": "9:30 AM - 5:00 PM",
+      "Friday": "9:30 AM - 5:00 PM",
+      "Saturday": "9:30 AM - 5:00 PM",
+      "Sunday": "9:30 AM - 5:00 PM",
+      "Monday": "9:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "26. Grand Central Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c6/75/ad/photo6jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d524600-Reviews-Grand_Central_Market-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 9:00 PM",
+      "Wednesday": "8:00 AM - 9:00 PM",
+      "Thursday": "8:00 AM - 9:00 PM",
+      "Friday": "8:00 AM - 9:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM",
+      "Monday": "8:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "27. Natural History Museum of Los Angeles County",
+    "category": "Natural History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e5/3e/a4/chinese-theatre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d103858-Reviews-TCL_Chinese_Theatres-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Runyon Canyon Park",
+    "category": "Canyons • Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6b/75/9d/photo4jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d129374-Reviews-Runyon_Canyon_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "29. Hollywood",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "$32",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/1c/d9/3f/strike-a-pose-with-marilyn.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1634265-Reviews-Madame_Tussauds_Hollywood-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "notice",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "30. Union Station",
+    "category": "Central L.A",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e5/36/81/union-station.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d116315-Reviews-Union_Station-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "4:00 AM - 1:00 AM",
+      "Wednesday": "4:00 AM - 1:00 AM",
+      "Thursday": "4:00 AM - 1:00 AM",
+      "Friday": "4:00 AM - 1:00 AM",
+      "Saturday": "4:00 AM - 1:00 AM",
+      "Sunday": "4:00 AM - 1:00 AM",
+      "Monday": "4:00 AM - 1:00 AM"
+    }
+  },
+  {
+    "name": "31. Sunset Boulevard",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6d/33/7c/huarache-sandals-and.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d207644-Reviews-Calle_Olvera-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "32. University of California, Los Angeles (UCLA)",
+    "category": "Educational sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/24/be/25/vista-de-longe.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2189209-Reviews-Lake_Hollywood_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. The Hollywood Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/5f/72/69/4th.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d648331-Reviews-Hollywood-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "34. Hollywood Forever Cemetery",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/dd/65/af/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1898538-Reviews-The_Greek_Theatre-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Angels Flight Railway",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d2/fe/67/speedy-mobile.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156470-Reviews-The_Hollywood_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "36. Lake Hollywood Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/aa/00/35/venice-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d142853-Reviews-Venice_Beach_Boardwalk-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "37. Pantages Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/bc/2b/ad/la-view.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d142962-Reviews-Angels_Flight_Railway-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "38. Venice Beach Boardwalk",
+    "category": "Piers & Boardwalks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/62/76/df/haines-hall.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d144145-Reviews-University_of_California_Los_Angeles_UCLA-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. Calle Olvera",
+    "category": "Chinatown",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/62/e2/e4/the-showroom.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d674542-Reviews-The_Nethercutt_Collection-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "9:00 AM - 4:30 PM",
+      "Friday": "9:00 AM - 4:30 PM",
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "notice",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "40. Dolby Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6b/bd/79/sunset.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156501-Reviews-Sunset_Boulevard-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "41. Hollywood Hills",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e8/ba/71/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127352-Reviews-Bradbury_Building-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "42. Hollywood Bowl Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/77/ca/4e/j-ramone.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d271986-Reviews-Hollywood_Forever_Cemetery-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:30 AM - 5:00 PM",
+      "Wednesday": "8:30 AM - 5:00 PM",
+      "Thursday": "8:30 AM - 5:00 PM",
+      "Friday": "8:30 AM - 5:00 PM",
+      "Saturday": "8:30 AM - 4:30 PM",
+      "Sunday": "8:30 AM - 4:30 PM",
+      "Monday": "8:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "43. Bradbury Building",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/8d/38/b9/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d595979-Reviews-Candy_Cane_Lane-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "44. GRAMMY Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/33/18/31/rainforest-of-the-americas.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d116885-Reviews-Los_Angeles_Zoo_Botanical_Gardens-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "45. Hollywood & Highland",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6e/cd/7b/gm.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1745928-Reviews-GRAMMY_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "46. The Nethercutt Collection",
+    "category": "Speciality Museums",
+    "price": "$30",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/7a/68/84/logo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d25065111-Reviews-Medieval_Torture_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 9:00 PM",
+      "Wednesday": "11:00 AM - 9:00 PM",
+      "Thursday": "11:00 AM - 9:00 PM",
+      "Friday": "11:00 AM - 11:00 PM",
+      "Saturday": "11:00 AM - 11:00 PM",
+      "Sunday": "11:00 AM - 10:00 PM",
+      "Monday": "11:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "47. Los Angeles Zoo & Botanical Gardens",
+    "category": "Zoos • Gardens",
+    "price": "$30",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f4/60/a1/20181215-132203-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d266292-Reviews-Dolby_Theatre-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 AM",
+      "Wednesday": "9:00 AM - 5:00 AM",
+      "Thursday": "9:00 AM - 5:00 AM",
+      "Friday": "9:00 AM - 5:00 AM",
+      "Saturday": "9:00 AM - 5:00 AM",
+      "Sunday": "9:00 AM - 5:00 AM",
+      "Monday": "9:00 AM - 5:00 AM"
+    }
+  },
+  {
+    "name": "48. The Greek Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f1/a0/69/6363-selma-ave-in-hollywood.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2018939-Reviews-Museum_of_Death-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 8:00 PM",
+      "Wednesday": "11:00 AM - 8:00 PM",
+      "Thursday": "11:00 AM - 8:00 PM",
+      "Friday": "11:00 AM - 8:00 PM",
+      "Saturday": "11:00 AM - 8:00 PM",
+      "Sunday": "11:00 AM - 8:00 PM",
+      "Monday": "11:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "49. Museum of Death",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4f/20/9e/you-ll-find-three-types.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560830-Reviews-Hollywood_Bowl_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "50. Beverly Center",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/7d/8e/1a/filename-la-central-library.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d143621-Reviews-Los_Angeles_Central_Library-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "9:30 AM - 5:30 PM",
+      "Saturday": "9:30 AM - 5:30 PM",
+      "Sunday": "1:00 PM - 5:00 PM",
+      "Monday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "51. Los Angeles Central Library",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/03/42/dc/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156676-Reviews-LA_Fashion_District-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "52. Pierce Brothers Westwood Village Memorial Park",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/94/4e/2d/hollywood-hills.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d277005-Reviews-Hollywood_Hills-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. City Hall",
+    "category": "Downtown",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1b/81/28/19-the-sunrise-at-echo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d276912-Reviews-Echo_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. LA Fashion District",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a0/a6/0f/hollywood-highland.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d254736-Reviews-Hollywood_Highland-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 11:59 PM",
+      "Wednesday": "12:00 PM - 11:59 PM",
+      "Thursday": "12:00 PM - 11:59 PM",
+      "Friday": "12:00 PM - 11:59 PM",
+      "Saturday": "12:00 PM - 11:59 PM",
+      "Sunday": "12:00 PM - 11:59 PM",
+      "Monday": "12:00 PM - 11:59 PM"
+    }
+  },
+  {
+    "name": "55. Echo Park",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/bc/05/71/chinatown-los-angeles.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d116599-Reviews-Chinatown-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Koreatown",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9d/02/33/koreatown.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d143840-Reviews-Koreatown-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Abbot Kinney Boulevard",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/94/25/0d/diorama-museum-of-bhagavad.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d13327615-Reviews-Bhagavad_gita_Diorama_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 4:00 PM",
+      "Thursday": "11:00 AM - 4:00 PM",
+      "Friday": "11:00 AM - 4:00 PM",
+      "Saturday": "11:00 AM - 4:00 PM",
+      "Sunday": "11:00 AM - 4:00 PM",
+      "Monday": "11:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "58. Medieval Torture Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/b8/20/c7/janm-and-oomo-cube.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d108333-Reviews-Japanese_American_National_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "59. Chinatown",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2c/9f/3e/img-20190116-wa0007-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156699-Reviews-University_of_Southern_California-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Cathedral Of Our Lady Of The Angels",
+    "category": "Architectural Buildings • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/3a/bf/62/beverly-center-is-home.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d181149-Reviews-Beverly_Center-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "11:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "61. Melrose Avenue",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/40/73/6b/pierce-brothers-westwood.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d644702-Reviews-Pierce_Brothers_Westwood_Village_Memorial_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 5:00 PM",
+      "Sunday": "8:00 AM - 5:00 PM",
+      "Monday": "8:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "62. Venice Skatepark",
+    "category": "Beaches • Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/04/93/09/exterior.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d258226-Reviews-Cathedral_Of_Our_Lady_Of_The_Angels-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Forest Lawn Memorial Park - Hollywood Hills",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9d/79/17/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d293308-Reviews-Abbot_Kinney_Boulevard-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Candy Cane Lane",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/7f/5b/45/public-art-urban-light.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d12903209-Reviews-Urban_Light-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "65. Stahl House",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/06/b7/be/one-of-the-main-exhibit.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127399-Reviews-The_Museum_of_Contemporary_Art-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 8:00 PM",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "66. Urban Light",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/55/b3/fd/autry-national-center.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156644-Reviews-Autry_Museum_of_the_American_West-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "67. Downtown Los Angeles",
+    "category": "Historic Walking Areas",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/90/f0/de/view-once-the-front-door.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d4799627-Reviews-Stahl_House-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. The Museum of Contemporary Art",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fc/8b/b7/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127362-Reviews-Skirball_Cultural_Center-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 5:00 PM",
+      "Wednesday": "12:00 PM - 5:00 PM",
+      "Thursday": "12:00 PM - 5:00 PM",
+      "Friday": "12:00 PM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "69. Japanese American National Museum",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/8f/cb/3e/rustic-canyon-s-murphy.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d129207-Reviews-Will_Rogers_State_Historic_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Watts Towers",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/9c/15/06/lake-balboa-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1901722-Reviews-Lake_Balboa_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. University of Southern California",
+    "category": "Educational sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/90/1f/ed/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d144156-Reviews-City_Hall-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "72. Los Angeles Memorial Coliseum",
+    "category": "Historic Sites • Arenas & Stadiums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f3/17/75/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156946-Reviews-Topanga_State_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 6:30 PM",
+      "Wednesday": "8:00 AM - 6:30 PM",
+      "Thursday": "8:00 AM - 6:30 PM",
+      "Friday": "8:00 AM - 6:30 PM",
+      "Saturday": "8:00 AM - 6:30 PM",
+      "Sunday": "8:00 AM - 6:30 PM",
+      "Monday": "8:00 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "73. Eames House",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/7e/c1/d1/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d110202-Reviews-Melrose_Avenue-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Topanga State Park",
+    "category": "State Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/4f/dd/4d/hollywood-bowl.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d14838279-Reviews-Hollywood_Bowl-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Hollywood Bowl",
+    "category": "Convention Centers",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9a/e6/88/beautiful-sere-place.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560766-Reviews-Korean_Bell_of_Friendship-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Bhagavad-gita Diorama-Museum",
+    "category": "Art Museums",
+    "price": "$20",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4a/de/5d/museum-of-illusions-hollywood.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d13797571-Reviews-Museum_of_Illusions-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 10:00 PM",
+      "Wednesday": "11:00 AM - 10:00 PM",
+      "Thursday": "11:00 AM - 10:00 PM",
+      "Friday": "11:00 AM - 10:00 PM",
+      "Saturday": "11:00 AM - 10:00 PM",
+      "Sunday": "11:00 AM - 10:00 PM",
+      "Monday": "11:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "77. El Pueblo de Los Angeles",
+    "category": "Historic Sites • Neighborhoods",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/12/f9/28/aftermath-of-the-holocaust.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d3247718-Reviews-Holocaust_Museum_La-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "78. Ripley's Believe It or Not!",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/2c/0b/b2/west-facade-hollyhock.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156679-Reviews-Hollyhock_House-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "11:00 AM - 4:00 PM",
+      "Friday": "11:00 AM - 4:00 PM",
+      "Saturday": "11:00 AM - 4:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "79. Los Angeles Convention Center",
+    "category": "Convention Centers",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/36/3f/ea/looking-upward-at-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d103415-Reviews-Watts_Towers-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Hollyhock House",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/73/63/f1/20170531-180439-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d104558-Reviews-Orpheum_Theater-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "81. Hollywood Farmers Market",
+    "category": "Farmers Markets",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/88/58/cc/beautiful-thanks-nicky.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d4985576-Reviews-Playa_Del_Rey_Beach-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. Park La Brea",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/9e/b8/5b/the-hgtv-renovation-made.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d18937656-Reviews-Brady_Bunch_House-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "83. Hammer Museum",
+    "category": "Art Galleries • Art Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/97/b3/22/armand-hammer-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127420-Reviews-Hammer_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "11:00 AM - 6:00 PM",
+      "Friday": "11:00 AM - 8:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "84. Hollywood Bowl Overlook",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/e1/01/5d/lacc-south-hall-looking.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560853-Reviews-Los_Angeles_Convention_Center-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "85. Space Shuttle Endeavour",
+    "category": "Science Museums",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/bd/84/28/wildlife-learning-center.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2391442-Reviews-Wildlife_Learning_Center-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "86. San Antonio Winery - Los Angeles",
+    "category": "Wineries & Vineyards",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9f/1b/65/ste-no1-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d116886-Reviews-Travel_Town-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "87. Will Rogers State Historic Park",
+    "category": "Historic Sites • State Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/97/e9/17/rose-garden-exposition.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d216628-Reviews-Exposition_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 10:00 PM",
+      "Wednesday": "8:00 AM - 10:00 PM",
+      "Thursday": "8:00 AM - 10:00 PM",
+      "Friday": "8:00 AM - 10:00 PM",
+      "Saturday": "8:00 AM - 10:00 PM",
+      "Sunday": "8:00 AM - 10:00 PM",
+      "Monday": "8:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "88. Autry Museum of the American West",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8b/b7/41/ripley-s-believe-it-or.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127396-Reviews-Ripley_s_Believe_It_or_Not-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 12:00 AM",
+      "Saturday": "10:00 AM - 12:00 AM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "89. Hollywood Wax Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3e/96/d5/20190421-171742-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d626533-Reviews-Hollywood_Bowl_Overlook-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. Travel Town",
+    "category": "Speciality Museums • Children's Museums",
+    "price": "$25",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f3/95/fa/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d23662291-Reviews-Academy_Museum_Of_Motion_Pictures-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "91. Playa Del Rey Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1d/5c/cb/forest-lawn-memorial.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1307644-Reviews-Forest_Lawn_Memorial_Park_Hollywood_Hills-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM",
+      "Monday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "92. Metro Los Angeles",
+    "category": "Public Transportation Systems",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/95/d1/ca/caves-closed-do-to-falling.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560748-Reviews-Bronson_Caves-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Holocaust Museum La",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/b3/67/58/cma.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127574-Reviews-Cabrillo_Marine_Aquarium-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 5:00 PM",
+      "Wednesday": "12:00 PM - 5:00 PM",
+      "Thursday": "12:00 PM - 5:00 PM",
+      "Friday": "12:00 PM - 5:00 PM",
+      "Saturday": "12:00 PM - 5:00 PM",
+      "Sunday": "12:00 PM - 5:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "94. Korean Bell of Friendship",
+    "category": "Harbor",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/69/b9/fa/the-japanese-garden.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2091936-Reviews-The_Japanese_Garden-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 4:00 PM",
+      "Wednesday": "11:00 AM - 4:00 PM",
+      "Thursday": "11:00 AM - 4:00 PM",
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "11:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "95. Academy Museum Of Motion Pictures",
+    "category": "Speciality Museums • Movie Theaters",
+    "price": "",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/83/28/ee/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d7603086-Reviews-Hollywood_Farmers_Market-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "8:00 AM - 1:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "96. Los Feliz",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/51/33/93/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560706-Reviews-Will_Rogers_State_Beach-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Will Rogers State Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/51/41/96/dockweiler-state-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560779-Reviews-Dockweiler_State_Beach-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Exposition Park",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d5/c0/20/photo9jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2189363-Reviews-Self_Realization_Fellowship_Lake_Shrine-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 4:30 PM",
+      "Wednesday": "9:00 AM - 4:30 PM",
+      "Thursday": "9:00 AM - 4:30 PM",
+      "Friday": "9:00 AM - 4:30 PM",
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "12:00 PM - 4:30 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "99. Museum of Illusions",
+    "category": "Speciality Museums • Art Museums",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f4/11/ce/img-26311-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d291236-Reviews-San_Antonio_Winery_Los_Angeles-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "100. Orpheum Theater",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/37/3b/7b/the-struts-performance.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d276916-Reviews-Wiltern_Theatre-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Hollywood Reservoir",
+    "category": "Bodies of Water • Hiking Trails",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/61/24/1f/pacific-crest-trail-just.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d277323-Reviews-Angeles_Crest_Highway-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Self-Realization Fellowship Lake Shrine",
+    "category": "Religious Sites",
+    "price": "$21",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/89/0a/ae/museum-of-tolerance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2645568-Reviews-Museum_of_Tolerance-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 3:30 PM",
+      "Wednesday": "10:00 AM - 3:30 PM",
+      "Thursday": "10:00 AM - 3:30 PM",
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 3:30 PM"
+    }
+  },
+  {
+    "name": "103. Skirball Cultural Center",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/02/9c/30/photo9jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156674-Reviews-Flower_Market-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "6:00 AM - 11:00 AM",
+      "Wednesday": "8:00 AM - 12:00 PM",
+      "Thursday": "6:00 AM - 11:00 AM",
+      "Friday": "8:00 AM - 2:00 PM",
+      "Saturday": "6:00 AM - 2:00 PM",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "104. Wildlife Learning Center",
+    "category": "Zoos",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3a/82/1d/taken-from-historic-bridge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d1231268-Reviews-Downtown_Los_Angeles-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Art District",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/92/6b/85/hollywood-wax-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d127412-Reviews-Hollywood_Wax_Museum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 11:00 PM",
+      "Wednesday": "9:00 AM - 11:00 PM",
+      "Thursday": "9:00 AM - 11:00 PM",
+      "Friday": "9:00 AM - 12:00 AM",
+      "Saturday": "9:00 AM - 12:00 AM",
+      "Sunday": "9:00 AM - 11:00 PM",
+      "Monday": "9:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "106. Lake Balboa Park",
+    "category": "Bodies of Water • Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/04/44/7e/usc-vs-ucla-2015.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560855-Reviews-Los_Angeles_Memorial_Coliseum-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "107. The Santee Alley",
+    "category": "Flea & Street Markets • Shopping Malls",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f5/2b/46/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d2695296-Reviews-The_Santee_Alley-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:30 AM - 6:00 PM",
+      "Wednesday": "9:30 AM - 6:00 PM",
+      "Thursday": "9:30 AM - 6:00 PM",
+      "Friday": "9:30 AM - 6:00 PM",
+      "Saturday": "9:30 AM - 6:00 PM",
+      "Sunday": "9:30 AM - 6:00 PM",
+      "Monday": "9:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "108. Westfield Topanga",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/26/1b/f1/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d677151-Reviews-Eames_House-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "12:30 PM - 4:00 PM",
+      "Friday": "10:30 AM - 4:00 PM",
+      "Saturday": "10:30 AM - 4:00 PM",
+      "Sunday": "notice",
+      "Monday": "12:30 PM - 2:30 PM"
+    }
+  },
+  {
+    "name": "109. The Japanese Garden",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/01/80/a6/beautiful-day.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d8399455-Reviews-Venice_Skatepark-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "110. Brady Bunch House",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/89/57/5d/samuel-oschin-air-space.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d6758062-Reviews-Space_Shuttle_Endeavour-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "111. Mosaic Tile House",
+    "category": "Art Galleries • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a1/b3/1a/hollywood-reservoir.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156686-Reviews-Hollywood_Reservoir-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Museum of Tolerance",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/9a/27/f0/beautiful-homeeven-more.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d6963646-Reviews-Mosaic_Tile_House-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Avila Adobe",
+    "category": "Historic Sites • History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a9/12/4a/point-fermin-coast.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d560778-Reviews-Point_Fermin_Park-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "1:00 PM - 4:00 PM",
+      "Wednesday": "1:00 PM - 4:00 PM",
+      "Thursday": "1:00 PM - 4:00 PM",
+      "Friday": "1:00 PM - 4:00 PM",
+      "Saturday": "1:00 PM - 4:00 PM",
+      "Sunday": "1:00 PM - 4:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "114. Bronson Caves",
+    "category": "Caverns & Caves",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cb/79/c0/p-20161202-121630-pn_rotated_90.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d8649633-Reviews-Westfield_Topanga-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Angeles Crest Highway",
+    "category": "Scenic Drives",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/42/5d/f8/tree-lined-larchmont.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d289361-Reviews-Larchmont_Village-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Capitol Records Building",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ae/fc/fb/el-pueblo-la.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d156672-Reviews-El_Pueblo_de_Los_Angeles-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM",
+      "Saturday": "9:00 AM - 4:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "117. Angelino Heights Historic Area",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e0/3d/37/lovely-spot-for-a-picnic.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d4588563-Reviews-Kenneth_Hahn_State_Recreation_Area-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "6:00 AM - 8:00 PM",
+      "Wednesday": "6:00 AM - 8:00 PM",
+      "Thursday": "6:00 AM - 8:00 PM",
+      "Friday": "6:00 AM - 8:00 PM",
+      "Saturday": "6:00 AM - 8:00 PM",
+      "Sunday": "6:00 AM - 8:00 PM",
+      "Monday": "6:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "118. Wiltern Theatre",
+    "category": "Architectural Buildings • Theaters",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3c/7d/fc/strong-spanish-influence.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d144150-Reviews-Mission_San_Fernando-Los_Angeles_California.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 4:30 PM",
+      "Wednesday": "9:00 AM - 4:30 PM",
+      "Thursday": "9:00 AM - 4:30 PM",
+      "Friday": "9:00 AM - 4:30 PM",
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "9:00 AM - 4:30 PM",
+      "Monday": "9:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "119. Cabrillo Marine Aquarium",
+    "category": "Aquariums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/92/1b/1e/park-la-brea.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d266814-Reviews-Park_La_Brea-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Larchmont Village",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/fa/d6/77/rainbow-over-los-feliz.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g32655-d276911-Reviews-Los_Feliz-Los_Angeles_California.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

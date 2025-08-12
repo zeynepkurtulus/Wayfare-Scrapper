@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. The Alhambra",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "$82",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a6/f1/10/patios-de-la-alhambra.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d191078-Reviews-The_Alhambra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 8:00 PM",
+      "Saturday": "8:30 AM - 8:00 PM",
+      "Sunday": "8:30 AM - 8:00 PM",
+      "Monday": "8:30 AM - 8:00 PM",
+      "Tuesday": "8:30 AM - 8:00 PM",
+      "Wednesday": "8:30 AM - 8:00 PM",
+      "Thursday": "8:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "2. Mirador de San Nicolas",
+    "category": "Historic Sites • Historic Walking Areas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/26/5e/7b/alhambra-granada-t1800154.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240258-Reviews-Mirador_de_San_Nicolas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "3. Generalife",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/74/c9/40/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243693-Reviews-Generalife-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 8:00 PM",
+      "Saturday": "8:30 AM - 8:00 PM",
+      "Sunday": "8:30 AM - 8:00 PM",
+      "Monday": "8:30 AM - 8:00 PM",
+      "Tuesday": "8:30 AM - 8:00 PM",
+      "Wednesday": "8:30 AM - 8:00 PM",
+      "Thursday": "8:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "4. Albayzin",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "$27",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/60/d5/0b/albayzin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243685-Reviews-Albayzin-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "5. Sacromonte",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/bb/1f/35/stunning.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d191129-Reviews-Royal_Chapel_of_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:15 AM - 6:30 PM",
+      "Saturday": "10:15 AM - 6:30 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "10:15 AM - 6:30 PM",
+      "Tuesday": "10:15 AM - 6:30 PM",
+      "Wednesday": "10:15 AM - 6:30 PM",
+      "Thursday": "10:15 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "6. Royal Chapel of Granada",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/52/0a/fb/basilica-de-san-juan.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2708258-Reviews-Basilica_de_San_Juan_de_Dios-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "1:30 PM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "7. Basílica de San Juan de Dios",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/87/e7/3a/sacromonte.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d254297-Reviews-Sacromonte-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "8. Nasrid Palaces",
+    "category": "Castles",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/24/64/4f/photo7jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d13531083-Reviews-Nasrid_Palaces-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "9. Parque De Las Ciencias",
+    "category": "Science Museums • Observatories & Planetariums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ae/51/d8/monasterio-de-san-jeronimo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d153236-Reviews-Monastero_San_Jeronimo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "10. Monastero San Jerónimo",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/df/5f/db/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243688-Reviews-Carrera_del_Darro-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "11. Carrera del Darro",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/42/8d/63/parque-de-las-ciencias.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d520937-Reviews-Parque_De_Las_Ciencias-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "12. Alcaicería",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/33/eb/30/la-cartuja-04.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243695-Reviews-Monasterio_de_la_Cartuja-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 12:45 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "13. Monasterio de la Cartuja",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/86/f7/cb/alcaiceria.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d546558-Reviews-Alcaiceria-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 9:00 PM",
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "14. Granada Cathedral",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/68/0d/d9/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d16856571-Reviews-Granada_Cathedral-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "15. Plaza de San Nicolas",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d8/1a/46/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2512069-Reviews-Plaza_de_San_Nicolas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "16. Mezquita Mayor de Granada",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e9/3f/11/maripaz-con-manton.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6352309-Reviews-La_Alborea-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 10:00 PM",
+      "Saturday": "10:30 AM - 10:00 PM",
+      "Sunday": "10:30 AM - 10:00 PM",
+      "Monday": "10:30 AM - 10:00 PM",
+      "Tuesday": "10:30 AM - 10:00 PM",
+      "Wednesday": "10:30 AM - 10:00 PM",
+      "Thursday": "10:30 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "17. La Alborea",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/69/d4/7c/museum-of-alhambra.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1913164-Reviews-Museum_of_Alhambra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "18. Museum of Alhambra",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/1d/3f/7a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3274622-Reviews-Mezquita_Mayor_de_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 2:00 PM",
+      "Saturday": "11:00 AM - 2:00 PM",
+      "Sunday": "11:00 AM - 2:00 PM",
+      "Monday": "11:00 AM - 2:00 PM",
+      "Tuesday": "11:00 AM - 2:00 PM",
+      "Wednesday": "11:00 AM - 2:00 PM",
+      "Thursday": "11:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "19. Carmen de los Martires",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a6/0d/74/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1027773-Reviews-Carmen_de_los_Martires-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 2:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 2:00 PM",
+      "Tuesday": "10:00 AM - 2:00 PM",
+      "Wednesday": "10:00 AM - 2:00 PM",
+      "Thursday": "10:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "20. Palacio Flamenco",
+    "category": "Theaters",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/b8/88/f9/portada.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d28011028-Reviews-Palacio_Flamenco-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 11:00 PM",
+      "Saturday": "10:30 AM - 11:00 PM",
+      "Sunday": "10:30 AM - 11:00 PM",
+      "Monday": "10:30 AM - 11:00 PM",
+      "Tuesday": "10:30 AM - 11:00 PM",
+      "Wednesday": "10:30 AM - 11:00 PM",
+      "Thursday": "10:30 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "21. La Madraza",
+    "category": "Historic Sites",
+    "price": "$34",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/87/90/19/iglesia-santa-ana-y-san.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d191130-Reviews-Plaza_Nueva-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "22. Patio De Los Leones",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e1/00/ba/justo-debajo-de-la-alhambra.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6782427-Reviews-Paseo_de_los_Tristes-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Plaza Nueva",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e2/e4/7f/entrada-a-delengua.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8300264-Reviews-Escuela_Delengua-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 7:30 PM",
+      "Tuesday": "9:00 AM - 7:30 PM",
+      "Wednesday": "9:00 AM - 7:30 PM",
+      "Thursday": "9:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "24. Escuela Delengua",
+    "category": "Universities & Schools • Lessons & Workshops",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/92/84/0e/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10022900-Reviews-Patio_De_Los_Leones-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "25. Paseo de los Tristes",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9f/e2/87/granada-800-granada-alhambra.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3238793-Reviews-La_Madraza-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 7:00 PM",
+      "Saturday": "10:30 AM - 7:00 PM",
+      "Sunday": "10:30 AM - 7:00 PM",
+      "Monday": "10:30 AM - 7:00 PM",
+      "Tuesday": "10:30 AM - 7:00 PM",
+      "Wednesday": "10:30 AM - 7:00 PM",
+      "Thursday": "10:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "26. Mirador San Miguel Alto",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f1/a6/b6/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10465097-Reviews-Mirador_San_Miguel_Alto-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "27. Calle Navas",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/aa/05/b2/abadia-del-sacromonte.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1577159-Reviews-Abadia_del_Sacromonte-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 1:30 PM",
+      "Saturday": "10:30 AM - 1:30 PM",
+      "Sunday": "10:30 AM - 1:30 PM",
+      "Monday": "10:30 AM - 1:30 PM",
+      "Tuesday": "10:30 AM - 1:30 PM",
+      "Wednesday": "10:30 AM - 1:30 PM",
+      "Thursday": "10:30 AM - 1:30 PM"
+    }
+  },
+  {
+    "name": "28. Abadia del Sacromonte",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d3/d6/fb/alley-like-street.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1216387-Reviews-Calle_Navas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "29. Palace of Carlos V",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/87/56/6a/palacio-de-carlos-v.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d191127-Reviews-Palace_of_Carlos_V-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "30. Alcazaba",
+    "category": "Realejo - San Matias",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/31/23/e3/vue-les-palais-nasride.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10263010-Reviews-Alcazaba-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Basilica de Nuestra Senora de las Angustias",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/02/90/34/basilica-de-nuestra-senora.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d592135-Reviews-Basilica_de_Nuestra_Senora_de_las_Angustias-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "32. Fundacion Rodriguez Acosta",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/24/f9/24/fundacion-rodriguez-acosta.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d4556270-Reviews-Fundacion_Rodriguez_Acosta-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. El Banuelo",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a5/a2/52/plaza-bib-rambla.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6366714-Reviews-Plaza_Bib_Rambla-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "34. Plaza Bib-Rambla",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/39/65/cc/oud-moors-badhuis.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240251-Reviews-El_Banuelo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Archive Saint John of God Museum",
+    "category": "Historic Sites • History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/89/db/61/calle-elvira-is-a-popular.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240252-Reviews-Calle_Elvira-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "36. Calle Elvira",
+    "category": "Historic Walking Areas",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/87/d8/63/courtyard.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240255-Reviews-Archive_Saint_John_of_God_Museum-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 1:30 PM",
+      "Saturday": "10:00 AM - 1:30 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 1:30 PM",
+      "Tuesday": "10:00 AM - 1:30 PM",
+      "Wednesday": "10:00 AM - 1:30 PM",
+      "Thursday": "10:00 AM - 1:30 PM"
+    }
+  },
+  {
+    "name": "37. Palacio de los Olvidados",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8a/7f/df/photo6jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d7147132-Reviews-Museo_Cuevas_del_Sacromonte-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 2:00 PM",
+      "Saturday": "10:00 AM - 2:00 PM",
+      "Sunday": "10:00 AM - 2:00 PM",
+      "Monday": "10:00 AM - 2:00 PM",
+      "Tuesday": "10:00 AM - 2:00 PM",
+      "Wednesday": "10:00 AM - 2:00 PM",
+      "Thursday": "10:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "38. Huerta de San Vicente Casa Museo de Federico Garcia Lorca",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/34/36/71/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6276230-Reviews-Palacio_de_los_Olvidados-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:30 PM",
+      "Saturday": "11:00 AM - 7:30 PM",
+      "Sunday": "11:00 AM - 7:30 PM",
+      "Monday": "11:00 AM - 7:30 PM",
+      "Tuesday": "11:00 AM - 7:30 PM",
+      "Wednesday": "11:00 AM - 7:30 PM",
+      "Thursday": "11:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "39. Museo de Bellas Artes de Granada",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1d/c4/22/mirador-de-san-cristobal.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d7201857-Reviews-Mirador_de_San_Cristobal-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "40. Corral del Carbon",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7c/52/32/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6022463-Reviews-Monastery_of_Santa_Isabel_la_Real-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "41. Museo Cuevas del Sacromonte",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/26/22/9d/hammam-granada.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243686-Reviews-Hammam_Al_Andalus_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 12:00 AM",
+      "Saturday": "9:30 AM - 12:00 AM",
+      "Sunday": "9:30 AM - 12:00 AM",
+      "Monday": "9:30 AM - 12:00 AM",
+      "Tuesday": "9:30 AM - 12:00 AM",
+      "Wednesday": "9:30 AM - 12:00 AM",
+      "Thursday": "9:30 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "42. Hammam Al Andalus Granada",
+    "category": "Arab Baths • Hammams & Turkish Baths",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a6/8b/27/img-20190524-wa0000-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d519976-Reviews-Corral_del_Carbon-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. Mirador de San Cristobal",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/0f/eb/11/huerta-de-san-vincente.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243689-Reviews-Huerta_de_San_Vicente_Casa_Museo_de_Federico_Garcia_Lorca-Granada_Province_of_Gran.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "44. Casa Museo Max Moreau",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/c7/64/1e/vue-generale.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1913157-Reviews-Museo_de_Bellas_Artes_de_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "45. Monastery of Santa Isabel la Real",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/24/87/04/maison-de-max-moreau.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3662839-Reviews-Casa_Museo_Max_Moreau-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "46. Mercadillo - rastro de Almuñécar",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d0/71/44/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2287002-Reviews-Iglesia_del_Sagrario-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 11:00 AM",
+      "Saturday": "10:00 AM - 11:00 AM",
+      "Sunday": "10:00 AM - 11:30 AM",
+      "Monday": "10:00 AM - 11:00 AM",
+      "Tuesday": "10:00 AM - 11:00 AM",
+      "Wednesday": "10:00 AM - 11:00 AM",
+      "Thursday": "10:00 AM - 11:00 AM"
+    }
+  },
+  {
+    "name": "47. Iglesia del Sagrario",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/01/e6/af/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d7981304-Reviews-Palacio_de_Dar_al_Horra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "48. Fajalauza",
+    "category": "Factory Outlets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/92/90/12/uitzicht-op-het-alhambra.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6786669-Reviews-La_Ermita_de_San_Miguel_Alto-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "49. Palacio de Dar al-Horra",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/74/20/b1/iglesia-del-monasterio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d4584932-Reviews-Monasterio_de_la_Concepcion-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:45 AM - 1:00 PM",
+      "Saturday": "10:45 AM - 1:00 PM",
+      "Sunday": "10:45 AM - 1:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:45 AM - 1:00 PM",
+      "Wednesday": "10:45 AM - 1:00 PM",
+      "Thursday": "10:45 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "50. Casa de Zafra",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/48/4c/f5/monument.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8677125-Reviews-Plaza_de_Isabel_La_Catolica-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "51. La Ermita de San Miguel Alto",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fd/bd/34/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10250093-Reviews-Fajalauza-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "52. Monasterio de la Concepcion",
+    "category": "Speciality Museums • Art Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bd/b3/1f/santa-maria-de-la-alhambra.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2708370-Reviews-Church_of_Santa_Maria_de_la_Alhambra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. Casa del Chapiz",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8b/4b/7e/casa-de-zafra-the-patio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d7001958-Reviews-Casa_de_Zafra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. Church of Santa Maria de la Alhambra",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/36/7b/82/plaza-de-la-universidad.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d5289241-Reviews-Universidad_de_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "55. Cuarto Real de Santo Domingo",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/bc/ac/10/mercadillo-de-antiguedades.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2648976-Reviews-Mercadillo_rastro_de_Almunecar-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "9:00 AM - 2:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "56. Patio de los Arrayanes",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6d/5c/60/casa-del-chapiz.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240256-Reviews-Casa_del_Chapiz-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Plaza de Isabel La Catolica",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c1/42/c7/vista-de-la-puerta-y.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243697-Reviews-Puerta_de_Elvira-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "58. Museo Casa de Los Tiros de Granada",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/93/78/8e/museo-casa-de-los-tiros.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d532191-Reviews-Museo_Casa_de_Los_Tiros_de_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 8:30 PM",
+      "Saturday": "9:00 AM - 8:30 PM",
+      "Sunday": "9:30 AM - 2:30 PM",
+      "Monday": "notice",
+      "Tuesday": "2:30 PM - 8:30 PM",
+      "Wednesday": "9:00 AM - 8:30 PM",
+      "Thursday": "9:00 AM - 8:30 PM"
+    }
+  },
+  {
+    "name": "59. Universidad de Granada",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/bd/38/34/sala-de-los-ajimeces.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d13966073-Reviews-Sala_de_las_Dos_Hermanas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Murallas del Albayzin",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/29/f5/5b/detalle-del-pilar-en.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8125654-Reviews-Cuarto_Real_de_Santo_Domingo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 2:30 PM",
+      "Saturday": "10:00 AM - 2:30 PM",
+      "Sunday": "10:00 AM - 2:30 PM",
+      "Monday": "10:00 AM - 2:30 PM",
+      "Tuesday": "10:00 AM - 2:30 PM",
+      "Wednesday": "10:00 AM - 2:30 PM",
+      "Thursday": "10:00 AM - 2:30 PM"
+    }
+  },
+  {
+    "name": "61. Sala de las Dos Hermanas",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a2/08/62/murallas-del-albayzin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240250-Reviews-Murallas_del_Albayzin-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. Nevada Shopping",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fe/55/4a/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d13983898-Reviews-Patio_de_los_Arrayanes-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Mulhacen",
+    "category": "Mountains",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0f/3f/fa/casa-museo-de-manuel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d243692-Reviews-Casa_Museo_de_Manuel_de_Falla-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Casa-Museo de Manuel de Falla",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/59/36/d8/museo-sefardi-de-granada.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d5101155-Reviews-Museo_Sefardi_de_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Jardines Del Triunfo",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2d/c8/dc/20191130-143104-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8453059-Reviews-Convento_de_Santa_Catalina_de_Zafra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. Puerta de Elvira",
+    "category": "Historic Sites • Monuments & Statues",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/31/70/eb/la-nef-unique-de-l-eglise.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240260-Reviews-Iglesia_de_San_Gil_y_Santa_Ana-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "67. Archaeological Museum of Granada",
+    "category": "History Museums",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/90/01/47/plaza-larga-albayzin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8806516-Reviews-Plaza_Larga-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Hospital Real",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/27/09/b3/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d12729830-Reviews-Monumento_a_Isabel_la_Catolica_y_Cristobal_Colon-Granada_Province_of_Granada_And.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Plaza Larga",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a7/c6/98/real-chancilleria.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d591040-Reviews-Real_Chancilleria-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Centro Federico García Lorca",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/e0/38/aa/segunda-planta.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d17540225-Reviews-Nevada_Shopping-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "71. Iglesia de San Gil y Santa Ana",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/31/0a/e0/view-of-alhambra-from.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d240262-Reviews-Archaeological_Museum_of_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. Cripta de Fray Leopoldo de Alpandeire",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/39/4b/54/am-platz.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2708278-Reviews-Jardines_Del_Triunfo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "73. Monumento a Isabel la Católica y Cristóbal Colón",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fb/07/81/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10231003-Reviews-Cuesta_del_Rey_Chico-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Convento de Santa Catalina de Zafra",
+    "category": "Points of Interest & Landmarks • Religious Sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/68/d6/0e/img-20190412-103654-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2708273-Reviews-Hospital_Real-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Sendero Nuevo Acceso A Los Cahorros Por Cauce Rio Monachil",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/7e/b7/9c/photo5jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10433064-Reviews-Plaza_de_la_Trinidad-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Campo de Principe",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/97/3f/68/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8037721-Reviews-Iglesia_de_San_Gregorio_Betico-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Real Chancilleria",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/a5/61/e7/campo-de-principe.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1027774-Reviews-Campo_de_Principe-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. Iglesia de San Gregorio Betico",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/a1/e8/f9/interior-de-la-iglesia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10817444-Reviews-Iglesia_de_San_Anton-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "79. Iglesia de San Antón",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/cb/ea/ed/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10289108-Reviews-Parroquia_de_los_Santos_Justo_y_Pastor-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Plaza de la Trinidad",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e7/5e/12/monasterio-de-san-bernardo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3386214-Reviews-Monasterio_de_San_Bernardo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Museo Caja Granada Memoria de Andalucia",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/f5/19/1b/museo-caja-granada-memoria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d1577148-Reviews-Museo_Caja_Granada_Memoria_de_Andalucia-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 2:00 PM",
+      "Saturday": "10:00 AM - 2:00 PM",
+      "Sunday": "11:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 2:00 PM",
+      "Wednesday": "10:00 AM - 2:00 PM",
+      "Thursday": "10:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "82. Palacio de Alcazar Genil",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/23/0a/37/vista-de-la-torre-de.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8939609-Reviews-Centro_Federico_Garcia_Lorca-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "83. Museo Sefardi de Granada",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/a8/48/plaza-del-carmen.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6988084-Reviews-Plaza_del_Carmen-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. Plaza del Carmen",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/a3/86/5f/interior-de-la-iglesia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6022469-Reviews-Iglesia_de_Santo_Domingo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "6:30 PM - 8:00 PM",
+      "Saturday": "6:30 PM - 8:00 PM",
+      "Sunday": "6:30 PM - 1:45 PM",
+      "Monday": "6:30 PM - 8:00 PM",
+      "Tuesday": "6:30 PM - 8:00 PM",
+      "Wednesday": "6:30 PM - 8:00 PM",
+      "Thursday": "6:30 PM - 8:00 PM"
+    }
+  },
+  {
+    "name": "85. Cuesta del Rey Chico",
+    "category": "Bridges • Castles",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/db/5e/44/img-20200209-100050884.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6027533-Reviews-Cripta_de_Fray_Leopoldo_de_Alpandeire-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Plaza de la Romanilla",
+    "category": "Centro - Sagrario",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e0/a2/38/vista-de-la-alhambra.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6485227-Reviews-La_Silla_Del_Moro-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. La Silla Del Moro",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/41/51/e7/p-20180610-150949-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10246387-Reviews-Plaza_de_la_Romanilla-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. Contrabanda Granada",
+    "category": "Speciality & Gift Shops • Art Galleries",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/72/e4/c2/sendero-monachil.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d14401839-Reviews-Sendero_Nuevo_Acceso_A_Los_Cahorros_Por_Cauce_Rio_Monachil-Granada_Province_of_G.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Iglesia de Santo Domingo",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/72/f2/16/acera-del-darro.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3521524-Reviews-Acera_del_Darro-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:15 AM - 2:00 PM",
+      "Saturday": "10:15 AM - 2:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:15 AM - 2:00 PM",
+      "Tuesday": "10:15 AM - 2:00 PM",
+      "Wednesday": "10:15 AM - 2:00 PM",
+      "Thursday": "10:15 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "90. Parroquia de los Santos Justo y Pastor",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/1f/47/aa/vistas-de-la-alhambra.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d23696895-Reviews-Barrio_Del_Albaicin-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "91. Monasterio de San Bernardo",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d3/43/8e/escaparate.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d21140346-Reviews-Contrabanda_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 2:00 PM",
+      "Saturday": "11:00 AM - 2:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 2:00 PM",
+      "Wednesday": "11:00 AM - 2:00 PM",
+      "Thursday": "11:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "92. Acera del Darro",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cd/28/85/cima.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d12911566-Reviews-Mulhacen-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Estadio Nuevo Los Cármenes",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/c9/23/55/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6506255-Reviews-Palacio_de_Alcazar_Genil-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. BorealRelax",
+    "category": "Spas",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/1a/81/95/mesa-copia-de-los-techos.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3367663-Reviews-Taracea_Artesania_del_Arbol-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "95. Barrio Del Albaicín",
+    "category": "Neighborhoods",
+    "price": "$27",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3f/15/2b/cristina-soler-en-tablao.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d23622776-Reviews-Tablao_Flamenco_Casa_Ana_Granada-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "11:30 AM - 9:00 PM",
+      "Saturday": "11:30 AM - 9:00 PM",
+      "Sunday": "11:30 AM - 9:00 PM",
+      "Monday": "11:30 AM - 9:00 PM",
+      "Tuesday": "11:30 AM - 9:00 PM",
+      "Wednesday": "11:30 AM - 9:00 PM",
+      "Thursday": "11:30 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "96. Centro Jose Guerrero",
+    "category": "Speciality Museums",
+    "price": "$22",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/62/5b/f9/estadio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d9599229-Reviews-Estadio_Nuevo_Los_Carmenes-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Museo de las Ciencias Padre Suárez",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/99/41/70/the-gate-of-pomegranates.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10231029-Reviews-Cuesta_de_Gomerez-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Los Bermejales Reservoir",
+    "category": "Dams",
+    "price": "",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/2e/b2/e5/vistas.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d13486637-Reviews-Mirador_de_Los_Carvajales-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "99. Taracea Artesanía del Arbol",
+    "category": "Speciality & Gift Shops",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/30/d2/37/fuente-de-las-batallas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d6378950-Reviews-Fuente_de_las_Batallas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 1:30 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 1:30 PM",
+      "Tuesday": "8:30 AM - 1:30 PM",
+      "Wednesday": "8:30 AM - 1:30 PM",
+      "Thursday": "8:30 AM - 1:30 PM"
+    }
+  },
+  {
+    "name": "100. Sala de los Reyes",
+    "category": "Ancient Ruins • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/94/22/41/vista-de-una-de-las-salas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3928959-Reviews-Museo_de_las_Ciencias_Padre_Suarez-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Cuesta de Gomerez",
+    "category": "Historic Walking Areas • Scenic Walking Areas",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/bd/a2/d5/acceso-desde-el-patio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d13966049-Reviews-Sala_de_los_Reyes-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Fuente De Las Granadas",
+    "category": "Fountains",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/9f/86/06/borealdreams-en-pareja.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d12862277-Reviews-BorealRelax-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 2:00 PM",
+      "Saturday": "10:00 AM - 2:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 2:00 PM",
+      "Tuesday": "10:00 AM - 2:00 PM",
+      "Wednesday": "10:00 AM - 2:00 PM",
+      "Thursday": "10:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "103. Tablao Flamenco Casa Ana Granada",
+    "category": "Theaters • Theater & Performances",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/a2/7e/5b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8789558-Reviews-Iglesia_de_San_Miguel_Bajo-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "104. Sierra de Huetor",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/18/72/71/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d19767471-Reviews-Fuente_De_Las_Granadas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Casa Ajsaris",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/30/f4/02/ermita-de-san-miguel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8803206-Reviews-Iglesia_de_San_Nicolas-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. Iglesia de San Miguel Bajo",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/13/de/d1/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d24051765-Reviews-La_Alhambra-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "107. Fuente de las Batallas",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/46/02/0a/centro-jose-guerrero.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d4241668-Reviews-Centro_Jose_Guerrero-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 2:00 PM",
+      "Saturday": "10:30 AM - 2:00 PM",
+      "Sunday": "10:30 AM - 2:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:30 AM - 2:00 PM",
+      "Wednesday": "10:30 AM - 2:00 PM",
+      "Thursday": "10:30 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "108. Mirador de la lona",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/79/8a/ec/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8734079-Reviews-Casa_Morisca_de_Horno_de_Oro-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Casa Morisca de Horno de Oro",
+    "category": "Albaicín",
+    "price": "$27",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/72/09/c2/fin-de-fiesta-con-luis.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d2206686-Reviews-Tablao_flamenco_Jardines_De_Zoraya-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "4:00 PM - 11:30 PM",
+      "Saturday": "11:00 AM - 11:30 PM",
+      "Sunday": "4:00 PM - 11:30 PM",
+      "Monday": "4:00 PM - 11:30 PM",
+      "Tuesday": "4:00 PM - 11:30 PM",
+      "Wednesday": "4:00 PM - 11:30 PM",
+      "Thursday": "4:00 PM - 11:30 PM"
+    }
+  },
+  {
+    "name": "110. Iglesia de San Nicolas",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/2d/23/sala-fuente-de-galeria.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d4345369-Reviews-Galeria_Fotografica_Estudio_Ruiz_Linares-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "10:00 AM - 5:30 PM",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "111. Grand Teatro Flamenco",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7b/50/49/grand-teatro-flamenco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d16923074-Reviews-Grand_Teatro_Flamenco-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Jardin Botanico de la Universidad de Granada",
+    "category": "Gardens",
+    "price": "",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/65/85/c0/puerta-del-vino.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10279391-Reviews-Puerta_del_Vino-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Mirador de Los Carvajales",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/60/53/67/patio-de-los-leones-en.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d21326024-Reviews-Patio_de_los_Leones-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 8:00 PM",
+      "Saturday": "8:30 AM - 8:00 PM",
+      "Sunday": "8:30 AM - 8:00 PM",
+      "Monday": "8:30 AM - 8:00 PM",
+      "Tuesday": "8:30 AM - 8:00 PM",
+      "Wednesday": "8:30 AM - 8:00 PM",
+      "Thursday": "8:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "114. Puerta del Vino",
+    "category": "Realejo - San Matias",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/9b/b1/fb/sierra-de-huetor.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d3783500-Reviews-Sierra_de_Huetor-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Casa de Castril",
+    "category": "Historic Sites • History Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/19/10/04/img-20160331-172817-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d8803201-Reviews-Mirador_de_la_lona-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Camarín de Nuestra Señora del Rosario Coronada",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/6e/8e/5f/vistas-a-la-alhambra.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d12924526-Reviews-Palacio_de_los_Cordova-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. Tablao flamenco Jardines De Zoraya",
+    "category": "Dinner Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/8c/da/6b/no-sabia-de-la-existencia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10138411-Reviews-Camarin_de_Nuestra_Senora_del_Rosario_Coronada-Granada_Province_of_Granada_Andal.html",
+    "opening_hours": {
+      "Friday": "11:45 AM - 1:00 PM",
+      "Saturday": "notice",
+      "Sunday": "4:45 PM - 7:30 PM",
+      "Monday": "11:45 AM - 1:00 PM",
+      "Tuesday": "11:45 AM - 1:00 PM",
+      "Wednesday": "11:45 AM - 1:00 PM",
+      "Thursday": "11:45 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "118. Palacio de los Córdova",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/74/12/7b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10124943-Reviews-Llano_de_la_Perdiz-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Santuario del Perpetuo Socorro",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a4/54/3e/casa-ajsaris.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d19086869-Reviews-Casa_Ajsaris-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Iglesia de Nuestro Salvador",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c0/0e/94/plaza-de-los-aljibes.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187441-d10279408-Reviews-Plaza_de_los_Aljibes-Granada_Province_of_Granada_Andalucia.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

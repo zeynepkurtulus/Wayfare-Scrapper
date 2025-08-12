@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Fountains of Bellagio",
+    "category": "Points of Interest & Landmarks • Fountains",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/11/13/7f/fontaines-du-bellagio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d127003-Reviews-Fountains_of_Bellagio-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "2. Fremont Street Experience",
+    "category": "Downtown",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a3/f5/7e/reds-and-blues.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d103329-Reviews-Red_Rock_Canyon_National_Conservation_Area-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 5:00 PM",
+      "Sunday": "8:00 AM - 5:00 PM",
+      "Monday": "8:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "3. Red Rock Canyon National Conservation Area",
+    "category": "State Parks • National Parks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/db/6f/80/see-the-world-s-biggest.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d102514-Reviews-Fremont_Street_Experience-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "4. The Las Vegas Strip",
+    "category": "The Strip",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/26/95/74/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d625114-Reviews-Bellagio_Conservatory_Botanical_Garden-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "5. High Roller",
+    "category": "Observation Decks & Towers",
+    "price": "$29",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ae/2a/f9/high-roller.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d6509306-Reviews-High_Roller-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 12:00 AM",
+      "Wednesday": "12:00 PM - 12:00 AM",
+      "Thursday": "12:00 PM - 12:00 AM",
+      "Friday": "12:00 PM - 12:00 AM",
+      "Saturday": "12:00 PM - 12:00 AM",
+      "Sunday": "12:00 PM - 12:00 AM",
+      "Monday": "12:00 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "6. Bellagio Conservatory & Botanical Garden",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/01/00/2b/the-strip.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d126583-Reviews-The_Las_Vegas_Strip-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "7. Wynn Las Vegas Casino",
+    "category": "Casinos",
+    "price": "$35",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fd/7e/a6/museum-building.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2538527-Reviews-The_Mob_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "8. Stratosphere Tower",
+    "category": "Downtown",
+    "price": "$29",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/7e/88/6d/stratosphere-tower.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d104050-Reviews-Stratosphere_Tower-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 1:00 AM",
+      "Wednesday": "10:00 AM - 1:00 AM",
+      "Thursday": "10:00 AM - 1:00 AM",
+      "Friday": "10:00 AM - 1:00 AM",
+      "Saturday": "10:00 AM - 1:00 AM",
+      "Sunday": "10:00 AM - 1:00 AM",
+      "Monday": "10:00 AM - 1:00 AM"
+    }
+  },
+  {
+    "name": "9. The Mob Museum",
+    "category": "Speciality Museums",
+    "price": "$35",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b3/3d/f9/neon-boneyard.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d110193-Reviews-The_Neon_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 PM - 12:00 AM",
+      "Wednesday": "8:00 PM - 12:00 AM",
+      "Thursday": "8:00 PM - 12:00 AM",
+      "Friday": "8:00 PM - 12:00 AM",
+      "Saturday": "8:00 PM - 12:00 AM",
+      "Sunday": "8:00 PM - 12:00 AM",
+      "Monday": "8:00 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "10. Las Vegas North Premium Outlets",
+    "category": "Factory Outlets",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/00/f1/c0/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1156204-Reviews-Wynn_Las_Vegas_Casino-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "11. Titanic: The Artifact Exhibition",
+    "category": "History Museums",
+    "price": "$44",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2e/f5/a3/piece-of-a-bulkhead.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1501219-Reviews-Titanic_The_Artifact_Exhibition-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "12. The Neon Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1a/f8/34/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1936404-Reviews-Hoover_Dam_Bypass-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "13. Hoover Dam Bypass",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "$34",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/76/a5/a0/grand-canal-shoppes.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d146795-Reviews-The_Grand_Canal_Shoppes_at_The_Venetian_Resort-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "14. The Grand Canal Shoppes at The Venetian Resort",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a1/d6/a4/las-vegas-north-premium.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d517543-Reviews-Las_Vegas_North_Premium_Outlets-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "15. Eiffel Tower Viewing Deck",
+    "category": "Observation Decks & Towers",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e3/58/19/pinball-hall-of-fame.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d620854-Reviews-Pinball_Hall_Of_Fame-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "16. Welcome to Fabulous Las Vegas Sign",
+    "category": "Points of Interest & Landmarks",
+    "price": "$19",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cc/9a/99/eiffel-tower-experience.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d127002-Reviews-Eiffel_Tower_Viewing_Deck-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "4:00 PM - 12:00 AM",
+      "Wednesday": "4:00 PM - 12:00 AM",
+      "Thursday": "4:00 PM - 12:00 AM",
+      "Friday": "4:00 PM - 12:00 AM",
+      "Saturday": "4:00 PM - 12:00 AM",
+      "Sunday": "4:00 PM - 12:00 AM",
+      "Monday": "4:00 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "17. Casino at Bellagio",
+    "category": "Casinos",
+    "price": "$30",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0b/42/3b/shark-reef.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d3516016-Reviews-Shark_Reef_Aquarium-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "18. The Linq Promenade",
+    "category": "Casinos • Shopping Malls",
+    "price": "$29",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/f0/e0/d4/located-center-strip.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d6637961-Reviews-The_Linq_Promenade-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 12:00 AM",
+      "Saturday": "10:00 AM - 12:00 AM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "19. Gold & Silver Pawn Shop",
+    "category": "Antique Shops",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/87/1b/36/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d12968027-Reviews-Zak_Bagans_The_Haunted_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "20. Fashion Show Las Vegas",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e4/6e/2b/20210407-225237-hdr-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2218772-Reviews-Welcome_to_Fabulous_Las_Vegas_Sign-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "21. Pinball Hall Of Fame",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/9e/55/ef/the-shelby-american-experience.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2409034-Reviews-Shelby_American_Inc-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:30 AM - 5:00 PM",
+      "Wednesday": "9:30 AM - 5:00 PM",
+      "Thursday": "9:30 AM - 5:00 PM",
+      "Friday": "9:30 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "9:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "22. Zak Bagans' The Haunted Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/72/fd/ed/20190928-121559-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d135565-Reviews-Mount_Charleston-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Shelby American, Inc.",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/76/a4/77/fashion-show.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d110191-Reviews-Fashion_Show_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 8:00 PM",
+      "Wednesday": "11:00 AM - 8:00 PM",
+      "Thursday": "11:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 9:00 PM",
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "11:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "24. Forum Shops At Caesars Palace",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a1/d5/10/forum-shops-at-caesars.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d102511-Reviews-Forum_Shops_At_Caesars_Palace-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "25. Shark Reef Aquarium",
+    "category": "Aquariums",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/3b/0b/f6/led-by-expert-hosts-this.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d23473814-Reviews-Allegiant_Stadium_Tours-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "26. Mount Charleston",
+    "category": "Mountains",
+    "price": "$19",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9e/68/c0/the-springs-preserve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d658315-Reviews-Springs_Preserve-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM",
+      "Saturday": "9:00 AM - 4:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "27. Bodies The Exhibition",
+    "category": "Science Museums",
+    "price": "$46",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ac/b5/d7/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1082234-Reviews-Bodies_The_Exhibition-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "28. Allegiant Stadium Tours",
+    "category": "Arenas & Stadiums",
+    "price": "$29",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/99/0d/68/national-atomic-testing.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d556066-Reviews-The_Atomic_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "29. The Atomic Museum",
+    "category": "Speciality Museums",
+    "price": "$34",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/40/bf/6f/jack-harlow-in-the-new.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d106578-Reviews-Madame_Tussauds_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "30. Count's Kustoms",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/77/af/7b/cool-cars-to-see-in-person.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d4228163-Reviews-Count_s_Kustoms-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM",
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "31. Las Vegas Downtown",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/42/df/08/hotel-pool.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d553418-Reviews-Ellis_Island_Casino_Brewery-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "32. Miracle Mile Shops",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/52/b0/25/flamingo-wildlife-habitat.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d592420-Reviews-Flamingo_Wildlife_Habitat-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. Springs Preserve",
+    "category": "Speciality Museums • Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/94/f6/78/princess-diana-a-tribute.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d24926881-Reviews-Princess_Diana_The_Royals_The_Exhibition-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "34. Madame Tussauds - Las Vegas",
+    "category": "Speciality Museums",
+    "price": "$20",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/54/ef/c2/bellagio-fountain-show.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d216643-Reviews-Casino_at_Bellagio-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Ellis Island Casino & Brewery",
+    "category": "Breweries • Casinos",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/79/cc/2d/container-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d5577602-Reviews-Downtown_Container_Park-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:30 AM - 11:00 PM",
+      "Wednesday": "11:30 AM - 11:00 PM",
+      "Thursday": "11:30 AM - 11:00 PM",
+      "Friday": "11:00 AM - 1:00 AM",
+      "Saturday": "10:00 AM - 1:00 AM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "11:30 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "36. Casino At The Venetian",
+    "category": "Casinos",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/8d/07/f9/a-voir.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1717873-Reviews-Gold_Silver_Pawn_Shop-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM",
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "37. T-Mobile Arena",
+    "category": "Arenas & Stadiums",
+    "price": "$40",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/40/4e/f2/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d661360-Reviews-Miracle_Mile_Shops-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "38. Downtown Container Park",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5b/8b/f2/the-colosseum-at-caesars.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d292124-Reviews-The_Colosseum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. Flamingo Wildlife Habitat",
+    "category": "Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/dd/84/8d/gorgeous-views-at-night.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2269299-Reviews-The_Cosmopolitan_Casino-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "40. The Colosseum",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/28/79/82/bellagio-chocolate-fountain.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2640875-Reviews-Bellagio_Chocolate_Fountain-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "6:00 AM - 10:00 PM",
+      "Wednesday": "6:00 AM - 10:00 PM",
+      "Thursday": "6:00 AM - 10:00 PM",
+      "Friday": "6:00 AM - 10:00 PM",
+      "Saturday": "6:00 AM - 10:00 PM",
+      "Sunday": "6:00 AM - 10:00 PM",
+      "Monday": "6:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "41. Chapel Of The Flowers",
+    "category": "Points of Interest & Landmarks • Wedding Chapels",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/e5/92/63/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d10129915-Reviews-T_Mobile_Arena-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "42. The Cosmopolitan Casino",
+    "category": "Casinos",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f1/4e/e2/casino-de-paris.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2162677-Reviews-Las_Vegas_Downtown-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. Dig This",
+    "category": "Game & Entertainment Centers",
+    "price": "$205",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1e/6c/43/car-crush-aggression.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2169633-Reviews-Dig_This-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 4:00 PM",
+      "Wednesday": "8:00 AM - 4:00 PM",
+      "Thursday": "8:00 AM - 4:00 PM",
+      "Friday": "8:00 AM - 4:00 PM",
+      "Saturday": "8:00 AM - 4:00 PM",
+      "Sunday": "8:00 AM - 4:00 PM",
+      "Monday": "8:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "44. Las Vegas Motor Speedway",
+    "category": "Auto Racing Tracks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/9b/9b/a2/dolby-live.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d11885722-Reviews-Dolby_Live-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "45. Princess Diana & The Royals: The Exhibition",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/51/20/4f/casino-at-the-venetian.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d216797-Reviews-Casino_At_The_Venetian-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "46. Little Church of the West",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "$47",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b7/63/ef/you-have-no-idea-what.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d23171331-Reviews-Meow_Wolf_s_Omega_Mart-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 11:00 PM",
+      "Wednesday": "11:00 AM - 11:00 PM",
+      "Thursday": "11:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 11:00 PM",
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "11:00 AM - 11:00 PM",
+      "Monday": "11:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "47. Bellagio Chocolate Fountain",
+    "category": "Fountains",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7d/49/cb/rustic-chic-wedding-venue.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d144168-Reviews-Chapel_Of_The_Flowers-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 AM - 9:00 PM",
+      "Wednesday": "7:00 AM - 9:00 PM",
+      "Thursday": "7:00 AM - 9:00 PM",
+      "Friday": "7:00 AM - 9:00 PM",
+      "Saturday": "7:00 AM - 9:00 PM",
+      "Sunday": "7:00 AM - 9:00 PM",
+      "Monday": "7:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "48. Dolby Live",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/df/92/a7/historic-railroad-trail.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d145795-Reviews-Historic_Railroad_Trail-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "49. Casino at Caesars Palace",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a6/f9/7a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1941171-Reviews-Town_Square_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "11:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "50. O - Cirque du Soleil",
+    "category": "Cirque du Soleil Shows • Theater & Performances",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/87/17/d2/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d103720-Reviews-DISCOVERY_Children_s_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "12:00 PM - 5:00 PM",
+      "Monday": "notice"
+    }
+  },
+  {
+    "name": "51. Town Square Las Vegas",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/03/e0/6b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d127005-Reviews-Las_Vegas_Motor_Speedway-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "52. Meow Wolf's Omega Mart",
+    "category": "Art Galleries • Speciality Museums",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c3/0b/5b/the-foyer-entry-at-thriller.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d12205677-Reviews-The_Liberace_Museum_Collection-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "53. DISCOVERY Children's Museum",
+    "category": "Science Museums • Children's Museums",
+    "price": "$20",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1b/1f/84/nostalgia-street-rods.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d7125990-Reviews-Nostalgia_Street_Rods-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "54. Casino at Luxor Las Vegas",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/68/88/d5/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d26521392-Reviews-Museum_of_Illusions_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 12:00 AM",
+      "Saturday": "10:00 AM - 12:00 AM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "55. Battlefield Vegas",
+    "category": "Shooting Ranges",
+    "price": "$20",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/97/f1/6d/bellagio-gallery-of-fine.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d106584-Reviews-Bellagio_Gallery_of_Fine_Art-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "56. Nostalgia Street Rods",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/12/80/6d/ian-s-photos-from-the.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d145800-Reviews-Gold_Strike_Canyon_Hot_Springs-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. National Finals Rodeo",
+    "category": "Sporting Events",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5b/73/f4/little-church-of-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d260011-Reviews-Little_Church_of_the_West-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 11:00 PM",
+      "Wednesday": "8:00 AM - 11:00 PM",
+      "Thursday": "8:00 AM - 11:00 PM",
+      "Friday": "8:00 AM - 11:00 PM",
+      "Saturday": "8:00 AM - 11:00 PM",
+      "Sunday": "8:00 AM - 11:00 PM",
+      "Monday": "8:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "58. MGM Grand Arena",
+    "category": "Arenas & Stadiums",
+    "price": "$65",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/0e/ea/84/o-by-cirque-du-soleil.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d266890-Reviews-O_Cirque_du_Soleil-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "59. The Liberace Museum Collection",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/fd/f4/8c/poker-room.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d619361-Reviews-Red_Rock_Casino-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Casino at New York - New York",
+    "category": "Casinos",
+    "price": "$40",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/ed/1a/62/v-theater.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2366347-Reviews-V_Theater-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "61. Historic Railroad Trail",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9d/73/29/message-1471374982039.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1101805-Reviews-Silverton_Aquarium-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. Casino at Harrah's Las Vegas",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0f/3e/9f/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2292277-Reviews-The_Gallery_at_Aria-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 11:59 PM",
+      "Wednesday": "12:00 PM - 11:59 PM",
+      "Thursday": "12:00 PM - 11:59 PM",
+      "Friday": "12:00 PM - 11:59 PM",
+      "Saturday": "12:00 PM - 11:59 PM",
+      "Sunday": "12:00 PM - 11:59 PM",
+      "Monday": "12:00 PM - 11:59 PM"
+    }
+  },
+  {
+    "name": "63. Casino at the MGM Grand",
+    "category": "Casinos",
+    "price": "$103",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ee/41/1d/welcome-to-caesars-palace.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d216647-Reviews-Casino_at_Caesars_Palace-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "64. Palazzo Resort Casino",
+    "category": "Casinos",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/04/36/25/fly-over-las-vegas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d24118361-Reviews-Flyover_In_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "65. Bellagio Gallery of Fine Art",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9c/e2/52/mgm-grand-garden-arena.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d811830-Reviews-MGM_Grand_Arena-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. V Theater",
+    "category": "Theaters",
+    "price": "$59",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5e/b8/fc/casino-at-harrah-s-las.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d553027-Reviews-Casino_at_Harrah_s_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "67. The Shops At Crystals",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f2/15/aa/from-the-strip.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2433371-Reviews-The_Shops_At_Crystals-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 9:00 PM",
+      "Wednesday": "11:00 AM - 9:00 PM",
+      "Thursday": "11:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "11:00 AM - 9:00 PM",
+      "Monday": "11:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "68. Flyover In Las Vegas",
+    "category": "Game & Entertainment Centers",
+    "price": "$58",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/dc/47/f6/tampak-dari-kejauhan.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d209797-Reviews-Casino_at_New_York_New_York-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "69. The Punk Rock Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/36/e3/04/national-rodeo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d10020609-Reviews-National_Finals_Rodeo-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Gold Strike Canyon Hot Springs",
+    "category": "Canyons • Hiking Trails",
+    "price": "$39",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/27/7d/d8/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d25434262-Reviews-The_Punk_Rock_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 PM - 8:00 PM",
+      "Wednesday": "12:00 PM - 8:00 PM",
+      "Thursday": "12:00 PM - 8:00 PM",
+      "Friday": "12:00 PM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "12:00 PM - 8:00 PM"
+    }
+  },
+  {
+    "name": "71. Museum of Illusions Las Vegas",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/da/a2/97/raie.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d11926853-Reviews-SeaQuest-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "11:00 AM - 6:00 PM",
+      "Friday": "11:00 AM - 6:00 PM",
+      "Saturday": "11:00 AM - 7:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "72. Red Rock Casino",
+    "category": "Casinos",
+    "price": "$34",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f0/1d/8d/casino-at-luxor-las-vegas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d102515-Reviews-Casino_at_Luxor_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "73. Las Vegas Convention Center",
+    "category": "Convention Centers",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7b/2b/7e/david-o-mer-show-stopping.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2423291-Reviews-Absinthe-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 PM - 9:15 PM",
+      "Wednesday": "8:00 PM - 9:15 PM",
+      "Thursday": "8:00 PM - 9:15 PM",
+      "Friday": "7:00 PM - 8:15 PM",
+      "Saturday": "7:00 PM - 8:15 PM",
+      "Sunday": "8:00 PM - 9:15 PM",
+      "Monday": "8:00 PM - 9:15 PM"
+    }
+  },
+  {
+    "name": "74. The Gallery at Aria",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d8/9f/df/the-palazzo-at-night.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d5994323-Reviews-Palazzo_Resort_Casino-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Real Bodies at Horseshoe Las Vegas",
+    "category": "Speciality Museums • Science Museums",
+    "price": "$46",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/55/5f/0d/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d216706-Reviews-Casino_at_the_MGM_Grand-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "76. Silverton Aquarium",
+    "category": "Aquariums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/2b/b5/83/have-fun-as-a-group-fly.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1074726-Reviews-Vegas_Indoor_Skydiving-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:45 AM - 4:00 PM",
+      "Wednesday": "9:45 AM - 4:00 PM",
+      "Thursday": "9:45 AM - 4:00 PM",
+      "Friday": "9:45 AM - 4:00 PM",
+      "Saturday": "9:45 AM - 4:00 PM",
+      "Sunday": "9:45 AM - 4:00 PM",
+      "Monday": "9:45 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "77. Casino at Excalibur",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/74/39/c7/tank-yard-outside-battlefield.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d3417767-Reviews-Battlefield_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:30 AM - 6:00 PM",
+      "Wednesday": "9:30 AM - 6:00 PM",
+      "Thursday": "9:30 AM - 6:00 PM",
+      "Friday": "9:30 AM - 7:00 PM",
+      "Saturday": "9:30 AM - 7:00 PM",
+      "Sunday": "9:30 AM - 6:00 PM",
+      "Monday": "9:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "78. Park MGM Las Vegas Casino",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fc/01/58/casino-at-binion-s.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d143315-Reviews-Binion_s_Gambling_Hall_Hotel-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "79. Michael Jackson ONE by Cirque du Soleil",
+    "category": "Cirque du Soleil Shows • Theater & Performances",
+    "price": "$38",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c4/75/60/hunger-gallery.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d10758602-Reviews-Real_Bodies_at_Horseshoe_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 7:00 PM",
+      "Wednesday": "11:00 AM - 7:00 PM",
+      "Thursday": "11:00 AM - 7:00 PM",
+      "Friday": "11:00 AM - 7:00 PM",
+      "Saturday": "11:00 AM - 7:00 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "11:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "80. Vegas Indoor Skydiving",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/55/73/7f/lovely-scenery-this-day.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d3989868-Reviews-Clark_County_Wetlands_Park-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 AM - 7:00 PM",
+      "Wednesday": "7:00 AM - 7:00 PM",
+      "Thursday": "7:00 AM - 7:00 PM",
+      "Friday": "7:00 AM - 7:00 PM",
+      "Saturday": "7:00 AM - 7:00 PM",
+      "Sunday": "7:00 AM - 7:00 PM",
+      "Monday": "7:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "81. Binion's Gambling Hall & Hotel",
+    "category": "Casinos",
+    "price": "$15",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/cd/f7/49/capture-the-essence-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d103721-Reviews-Las_Vegas_Natural_History_Museum-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:00 AM - 4:00 PM",
+      "Thursday": "9:00 AM - 4:00 PM",
+      "Friday": "9:00 AM - 4:00 PM",
+      "Saturday": "9:00 AM - 4:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "82. Casino at Aria Resort",
+    "category": "Casinos",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/01/e9/f2/casino-at-aria-resort.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d3601332-Reviews-Casino_at_Aria_Resort-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "83. KA by Cirque du Soleil",
+    "category": "Cirque du Soleil Shows",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ae/9b/01/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1474092-Reviews-South_Point_Hotel_Casino_Spa-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "84. Best Western Plus Casino Royale–Center Strip",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8a/f3/f9/introducing-king-s-kranes.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2471056-Reviews-Fun_Dungeon-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "10:00 AM - 11:00 AM",
+      "Wednesday": "10:00 AM - 11:00 AM",
+      "Thursday": "10:00 AM - 11:00 AM",
+      "Friday": "10:00 AM - 12:00 AM",
+      "Saturday": "10:00 AM - 12:00 AM",
+      "Sunday": "10:00 AM - 12:00 AM",
+      "Monday": "10:00 AM - 11:00 AM"
+    }
+  },
+  {
+    "name": "85. Casino at Mandalay Bay",
+    "category": "Casinos",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/21/e7/ea/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d552977-Reviews-Las_Vegas_Convention_Center-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "86. Las Vegas Monorail",
+    "category": "Public Transportation Systems",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/57/b4/e3/20190712-092320-effects.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d8010546-Reviews-Calico_Tanks_Trail-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. SeaQuest",
+    "category": "Aquariums",
+    "price": "$35",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/08/e1/58/casino-at-excalibur.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d534102-Reviews-Casino_at_Excalibur-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "88. Las Vegas Shooting Center",
+    "category": "Shooting Ranges",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/96/0a/2e/monte-carlo-hotel-casino.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d104052-Reviews-Park_MGM_Las_Vegas_Casino-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Las Vegas Natural History Museum",
+    "category": "Natural History Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/40/e4/28/casino-royale.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d258323-Reviews-Best_Western_Plus_Casino_Royale_Center_Strip-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "90. National Park Express",
+    "category": "Bus Services",
+    "price": "$65",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/fa/fd/11/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d4173939-Reviews-Michael_Jackson_ONE_by_Cirque_du_Soleil-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "12:00 PM - 11:30 PM",
+      "Friday": "12:00 PM - 11:30 PM",
+      "Saturday": "12:00 PM - 11:30 PM",
+      "Sunday": "12:00 PM - 11:30 PM",
+      "Monday": "12:00 PM - 11:30 PM"
+    }
+  },
+  {
+    "name": "91. Absinthe",
+    "category": "Theater & Performances",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f0/30/2d/las-vegas-monorail-arriving.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d7751577-Reviews-Las_Vegas_Monorail-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 AM - 2:00 AM",
+      "Wednesday": "7:00 AM - 2:00 AM",
+      "Thursday": "7:00 AM - 2:00 AM",
+      "Friday": "7:00 AM - 3:00 AM",
+      "Saturday": "7:00 AM - 3:00 AM",
+      "Sunday": "7:00 AM - 3:00 AM",
+      "Monday": "7:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "92. Mystère by Cirque du Soleil",
+    "category": "Cirque du Soleil Shows • Theater & Performances",
+    "price": "$65",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/21/bd/8d/inside-the-casino-slot.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d534111-Reviews-Casino_at_Mandalay_Bay-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "93. David Copperfield",
+    "category": "Theater & Performances",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/1a/75/b5/the-catholic-cathedral.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d216685-Reviews-Guardian_Angel_Cathedral-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 AM - 12:00 PM",
+      "Wednesday": "8:00 AM - 12:00 PM",
+      "Thursday": "8:00 AM - 12:00 PM",
+      "Friday": "8:00 AM - 12:00 PM",
+      "Saturday": "2:00 PM - 3:15 PM",
+      "Sunday": "7:00 AM - 12:15 PM",
+      "Monday": "8:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "94. Saxe Theater",
+    "category": "Theaters",
+    "price": "$43",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/48/93/62/nightly-at-7-30pm-at.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1763967-Reviews-The_Mentalist-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "95. The Little Vegas Chapel",
+    "category": "Wedding Chapels",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/5a/c6/a2/the-award-winning-clubhouse.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d208992-Reviews-Las_Vegas_Paiute_Golf_Resort-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "6:00 AM - 5:00 PM",
+      "Wednesday": "6:00 AM - 5:00 PM",
+      "Thursday": "6:00 AM - 5:00 PM",
+      "Friday": "6:00 AM - 5:00 PM",
+      "Saturday": "6:00 AM - 5:00 PM",
+      "Sunday": "6:00 AM - 5:00 PM",
+      "Monday": "6:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "96. Guardian Angel Cathedral",
+    "category": "Churches & Cathedrals",
+    "price": "$69",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f3/c3/93/bryce-canyon-national.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d15673500-Reviews-National_Park_Express-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Machine Guns Vegas",
+    "category": "Shooting Ranges",
+    "price": "$66",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/21/d9/2b/ka-at-mgm-grand-las-vegas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d501163-Reviews-KA_by_Cirque_du_Soleil-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 PM - 8:30 PM",
+      "Wednesday": "7:00 PM - 8:30 PM",
+      "Thursday": "notice",
+      "Friday": "notice",
+      "Saturday": "4:30 PM - 6:00 PM",
+      "Sunday": "4:30 PM - 6:00 PM",
+      "Monday": "7:00 PM - 8:30 PM"
+    }
+  },
+  {
+    "name": "98. Las Vegas Paiute Golf Resort",
+    "category": "Golf Courses",
+    "price": "$80",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9f/d1/3c/weightless-wonderful.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d143009-Reviews-Mystere_by_Cirque_du_Soleil-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 AM - 11:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "7:00 AM - 11:00 PM",
+      "Saturday": "7:00 AM - 11:00 PM",
+      "Sunday": "7:00 AM - 11:00 PM",
+      "Monday": "7:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "99. Fun Dungeon",
+    "category": "Game & Entertainment Centers",
+    "price": "$51",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/79/81/c5/the-best-things-in-life.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d10209310-Reviews-Piff_the_Magic_Dragon-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 PM - 8:30 PM",
+      "Wednesday": "7:00 PM - 8:30 PM",
+      "Thursday": "7:00 PM - 8:30 PM",
+      "Friday": "notice",
+      "Saturday": "7:00 PM - 8:30 PM",
+      "Sunday": "7:00 PM - 8:30 PM",
+      "Monday": "7:00 PM - 8:30 PM"
+    }
+  },
+  {
+    "name": "100. Piff the Magic Dragon",
+    "category": "Theaters • Theater & Performances",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5a/9c/ba/detail-from-the-exhibitions.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d4786631-Reviews-The_Burlesque_Hall_of_Fame-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "12:00 PM - 5:00 PM",
+      "Monday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "101. Calico Tanks Trail",
+    "category": "Hiking Trails",
+    "price": "$75",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f3/4a/87/our-shining-stars.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d3641269-Reviews-Saxe_Theater-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "102. Clark County Wetlands Park",
+    "category": "Nature & Wildlife Areas",
+    "price": "$29",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/54/32/db/stratosphere-theater.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1173666-Reviews-Stratosphere_Theater-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "103. The Burlesque Hall of Fame",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ec/76/5e/dancer-statue-at-le-parq_rotated_90.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d10128022-Reviews-The_Park-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "104. Stratosphere Theater",
+    "category": "Theaters",
+    "price": "$38",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4d/76/f0/paranormal-las-vegas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d7738644-Reviews-Paranormal_The_Mindreading_Magic_Show-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "4:00 PM - 6:00 PM",
+      "Wednesday": "4:00 PM - 6:00 PM",
+      "Thursday": "4:00 PM - 6:00 PM",
+      "Friday": "4:00 PM - 6:00 PM",
+      "Saturday": "4:00 PM - 6:00 PM",
+      "Sunday": "4:00 PM - 6:00 PM",
+      "Monday": "4:00 PM - 6:00 PM"
+    }
+  },
+  {
+    "name": "105. South Point Hotel, Casino & Spa",
+    "category": "Casinos • Game & Entertainment Centers",
+    "price": "$67",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/04/e1/12/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1630313-Reviews-David_Copperfield-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "7:00 PM - 8:30 PM",
+      "Wednesday": "7:00 PM - 8:30 PM",
+      "Thursday": "7:00 PM - 8:30 PM",
+      "Friday": "7:00 PM - 8:30 PM",
+      "Saturday": "4:00 PM - 5:30 PM",
+      "Sunday": "7:00 PM - 8:30 PM",
+      "Monday": "7:00 PM - 8:30 PM"
+    }
+  },
+  {
+    "name": "106. Casinos at Wynn and Encore Las Vegas",
+    "category": "Casinos",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/eb/74/a7/crave-the-cave-experience.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d8285348-Reviews-The_Spa_at_the_LINQ-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "107. The Big Apple Arcade & Coaster",
+    "category": "Rides & Activities • Game & Entertainment Centers",
+    "price": "$71",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/5d/ca/25/top-mj-impersonator.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d3870907-Reviews-MJ_Live-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "108. Graceland Wedding Chapel",
+    "category": "Wedding Chapels",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/96/aa/c9/st-mark-s-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d13117789-Reviews-St_Mark_s_Square-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. The Mentalist",
+    "category": "Theater & Performances",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b1/be/aa/hershey-s-chocolate-world.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d6706897-Reviews-Hershey_s_Chocolate_World-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 12:00 AM",
+      "Wednesday": "9:00 AM - 12:00 AM",
+      "Thursday": "9:00 AM - 12:00 AM",
+      "Friday": "9:00 AM - 1:00 AM",
+      "Saturday": "9:00 AM - 1:00 AM",
+      "Sunday": "9:00 AM - 12:00 AM",
+      "Monday": "9:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "110. The Park",
+    "category": "Parks",
+    "price": "$26",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/be/e1/9e/img-20160324-wa0004-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d776701-Reviews-The_Big_Apple_Arcade_Coaster-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "11:00 AM - 11:00 PM",
+      "Wednesday": "11:00 AM - 11:00 PM",
+      "Thursday": "11:00 AM - 11:00 PM",
+      "Friday": "11:00 AM - 12:00 AM",
+      "Saturday": "11:00 AM - 12:00 AM",
+      "Sunday": "11:00 AM - 12:00 AM",
+      "Monday": "11:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "111. MJ Live",
+    "category": "Concerts • Theater & Performances",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/68/62/92/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1154965-Reviews-The_Deuce-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. St. Mark's Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/86/96/a5/bali-hai-golf-club.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d207889-Reviews-Bali_Hai_Golf_Club-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "6:00 AM - 8:00 PM",
+      "Wednesday": "6:00 AM - 8:00 PM",
+      "Thursday": "6:00 AM - 8:00 PM",
+      "Friday": "6:00 AM - 8:00 PM",
+      "Saturday": "6:00 AM - 8:00 PM",
+      "Sunday": "6:00 AM - 8:00 PM",
+      "Monday": "6:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "113. Hershey's Chocolate World",
+    "category": "Speciality & Gift Shops • Neighborhoods",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c3/1a/f0/entrance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1070834-Reviews-Orleans_Hotel_Showroom-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. The Deuce",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/66/70/ec/come-in-and-shoot-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d14151175-Reviews-Las_Vegas_Shooting_Center-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "115. Blue Man Group",
+    "category": "Theater & Performances",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/75/14/8f/encore-casino.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d1987849-Reviews-Casinos_at_Wynn_and_Encore_Las_Vegas-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Art of Richard MacDonald",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/cf/fa/ff/the-little-vegas-chapel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d6434427-Reviews-The_Little_Vegas_Chapel-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "9:00 AM - 8:30 PM",
+      "Wednesday": "9:00 AM - 8:30 PM",
+      "Thursday": "9:00 AM - 8:30 PM",
+      "Friday": "9:00 AM - 9:30 PM",
+      "Saturday": "9:00 AM - 9:30 PM",
+      "Sunday": "9:00 AM - 8:30 PM",
+      "Monday": "9:00 AM - 8:30 PM"
+    }
+  },
+  {
+    "name": "117. Paranormal - The Mindreading Magic Show",
+    "category": "Theater & Performances",
+    "price": "$69",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a1/00/1d/tournament-of-kings.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d209825-Reviews-Tournament_of_Kings-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "notice",
+      "Wednesday": "6:00 PM - 7:30 PM",
+      "Thursday": "6:00 PM - 7:30 PM",
+      "Friday": "6:00 PM - 7:30 PM",
+      "Saturday": "6:00 PM - 7:30 PM",
+      "Sunday": "6:00 PM - 7:30 PM",
+      "Monday": "6:00 PM - 7:30 PM"
+    }
+  },
+  {
+    "name": "118. The Range 702",
+    "category": "Shooting Ranges",
+    "price": "$49",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/1d/c1/d3/carrot-top-las-vegas.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d662769-Reviews-Carrot_Top-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Tuesday": "8:00 PM - 9:30 PM",
+      "Wednesday": "8:00 PM - 9:30 PM",
+      "Thursday": "8:00 PM - 9:30 PM",
+      "Friday": "8:00 PM - 9:30 PM",
+      "Saturday": "8:00 PM - 9:30 PM",
+      "Sunday": "notice",
+      "Monday": "8:00 PM - 9:30 PM"
+    }
+  },
+  {
+    "name": "119. M&M'S Las Vegas",
+    "category": "Speciality & Gift Shops",
+    "price": "$48",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/21/de/37/blue-man-group-at-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d183421-Reviews-Blue_Man_Group-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. ALL SHOOK UP - Tribute to the King",
+    "category": "Theater & Performances",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ee/08/16/art-of-richard-macdonald.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g45963-d2201710-Reviews-Art_of_Richard_MacDonald-Las_Vegas_Nevada.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

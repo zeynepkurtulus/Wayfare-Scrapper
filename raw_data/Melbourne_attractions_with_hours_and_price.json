@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Royal Botanic Gardens Victoria",
+    "category": "Gardens",
+    "price": "$30",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/79/c7/photo0jpg.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256846-Reviews-Royal_Botanic_Gardens_Victoria-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "7:30 AM - 7:30 PM",
+      "Sunday": "7:30 AM - 7:30 PM",
+      "Monday": "7:30 AM - 7:30 PM",
+      "Tuesday": "7:30 AM - 7:30 PM",
+      "Wednesday": "7:30 AM - 7:30 PM",
+      "Thursday": "7:30 AM - 7:30 PM",
+      "Friday": "7:30 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "2. City Circle Tram",
+    "category": "Trams",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7d/76/13/city-circle-tram.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d522372-Reviews-City_Circle_Tram-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "3. Queen Victoria Market",
+    "category": "Farmers Markets",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/72/6e/20/discover-the-variety.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256569-Reviews-Queen_Victoria_Market-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 4:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "6:00 AM - 3:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "6:00 AM - 3:00 PM",
+      "Friday": "6:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "4. Melbourne Skydeck",
+    "category": "Observation Decks & Towers",
+    "price": "$24",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2f/82/76/melbourne-skydeck.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d654640-Reviews-Melbourne_Skydeck-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 9:00 PM",
+      "Sunday": "12:00 PM - 9:00 PM",
+      "Monday": "12:00 PM - 9:00 PM",
+      "Tuesday": "12:00 PM - 9:00 PM",
+      "Wednesday": "12:00 PM - 9:00 PM",
+      "Thursday": "12:00 PM - 9:00 PM",
+      "Friday": "12:00 PM - 9:00 PM"
+    }
+  },
+  {
+    "name": "5. National Gallery of Victoria",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ea/7f/11/20180114-161850-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256558-Reviews-National_Gallery_of_Victoria-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "6. Melbourne Cricket Ground (MCG)",
+    "category": "Arenas & Stadiums",
+    "price": "$25",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e3/03/99/2019-preliminary-final.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256584-Reviews-Melbourne_Cricket_Ground_MCG-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "7. Melbourne Zoo",
+    "category": "Zoos • Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/44/26/ff/a-shot-i-took-at-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256557-Reviews-Melbourne_Zoo-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "8. Shrine of Remembrance",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/0e/15/the-shrine-of-remembrance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d522360-Reviews-Shrine_of_Remembrance-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "9. Block Arcade",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bb/b3/ac/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d531649-Reviews-Block_Arcade-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "10. Melbourne Museum",
+    "category": "Speciality Museums",
+    "price": "$10",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b8/0f/b8/melbourne-museum-facade.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256845-Reviews-Melbourne_Museum-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "11. Old Melbourne Gaol",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e0/a3/dc/inside-the-main-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256568-Reviews-Old_Melbourne_Gaol-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "12. State Library Victoria",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/23/c6/c4/state-library-victoria.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1574223-Reviews-State_Library_Victoria-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "13. ArtVo",
+    "category": "Art Museums",
+    "price": "$20",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c8/6d/6d/floating-island.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d10062913-Reviews-ArtVo-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "14. Fitzroy Gardens",
+    "category": "Points of Interest & Landmarks • Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/27/40/beautiful-gardens.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258021-Reviews-Fitzroy_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "15. ACMI",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/a0/17/acmi-your-museum-of-screen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d269501-Reviews-ACMI-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "16. St. Patrick's Cathedral",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8e/62/57/pretty-church.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d257671-Reviews-St_Patrick_s_Cathedral-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "17. Dandenong Ranges National Park",
+    "category": "National Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ae/6f/05/walking-in-dandenong.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d300270-Reviews-Dandenong_Ranges_National_Park-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "18. Southbank",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/33/47/37/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d526956-Reviews-Southbank-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "19. Melbourne Central",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "$28",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/bb/be/32/sea-life-melbourne-aquarium.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256556-Reviews-SEA_LIFE_Melbourne_Aquarium-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 5:00 PM",
+      "Sunday": "9:30 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "20. SEA LIFE Melbourne Aquarium",
+    "category": "Aquariums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fc/9a/64/melbourne-central.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d522417-Reviews-Melbourne_Central-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "21. Rod Laver Arena",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3c/69/70/rod-laver-arena.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2337573-Reviews-Rod_Laver_Arena-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "22. Flinders Street Station",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/db/a3/98/flinders-street-station.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d526963-Reviews-Flinders_Street_Station-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Fed Square",
+    "category": "Art Galleries • Civic Centres",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/75/b3/b3/glorious-fed-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d266090-Reviews-Fed_Square-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "24. DFO South Wharf",
+    "category": "Factory Outlets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2a/d4/31/street-machine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d3451505-Reviews-DFO_South_Wharf-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "25. Crown Casino",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f9/bd/2e/crown-casino.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258045-Reviews-Crown_Casino-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "26. Degraves Street",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3b/3c/15/degraves-street.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d3296612-Reviews-Degraves_Street-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "27. Yarra River",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c1/3e/e6/yarra-river.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d286442-Reviews-Yarra_River-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Hosier Lane",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5e/67/5d/19.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1024357-Reviews-Hosier_Lane-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "29. Immigration Museum",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/03/25/cd/st-paul-s-cathedral.jpg?w=300&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256579-Reviews-St_Paul_s_Cathedral-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "30. St Paul's Cathedral",
+    "category": "Historic Sites • Churches & Cathedrals",
+    "price": "$10",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b6/80/69/immigration-museum-on.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d257176-Reviews-Immigration_Museum-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "31. Collins Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/50/7c/32/preserved-victorian-architectu.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258356-Reviews-Collins_Street-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "32. Royal Exhibition Building",
+    "category": "Lygon Street",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b8/24/a6/royal-exhibition-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d501819-Reviews-Royal_Exhibition_Building-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. Australian Sports Museum",
+    "category": "Speciality Museums",
+    "price": "$25",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ea/bf/56/australian-sports-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2266013-Reviews-Australian_Sports_Museum-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "34. Metartworld",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8a/5d/1c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d25237647-Reviews-Metartworld-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "35. Royal Arcade",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/38/5f/65/the-royal-arcade.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1213116-Reviews-Royal_Arcade-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "7:00 AM - 7:00 PM",
+      "Tuesday": "7:00 AM - 7:00 PM",
+      "Wednesday": "7:00 AM - 7:00 PM",
+      "Thursday": "7:00 AM - 7:00 PM",
+      "Friday": "7:00 AM - 8:30 PM"
+    }
+  },
+  {
+    "name": "36. Prahran Market",
+    "category": "Flea & Street Markets • Farmers Markets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/3d/c3/d8/fresh-food-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d522415-Reviews-Prahran_Market-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 5:00 PM",
+      "Sunday": "8:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "7:00 AM - 5:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "7:00 AM - 5:00 PM",
+      "Friday": "7:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "37. The Regent Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/3b/6b/25/the-regent-theatre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258074-Reviews-The_Regent_Theatre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "38. Her Majesty's Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/3c/66/a2/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258048-Reviews-Her_Majesty_s_Theatre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. Lygon Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9a/fb/4e/este-e-um-belo-edificio.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d590325-Reviews-Lygon_Street-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "40. Australian Open",
+    "category": "Sporting Events",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/49/65/9d/centre-court-rod-laver.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8820154-Reviews-Australian_Open-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "41. Marvel Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/77/71/71/by-invincible-available.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2639687-Reviews-Marvel_Stadium-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "42. The Ian Potter Centre: NGV Australia",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0d/db/71/the-ian-potter-centre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d4591318-Reviews-The_Ian_Potter_Centre_NGV_Australia-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "43. Arts Centre Melbourne",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ec/5c/5d/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d257322-Reviews-Arts_Centre_Melbourne-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "8:30 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "7:00 AM - 11:00 PM",
+      "Tuesday": "7:00 AM - 11:00 PM",
+      "Wednesday": "7:00 AM - 11:00 PM",
+      "Thursday": "7:00 AM - 11:00 PM",
+      "Friday": "7:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "44. Parliament House of Victoria",
+    "category": "Historic Sites • Government Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b7/c0/c0/parliament-house-of-victoria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d291639-Reviews-Parliament_House_of_Victoria-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 5:30 PM",
+      "Tuesday": "8:30 AM - 5:30 PM",
+      "Wednesday": "8:30 AM - 5:30 PM",
+      "Thursday": "8:30 AM - 5:30 PM",
+      "Friday": "8:30 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "45. Hardware Lane",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/df/0a/e1/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d3253140-Reviews-Hardware_Lane-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "46. Half Moon Bay",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4d/59/ba/half-moon-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2507145-Reviews-Half_Moon_Bay-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "47. Southern Cross Station",
+    "category": "Trams • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/2a/53/6c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d9811247-Reviews-Southern_Cross_Station-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "4:30 AM - 2:15 AM",
+      "Sunday": "4:30 AM - 2:15 AM",
+      "Monday": "4:30 AM - 12:15 AM",
+      "Tuesday": "4:30 AM - 12:15 AM",
+      "Wednesday": "4:30 AM - 12:15 AM",
+      "Thursday": "4:30 AM - 12:15 AM",
+      "Friday": "4:30 AM - 2:15 AM"
+    }
+  },
+  {
+    "name": "48. Flemington Racecourse",
+    "category": "Horse Tracks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/d5/a0/dc/flemington-victoria-racing.jpg?w=400&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2550533-Reviews-Flemington_Racecourse-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "49. Melbourne Visitor Centre",
+    "category": "Visitor Centers",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1e/4d/0f/melbourne-visitor-centre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d5892011-Reviews-Melbourne_Visitor_Centre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "50. Cooks' Cottage",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/14/ae/06/cooks.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d282051-Reviews-Cooks_Cottage-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "51. Emporium Melbourne",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/7a/55/ca/emporium-melbourne-outside.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d7274760-Reviews-Emporium_Melbourne-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "52. Koorie Heritage Trust",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/fb/46/78/front-of-the-koorie-heritage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d4587864-Reviews-Koorie_Heritage_Trust-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "53. Port Phillip Ferries",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/6a/7b/97/sitting-pretty-at-docklands.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12059688-Reviews-Port_Phillip_Ferries-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. ACDC Lane",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/54/cd/fd/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8702682-Reviews-ACDC_Lane-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "55. Chinatown",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/be/0a/13/melbourne-town-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d592672-Reviews-Melbourne_Town_Hall-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Melbourne Town Hall",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/5b/23/d0/chinatown.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d7159181-Reviews-Chinatown-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Princess Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a7/16/5f/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258072-Reviews-Princess_Theatre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "58. Old Treasury Building",
+    "category": "Architectural Buildings • History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/5d/bc/c4/the-melbourne-panorama.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d256554-Reviews-Old_Treasury_Building-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "59. Melbourne Convention and Exhibition Centre",
+    "category": "Convention Centers",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/77/77/a2/clarendon-street-entrance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1419695-Reviews-Melbourne_Convention_and_Exhibition_Centre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. The Johnston Collection",
+    "category": "Historic Sites • Lessons & Workshops",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/43/dd/fd/image-from-inside-fairhall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2324591-Reviews-The_Johnston_Collection-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "61. Bourke Street Mall",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/9b/e7/6a/the-place.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d11726927-Reviews-Bourke_Street_Mall-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "62. Melbourne New Year's Eve",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/a4/5b/3e/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d10020290-Reviews-Melbourne_New_Year_s_Eve-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Carlton Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/4f/5f/c0/beautiful-carlton-gardens.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d9595192-Reviews-Carlton_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Sherbrooke Forest",
+    "category": "Forests",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6e/98/49/the-expansive-first-and.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d590675-Reviews-Sherbrooke_Forest-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. The Australian Ballet",
+    "category": "Ballets",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b3/96/71/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2086137-Reviews-AAMI_Park-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. AAMI Park",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d7/c7/ad/2020-season.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d607245-Reviews-The_Australian_Ballet-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "67. Flagstaff Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ee/4e/5c/beautiful-blue-skies.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258022-Reviews-Flagstaff_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Melbourne's Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/58/cf/69/melbourne-s-gardens.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d522411-Reviews-Melbourne_s_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Melbourne Park",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/81/a9/aa/the-concourse-outside.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12089565-Reviews-Melbourne_Park-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Melbourne Cup Carnival",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/dd/9b/bc/the-melbourne-cup-carnival.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8820297-Reviews-Melbourne_Cup_Carnival-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. Chapel Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/00/53/f7/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2513194-Reviews-Chapel_Street-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. Sidney Myer Music Bowl",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ac/25/5c/sidney-myer-music-bowl.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258076-Reviews-Sidney_Myer_Music_Bowl-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "73. Docklands Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/5b/b4/0c/stadion.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1048151-Reviews-Docklands_Stadium-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Forum Melbourne",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c2/84/e2/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d7824850-Reviews-SkyBus-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "4:00 AM - 1:00 AM",
+      "Sunday": "4:00 AM - 1:00 AM",
+      "Monday": "4:00 AM - 1:00 AM",
+      "Tuesday": "4:00 AM - 1:00 AM",
+      "Wednesday": "4:00 AM - 1:00 AM",
+      "Thursday": "4:00 AM - 1:00 AM",
+      "Friday": "4:00 AM - 1:00 AM"
+    }
+  },
+  {
+    "name": "75. SkyBus",
+    "category": "Bus Services • Taxis & Shuttles",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a9/f9/a2/pic-by-azliumar-yahoocom.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258068-Reviews-Forum_Melbourne-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:30 PM",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 5:30 PM",
+      "Friday": "9:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "76. 333 Collins Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fe/b0/95/impressive-domed-ceiling.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d6599984-Reviews-333_Collins_Street-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Zero Latency",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8e/8d/cf/come-and-play-free-roam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8639901-Reviews-Zero_Latency-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 12:00 AM",
+      "Sunday": "9:00 AM - 11:00 PM",
+      "Monday": "notice",
+      "Tuesday": "5:00 PM - 10:00 PM",
+      "Wednesday": "5:00 PM - 11:00 PM",
+      "Thursday": "5:00 PM - 11:00 PM",
+      "Friday": "2:30 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "78. Royal Park Nature Play Playground",
+    "category": "Parks • Playgrounds",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/10/f1/1b/victoria-police-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d257182-Reviews-Victoria_Police_Museum-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "79. Victoria Police Museum",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d3/0a/88/royal-park-nature-play.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12899331-Reviews-Royal_Park_Nature_Play_Playground-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Melbourne's GPO - Shopping Centre",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/3b/62/05/view.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d13456253-Reviews-Melbourne_s_GPO_Shopping_Centre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Boat O'Craigo Winery",
+    "category": "Wineries & Vineyards",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/89/8a/bc/charcuterie.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d10244261-Reviews-Boat_O_Craigo_Winery-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "82. Anz Banking Museum",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d0/b3/d2/wonderful-images-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d6599768-Reviews-Anz_Banking_Museum-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:30 AM - 4:00 PM",
+      "Tuesday": "9:30 AM - 4:00 PM",
+      "Wednesday": "9:30 AM - 4:00 PM",
+      "Thursday": "9:30 AM - 4:00 PM",
+      "Friday": "9:30 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "83. Coops Shot Tower",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/80/04/d1/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1057887-Reviews-Coops_Shot_Tower-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. St Kilda Adventure Playground",
+    "category": "Playgrounds",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/30/e5/9f/harika-bir-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d590662-Reviews-St_Kilda_Adventure_Playground-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 4:30 PM",
+      "Sunday": "12:00 PM - 4:30 PM",
+      "Monday": "3:30 PM - 5:30 PM",
+      "Tuesday": "3:30 PM - 5:30 PM",
+      "Wednesday": "3:30 PM - 5:30 PM",
+      "Thursday": "3:30 PM - 5:30 PM",
+      "Friday": "3:30 PM - 5:30 PM"
+    }
+  },
+  {
+    "name": "85. O'Brien Icehouse",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/5f/07/7f/floral-clock.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d526965-Reviews-King_s_Domain_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. King's Domain Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/d0/3c/family-friendly.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2343530-Reviews-O_Brien_Icehouse-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 11:00 PM",
+      "Sunday": "9:00 AM - 9:30 PM",
+      "Monday": "9:00 AM - 3:45 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 3:45 PM",
+      "Thursday": "9:00 AM - 3:30 PM",
+      "Friday": "9:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "87. Polly Woodside - Melbourne's Tall Ship Story",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ec/f3/cc/polly-woodside-docked.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d257177-Reviews-Polly_Woodside_Melbourne_s_Tall_Ship_Story-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. Queen Victoria Gardens",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/94/ca/2b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d7613337-Reviews-Queen_Victoria_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. The National Opal Collection",
+    "category": "Speciality Museums • Natural History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d3/49/1c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d11882821-Reviews-University_of_Melbourne-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. University of Melbourne",
+    "category": "Universities & Schools",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/0e/df/b9/dinosaur-models-a-scene.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1891668-Reviews-The_National_Opal_Collection-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:30 AM - 5:00 PM",
+      "Sunday": "10:30 AM - 5:00 PM",
+      "Monday": "10:30 AM - 5:00 PM",
+      "Tuesday": "10:30 AM - 5:00 PM",
+      "Wednesday": "10:30 AM - 5:00 PM",
+      "Thursday": "10:30 AM - 5:00 PM",
+      "Friday": "10:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "91. Museum of Chinese Australian History",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1b/7c/ad/20180219-143743-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1371183-Reviews-Museum_of_Chinese_Australian_History-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "92. The Butterfly Club",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d9/18/f8/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d3626723-Reviews-The_Butterfly_Club-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "5:00 PM - 1:00 AM",
+      "Sunday": "5:00 PM - 12:00 AM",
+      "Monday": "12:00 AM - 12:00 PM",
+      "Tuesday": "5:00 PM - 1:00 AM",
+      "Wednesday": "5:00 PM - 1:00 AM",
+      "Thursday": "5:00 PM - 1:00 AM",
+      "Friday": "5:00 PM - 1:00 AM"
+    }
+  },
+  {
+    "name": "93. Comedy Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ab/2d/64/come-from-away-view-from.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d258044-Reviews-Comedy_Theatre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. Westgate Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/56/da/f7/westgate-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d6586270-Reviews-Westgate_Park-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "95. Hamer Hall",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/33/ee/7a/end-of-performance.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12439554-Reviews-Hamer_Hall-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "96. Station Pier",
+    "category": "Piers & Boardwalks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/df/51/e0/early-morning-view-from.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1194197-Reviews-Station_Pier-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Capital City Trail",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/14/c5/a9/capital-city-trail.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d283245-Reviews-Capital_City_Trail-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. St. Francis Church",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c7/14/34/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d531652-Reviews-St_Francis_Church-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 6:30 PM",
+      "Sunday": "7:00 AM - 6:30 PM",
+      "Monday": "7:00 AM - 6:30 PM",
+      "Tuesday": "7:00 AM - 6:30 PM",
+      "Wednesday": "7:00 AM - 6:30 PM",
+      "Thursday": "7:00 AM - 6:30 PM",
+      "Friday": "7:00 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "99. Hellenic Museum",
+    "category": "Art Museums • History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/bb/d4/7b/gods-myths-mortals-is.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d4027747-Reviews-Hellenic_Museum-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "100. South Wharf Promenade",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/44/5a/5a/southbank-2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d10031283-Reviews-South_Wharf_Promenade-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. SkyHigh Mount Dandenong",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/58/6d/69/dc-lane.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d11905211-Reviews-Melbourne_Laneways-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Melbourne Laneways",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ef/fe/ff/great-views-walking-tracks.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d3546071-Reviews-SkyHigh_Mount_Dandenong-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "103. Spencer Outlet Centre",
+    "category": "Speciality & Gift Shops • Factory Outlets",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7d/31/1b/20151105-162411-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8594044-Reviews-Spencer_Outlet_Centre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "104. Manchester Unity Building",
+    "category": "Central Business District",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/50/70/6c/manchester-unity-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12110198-Reviews-Manchester_Unity_Building-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Royal Park",
+    "category": "Parks • Playgrounds",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/3e/ba/85/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d10498110-Reviews-Royal_Park-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. HMAS Castlemaine",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/3f/04/ee/go-west-tours.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1231974-Reviews-Go_West_Tours-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "107. Go West Tours",
+    "category": "Walking Tours • Sightseeing Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/51/d5/f2/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2397502-Reviews-HMAS_Castlemaine-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. Southbank Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/af/2e/d0/melbourne-theatre-company.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d2069952-Reviews-Southbank_Theatre-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "109. Treasury Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/97/36/3f/view.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d6960703-Reviews-Treasury_Gardens-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "7:30 AM - 6:00 PM",
+      "Tuesday": "7:30 AM - 6:00 PM",
+      "Wednesday": "7:30 AM - 6:00 PM",
+      "Thursday": "7:30 AM - 6:00 PM",
+      "Friday": "7:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "110. Melbourne & Olympic Parks",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/2f/42/2f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1549817-Reviews-Flight_Experience_Flight_Simulators-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Flight Experience Flight Simulators",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/41/1c/8f/melbourne-olympic-parks.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d11931996-Reviews-Melbourne_Olympic_Parks-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Newquay Promenade",
+    "category": "Piers & Boardwalks • Scenic Walking Areas",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c6/9c/77/newquay-promenade.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8565859-Reviews-Newquay_Promenade-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Princes Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/58/c8/f1/princes-bridge.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12034919-Reviews-Princes_Bridge-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Yarra Trams",
+    "category": "Public Transportation Systems",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/99/a9/b4/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d7815624-Reviews-Yarra_Trams-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. St. Augustine Church",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/ba/d8/8c/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d1214657-Reviews-St_Augustine_Church-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Centre Place",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/7a/53/94/centre-place.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d11924529-Reviews-Centre_Place-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. Warrandyte State Park",
+    "category": "State Parks • Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/56/da/31/warrandyte-state-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d590667-Reviews-Warrandyte_State_Park-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Southgate Melbourne",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/18/a8/42/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d10034501-Reviews-Southgate_Melbourne-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Sandridge Railway Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/95/b8/73/sandridge-railway-bridge.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d8067274-Reviews-Sandridge_Railway_Bridge-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Melbourne City Marina",
+    "category": "Marinas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/cf/f7/53/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255100-d12539153-Reviews-Melbourne_City_Marina-Melbourne_Victoria.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 3:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  }
+]

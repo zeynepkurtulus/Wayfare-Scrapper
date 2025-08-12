@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Table Mountain",
+    "category": "Mountains",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/be/d7/11/top-of-the-table.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1026865-d317744-Reviews-Table_Mountain-Table_Mountain_National_Park_Western_Cape.html"
+  },
+  {
+    "name": "2. Table Mountain Aerial Cableway",
+    "category": "Trams",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/83/5a/fb/enjoy-360-degree-views.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d481266-Reviews-Table_Mountain_Aerial_Cableway-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "3. Boulders Beach Penguin Colony",
+    "category": "Beaches • Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ce/3c/14/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319718-d629864-Reviews-Boulders_Beach_Penguin_Colony-Simon_s_Town_Western_Cape.html"
+  },
+  {
+    "name": "4. V&a Waterfront",
+    "category": "Marinas • Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/cb/13/bc/victoria-alfred-waterfront.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d317743-Reviews-V_a_Waterfront-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "5. Kirstenbosch National Botanical Garden",
+    "category": "Gardens",
+    "price": "Admission tickets from $6",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e3/55/dc/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312582-d480578-Reviews-Kirstenbosch_National_Botanical_Garden-Newlands_Western_Cape.html"
+  },
+  {
+    "name": "6. Lion's Head",
+    "category": "Mountains",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/1c/1e/d5/lion-s-head.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d481585-Reviews-Lion_s_Head-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "7. Cape of Good Hope",
+    "category": "Nature & Wildlife Areas • Lookouts",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4c/4e/9f/castle-of-good-hope.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d458054-Reviews-Castle_of_Good_Hope-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "8. Robben Island Museum",
+    "category": "Historic Sites • Islands",
+    "price": "Admission tickets from $68",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a4/f2/14/robben-islandhas-been.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d311008-Reviews-Robben_Island_Museum-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "9. Camp's Bay Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/2c/7a/d2/camps-bay.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312658-d481503-Reviews-Camp_s_Bay_Beach-Camps_Bay_Western_Cape.html"
+  },
+  {
+    "name": "10. Clifton Beaches",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/b6/90/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d460515-Reviews-Clifton_Beaches-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "11. Cape Point Nature Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "Admission tickets from $5",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/2c/6a/c0/cape-point-nature-reserve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d5978740-Reviews-Cape_Point_Nature_Reserve-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "12. Two Oceans Aquarium",
+    "category": "Aquariums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/79/41/05/predator-exhibit-two.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d311012-Reviews-Two_Oceans_Aquarium-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "13. Signal Hill",
+    "category": "Mountains • Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/f9/b5/a3/signal-hill.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d481586-Reviews-Signal_Hill-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "14. Bo-kaap",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f6/3b/99/bo-kaap.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d481271-Reviews-Bo_kaap-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "15. Chapman's Peak Drive",
+    "category": "Scenic Drives",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/b1/81/14/chapman-s-peak-drive.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1722390-d472355-Reviews-Chapman_s_Peak_Drive-Cape_Town_Western_Cape.html"
+  },
+  {
+    "name": "16. Cape Town Diamond Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/5b/0b/4b/cape-town-diamond-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2433257-Reviews-Cape_Town_Diamond_Museum-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "17. Vergelegen Estate",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/c8/d2/aa/vergelegen-was-declared.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d469477-Reviews-Vergelegen_Estate-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "18. Hout Bay",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/47/8d/cf/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d310922-Reviews-Hout_Bay-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "19. District Six Museum",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $4",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/07/c2/d3/district-six-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d310916-Reviews-District_Six_Museum-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "20. The Old Biscuit Mill",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1b/b4/20/the-old-biscuit-mill.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d1746285-Reviews-The_Old_Biscuit_Mill-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "21. Bloubergstrand Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6e/1e/b4/bloubergstrand-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d600871-Reviews-Bloubergstrand_Beach-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "22. Muizenberg Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d7/57/42/since-muizenberg-is-a.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d310925-Reviews-Muizenberg_Beach-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "23. Canal Walk Shopping Centre",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/80/f4/26/canal-walk-shopping-centre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d1857346-Reviews-Canal_Walk_Shopping_Centre-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "24. Groot Constantia",
+    "category": "Historic Sites • Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/59/38/c2/zeit-nehmen-und-geniessen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d310920-Reviews-Groot_Constantia-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "25. Sandy Bay",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/44/1f/30/sandy-bay-desde-el-aparcamient.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d460595-Reviews-Sandy_Bay-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "26. Inverdoorn Private Game Reserve",
+    "category": "Nature & Wildlife Areas • Off-Road & ATV Trails",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2c/99/3d/elephant-at-inverdoorn.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d1575446-Reviews-Inverdoorn_Private_Game_Reserve-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "27. Cheetah Outreach - Somerset West",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/79/fe/fc/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d669718-Reviews-Cheetah_Outreach_Somerset_West-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "28. Company's Gardens",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/91/95/7f/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d310915-Reviews-Company_s_Gardens-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "29. Greenmarket Square",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f0/2d/18/greenmarket-square.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d310919-Reviews-Greenmarket_Square-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "30. Constantia Glen Winery",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/fd/c6/4e/screenshot-2016-01-06.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d2514566-Reviews-Constantia_Glen_Winery-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/c0/0b/3e/interior-roof.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d12926847-Reviews-Zeitz_MOCAA-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/30/32/31/caminho-para-camps-bay.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d481489-Reviews-Twelve_Apostles-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ec/9b/c9/oranjezicht-city-farm.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1722390-d16855422-Reviews-Oranjezicht_City_Farm_and_Market_Day-Cape_Town_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/af/5a/3e/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d464106-Reviews-Long_Street_Baths-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/af/5f/ae/wine-by-the-barrow.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1057715-d3609672-Reviews-Klein_Roosboom_Boutique_Winery-Durbanville_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ae/75/c5/drive-past-the-cape-town.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2086951-Reviews-DHL_Stadium-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3c/83/c8/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d7322219-Reviews-Beau_Constantia-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3d/07/4b/welcome-to-our-hood.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d11817349-Reviews-Bay_Harbour_Market-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/77/ae/14/go-on-find-your-mojo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g15134971-d12405103-Reviews-Mojo_Market-Sea_Point_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fa/b9/7c/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1026865-d9601281-Reviews-Platteklip_Gorge-Table_Mountain_National_Park_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/54/26/cc/photo9jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2035157-Reviews-Heart_of_Cape_Town_Museum-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/98/d7/92/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d567384-Reviews-Buitenverwachting-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e1/f9/54/17.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d519901-Reviews-World_of_Birds-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/34/30/63/seen-from-the-main-road.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2137403-d7887140-Reviews-Llandudno_Beach-Llandudno_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/72/c2/3c/scarborough-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1862926-d2469723-Reviews-Scarborough_Beach-Scarborough_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bf/40/ed/fish-hoek-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2485002-Reviews-Fish_Hoek_Beach-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4c/4e/9f/castle-of-good-hope.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d458054-Reviews-Castle_of_Good_Hope-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/7d/bf/da/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312666-d7708887-Reviews-Noordhoek_Beach-Noordhoek_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/62/9b/2b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d481501-Reviews-Duiker_Island-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/27/96/0b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d12822292-Reviews-Victoria_Wharf_Shopping_Centre-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/2c/8a/7e/constantia-valley.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d8357461-Reviews-Constantia_Valley-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/41/53/1d/lourensford.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d2221262-Reviews-Lourensford_Wine_Estate-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/dc/8f/d8/tstistkiamma-national.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d3246245-Reviews-Go_That_Way-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/66/a1/88/iziko-south-african-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d458057-Reviews-Iziko_South_African_Museum_and_Planetarium-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/08/31/6f/the-worm-train-a-firm.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2290886-Reviews-Bugz_Family_Playpark-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/7c/8c/a3/steenberg-tasting-room.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d2529665-Reviews-Steenberg_Vineyards-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9e/78/bf/award-winning-spiral.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d480281-Reviews-South_African_Jewish_Museum-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/43/e6/a5/keep-your-hands-always.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312656-d3226061-Reviews-Cool_Runnings-Bellville_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/97/7b/56/oranjezicht-city-farm.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d4942170-Reviews-Oranjezicht_City_Farm-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/cd/00/88/view-from-the-hill.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1788356-d12408192-Reviews-Kalk_Bay_Harbour-Kalk_Bay_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/75/a7/49/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d6733304-Reviews-Flying_Dutchman_Funicular-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/2d/77/47/p1030884-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2305232-Reviews-Cape_Town_Ostrich_Ranch-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/1a/fd/cb/out-and-about-at-silvermine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d3617004-Reviews-Silvermine_Nature_Reserve-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/0d/f7/9f/d.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d480577-Reviews-Iziko_Slave_Lodge-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2d/5c/6d/foxy-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319718-d477284-Reviews-Foxy_Beach-Simon_s_Town_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/62/1c/80/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d311011-Reviews-St_George_s_Cathedral-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/be/a5/e3/incredible-sunset.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1236998-d7594604-Reviews-Strand_Beach-Strand_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/70/fc/66/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6776544-d8697208-Reviews-Neighbourgoods_Market-Woodstock_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6c/be/3c/nobel-square.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d4463282-Reviews-Nobel_Square-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/13/ce/d7/cape-point.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1026865-d13550753-Reviews-Cape_Point-Table_Mountain_National_Park_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4f/33/ab/img-20171118-152327-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d12032393-Reviews-Hout_Bay_Beach-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/22/39/aa/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2331930-d481502-Reviews-St_James_Beach-St_James_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/55/35/b4/the-slopes-of-klein-constantia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312660-d2578237-Reviews-Klein_Constantia-Constantia_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/bf/50/7d/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2400629-Reviews-Cape_Point_Ostrich_Farm-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/33/aa/04/view-along-the-route.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g8048818-d14970396-Reviews-Old_Cape_Point_Lighthouse-Cape_Point_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2b/ed/a0/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d3822822-Reviews-Waterkloof_Wines-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/01/6a/d7/our-signature-twilight.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d9466899-Reviews-Lourensford_Market-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/79/2f/df/palmiet-river.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1722390-d9869701-Reviews-Kogelberg_Nature_Reserve-Cape_Town_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6b/e2/38/the-morgenster-wine-and.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d2402905-Reviews-Morgenster_Wine_Farm_and_Olive_Estate-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/c2/ca/f5/swamplands-green-point.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2103299-Reviews-Greenpoint_Park_and_Biodiversity_Garden-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/90/c6/09/helderberg-nature-reserve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d469474-Reviews-Helderberg_Nature_Reserve-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/23/29/cc/cticc2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d1418617-Reviews-Cape_Town_International_Convention_Centre-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/4e/fe/1f/theatre-on-the-bay-is.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312658-d6818466-Reviews-Theatre_on_the_Bay-Camps_Bay_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/db/8a/56/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1214290-d2572921-Reviews-Imhoff_Farm-Kommetjie_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/2d/4d/73/newlands-forest.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312582-d6730946-Reviews-Newlands_Forest-Newlands_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a5/67/5a/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d458056-Reviews-Rhodes_Memorial-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/86/e8/5a/newlands-cricket-stadium.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312582-d6750786-Reviews-PPC_Newlands_Cricket-Newlands_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/66/95/1c/somethings-to-eat-that.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1057715-d11737894-Reviews-Durbanville_Hills_Wine-Durbanville_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/d9/6c/2a/university-of-cape-town.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d461701-Reviews-University_of_Cape_Town-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "",
+    "category": "",
+    "price": "Free",
+    "rating": "",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2f/0a/ae/cccc.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d7729320-Reviews-Cape_Town_Holocaust_Genocide_Centre-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "91. Glen Carlou Vineyards",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/de/db/de/glen-carlou-vineyards.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d591514-Reviews-Glen_Carlou_Vineyards-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "92. Victoria Road (M6)",
+    "category": "Biking Trails • Scenic Drives",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/13/c4/60/victoria-road.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d8666751-Reviews-Victoria_Road_M6-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "93. Chapman's Peak",
+    "category": "Mountains",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/98/4f/93/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d16738589-Reviews-Chapman_s_Peak-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "94. Cape Point Vineyards Tasting Room",
+    "category": "Wineries & Vineyards",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ec/88/71/the-most-perfect-venue.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312666-d3935570-Reviews-Cape_Point_Vineyards_Tasting_Room-Noordhoek_Western_Cape.html"
+  },
+  {
+    "name": "95. 18 Gangster Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/79/06/9c/surfing-practice.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2427234-d11873401-Reviews-18_Gangster_Museum-Khayelitsha_Western_Cape.html"
+  },
+  {
+    "name": "96. South African Naval Museum",
+    "category": "Military Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ed/62/bc/main-street.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319718-d4115586-Reviews-South_African_Naval_Museum-Simon_s_Town_Western_Cape.html"
+  },
+  {
+    "name": "97. Erinvale Golf Club",
+    "category": "Golf Courses",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/a7/fb/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469396-d612270-Reviews-Erinvale_Golf_Club-Somerset_West_Western_Cape.html"
+  },
+  {
+    "name": "98. African Trading Port",
+    "category": "Speciality & Gift Shops • Art Galleries",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/22/0f/6e/credit-is-mark-chittendon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d481046-Reviews-African_Trading_Port-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "99. SANCCOB Seabird Rehabilitation Centre",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/dd/d5/ce/penguins-going-out-to.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g2427200-d2461871-Reviews-SANCCOB_Seabird_Rehabilitation_Centre-Table_View_Western_Cape.html"
+  },
+  {
+    "name": "100. Noon Day Gun",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/9e/8d/5d/one-of-the-two-guns.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2422811-Reviews-Noon_Day_Gun-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "101. Norval Foundation",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/67/16/a7/sculpture-garden.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1770549-d14072293-Reviews-Norval_Foundation-Tokai_Western_Cape.html"
+  },
+  {
+    "name": "102. Karbonkelberg Tourism",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/be/2a/40/karbonkelberg-tourism.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d23452030-Reviews-Karbonkelberg_Tourism-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "103. Clovelly Country Club",
+    "category": "Golf Courses",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/1e/92/a-view-from-above-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1788356-d2335490-Reviews-Clovelly_Country_Club-Kalk_Bay_Western_Cape.html"
+  },
+  {
+    "name": "104. Eden on the Bay",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c6/e1/60/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6736900-d13447581-Reviews-Eden_on_the_Bay-Bloubergstrand_Western_Cape.html"
+  },
+  {
+    "name": "105. Just Nuisance",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/80/87/45/just-nuincance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319718-d12254694-Reviews-Just_Nuisance-Simon_s_Town_Western_Cape.html"
+  },
+  {
+    "name": "106. Jack Friedman V&A WaterFront",
+    "category": "Speciality & Gift Shops • Shopping Malls",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/0b/3d/80/night-life-v-a.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d6460245-Reviews-Jack_Friedman_V_A_WaterFront-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "107. Hout Bay Lookout",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/84/bc/0f/noordhoek-beach-from.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g469392-d3345943-Reviews-Hout_Bay_Lookout-Hout_Bay_Western_Cape.html"
+  },
+  {
+    "name": "108. Shimansky Clock Tower Showroom",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/de/0d/5c/set-against-the-stunning.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d2433250-Reviews-Shimansky_Clock_Tower_Showroom-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "109. Simon's Town Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/fe/02/8c/simon-s-town-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g319718-d480608-Reviews-Simon_s_Town_Museum-Simon_s_Town_Western_Cape.html"
+  },
+  {
+    "name": "110. Cape Town Heritage Tours",
+    "category": "Historic Walking Areas",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/e9/ab/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1722390-d27161622-Reviews-Cape_Town_Heritage_Tours-Cape_Town_Western_Cape.html"
+  },
+  {
+    "name": "111. Museum Of Illusions Cape Town",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/6d/98/95/museum-of-illusions-cape.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d33023666-Reviews-Museum_Of_Illusions_Cape_Town-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "112. Baraka Gifts and Decor",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5b/a6/c5/baraka-gifts-and-decor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d3948522-Reviews-Baraka_Gifts_and_Decor-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "113. City Sightseeing South Africa",
+    "category": "City Tours • Hop-On Hop-Off Tours",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/9e/a4/bus-departing-from-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d1594066-Reviews-City_Sightseeing_South_Africa-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "114. HintHunt Cape Town",
+    "category": "Escape Games • Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/88/68/59/hinthunt-africa-offers.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d4873318-Reviews-HintHunt_Cape_Town-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "115. Mai Thai Wellness Spa",
+    "category": "Spas",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/0a/f7/59/a-view-inside-mai-thai.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d12095918-Reviews-Mai_Thai_Wellness_Spa-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "116. Watershed",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1f/49/e1/the-watershed-is-a-beautiful.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d7330708-Reviews-Watershed-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "117. Cape Town Taxi",
+    "category": "Taxis & Shuttles",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7e/f7/a2/20171204-180830-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d10340814-Reviews-Cape_Town_Taxi-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "118. Cape Diamonds",
+    "category": "Speciality & Gift Shops",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/44/d4/4d/disa-flower-south-africa.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d6707234-Reviews-Cape_Diamonds-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "119. Bosch Travel and Tours",
+    "category": "Taxis & Shuttles",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a8/0c/2f/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d14005297-Reviews-Bosch_Travel_and_Tours-Cape_Town_Central_Western_Cape.html"
+  },
+  {
+    "name": "120. Cape Town Free Walking Tours",
+    "category": "Cultural Tours • Historical & Heritage Tours",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/4b/84/b2/ready-for-walking.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g312659-d5028978-Reviews-Cape_Town_Free_Walking_Tours-Cape_Town_Central_Western_Cape.html"
+  }
+]

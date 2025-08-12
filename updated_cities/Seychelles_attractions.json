@@ -1,0 +1,722 @@
+[
+  {
+    "name": "31. Baie Lazare Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ff/7a/7f/1963.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d10669701-Reviews-Baie_Lazare_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "32. Mission Lodge Lookout",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/01/35/mission-lodge-lookout.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d3246148-Reviews-Mission_Lodge_Lookout-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "33. Sunset Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/55/73/39/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d6517013-Reviews-Sunset_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "34. Union Estate Park",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/37/03/1b/to-the-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d10059861-Reviews-Union_Estate_Park-La_Digue_Island.html"
+  },
+  {
+    "name": "35. Spiaggia di Port Launay",
+    "category": "Marinas",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/c3/1a/14/port-launay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488115-d6613411-Reviews-Spiaggia_di_Port_Launay-Port_Glaud_Mahe_Island.html"
+  },
+  {
+    "name": "36. Petite Anse Kerlan",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/56/13/46/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1193192-d3644146-Reviews-Petite_Anse_Kerlan-Anse_Kerlan_Praslin_Island.html"
+  },
+  {
+    "name": "37. Ile Grande Soeur Private Island",
+    "category": "Reefs • Islands",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/18/49/71/la-plage-privee.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d4094140-Reviews-Ile_Grande_Soeur_Private_Island-Praslin_Island.html"
+  },
+  {
+    "name": "38. Praslin Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b0/2d/c2/praslin-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d2403723-Reviews-Praslin_Museum-Praslin_Island.html"
+  },
+  {
+    "name": "39. Clock Tower",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/da/d6/c2/mini-big-ben-au-centre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d480541-Reviews-Clock_Tower-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "40. SeyFerry",
+    "category": "Ferries",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fa/9a/aa/seyferry-we-are-selling.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d12282604-Reviews-SeyFerry-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "41. Spiaggia Anse Soleil",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c3/3d/9c/spiaggia-anse-soleil.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d6539301-Reviews-Spiaggia_Anse_Soleil-Mahe_Island.html"
+  },
+  {
+    "name": "42. Félicité Island",
+    "category": "Islands",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/3d/33/7b/felicite.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d9796292-Reviews-Felicite_Island-La_Digue_Island.html"
+  },
+  {
+    "name": "43. Ilot Saint-Pierre",
+    "category": "Islands",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b1/05/57/ilot-saint-pierre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d7165521-Reviews-Ilot_Saint_Pierre-Praslin_Island.html"
+  },
+  {
+    "name": "44. Kot Man-Ya Exotic Flower Garden",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/46/ea/72/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g788019-d12225402-Reviews-Kot_Man_Ya_Exotic_Flower_Garden-Anse_Royale_Mahe_Island.html"
+  },
+  {
+    "name": "45. Sauzier Waterfall",
+    "category": "Waterfalls",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3a/bf/fa/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488115-d12398767-Reviews-Sauzier_Waterfall-Port_Glaud_Mahe_Island.html"
+  },
+  {
+    "name": "46. Trois Freres Trail",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d5/05/8b/trois-freres-trail.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d3262489-Reviews-Trois_Freres_Trail-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "47. Baie Ternay Marine National Park",
+    "category": "Points of Interest & Landmarks • Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/3f/39/4a/baie-ternay-marine-national.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d2641838-Reviews-Baie_Ternay_Marine_National_Park-Mahe_Island.html"
+  },
+  {
+    "name": "48. Police Bay",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f4/c5/57/spiaggia-di-police-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g16760529-d6592010-Reviews-Police_Bay-Quatre_Bornes_Mahe_Island.html"
+  },
+  {
+    "name": "49. Anse Major Trail",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fd/75/aa/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d18718442-Reviews-Anse_Major_Trail-Mahe_Island.html"
+  },
+  {
+    "name": "50. Bel Ombre Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e0/6e/e1/bel-ombre-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d6200775-Reviews-Bel_Ombre_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "51. Anse La Reunion Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/42/5a/f6/anse-la-reunion-beim.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d6023405-Reviews-Anse_La_Reunion_Beach-La_Digue_Island.html"
+  },
+  {
+    "name": "52. Le Glacis Noir",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/dd/18/81/img-20180506-122555-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d8857140-Reviews-Le_Glacis_Noir-Praslin_Island.html"
+  },
+  {
+    "name": "53. Nid d’Aigle",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/18/31/0d/point-de-vue-nid-aigle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d12688037-Reviews-Nid_d_Aigle-La_Digue_Island.html"
+  },
+  {
+    "name": "54. Inter Island Ferry",
+    "category": "Ferries",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/c5/f0/be/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6375862-d13076658-Reviews-Inter_Island_Ferry-Baie_Ste_Anne_Praslin_Island.html"
+  },
+  {
+    "name": "55. Cousin Island Special Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/9a/c5/d6/cousin-island-special.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477964-d469340-Reviews-Cousin_Island_Special_Reserve-Cousin_Island.html"
+  },
+  {
+    "name": "56. Anse Forbans",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/00/8a/6b/la-spiaggia-di-anse-forbans.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d6556575-Reviews-Anse_Forbans-Mahe_Island.html"
+  },
+  {
+    "name": "57. Anse Kerlan Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e5/b6/f3/anse-kerlan.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1193192-d4744166-Reviews-Anse_Kerlan_Beach-Anse_Kerlan_Praslin_Island.html"
+  },
+  {
+    "name": "58. Anse a la Mouche",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e3/c1/58/anse-a-la-mouche.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d6563859-Reviews-Anse_a_la_Mouche-Mahe_Island.html"
+  },
+  {
+    "name": "59. Doffay Car Rental",
+    "category": "Taxis & Shuttles",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/b5/0a/86/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d20381380-Reviews-Doffay_Car_Rental-Mahe_Island.html"
+  },
+  {
+    "name": "60. Fairyland Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8a/f0/b2/fairyland-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d12614881-Reviews-Fairyland_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "61. Seychelles Public Transport Corporation",
+    "category": "Public Transportation Systems",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c3/a2/cd/ligne-anse-boudin-la.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d10121662-Reviews-Seychelles_Public_Transport_Corporation-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "62. Galerie Passerose",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/15/b2/5e/galerie-passerose.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d14990604-Reviews-Galerie_Passerose-Praslin_Island.html"
+  },
+  {
+    "name": "63. Seychelles Natural History Museum",
+    "category": "Natural History Museums • History Museums",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cd/98/22/seychelles-natural-history.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d480551-Reviews-Seychelles_Natural_History_Museum-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "64. Domaine de Val des Pres - Craft Village",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/3f/9f/2f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6375870-d7942567-Reviews-Domaine_de_Val_des_Pres_Craft_Village-Au_Cap_Praslin_Island.html"
+  },
+  {
+    "name": "65. Anse Boudin",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/91/00/img-20181030-wa0057-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d4795620-Reviews-Anse_Boudin-Praslin_Island.html"
+  },
+  {
+    "name": "66. Grand Anse beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/01/44/14/spiaggia-di-grand-anse.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6375868-d6556537-Reviews-Grand_Anse_beach-Grand_Anse_Praslin_Island.html"
+  },
+  {
+    "name": "67. Veuve Nature Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ec/63/fd/uno-scorcio-lungo-il.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d7298420-Reviews-Veuve_Nature_Reserve-La_Digue_Island.html"
+  },
+  {
+    "name": "68. Anse La Blague",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ad/0a/3b/anse-la-blague.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d12526310-Reviews-Anse_La_Blague-Praslin_Island.html"
+  },
+  {
+    "name": "69. Ros Sodyer / Rock Pool",
+    "category": "Geologic Formations",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d2/d8/8d/rock-pool.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d16820045-Reviews-Ros_Sodyer_Rock_Pool-Mahe_Island.html"
+  },
+  {
+    "name": "70. Gran Kaz Victoria",
+    "category": "Casinos",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/55/d7/b5/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d9862268-Reviews-Gran_Kaz_Victoria-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "71. Cathedral of Our Lady of Immaculate Conception",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/9c/f7/fa/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d6550987-Reviews-Cathedral_of_Our_Lady_of_Immaculate_Conception-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "72. Anse Caiman",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/6e/e5/c9/anse-caiman.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d8784874-Reviews-Anse_Caiman-La_Digue_Island.html"
+  },
+  {
+    "name": "73. TAXI BOAT Happiness",
+    "category": "Taxis & Shuttles • Ferries",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e1/25/6f/blick-von-oben-auf-anse.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1185571-d7323425-Reviews-TAXI_BOAT_Happiness-Beau_Vallon_Mahe_Island.html"
+  },
+  {
+    "name": "74. Thérèse Island",
+    "category": "Islands",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/75/2a/5f/la-partenza.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488115-d12845022-Reviews-Therese_Island-Port_Glaud_Mahe_Island.html"
+  },
+  {
+    "name": "75. Lemuria Golf Course",
+    "category": "Golf Courses",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/83/68/c9/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d9465389-Reviews-Lemuria_Golf_Course-Praslin_Island.html"
+  },
+  {
+    "name": "76. Cap Lazare Nature Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/c6/75/bird-s-eye-view-of-our.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488116-d26559631-Reviews-Cap_Lazare_Nature_Reserve-Baie_Lazare_Mahe_Island.html"
+  },
+  {
+    "name": "77. Cassedent",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/94/f5/cassedent.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d3686086-Reviews-Cassedent-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "78. Michael Adams Paintings Studio",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/61/97/f0/20171113-142800-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d12140955-Reviews-Michael_Adams_Paintings_Studio-Mahe_Island.html"
+  },
+  {
+    "name": "79. Morne Seychellos National Park",
+    "category": "National Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/66/e2/a5/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d15691128-Reviews-Morne_Seychellos_National_Park-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "80. Club Liberte Casino",
+    "category": "Bars & Clubs • Casinos",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/6b/3c/54/fun-seychelles-nightlife.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488116-d10790147-Reviews-Club_Liberte_Casino-Baie_Lazare_Mahe_Island.html"
+  },
+  {
+    "name": "81. Anse Marie-Louise Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/fd/5a/33/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d4795619-Reviews-Anse_Marie_Louise_Beach-Praslin_Island.html"
+  },
+  {
+    "name": "82. Anse Capucins Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/9d/13/21/img-20171228-wa0026-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d4352077-Reviews-Anse_Capucins_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "83. Baie Lazare Public Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/91/55/f2/baie-lazare.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d10669720-Reviews-Baie_Lazare_Public_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "84. Petite Anse Lazio",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9d/14/97/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6375862-d26499993-Reviews-Petite_Anse_Lazio-Baie_Ste_Anne_Praslin_Island.html"
+  },
+  {
+    "name": "85. Plantation House National Monument",
+    "category": "Points of Interest & Landmarks • Monuments & Statues",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/06/64/52/plantation-house-national.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d6015315-Reviews-Plantation_House_National_Monument-La_Digue_Island.html"
+  },
+  {
+    "name": "86. Cerf Island Conservation Programme",
+    "category": "Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/15/3c/42/20200301-135943-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488114-d10137078-Reviews-Cerf_Island_Conservation_Programme-Cerf_Island.html"
+  },
+  {
+    "name": "87. Anse La Farine",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b7/f8/7c/anse-la-farine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d12588891-Reviews-Anse_La_Farine-Praslin_Island.html"
+  },
+  {
+    "name": "88. Mirante la Misere",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/6e/05/7e/mirante-la-misere.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d13218268-Reviews-Mirante_la_Misere-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "89. Anse Grosse Roche Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/58/d4/44/spiaggia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d8784879-Reviews-Anse_Grosse_Roche_Beach-La_Digue_Island.html"
+  },
+  {
+    "name": "90. Anse Pierrot Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/2c/a8/a2/spiaggia-anse-pierrot.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d5890560-Reviews-Anse_Pierrot_Beach-La_Digue_Island.html"
+  },
+  {
+    "name": "91. Eden Plaza",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c9/2c/11/eden-plaza-centro-comercial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1885454-d20017200-Reviews-Eden_Plaza-Eden_Island.html"
+  },
+  {
+    "name": "92. French Cultural Center",
+    "category": "Art Galleries • Libraries",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/95/0b/1d/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d480543-Reviews-French_Cultural_Center-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "93. Anse Aux Pins Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e8/34/7a/lever-de-soleil-anse.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d10315870-Reviews-Anse_Aux_Pins_Beach-Mahe_Island.html"
+  },
+  {
+    "name": "94. Grande Case",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/2c/23/5f/gran-kaze.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477971-d469335-Reviews-Grande_Case-Silhouette_Island.html"
+  },
+  {
+    "name": "95. Anse Possession",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/67/1d/0e/anse-possession.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d8674141-Reviews-Anse_Possession-Praslin_Island.html"
+  },
+  {
+    "name": "96. Dans Gallas Trail",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/3f/17/41/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1185571-d17476539-Reviews-Dans_Gallas_Trail-Beau_Vallon_Mahe_Island.html"
+  },
+  {
+    "name": "97. Anse Soleil",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/36/f8/10/beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297798-d18506873-Reviews-Anse_Soleil-Mahe_Island.html"
+  },
+  {
+    "name": "98. La Misere Exotics Garden Centre",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d8/b3/52/more-trails-credit-s.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g5538781-d7645079-Reviews-La_Misere_Exotics_Garden_Centre-La_Misere_Mahe_Island.html"
+  },
+  {
+    "name": "99. Port Glaud Lagoon",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/ae/64/the-view-from-the-little.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488115-d15343591-Reviews-Port_Glaud_Lagoon-Port_Glaud_Mahe_Island.html"
+  },
+  {
+    "name": "100. Royal Bay Beach Club",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b6/47/ba/capti_r.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g788019-d25380598-Reviews-Royal_Bay_Beach_Club-Anse_Royale_Mahe_Island.html"
+  },
+  {
+    "name": "101. Grand Anse Waterfall",
+    "category": "Waterfalls",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/20/9d/d8/grand-anse-waterfall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g9885814-d14116199-Reviews-Grand_Anse_Waterfall-Grand_Anse_Mahe_Island.html"
+  },
+  {
+    "name": "102. Kenwyn House",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/43/49/a2/ancienne-villa-coloniale.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d3477636-Reviews-Kenwyn_House-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "103. Anse Gaulettes Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/1a/16/f2/anse-gaulettes-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d6211723-Reviews-Anse_Gaulettes_Beach-La_Digue_Island.html"
+  },
+  {
+    "name": "104. Anse Royal Public Market",
+    "category": "Flea & Street Markets • Farmers Markets",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/4f/17/b3/anse-royal-public-market.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g788019-d12104839-Reviews-Anse_Royal_Public_Market-Anse_Royale_Mahe_Island.html"
+  },
+  {
+    "name": "105. Victoria Mosque",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d2/d0/89/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d15130750-Reviews-Victoria_Mosque-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "106. Henderson Taxi and Tours Seychelles",
+    "category": "Taxis & Shuttles",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/46/a3/e4/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d15856605-Reviews-Henderson_Taxi_and_Tours_Seychelles-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "107. Union Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/42/f1/34/union-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d6001114-Reviews-Union_Beach-La_Digue_Island.html"
+  },
+  {
+    "name": "108. Glacis Beach",
+    "category": "Points of Interest & Landmarks • Beaches",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/fa/98/88/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g488117-d18505956-Reviews-Glacis_Beach-Glacis_Mahe_Island.html"
+  },
+  {
+    "name": "109. Roots Seychelles",
+    "category": "Speciality & Gift Shops • Lessons & Workshops",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/f7/51/b5/enjoy-the-view-and-learn.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1185571-d12288823-Reviews-Roots_Seychelles-Beau_Vallon_Mahe_Island.html"
+  },
+  {
+    "name": "110. Salazie & Pasquiere Track",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/62/7b/68/salazie-track.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d13010727-Reviews-Salazie_Pasquiere_Track-Praslin_Island.html"
+  },
+  {
+    "name": "111. Church Of Saint Roch",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/43/53/d6/eglise-de-saint-roch.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g482879-d8556177-Reviews-Church_Of_Saint_Roch-Bel_Ombre_Mahe_Island.html"
+  },
+  {
+    "name": "112. Eden Aquarium",
+    "category": "Aquariums",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/86/00/97/img-20170609-wa0021-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1885454-d9599025-Reviews-Eden_Aquarium-Eden_Island.html"
+  },
+  {
+    "name": "113. Star Casino Seychelles",
+    "category": "Casinos",
+    "price": "Free",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/66/4f/6b/star-casino-is-situated.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d20968895-Reviews-Star_Casino_Seychelles-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "114. Anse Banane",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/2e/f0/anse-banane.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g477968-d12590687-Reviews-Anse_Banane-La_Digue_Island.html"
+  },
+  {
+    "name": "115. Zimbabwe Point",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/98/52/f5/a-view-in-an-eastern.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g6375862-d25077981-Reviews-Zimbabwe_Point-Baie_Ste_Anne_Praslin_Island.html"
+  },
+  {
+    "name": "116. Anse Gouvernement",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/cb/7a/87/spiaggia-anse-government.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d6518188-Reviews-Anse_Gouvernement-Praslin_Island.html"
+  },
+  {
+    "name": "117. Bicentennial Monument",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/7f/0b/31/moniman-trwa-lezel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g298572-d15132686-Reviews-Bicentennial_Monument-Victoria_Mahe_Island.html"
+  },
+  {
+    "name": "118. Anse Bois de Rose Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/94/c0/e2/the-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1193139-d15564975-Reviews-Anse_Bois_de_Rose_Beach-Anse_Bois_de_Rose_Praslin_Island.html"
+  },
+  {
+    "name": "119. Rita's Art Sudio & Gallery",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/0e/6c/rita-s-art-sudio-gallery.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g297799-d5873976-Reviews-Rita_s_Art_Sudio_Gallery-Praslin_Island.html"
+  },
+  {
+    "name": "120. Notre Dame De L’Assomption Church",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0d/f0/52/elisabete-marques-silva.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g23537304-d15361304-Reviews-Notre_Dame_De_L_Assomption_Church-La_Reunion_La_Digue_Island.html"
+  }
+]

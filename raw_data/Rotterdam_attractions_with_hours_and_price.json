@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Markthal",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/ab/8e/8a/markthal-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7129022-Reviews-Markthal-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 9:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "12:00 PM - 6:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "2. Erasmus Bridge",
+    "category": "Architectural Buildings • Bridges",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/47/0c/4a/erasmus-bridge-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190839-Reviews-Erasmus_Bridge-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "3. Dutch Pinball Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/47/4e/38/rotterdam-centraal-station.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4557172-Reviews-Rotterdam_Centraal_Station-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "1:00 PM - 9:00 PM",
+      "Saturday": "1:00 PM - 9:00 PM",
+      "Sunday": "1:00 PM - 8:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "1:00 PM - 8:00 PM",
+      "Thursday": "1:00 PM - 8:00 PM"
+    }
+  },
+  {
+    "name": "4. Rotterdam Zoo",
+    "category": "Zoos",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/48/e0/35/dutch-pinball-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d8778378-Reviews-Dutch_Pinball_Museum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "11:50 AM - 6:10 PM",
+      "Sunday": "11:50 AM - 6:10 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "12:00 PM - 5:00 PM",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "5. Rotterdam Centraal Station",
+    "category": "Points of Interest & Landmarks",
+    "price": "$35",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e5/64/ac/blijdot-op-14-mei-2015.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d535048-Reviews-Rotterdam_Zoo-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "6. Euromast",
+    "category": "Nieuwe Werk",
+    "price": "$15",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/4a/8f/6a/euromast-tower.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190844-Reviews-Euromast-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "7. Delfshaven",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a8/36/ec/delfshaven.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d314940-Reviews-Delfshaven-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "8. Museum Boijmans Van Beuningen",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/de/5a/cc/museum-boijmans-van-beuningen.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d314945-Reviews-Museum_Boijmans_Van_Beuningen-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "9. Witte de Withstraat",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e3/59/b3/main-entrance.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4976140-Reviews-The_Markthal-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "10. Oude Haven",
+    "category": "Piers & Boardwalks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/77/01/39/photo5jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6117269-Reviews-Witte_de_Withstraat-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "11. The Markthal",
+    "category": "Architectural Buildings • Flea & Street Markets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/08/2a/02/mussel-dinner-with-a.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d5993526-Reviews-Oude_Haven-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "12. Taman Arboretum Trompenburg",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/2c/13/e7/arboretum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d534325-Reviews-Taman_Arboretum_Trompenburg-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "12:00 PM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "13. Huis Sonneveld",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ae/16/ba/photo8jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190840-Reviews-Kijk_Kubus-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "11:00 AM - 5:00 PM",
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "14. Kijk-Kubus",
+    "category": "Speciality Museums",
+    "price": "$18",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/86/f1/0c/miniworld-rotterdam.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d2341357-Reviews-Miniworld_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "12:00 PM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "12:00 PM - 5:00 PM",
+      "Thursday": "12:00 PM - 5:00 PM"
+    }
+  },
+  {
+    "name": "15. Miniworld Rotterdam",
+    "category": "Educational sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/17/1b/48/kunsthal.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d314942-Reviews-Kunsthal_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "16. Kunsthal Rotterdam",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7f/b0/1f/photo6jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3696512-Reviews-Stadium_Feijenoord-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "17. Stadium Feijenoord",
+    "category": "Arenas & Stadiums",
+    "price": "$16",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/41/32/d4/de-rotterdam-steam-ship.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d1748897-Reviews-S_S_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 11:30 AM",
+      "Tuesday": "8:00 AM - 11:30 AM",
+      "Wednesday": "8:00 AM - 11:30 AM",
+      "Thursday": "8:00 AM - 11:30 AM"
+    }
+  },
+  {
+    "name": "18. S.S. Rotterdam",
+    "category": "Ships",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d3/bf/0f/sonneveld-house.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d554007-Reviews-Huis_Sonneveld-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "19. Watertaxi Rotterdam",
+    "category": "Taxis & Shuttles • Ferries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/2f/ce/bf/destroyed-city.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d259765-Reviews-The_Destroyed_City-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "20. The Destroyed City",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/57/2a/27/indoor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3702474-Reviews-Theme_Park_Plaswijckpark-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "21. Theme Park Plaswijckpark",
+    "category": "Amusement & Theme Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/a1/63/maritiem-museum-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d314943-Reviews-Maritiem_Museum_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "22. Maritiem Museum Rotterdam",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3f/e9/27/watertaxi-rotterdam.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d2396753-Reviews-Watertaxi_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 1:00 AM",
+      "Saturday": "9:00 AM - 1:00 AM",
+      "Sunday": "9:00 AM - 12:00 AM",
+      "Monday": "7:00 AM - 12:00 AM",
+      "Tuesday": "7:00 AM - 12:00 AM",
+      "Wednesday": "7:00 AM - 12:00 AM",
+      "Thursday": "7:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "23. Witte Huis",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ee/9f/9c/witte-huis.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190843-Reviews-Witte_Huis-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "24. Wereldmuseum",
+    "category": "Art Museums • History Museums",
+    "price": "$12",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/cd/3b/bb/wereldmuseum-rotterdam.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d269722-Reviews-Wereldmuseum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "25. Katendrecht",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/db/0f/12/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6023638-Reviews-Het_Park-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "26. Het Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bc/a0/0d/sunday-means-church-time.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3708420-Reviews-Grote_of_Sint_Laurenskerk-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "27. City Hall Rotterdam",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ec/ac/40/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d10020585-Reviews-North_Sea_Jazz_Festival-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Kunstkubus Rotterdam",
+    "category": "Art Galleries • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f0/9e/32/rathaus.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6106253-Reviews-City_Hall_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 5:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 5:00 PM",
+      "Tuesday": "8:30 AM - 5:00 PM",
+      "Wednesday": "8:30 AM - 5:00 PM",
+      "Thursday": "8:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "29. Wilhelminapier",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/94/15/25/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d546043-Reviews-Rotterdam_Ahoy-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "30. De Rotterdam",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/49/62/e5/wilhelminapier.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4263325-Reviews-Wilhelminapier-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Grote of Sint-Laurenskerk",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a9/7a/3e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d20065970-Reviews-Kunstkubus_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "32. Rotterdam Ahoy",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/29/79/06/dr.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6033764-Reviews-De_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. Maastunnel",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/89/f1/74/ontmoeting-tussen-oud.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d259764-Reviews-Kop_van_Zuid-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "34. Kop van Zuid",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/41/4b/d6/katendrecht-vanaf-de.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7614356-Reviews-Katendrecht-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Kralingse Bos",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/19/9b/29/kralingse-bos-uitzicht.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d5010831-Reviews-Kralingse_Bos-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "36. Natural History Museum",
+    "category": "Natural History Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/99/4c/dd/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d12812409-Reviews-Maastunnel-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "37. Nederlands Fotomuseum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/d5/ec/ff/waterbus.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7999857-Reviews-Waterbus-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "38. Kaapse Brouwers",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7c/37/1b/het-museum-gebouw.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d532127-Reviews-Natural_History_Museum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "39. Waterbus",
+    "category": "Taxis & Shuttles • Public Transportation Systems",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/7f/1d/d0/img-20190723-132104-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7892850-Reviews-Kaapse_Brouwers-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "12:00 PM - 11:00 PM",
+      "Saturday": "12:00 PM - 11:00 PM",
+      "Sunday": "12:00 PM - 11:00 PM",
+      "Monday": "notice",
+      "Tuesday": "12:00 PM - 11:00 PM",
+      "Wednesday": "12:00 PM - 11:00 PM",
+      "Thursday": "12:00 PM - 11:00 PM"
+    }
+  },
+  {
+    "name": "40. Schaakstukkenmuseum",
+    "category": "Speciality Museums • Art Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e1/27/ad/the-exposition.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d532116-Reviews-Nederlands_Fotomuseum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "41. Kralingse Plas",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/33/ee/ae/img-20190418-135505-477.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d14914561-Reviews-Schaakstukkenmuseum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "42. Veerhaven",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/48/c7/d5/locals-love-to-hang-out.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d5994413-Reviews-Kralingse_Plas-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. North Sea Jazz Festival",
+    "category": "Music Festivals",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3f/ed/a1/veerhaven.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d5993533-Reviews-Veerhaven-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "44. Strand Maasvlakte",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/13/88/0c/wonderful-evening-mamma.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4544494-Reviews-Nieuwe_Luxor_Theater-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "45. Oude Binnenweg",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/63/fc/2e/oude-binnenweg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6117267-Reviews-Oude_Binnenweg-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "46. Nieuwe Luxor Theater",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/88/00/1b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d9587090-Reviews-Museum_Rotterdam_40_45_NU-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "47. Museum Rotterdam 40-45 NU",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/7b/53/cb/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d28196219-Reviews-Cube_Houses_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "48. Nieuwe Instituut",
+    "category": "Speciality Museums • Architectural Buildings",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/60/48/4d/entree-nieuwe-instituut.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d314947-Reviews-Nieuwe_Instituut-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "49. Beurs - World Trade Center",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4c/56/33/santa-claus-when-we-first.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d8071157-Reviews-Santa_Claus_Beeld-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "50. Chabot Museum",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d2/5e/ce/monet-in-het-chabot-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d532115-Reviews-Chabot_Museum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 4:30 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "12:00 PM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 4:30 PM",
+      "Wednesday": "11:00 AM - 4:30 PM",
+      "Thursday": "11:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "51. Santa Claus (Beeld)",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/e4/ae/26/world-port-centre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190842-Reviews-World_Port_Centre-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "52. Skyview Rotterdam",
+    "category": "Amusement & Theme Parks",
+    "price": "$16",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/93/36/eb/mariniers-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3724488-Reviews-Mariniers_Museum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. Westerkade",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/06/0a/ef/fraaie-fotolocatie.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6212730-Reviews-Van_Nelle_Factory-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. Alexandrium Shopping Center",
+    "category": "Speciality & Gift Shops • Shopping Malls",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/14/19/66/holland-casino-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4003836-Reviews-Holland_Casino_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 5:00 AM",
+      "Saturday": "10:30 AM - 5:00 AM",
+      "Sunday": "10:30 AM - 5:00 AM",
+      "Monday": "10:30 AM - 5:00 AM",
+      "Tuesday": "10:30 AM - 5:00 AM",
+      "Wednesday": "10:30 AM - 5:00 AM",
+      "Thursday": "10:30 AM - 5:00 AM"
+    }
+  },
+  {
+    "name": "55. Mariniers Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/1b/84/ca/skyview-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d15111357-Reviews-Skyview_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Holland Casino Rotterdam",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/5a/bd/79/1.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6154043-Reviews-Beurs_World_Trade_Center-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Adventure City Rotterdam",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/fa/58/69/heerlijke-plek.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d21110117-Reviews-Strand_Maasvlakte-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "58. Willemsbrug",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/08/61/it-features-the-largest.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d19823700-Reviews-De_Bijenkorf_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "59. Cube Houses Rotterdam",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/51/34/2e/willemsbrug.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d5994665-Reviews-Willemsbrug-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. De Bijenkorf Rotterdam",
+    "category": "Department Stores",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7c/49/e4/zichten-vanaf-de-westerkade.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6106241-Reviews-Westerkade-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "61. Lasergame Rotterdam",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a5/3a/95/starbucks-in-alexandrium.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3981072-Reviews-Alexandrium_Shopping_Center-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 9:00 PM",
+      "Saturday": "9:30 AM - 6:00 PM",
+      "Sunday": "12:00 PM - 6:00 PM",
+      "Monday": "9:30 AM - 6:00 PM",
+      "Tuesday": "9:30 AM - 6:00 PM",
+      "Wednesday": "9:30 AM - 6:00 PM",
+      "Thursday": "9:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "62. World Port Centre",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b9/89/6d/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6034281-Reviews-De_Calypso-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Van Nelle Factory",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6a/bb/54/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6117223-Reviews-Meent-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Park Schoonoord",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/94/db/89/park-schoonoord.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6023596-Reviews-Park_Schoonoord-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. De Calypso",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/3f/93/af/banca-de-legumes.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d20386588-Reviews-Market_Binnenrotte-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. Belasting & Douane Museum",
+    "category": "Speciality Museums • Children's Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/76/4f/3a/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7681294-Reviews-Belasting_Douane_Museum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 5:00 PM",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "67. Market Binnenrotte",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/09/98/d7/terras.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4056085-Reviews-De_Pelgrim_Brewery-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Meent",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/51/60/07/boompjes-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6106233-Reviews-Boompjes_Park-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Boompjes Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a8/33/64/lasergamen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3137993-Reviews-Lasergame_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "3:00 PM - 1:00 AM",
+      "Saturday": "11:00 AM - 1:00 AM",
+      "Sunday": "11:00 AM - 10:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "1:00 PM - 10:00 PM",
+      "Thursday": "4:00 PM - 10:00 PM"
+    }
+  },
+  {
+    "name": "70. De Pelgrim Brewery",
+    "category": "Breweries",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/fb/4b/27/adventure-city-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d15647404-Reviews-Adventure_City_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "71. Sparta Stadion",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e8/d3/66/groot-handelsgebouw.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d259766-Reviews-Groot_Handelsgebouw-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. Luchtsingel",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/9f/f2/b3/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d12310923-Reviews-Sparta_Stadion-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "73. Belevenisboerderij Schieveen",
+    "category": "Farms",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e0/2d/ce/belevenisboerderij-schieveen.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d13486164-Reviews-Belevenisboerderij_Schieveen-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "74. Mini Mall",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/39/57/d7/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d9699074-Reviews-Erasmus_Sculpture-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Groot Handelsgebouw",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b2/c5/30/rondje-oud-overschie.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7892812-Reviews-Rondje_Oud_Overschie-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. The Red Apple",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/41/15/67/the-red-apple.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d5998793-Reviews-The_Red_Apple-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Museum Rotterdam",
+    "category": "History Museums",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/af/fc/4f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d12640229-Reviews-Luchtsingel-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. Westelijk Handelsterrein",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/dd/ff/56/locatie-coolhaven-375.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d9991730-Reviews-Museum_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "79. Erasmus Sculpture",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/0b/25/69/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3905073-Reviews-Theater_Walhalla-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Rondje Oud Overschie",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/c0/8d/f8/de-minimall-met-restaurant.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6023694-Reviews-Mini_Mall-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. P&O Ferrymasters",
+    "category": "Public Transportation Systems • Ferries",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/09/d6/40/pauluskerk.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d11864545-Reviews-Pauluskerk-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. De Hef",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e2/f1/11/rotterdam-kpn-telecom.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190841-Reviews-KPN_Telecom_Building_Toren_op_Zuid-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "83. Pauluskerk",
+    "category": "Architectural Buildings • Churches & Cathedrals",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/1a/2a/2e/het-museumpark-van-rotterdam.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d10595579-Reviews-Museumpark_Rotterdam_uit_1927-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. Mevlana Mosque",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/de/51/66/with-help-from-the-service.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7614449-Reviews-Rotterdam_Tourist_Information_CS-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "85. Museumpark Rotterdam uit 1927",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e2/97/1e/rotterdam-drijvend-paviljoen.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d10447587-Reviews-Floating_Pavilion-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Rotterdam Tourist Information CS",
+    "category": "Visitor Centers",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/41/18/1c/schouwbergplein.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4557228-Reviews-Schouwburgplein-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. Witte de With Center for Contemporary Art",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/62/8e/b1/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3703585-Reviews-Westelijk_Handelsterrein-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. Fenix Food Factory",
+    "category": "Bars & Clubs",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/67/18/31/de-hef.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6034070-Reviews-De_Hef-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. KPN Telecom Building / Toren op Zuid",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/31/1e/5e/a-view-of-rotterdam-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d25164851-Reviews-Centrale_Bibliotheek_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "1:00 PM - 5:00 PM",
+      "Monday": "1:00 PM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "90. Orthodox Church of Saint Alexander Nevsky",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/41/87/ca/douglas-coupland-bit.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d532139-Reviews-Witte_de_With_Center_for_Contemporary_Art-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 9:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "91. Schouwburgplein",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/3f/f8/38/photo5jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d8277315-Reviews-Mevlana_Mosque-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "92. Skate Park Westblaak",
+    "category": "Sports Complexes • Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/80/32/7f/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d17329181-Reviews-Monument_Voor_Alle_Gevallenen_1940_1945-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Monk Bouldergym Rotterdam",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b0/97/a9/rotterdamse-oogst.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d17795601-Reviews-Rotterdamse_Oogst-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "94. Nieuwe Delftse Poort",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b6/a6/de/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d10638329-Reviews-Nieuwe_Delftse_Poort-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "95. Scapino Ballet Rotterdam",
+    "category": "Ballets",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bb/b5/a4/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d8871839-Reviews-Beeldenroute_Westersingel-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "96. Theater Walhalla",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/54/6b/42/20181029-082137-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d11500740-Reviews-P_O_Ferrymasters-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. De Pannekoekenboot",
+    "category": "Ferries",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/28/85/a6/fenix-food-factory.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6857288-Reviews-Fenix_Food_Factory-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 11:00 PM",
+      "Saturday": "11:00 AM - 11:00 PM",
+      "Sunday": "11:00 AM - 8:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 10:00 PM",
+      "Wednesday": "11:00 AM - 10:00 PM",
+      "Thursday": "11:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "98. Floating Pavilion",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ce/77/81/landmark-in-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d32994476-Reviews-Depot_Boymans_Van_Beuningen-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "99. Beeldenroute Westersingel",
+    "category": "Points of Interest & Landmarks • Scenic Walking Areas",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/66/b0/fb/de-molenwinkel-van-delfshaven.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7645931-Reviews-Distilleerketel-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "100. Depot Boymans Van Beuningen",
+    "category": "Architectural Buildings • Art Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/c9/b1/70/de-pannekoekenboot.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d546645-Reviews-De_Pannekoekenboot-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Bospoldervos",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/b4/bb/b5/scapino-ballet-rotterdam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d245264-Reviews-Scapino_Ballet_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Kids Marina",
+    "category": "Stadsdriehoek",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/02/43/1a/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d33215792-Reviews-Fenix_Art_Museum-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "103. Museumstoomdepot/Stoom Stichting Nederland",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/78/bf/2d/de-bospoldervos-kunstwerk.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d21022325-Reviews-Bospoldervos-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "104. Speeltuin Katendrecht",
+    "category": "Playgrounds",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/db/06/3d/orthodox-church-of-saint.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d8280397-Reviews-Orthodox_Church_of_Saint_Alexander_Nevsky-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Centrale Bibliotheek Rotterdam",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/46/19/1c/the-guard-by-hans-van.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7614428-Reviews-Skate_Park_Westblaak-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. Distilleerketel",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/37/93/c5/monk-rotterdam-climbershome.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d12584450-Reviews-Monk_Bouldergym_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "107. Rotterdamse Oogst",
+    "category": "Farmers Markets",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/cc/65/11/info-sign.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d21050823-Reviews-Floating_Farm-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. Monument Voor Alle Gevallenen 1940 – 1945",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/85/da/85/stoom-stichting-nederland.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d3849741-Reviews-Museumstoomdepot_Stoom_Stichting_Nederland-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 3:00 PM",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "109. Fenix Art Museum",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/3f/21/89/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d12787079-Reviews-Brouwerij_Noordt-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "3:00 AM - 9:00 PM",
+      "Saturday": "2:00 PM - 7:00 PM",
+      "Sunday": "2:00 PM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "3:00 PM - 7:00 PM"
+    }
+  },
+  {
+    "name": "110. Garage Rotterdam",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/04/7a/45/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d14802749-Reviews-Kids_Marina-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Huiskantine",
+    "category": "Bars & Clubs • Dance Clubs & Discos",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d2/26/a3/img-20160903-152520-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d7614443-Reviews-Heemraadssingel_Park-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Entrepothaven",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/c2/9e/12/speeltuin-katendrecht.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d14032080-Reviews-Speeltuin_Katendrecht-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Maastoren",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/bd/e5/49/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6103206-Reviews-Brandgrens-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Brouwerij Noordt",
+    "category": "Breweries",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/57/ef/55/maastoren.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6034067-Reviews-Maastoren-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Zuiderpark",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bb/f1/f1/taste-all-our-different.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d10664382-Reviews-Cheese_More_by_Henri_Willig_Markthal-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Erasmus experience",
+    "category": "Science Museums",
+    "price": "",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/45/bb/82/the-montevideo-tower.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6209053-Reviews-Montevideo-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. VR4play",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/51/4f/cf/leuvehoofd-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d6106236-Reviews-Leuvehoofd_Park-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Strand Nesselande",
+    "category": "Beaches",
+    "price": "",
+    "rating": "3.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/34/b9/cf/maxresdefault-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d4481023-Reviews-Vroesenpark-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Montevideo",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/70/16/2d/indrukwekkende-beeldschermen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d26656131-Reviews-Port_Pavilion_Rotterdam-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "120. Foro De Rotterdam",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/94/1d/64/veerhaven.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g188632-d190845-Reviews-Waterstad-Rotterdam_South_Holland_Province.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

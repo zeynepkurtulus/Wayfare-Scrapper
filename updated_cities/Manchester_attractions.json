@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. The John Rylands Library",
+    "category": "Libraries",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/09/ac/73/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d188923-Reviews-The_John_Rylands_Library-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "2. Science and Industry Museum",
+    "category": "Science Museums • Children's Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d2/0d/4c/photo-of-the-science.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d212251-Reviews-Science_and_Industry_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "3. AO Arena",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/b4/f8/c4/phones-4-u-arena.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195803-Reviews-AO_Arena-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "4. Etihad Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "Admission tickets from $203",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/d5/4a/02/fb-img-1472486295335.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d4302956-Reviews-Etihad_Stadium-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "5. Manchester Museum",
+    "category": "Natural History Museums • Science Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1a/c2/f5/img-20200307-113230-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d1460366-Reviews-Manchester_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "6. National Football Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/e5/64/4f/national-football-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d579319-Reviews-National_Football_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "7. The Crystal Maze LIVE Experience, Manchester",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/29/4a/7a/manchesters-iconic-crystal.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12273346-Reviews-The_Crystal_Maze_LIVE_Experience_Manchester-Manchester_Greater_Manchester_Englan.html"
+  },
+  {
+    "name": "8. People's History Museum",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4c/7b/b2/people-s-history-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d188922-Reviews-People_s_History_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "9. Manchester Art Gallery",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/33/28/55/manchester-art-gallery.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d254526-Reviews-Manchester_Art_Gallery-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "10. Gay Village",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/d4/93/ee/gay-village.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d188930-Reviews-Gay_Village-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "11. Palace Theatre",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ef/a0/53/palace-theatre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d1406902-Reviews-Palace_Theatre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "12. Manchester Cathedral",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/01/15/f0/manchester-cathedral.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d188924-Reviews-Manchester_Cathedral-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "13. Heaton Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0a/60/d8/heaton-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2322475-Reviews-Heaton_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "14. Royal Exchange Theatre",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e8/9e/0f/royal-exchange-theatre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195809-Reviews-Royal_Exchange_Theatre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "15. Museum Of Illusions Manchester",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d2/67/b2/send-your-friends-to.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d28147938-Reviews-Museum_Of_Illusions_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "16. Manchester Arndale",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/94/5e/d3/arndale-centre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195806-Reviews-Manchester_Arndale-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "17. Greater Manchester Police Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a2/42/e5/greater-manchester-police.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d591422-Reviews-Greater_Manchester_Police_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "18. Head Over Heels",
+    "category": "Playgrounds • Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/20/05/a0/11/our-giant-spider-is-back.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d7002457-Reviews-Head_Over_Heels-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "19. Chinatown",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/fe/95/ad/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d260035-Reviews-Chinatown-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "20. The Bridgewater Hall",
+    "category": "Concerts • Operas",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d8/67/cc/the-bridgewater-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d260743-Reviews-The_Bridgewater_Hall-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "21. Fletcher Moss Park & Botanical Gardens",
+    "category": "Parks • Gardens",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f7/04/ed/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d212237-Reviews-Fletcher_Moss_Park_Botanical_Gardens-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "22. The Spirit of Manchester Distillery",
+    "category": "Distilleries",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/2e/25/92/getlstd-property-photo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d18921932-Reviews-The_Spirit_of_Manchester_Distillery-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "23. Manchester Central Library",
+    "category": "Points of Interest & Landmarks • Libraries",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9e/10/29/esterno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590709-Reviews-Manchester_Central_Library-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "24. Cube",
+    "category": "Art Galleries • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/bc/f4/a0/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d4166994-Reviews-Cube-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "25. Manchester Opera House",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/80/51/9e/opera-house-manchester.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d3940524-Reviews-Manchester_Opera_House-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "26. Immersive Gamebox - Manchester Arndale",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/7b/b4/61/looking-for-an-interactive.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d21155018-Reviews-Immersive_Gamebox_Manchester_Arndale-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "27. O2 Apollo Manchester",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/80/31/58/20190216-225445-015-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2369166-Reviews-O2_Apollo_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "28. Printworks",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/70/4d/ba/exterior-front-of-printworks.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590653-Reviews-Printworks-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "29. Chetham's Library",
+    "category": "Libraries",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/fe/c2/ac/interior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d3946999-Reviews-Chetham_s_Library-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "30. Manchester Piccadilly Station",
+    "category": "Points of Interest & Landmarks • Rail Services",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/67/4b/c0/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d10538863-Reviews-Manchester_Piccadilly_Station-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "31. Museum of Transport Greater Manchester",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/4a/5c/93/manchester-bus-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590691-Reviews-Museum_of_Transport_Greater_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "32. Albert Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/a1/ee/e8/the-famous-manchester.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d315518-Reviews-Albert_Square-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "33. The Monastery Manchester",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/0a/89/49/a-stunning-view-from.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2557827-Reviews-The_Monastery_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "34. Home",
+    "category": "Art Galleries • Movie Theaters",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/79/2f/32/home.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d8132471-Reviews-Home-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "35. Castlefield Urban Heritage Park",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/db/41/5d/caption.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d260758-Reviews-Castlefield_Urban_Heritage_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "36. The Deck 747",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/0c/90/40/the-deck-747.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d24984664-Reviews-The_Deck_747-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "37. Clayton Hall Museum",
+    "category": "Architectural Buildings • History Museums",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0f/c8/09/clayton-hall-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d7001113-Reviews-Clayton_Hall_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "38. Granada Studios",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/db/40/c2/caption.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d3547989-Reviews-Granada_Studios-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "39. Market Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/31/b0/77/panorama.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195805-Reviews-Market_Street-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "40. Manchester Jewish Museum",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/57/a3/99/manchester-jewish-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d218234-Reviews-Manchester_Jewish_Museum-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "41. Afflecks",
+    "category": "Speciality & Gift Shops • Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/00/9c/92/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195670-Reviews-Afflecks-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "42. Victoria Baths",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/45/1f/bc/trafford-sub-aqua-club.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2258599-Reviews-Victoria_Baths-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "43. Challenge Point",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/92/1b/31/a-pitch-black-room-awaits.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d26787724-Reviews-Challenge_Point-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "44. St. Mary's Church",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c9/46/a3/st-mary-s-church-manchester.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590614-Reviews-St_Mary_s_Church-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "45. Chorlton Water Park",
+    "category": "Water Parks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ba/bd/9f/packed-on-a-sunny-day.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d6890461-Reviews-Chorlton_Water_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "46. Manchester235 Casino",
+    "category": "Casinos",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ed/f7/56/manchester235-casino.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2343340-Reviews-Manchester235_Casino-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "47. The Washhouse",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/96/0a/42/everything-but-a-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12214157-Reviews-The_Washhouse-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "48. Urban Playground",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/5c/33/b0/logo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d23674816-Reviews-Urban_Playground-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "49. Corn Exchange Manchester",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/65/b2/64/the-corn-exchange-manchester.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590620-Reviews-Corn_Exchange_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "50. Arndale Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/41/2e/2f/the-exit-from-the-main.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d3217663-Reviews-Arndale_Market-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "51. National Cycling Centre",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/e8/d5/b9/20161218-124002-largejpg_rotated_90.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d5461585-Reviews-National_Cycling_Centre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "52. Street Food Market at Piccadilly",
+    "category": "Flea & Street Markets • Farmers Markets",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a2/b9/80/street-food-market-at.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d8558360-Reviews-Street_Food_Market_at_Piccadilly-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "53. The Archertype",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/52/f8/21/the-archertype.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d15308996-Reviews-The_Archertype-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "54. Manchester Victoria Station",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/44/66/ca/concourse.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195804-Reviews-Manchester_Victoria_Station-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "55. Manchester Ship Canal",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/d5/83/24/manchester-ship-canal.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2334916-Reviews-Manchester_Ship_Canal-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "56. Breakout Manchester",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3d/3b/7e/breakout-manchester-escape.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d6661945-Reviews-Breakout_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "57. Manchester Central",
+    "category": "Convention Centers",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/b7/bf/cb/manchester-central.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d1419689-Reviews-Manchester_Central-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "58. Castlefield Viaduct",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/35/bf/2b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d25224658-Reviews-Castlefield_Viaduct-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "59. TeamSport Indoor Go Karting Manchester Victoria",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b0/64/d0/brand-new-very-quick.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d11709701-Reviews-TeamSport_Indoor_Go_Karting_Manchester_Victoria-Manchester_Greater_Manchester_En.html"
+  },
+  {
+    "name": "60. Selfridges",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/2a/63/35/selfridges.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d11774166-Reviews-Selfridges-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "61. Levenshulme Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/de/08/ea/saturday-25th-march-levenshulm.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d6486947-Reviews-Levenshulme_Market-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "62. St. Ann's Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e0/8a/57/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d215663-Reviews-St_Ann_s_Square-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "63. Debdale Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/43/db/76/beautiful-nature-at-its.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d4714881-Reviews-Debdale_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "64. Didsbury Park",
+    "category": "Parks • Gardens",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/f7/cf/d2/sunny-winter-sunday.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195811-Reviews-Didsbury_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "65. Lucardo",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e3/86/f8/lucardo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d10782580-Reviews-Lucardo-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "66. Outplayed The Gameshow!",
+    "category": "Arenas & Stadiums • Playgrounds",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/f4/2d/42/outplayed-the-gameshow.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d28983322-Reviews-Outplayed_The_Gameshow-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "67. Wythenshawe Community Farm",
+    "category": "Farms",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/be/41/3a/wythenshawe-community.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590617-Reviews-Wythenshawe_Community_Farm-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "68. Marks & Spencer",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/97/8e/de/20180706-112001-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d188925-Reviews-Marks_Spencer-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "69. Alan Turing Memorial",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/bb/9b/8f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d10423814-Reviews-Alan_Turing_Memorial-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "70. Bounce Central",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ee/84/b4/great-fun.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d9974729-Reviews-Bounce_Central-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "71. Portico Library",
+    "category": "Art Galleries • Libraries",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/f4/be/4f/the-portico-library.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d7647336-Reviews-Portico_Library-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "72. Platt Fields Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/14/d5/c3/platt-fields-park.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d590661-Reviews-Platt_Fields_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "73. Alcotraz Manchester: Cell Block Three-Four",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/de/0c/20/alcotraz-prison-cocktail.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d23462760-Reviews-Alcotraz_Manchester_Cell_Block_Three_Four-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "74. Hope Mill Theatre",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/ff/89/1e/theatre-auditorium-empty.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d11426746-Reviews-Hope_Mill_Theatre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "75. Smolensky Gallery",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/3d/2f/30/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d23379095-Reviews-Smolensky_Gallery-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "76. Chaos Karts",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/73/58/96/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d26832801-Reviews-Chaos_Karts-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "77. The Pankhurst Centre",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/19/79/38/art-fund-2022.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d8298608-Reviews-The_Pankhurst_Centre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "78. Grosvenor Casino Didsbury",
+    "category": "Casinos",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/7a/71/11/our-bar.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d7020842-Reviews-Grosvenor_Casino_Didsbury-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "79. Manchester Metrolink",
+    "category": "Public Transportation Systems",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/bf/cd/21/past-the-arndale-at-night.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d8706601-Reviews-Manchester_Metrolink-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "80. Spinningfields",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d7/8e/4d/some-old-buildings-have.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d5970826-Reviews-Spinningfields-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "81. Escape Hunt Manchester",
+    "category": "Escape Games",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/8b/1d/95/live-the-adventure-at.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d15214697-Reviews-Escape_Hunt_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "82. Flip Out Manchester",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/36/19/80/the-best-laser-maze-in.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d13427428-Reviews-Flip_Out_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "83. The Shambles",
+    "category": "Architectural Buildings • Bars & Clubs",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/03/9f/04/the-shambles.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d212265-Reviews-The_Shambles-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "84. Boggart Hole Clough",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/29/bf/06/other-side-of-the-lake.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d4271700-Reviews-Boggart_Hole_Clough-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "85. Whistle Punks Urban Axe Throwing",
+    "category": "Bars & Clubs • Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a4/f5/40/whistle-punks.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12643783-Reviews-Whistle_Punks_Urban_Axe_Throwing-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "86. Cloudwater Brew Co",
+    "category": "Breweries",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/9a/d9/93/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d9564562-Reviews-Cloudwater_Brew_Co-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "87. St. Ann's Church",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3e/f9/34/st-ann-s-church.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d212255-Reviews-St_Ann_s_Church-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "88. Barton Arcade",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/01/25/f4/20180209-133253-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d10915808-Reviews-Barton_Arcade-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "89. Projekts MCR",
+    "category": "Sports Complexes",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/0f/0e/97/the-plaza-view-from-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d4788865-Reviews-Projekts_MCR-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "90. Levenshulme Antiques Village",
+    "category": "Antique Shops",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/55/17/f5/19.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d3716573-Reviews-Levenshulme_Antiques_Village-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "91. Gallery of Costume",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/34/6f/59/museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d1783246-Reviews-Gallery_of_Costume-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "92. The Stoller Hall",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/18/3b/73/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12374296-Reviews-The_Stoller_Hall-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "93. Castlefield Bowl",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/af/8e/8f/castlefield-bowl.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d14827272-Reviews-Castlefield_Bowl-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "94. Parsonage Gardens",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fa/e1/7e/surrounded-by-tall-buildings.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d6585868-Reviews-Parsonage_Gardens-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "95. Wythenshawe Hall",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/db/f1/63/wythenshawe-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d1783260-Reviews-Wythenshawe_Hall-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "96. St Peter's Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/66/04/8d/estatua-de-st-peter-en.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12966783-Reviews-St_Peter_s_Square-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "97. Irish World Heritage Centre",
+    "category": "Civic Centres",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f4/1a/d1/afternoon-tea-for-2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d3948033-Reviews-Irish_World_Heritage_Centre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "98. Mayfield Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/29/bf/06/other-side-of-the-lake.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d4271700-Reviews-Boggart_Hole_Clough-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "99. DNA VR Manchester",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/98/f1/9d/dna-vr-manchester.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d25355092-Reviews-DNA_VR_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "100. Northern Quarter",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/67/4f/e2/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d23590481-Reviews-Northern_Quarter-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "101. Inflata Nation",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/fa/e1/7e/surrounded-by-tall-buildings.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d6585868-Reviews-Parsonage_Gardens-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "102. National Speedway Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/88/77/b6/the-national-speedway.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d10173858-Reviews-National_Speedway_Stadium-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "103. King Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d0/ba/70/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195807-Reviews-King_Street-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "104. Chorlton Park",
+    "category": "Parks • Golf Courses",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/e4/b3/65/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d211701-Reviews-Chorlton_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "105. Oldham Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/60/47/03/img-20180317-203929-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d195671-Reviews-Oldham_Street-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "106. Classic Football Shirts Manchester Store",
+    "category": "Speciality & Gift Shops • Speciality Museums",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/61/d6/db/the-floor.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d23872039-Reviews-Classic_Football_Shirts_Manchester_Store-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "107. Manchester Buddhist Centre",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/63/1c/28/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d212245-Reviews-Manchester_Buddhist_Centre-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "108. Victory Over Blindness Monument",
+    "category": "Points of Interest & Landmarks • Monuments & Statues",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/6a/c6/30/a-striking-group-as-you.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d16766314-Reviews-Victory_Over_Blindness_Monument-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "109. Pac-man Live Experience",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/eb/4a/85/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12403713-Reviews-Belle_Vue_Speedway-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "110. Alexandra Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7e/e6/a7/external-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2193213-Reviews-Esea_contemporary-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "111. Prestwich Forest Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/98/f1/9d/dna-vr-manchester.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d25355092-Reviews-DNA_VR_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "112. Junkyard Golf Club Manchester",
+    "category": "Miniature Golf",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/42/37/6e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d26609600-Reviews-Mayfield_Park-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "113. Cloud 23",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ed/e9/6a/cocktail-collection.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d1504440-Reviews-Cloud_23-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "114. The One Thai Massage",
+    "category": "Spas",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/36/19/80/the-best-laser-maze-in.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d13427428-Reviews-Flip_Out_Manchester-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "115. esea contemporary",
+    "category": "Art Galleries • Art Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7e/e6/a7/external-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d2193213-Reviews-Esea_contemporary-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "116. The Spa & Gym",
+    "category": "Spas",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/49/2d/4f/reception-area.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d17191957-Reviews-The_Spa_Gym-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "117. The Youth Spa",
+    "category": "Spas",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/22/10/ba/best-massage-experience.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d11810097-Reviews-The_Youth_Spa-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "118. Belle Vue Speedway",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/eb/4a/85/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12403713-Reviews-Belle_Vue_Speedway-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "119. Holy Name Church",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/55/71/27/holy-name-church-exterior.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d212260-Reviews-Holy_Name_Church-Manchester_Greater_Manchester_England.html"
+  },
+  {
+    "name": "120. Sackville Gardens",
+    "category": "Points of Interest & Landmarks • Parks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/c0/23/23/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187069-d12608217-Reviews-Sackville_Gardens-Manchester_Greater_Manchester_England.html"
+  }
+]

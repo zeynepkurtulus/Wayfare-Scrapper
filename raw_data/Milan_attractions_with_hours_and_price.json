@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Duomo di Milano",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "$24",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2b/65/8c/natele-al-duomo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d195239-Reviews-Duomo_di_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM",
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "2. Galleria Vittorio Emanuele II",
+    "category": "Architectural Buildings • Shopping Malls",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f5/ab/76/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d194342-Reviews-Galleria_Vittorio_Emanuele_II-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "3. Il Cenacolo",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/1f/ec/4a/il-cenacolo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d314197-Reviews-Il_Cenacolo-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:15 AM - 7:00 PM",
+      "Saturday": "8:15 AM - 7:00 PM",
+      "Sunday": "8:15 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "8:15 AM - 7:00 PM",
+      "Wednesday": "8:15 AM - 7:00 PM",
+      "Thursday": "8:15 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "4. Castello Sforzesco",
+    "category": "Historic Sites • Castles",
+    "price": "$17",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/10/e1/5e/castello-sforzesco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d246672-Reviews-Castello_Sforzesco-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 5:30 PM",
+      "Saturday": "9:00 AM - 5:30 PM",
+      "Sunday": "9:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "5. I Navigli",
+    "category": "Navigli",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fa/8f/4b/liv-og-flot-belysning.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d194970-Reviews-I_Navigli-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "6. Pinacoteca di Brera",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/77/8f/94/this-is-early-morning.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d202624-Reviews-Piazza_del_Duomo-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "7. Piazza del Duomo",
+    "category": "Centro Storico",
+    "price": "$27",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3a/67/7d/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d243400-Reviews-Pinacoteca_di_Brera-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 7:15 PM",
+      "Saturday": "8:30 AM - 7:15 PM",
+      "Sunday": "8:30 AM - 7:15 PM",
+      "Monday": "notice",
+      "Tuesday": "8:30 AM - 7:15 PM",
+      "Wednesday": "8:30 AM - 7:15 PM",
+      "Thursday": "8:30 AM - 7:15 PM"
+    }
+  },
+  {
+    "name": "8. Terrazze del Duomo",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/90/c7/bf/interior.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591217-Reviews-Chiesa_di_San_Maurizio_al_Monastero_Maggiore-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "9. Chiesa di San Maurizio al Monastero Maggiore",
+    "category": "Churches & Cathedrals",
+    "price": "$22",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/24/43/62/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d6124852-Reviews-Terrazze_del_Duomo-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "10. Teatro Alla Scala",
+    "category": "Theaters",
+    "price": "$160",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8d/47/bb/teatro-alla-scala.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d198970-Reviews-Teatro_Alla_Scala-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 12:30 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 12:30 PM",
+      "Tuesday": "9:00 AM - 12:30 PM",
+      "Wednesday": "9:00 AM - 12:30 PM",
+      "Thursday": "9:00 AM - 12:30 PM"
+    }
+  },
+  {
+    "name": "11. Brera District",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/72/7f/81/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d208761-Reviews-Brera_District-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "12. Stadio Giuseppe Meazza (San Siro)",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/99/62/40/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d194971-Reviews-Santa_Maria_delle_Grazie-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 1:00 PM",
+      "Saturday": "7:00 AM - 1:00 PM",
+      "Sunday": "7:30 AM - 12:30 PM",
+      "Monday": "7:00 AM - 1:00 PM",
+      "Tuesday": "7:00 AM - 1:00 PM",
+      "Wednesday": "7:00 AM - 1:00 PM",
+      "Thursday": "7:00 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "13. Santa Maria delle Grazie",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/20/7b/ac/curva-sud.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d283702-Reviews-Stadio_Giuseppe_Meazza_San_Siro-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "14. Villa Necchi Campiglio",
+    "category": "History Museums",
+    "price": "$17",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/0d/9f/91/villa-necchi-campiglio.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1930515-Reviews-Villa_Necchi_Campiglio-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "15. Cimitero Monumentale",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/98/19/4e/girisindeki-guzellikle.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d243431-Reviews-Cimitero_Monumentale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "16. Pinacoteca Ambrosiana",
+    "category": "Libraries • Art Museums",
+    "price": "$20",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/b9/07/45/ambrosiana.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d243392-Reviews-Pinacoteca_Ambrosiana-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "17. Basilica di Sant'Ambrogio",
+    "category": "History Museums • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/37/71/9d/la-visita-guidata-alla.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591187-Reviews-Basilica_di_Sant_Ambrogio-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 12:30 PM",
+      "Saturday": "7:30 AM - 12:30 PM",
+      "Sunday": "7:30 AM - 1:00 PM",
+      "Monday": "7:30 AM - 12:30 PM",
+      "Tuesday": "7:30 AM - 12:30 PM",
+      "Wednesday": "7:30 AM - 12:30 PM",
+      "Thursday": "7:30 AM - 12:30 PM"
+    }
+  },
+  {
+    "name": "18. Parco Sempione",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/2c/48/a7/parco-sempione.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d592710-Reviews-Parco_Sempione-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "6:30 AM - 9:00 PM",
+      "Saturday": "6:30 AM - 9:00 PM",
+      "Sunday": "6:30 AM - 9:00 PM",
+      "Monday": "6:30 AM - 9:00 PM",
+      "Tuesday": "6:30 AM - 9:00 PM",
+      "Wednesday": "6:30 AM - 9:00 PM",
+      "Thursday": "6:30 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "19. Milano Centrale",
+    "category": "Stazione Centrale",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b7/2d/27/central-station-of-milan.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d592942-Reviews-Milano_Centrale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "20. Piazza Gae Aulenti",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/88/2a/8d/piazza-gae-aulenti.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d3753085-Reviews-Piazza_Gae_Aulenti-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "21. Museo Del Novecento",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cc/4a/2b/nave.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d246678-Reviews-Chiesa_di_Santa_Maria_presso_San_Satiro-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 6:00 PM",
+      "Saturday": "3:30 PM - 7:00 PM",
+      "Sunday": "9:30 AM - 12:00 PM",
+      "Monday": "7:30 AM - 6:00 PM",
+      "Tuesday": "7:30 AM - 6:00 PM",
+      "Wednesday": "7:30 AM - 6:00 PM",
+      "Thursday": "7:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "22. Chiesa di Santa Maria presso San Satiro",
+    "category": "Churches & Cathedrals",
+    "price": "$16",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/bc/b4/59/museo-del-novecento.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1969006-Reviews-Museo_Del_Novecento-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:30 PM",
+      "Saturday": "10:00 AM - 7:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 7:30 PM",
+      "Wednesday": "10:00 AM - 7:30 PM",
+      "Thursday": "10:00 AM - 10:30 PM"
+    }
+  },
+  {
+    "name": "23. Gallerie d’Italia",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b9/58/3c/arco-della-pace.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d590643-Reviews-Arco_della_Pace-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "24. Museo Bagatti Valsecchi",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/23/14/05/galleria-delle-armi.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d194343-Reviews-Museo_Bagatti_Valsecchi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "1:00 PM - 5:45 PM",
+      "Saturday": "10:00 AM - 5:45 PM",
+      "Sunday": "10:00 AM - 5:45 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "1:00 PM - 8:00 PM",
+      "Thursday": "1:00 PM - 5:45 PM"
+    }
+  },
+  {
+    "name": "25. Arco della Pace",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a9/b5/72/gallerie-d-italia-piazza.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2387551-Reviews-Gallerie_d_Italia-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 7:30 PM",
+      "Saturday": "9:30 AM - 7:30 PM",
+      "Sunday": "9:30 AM - 7:30 PM",
+      "Monday": "notice",
+      "Tuesday": "9:30 AM - 7:30 PM",
+      "Wednesday": "9:30 AM - 7:30 PM",
+      "Thursday": "9:30 AM - 10:30 PM"
+    }
+  },
+  {
+    "name": "26. Museo Poldi Pezzoli",
+    "category": "Art Museums",
+    "price": "$23",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f4/fb/83/raccolta-d-armi.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d194344-Reviews-Museo_Poldi_Pezzoli-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:30 PM",
+      "Saturday": "10:00 AM - 7:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM",
+      "Monday": "10:00 AM - 7:30 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 7:30 PM",
+      "Thursday": "10:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "27. Via Monte Napoleone",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b7/52/b0/via-monte-napoleone.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d202622-Reviews-Via_Monte_Napoleone-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Grande Museo del Duomo di Milano",
+    "category": "Art Museums • History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a8/b0/7c/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d243410-Reviews-Grande_Museo_del_Duomo_di_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "29. Bosco Verticale",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3c/ab/ea/bosco-verticale.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d6981430-Reviews-Bosco_Verticale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "30. Naviglio Grande",
+    "category": "Bodies of Water • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e0/1f/b4/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d4501654-Reviews-Dialogo_Nel_Buio-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:45 AM - 8:30 PM",
+      "Saturday": "2:00 PM - 8:45 PM",
+      "Sunday": "1:00 PM - 6:00 PM",
+      "Monday": "10:15 AM - 4:00 PM",
+      "Tuesday": "9:45 AM - 4:00 PM",
+      "Wednesday": "9:45 AM - 4:00 PM",
+      "Thursday": "9:45 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "31. Dialogo Nel Buio",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/03/d9/8f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d5062512-Reviews-Naviglio_Grande-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "32. Santuario di San Bernardino Alle Ossa",
+    "category": "Historic Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/05/73/59/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1903545-Reviews-Santuario_di_San_Bernardino_Alle_Ossa-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "9:30 AM - 6:00 PM",
+      "Sunday": "9:30 AM - 12:00 PM",
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "33. Museo Leonardo3 - Il Mondo Di Leonardo",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/3b/12/f2/the-opposite-wall-to.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d8416838-Reviews-Leonardo_s_Last_Supper_Museum-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:15 AM - 6:45 PM",
+      "Saturday": "8:15 AM - 6:45 PM",
+      "Sunday": "8:15 AM - 6:45 PM",
+      "Monday": "notice",
+      "Tuesday": "8:15 AM - 6:45 PM",
+      "Wednesday": "8:15 AM - 6:45 PM",
+      "Thursday": "8:15 AM - 6:45 PM"
+    }
+  },
+  {
+    "name": "34. Pirelli HangarBicocca",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/eb/b6/37/mostra-di-pablo-atchugarry.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1940068-Reviews-Royal_Palace_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:30 PM",
+      "Saturday": "10:00 AM - 7:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 7:30 PM",
+      "Wednesday": "10:00 AM - 7:30 PM",
+      "Thursday": "10:00 AM - 10:30 PM"
+    }
+  },
+  {
+    "name": "35. Royal Palace Milano",
+    "category": "Speciality Museums • Art Museums",
+    "price": "$19",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/09/0a/c0/img-20180211-wa0000-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d4172017-Reviews-Museo_Leonardo3_Il_Mondo_Di_Leonardo-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 9:00 PM",
+      "Saturday": "9:30 AM - 9:00 PM",
+      "Sunday": "9:30 AM - 9:00 PM",
+      "Monday": "9:30 AM - 9:00 PM",
+      "Tuesday": "9:30 AM - 9:00 PM",
+      "Wednesday": "9:30 AM - 9:00 PM",
+      "Thursday": "9:30 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "36. Tram Ristorante ATMosfera",
+    "category": "Scenic Railroads",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/4c/63/b5/anselm-kiefer-the-seven.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2189064-Reviews-Pirelli_HangarBicocca-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 8:30 PM",
+      "Saturday": "10:30 AM - 8:30 PM",
+      "Sunday": "10:30 AM - 8:30 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "10:30 AM - 8:30 PM"
+    }
+  },
+  {
+    "name": "37. Casa Museo Boschi Di Stefano",
+    "category": "Speciality Museums • Architectural Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fa/f1/94/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1910645-Reviews-Corso_Buenos_Aires-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "38. CityLife Shopping District",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/be/15/ba/fronte.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d8027215-Reviews-Museo_Pieta_Rondanini-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "39. Corso Buenos Aires",
+    "category": "Points of Interest & Landmarks • Historic Walking Areas",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/49/95/2a/l-ingresso-del-memoriale.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d6123472-Reviews-Memoriale_Della_Shoah_Di_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "40. Basilica San Lorenzo Maggiore",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/8f/12/44/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1969079-Reviews-Tram_Ristorante_ATMosfera-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 PM - 10:00 PM",
+      "Saturday": "8:00 PM - 10:30 PM",
+      "Sunday": "8:00 PM - 10:30 PM",
+      "Monday": "8:00 PM - 10:00 PM",
+      "Tuesday": "8:00 PM - 10:00 PM",
+      "Wednesday": "8:00 PM - 10:00 PM",
+      "Thursday": "8:00 PM - 10:00 PM"
+    }
+  },
+  {
+    "name": "41. Civico Planetario Ulrico Hoepli",
+    "category": "Observatories & Planetariums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/17/2b/8e/a-spasso.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d208757-Reviews-Quadrilatero_d_Oro-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:30 PM",
+      "Saturday": "10:00 AM - 7:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM",
+      "Monday": "10:00 AM - 7:30 PM",
+      "Tuesday": "10:00 AM - 7:30 PM",
+      "Wednesday": "10:00 AM - 7:30 PM",
+      "Thursday": "10:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "42. Memoriale Della Shoah Di Milano",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/8e/88/87/corso-vittorio-emanuele.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1974279-Reviews-Corso_Vittorio_Emanuele_II-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "43. Mercato Sabato Via Fauché Banco Di Luca & Marika",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/01/c9/d3/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1946565-Reviews-Casa_Museo_Boschi_Di_Stefano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "44. Quadrilatero d'Oro",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ba/29/7c/san-lorenzo-maggiore.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d312048-Reviews-Basilica_San_Lorenzo_Maggiore-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "45. Torre Branca",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/85/a4/90/l-esterno-del-planetario.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1912625-Reviews-Civico_Planetario_Ulrico_Hoepli-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:15 PM - 10:30 PM",
+      "Saturday": "2:00 PM - 6:30 PM",
+      "Sunday": "2:00 PM - 6:30 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "6:00 PM - 7:30 PM"
+    }
+  },
+  {
+    "name": "46. Space Dreamers",
+    "category": "Science Museums • Children's Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a4/66/fa/via-san-vittore-al-teatro.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d12190803-Reviews-Teatro_Romano_Di_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "9:30 AM - 12:30 PM",
+      "Wednesday": "notice",
+      "Thursday": "9:30 AM - 12:30 PM"
+    }
+  },
+  {
+    "name": "47. Museo Pietà Rondanini",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/70/12/9e/fresh-fruit-stall.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1936647-Reviews-Mercato_Sabato_Via_Fauche_Banco_Di_Luca_Marika-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "7:30 AM - 6:30 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "48. Viale Papiniano Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/bb/bd/28/citylife-shopping-district.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d13203656-Reviews-CityLife_Shopping_District-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 9:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "49. Armani Silos",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/3b/a5/a8/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2236288-Reviews-Vicolo_dei_Lavandai-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "50. Leonardo's Last Supper Museum",
+    "category": "History Museums",
+    "price": "$12",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/98/ea/28/i-chiostri-del-museo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d33000238-Reviews-National_Museum_Of_Science_And_Technology_Leonardo_Da_Vinci-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "51. Corso Vittorio Emanuele II",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/cb/62/70/mostre-temporanee.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d549443-Reviews-Triennale_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 8:00 PM",
+      "Saturday": "10:30 AM - 8:00 PM",
+      "Sunday": "10:30 AM - 8:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:30 AM - 8:00 PM",
+      "Wednesday": "10:30 AM - 8:00 PM",
+      "Thursday": "10:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "52. Teatro Romano Di Milano",
+    "category": "Ancient Ruins",
+    "price": "$7",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/62/ee/68/torre-branca.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d314226-Reviews-Torre_Branca-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. UniCredit Tower",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d5/9f/77/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d8027644-Reviews-Armani_Silos-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:00 PM",
+      "Saturday": "11:00 AM - 9:00 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 7:00 PM",
+      "Thursday": "11:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "54. National Museum Of Science And Technology Leonardo Da Vinci",
+    "category": "Science Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/cd/bf/b5/viale-papiniano-market.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d208762-Reviews-Viale_Papiniano_Market-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "8:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "8:00 AM - 2:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "55. Vicolo dei Lavandai",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b8/ea/71/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1902985-Reviews-Basilica_Di_Sant_Eustorgio-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 12:00 PM",
+      "Saturday": "7:30 AM - 12:00 PM",
+      "Sunday": "8:45 AM - 1:00 PM",
+      "Monday": "7:30 AM - 12:00 PM",
+      "Tuesday": "7:30 AM - 12:00 PM",
+      "Wednesday": "7:30 AM - 12:00 PM",
+      "Thursday": "7:30 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "56. Triennale Milano",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/05/18/1d/abbazia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1902561-Reviews-Abbazia_di_Chiaravalle-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 12:00 PM",
+      "Saturday": "9:00 AM - 12:00 PM",
+      "Sunday": "9:00 AM - 12:00 PM",
+      "Monday": "notice",
+      "Tuesday": "9:00 AM - 12:00 PM",
+      "Wednesday": "9:00 AM - 12:00 PM",
+      "Thursday": "9:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "57. Civico Museo di Storia Naturale",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b8/90/6e/fb-img-1615216831475.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d4270196-Reviews-UniCredit_Tower-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "58. Acquario civico",
+    "category": "Aquariums",
+    "price": "$19",
+    "rating": "3.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/94/fc/0b/la-casa-dei-sogni.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d7062159-Reviews-Casa_Milan-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "59. Basilica Di Sant'Eustorgio",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a3/b7/59/colonne-di-san-lorenzo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d284164-Reviews-Colonne_di_San_Lorenzo-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Casa Milan",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d6/b9/c9/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d243413-Reviews-Museo_Teatrale_alla_Scala-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 5:30 PM",
+      "Saturday": "9:00 AM - 5:30 PM",
+      "Sunday": "9:00 AM - 5:30 PM",
+      "Monday": "9:00 AM - 5:30 PM",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "61. Indro Montanelli Public Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/82/16/a6/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2302348-Reviews-Indro_Montanelli_Public_Gardens-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "6:30 AM - 9:00 PM",
+      "Saturday": "6:30 AM - 9:00 PM",
+      "Sunday": "6:30 AM - 9:00 PM",
+      "Monday": "6:30 AM - 9:00 PM",
+      "Tuesday": "6:30 AM - 9:00 PM",
+      "Wednesday": "6:30 AM - 9:00 PM",
+      "Thursday": "6:30 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "62. Abbazia di Chiaravalle",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/14/0e/0f/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d6479580-Reviews-Monumento_a_Leonardo_da_Vinci-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Museo Teatrale alla Scala",
+    "category": "Speciality Museums • History Museums",
+    "price": "$14",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/7b/5a/dd/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1901978-Reviews-Civico_Museo_di_Storia_Naturale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "64. Colonne di San Lorenzo",
+    "category": "Ancient Ruins",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/67/31/87/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d27457666-Reviews-Space_Dreamers-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Corso Como",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c5/9c/85/via-della-spiga.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d202623-Reviews-Via_della_Spiga-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. Palazzo Morando",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d3/e2/80/corso-como-verso-porta.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d4522319-Reviews-Corso_Como-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "67. Palazzo Clerici",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/3d/89/96/porta-venezia.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d202620-Reviews-Porta_Venezia-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Cartuja de Garegnano",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c3/2b/5a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d6733967-Reviews-Monumento_a_Vittorio_Emanuele_II-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Porta Venezia",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/c0/a1/35/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d3398529-Reviews-Museo_Branca-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "3:00 PM - 6:00 PM",
+      "Tuesday": "10:00 AM - 1:00 PM",
+      "Wednesday": "3:00 PM - 6:00 PM",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "70. Ospedale Maggiore Ca' Granda Università Statale",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ce/2d/a9/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2062423-Reviews-Palazzo_Morando-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. Monumento a Leonardo da Vinci",
+    "category": "Centro Storico",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/30/08/ec/spettacolo-del-mattino.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591213-Reviews-Cartuja_de_Garegnano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 6:45 PM",
+      "Saturday": "7:00 AM - 6:45 PM",
+      "Sunday": "7:00 AM - 6:45 PM",
+      "Monday": "7:00 AM - 6:45 PM",
+      "Tuesday": "7:00 AM - 6:45 PM",
+      "Wednesday": "7:00 AM - 6:45 PM",
+      "Thursday": "7:00 AM - 6:45 PM"
+    }
+  },
+  {
+    "name": "72. Museo Civico Archeologico",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/af/47/43/interno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d592006-Reviews-Ospedale_Maggiore_Ca_Granda_Universita_Statale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "73. Via della Spiga",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/9d/23/c3/palazzo-dei-giureconsulti.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2353493-Reviews-Piazza_Mercanti-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Villa Invernizzi",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/86/26/58/vasca.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1901772-Reviews-Acquario_civico-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "75. Darsena",
+    "category": "Bodies of Water • Piers & Boardwalks",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b2/64/78/via-torino.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1990712-Reviews-Via_Torino-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Via Torino",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4c/76/0f/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d312047-Reviews-Museo_Civico_Archeologico-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "77. Monumento a Vittorio Emanuele II",
+    "category": "Centro Storico",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/99/f3/a1/20151112-113531-2-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d3676249-Reviews-Piazza_della_Scala-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. Piazza Mercanti",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a5/b0/f3/chiostro.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591282-Reviews-Universita_Cattolica_Del_Sacro_Cuore-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "79. Rinascente Milano",
+    "category": "Speciality & Gift Shops • Department Stores",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/35/5e/f5/rinascente-milano.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1907083-Reviews-Rinascente_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "80. Casa di Riposo per Musicisti Giuseppe Verdi",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/56/66/35/ampia-vista-sulla-darsena.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d202621-Reviews-Darsena-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:45 AM - 5:45 PM",
+      "Saturday": "10:45 AM - 5:45 PM",
+      "Sunday": "10:45 AM - 5:45 PM",
+      "Monday": "10:45 AM - 5:45 PM",
+      "Tuesday": "10:45 AM - 5:45 PM",
+      "Wednesday": "10:45 AM - 5:45 PM",
+      "Thursday": "10:45 AM - 5:45 PM"
+    }
+  },
+  {
+    "name": "81. Parco delle Cave",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/af/06/21/la-galleria-degli-arazzi.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1062832-Reviews-Palazzo_Clerici-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "82. Museo Branca",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/25/78/61/la-sala-alessi.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1909808-Reviews-Palazzo_Marino-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "83. Università Cattolica Del Sacro Cuore",
+    "category": "Universities & Schools",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/68/00/9c/il-cortile-con-la-cripta.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591210-Reviews-Casa_di_Riposo_per_Musicisti_Giuseppe_Verdi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. Palazzo Marino",
+    "category": "Historic Sites • Government Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1f/0f/59/e-un-parco-che-frequento.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2035376-Reviews-Parco_delle_Cave-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "85. Galleria Civica d'Arte Moderna",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/0a/ac/ea/fontana-di-piazza-castello.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2353512-Reviews-Fontana_di_Piazza_Castello-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Piazza della Scala",
+    "category": "Centro Storico",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/57/c8/27/foto.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d243404-Reviews-Galleria_Civica_d_Arte_Moderna-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. Orto Botanico di Brera",
+    "category": "Gardens",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5e/86/8d/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d246679-Reviews-Porta_Ticinese-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. L.O.V.E",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/26/53/c7/huge-horse.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d312046-Reviews-Leonardo_da_Vinci_s_Horse-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Fontana di Piazza Castello",
+    "category": "Fountains",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9f/62/61/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d12883218-Reviews-Villa_Invernizzi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. Porta Ticinese",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/d1/64/61/corso-garibaldi.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d4340385-Reviews-Corso_Garibaldi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "91. Museum of Senses Milano",
+    "category": "Speciality Museums • Science Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f9/25/7d/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2170702-Reviews-Pinacoteca_Castello_Sforzesco-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 5:30 PM",
+      "Saturday": "9:00 AM - 5:30 PM",
+      "Sunday": "9:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "9:00 AM - 5:30 PM",
+      "Wednesday": "9:00 AM - 5:30 PM",
+      "Thursday": "9:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "92. Teatro Degli Arcimboldi",
+    "category": "Theaters",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c2/b4/77/15-porta-garibaldi.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d8513969-Reviews-Porta_Garibaldi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Pinacoteca Castello Sforzesco",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f3/e7/b4/city-life.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d12928019-Reviews-City_Life-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. City Life",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/3b/c3/47/chiesa-di-santa-maria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2015895-Reviews-Chiesa_del_Carmine-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:15 AM - 7:15 PM",
+      "Saturday": "7:15 AM - 7:15 PM",
+      "Sunday": "7:15 AM - 7:15 PM",
+      "Monday": "7:15 AM - 7:15 PM",
+      "Tuesday": "7:15 AM - 7:15 PM",
+      "Wednesday": "7:15 AM - 7:15 PM",
+      "Thursday": "7:15 AM - 7:15 PM"
+    }
+  },
+  {
+    "name": "95. Corso Garibaldi",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fb/64/48/chiesa-di-san-cristoforo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1913100-Reviews-Chiesa_di_San_Cristoforo_sul_Naviglio-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 7:00 PM",
+      "Saturday": "7:00 AM - 7:00 PM",
+      "Sunday": "7:00 AM - 7:00 PM",
+      "Monday": "7:00 AM - 7:00 PM",
+      "Tuesday": "7:00 AM - 7:00 PM",
+      "Wednesday": "7:00 AM - 7:00 PM",
+      "Thursday": "7:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "96. Leonardo da Vinci's Horse",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/70/35/08/milano-giardini-di-villa.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591416-Reviews-Giardini_di_Villa_Reale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. MUDEC - Museo delle Culture",
+    "category": "Speciality Museums • Art Museums",
+    "price": "",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/22/97/58/teatro-degli-arcimboldi.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2105970-Reviews-Teatro_Degli_Arcimboldi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Bobino Milano",
+    "category": "Bars & Clubs • Dance Clubs & Discos",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/48/8d/40/palazzo-della-societa.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1911544-Reviews-Corso_Venezia-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "99. Chiesa di San Cristoforo sul Naviglio",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e8/76/86/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2078633-Reviews-Orto_Botanico_di_Brera-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "100. Porta Garibaldi",
+    "category": "Points of Interest & Landmarks • Monuments & Statues",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/85/33/3e/milano-chiesa-di-san.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1960347-Reviews-Chiesa_di_San_Marco-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Giardini di Villa Reale",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/23/06/f9/dito.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d6207830-Reviews-L_O_V_E-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Van Gogh: The Immersive Experience - Milan",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4e/36/cc/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d7935716-Reviews-MUDEC_Museo_delle_Culture-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 7:30 PM",
+      "Saturday": "9:30 AM - 10:30 PM",
+      "Sunday": "9:30 AM - 7:30 PM",
+      "Monday": "2:30 PM - 7:30 PM",
+      "Tuesday": "9:30 AM - 7:30 PM",
+      "Wednesday": "9:30 AM - 7:30 PM",
+      "Thursday": "9:30 AM - 10:30 PM"
+    }
+  },
+  {
+    "name": "103. Chiesa del Carmine",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/93/43/c2/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d10641736-Reviews-Porta_Nuova-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "104. Chiesa di San Marco",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/7f/3a/19/astrazione-a-milano-1975.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d19720175-Reviews-Almach_Art_Gallery-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 1:00 PM",
+      "Saturday": "10:30 AM - 1:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "10:30 AM - 1:00 PM",
+      "Wednesday": "10:30 AM - 1:00 PM",
+      "Thursday": "10:30 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "105. Almach Art Gallery",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/55/fe/f6/20170521-114603-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591192-Reviews-Boscoincitta-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. Corso Venezia",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b6/dd/1f/interior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1899819-Reviews-Basilica_di_San_Simpliciano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:15 AM - 12:00 PM",
+      "Saturday": "7:15 AM - 12:00 PM",
+      "Sunday": "7:30 AM - 12:30 PM",
+      "Monday": "7:15 AM - 12:00 PM",
+      "Tuesday": "7:15 AM - 12:00 PM",
+      "Wednesday": "7:15 AM - 12:00 PM",
+      "Thursday": "7:15 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "107. Boscoincitta",
+    "category": "Biking Trails • Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d9/5b/17/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d26446367-Reviews-Van_Gogh_The_Immersive_Experience_Milan-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. Biblioteca Nazionale Braidense",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9c/01/db/vista-dell-interno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1924627-Reviews-Basilica_di_San_Vittore_al_Corpo-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Via Paolo Sarpi",
+    "category": "Points of Interest & Landmarks",
+    "price": "$24",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/59/65/38/vortex.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d32774902-Reviews-Museum_of_Senses_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "110. Chiesa di San Gottardo in Corte",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/10/c1/ca/corso-magenta.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1984799-Reviews-Corso_Magenta-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Porta Nuova",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/db/73/20/img-20200208-112632-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1910503-Reviews-Museo_del_Risorgimento-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Museo del Risorgimento",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/58/96/56/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2100879-Reviews-Via_Paolo_Sarpi-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Basilica di San Vittore al Corpo",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/30/20/fa/chiesa-di-san-babila.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d591215-Reviews-Basilica_di_San_Babila-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Corso Magenta",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/f8/b6/c4/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d8464482-Reviews-Biblioteca_Nazionale_Braidense-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Basilica di San Simpliciano",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/0f/42/ea/small-quiet-square-in.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1949561-Reviews-Chiesa_di_San_Fedele-Milan_Lombardy.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 7:30 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "7:30 AM - 4:30 PM",
+      "Tuesday": "7:30 AM - 4:30 PM",
+      "Wednesday": "7:30 AM - 6:00 PM",
+      "Thursday": "7:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "116. Teatro Nazionale",
+    "category": "Theaters",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b3/43/6f/musei-del-castello-sforzesco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d10538785-Reviews-Musei_del_Castello_Sforzesco-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. Torre Hadid",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ed/41/33/img-20181230-162458-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2645391-Reviews-Teatro_Nazionale-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Dep Art Gallery",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e3/06/21/lo-splendido-campanile.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1978017-Reviews-Chiesa_di_San_Gottardo_in_Corte-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Palazzo Litta",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/5d/93/e9/sala-degli-specchi.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d1969486-Reviews-Palazzo_Litta-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Grattacielo Pirelli",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b0/75/97/colonna-bobino.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187849-d2221217-Reviews-Bobino_Milano-Milan_Lombardy.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

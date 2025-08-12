@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Singapore Botanic Gardens",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7f/e5/ce/beautiful-botanic-gardens.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d310900-Reviews-Singapore_Botanic_Gardens-Singapore.html",
+    "opening_hours": {
+      "Saturday": "5:00 AM - 12:00 AM",
+      "Sunday": "5:00 AM - 12:00 AM",
+      "Monday": "5:00 AM - 12:00 AM",
+      "Tuesday": "5:00 AM - 12:00 AM",
+      "Wednesday": "5:00 AM - 12:00 AM",
+      "Thursday": "5:00 AM - 12:00 AM",
+      "Friday": "5:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "2. Cloud Forest",
+    "category": "Points of Interest & Landmarks • Parks",
+    "price": "$12",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/42/08/c3/cloud-forest-featuring.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d4400781-Reviews-Cloud_Forest-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "3. Universal Studios Singapore",
+    "category": "Amusement & Theme Parks",
+    "price": "$50",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/16/51/ec/universal-studios-singapore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d2439664-Reviews-Universal_Studios_Singapore-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "4. Singapore Zoo",
+    "category": "Zoos",
+    "price": "$42",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/d8/92/9b/rhino-feeding.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324542-Reviews-Singapore_Zoo-Singapore.html",
+    "opening_hours": {
+      "Saturday": "8:30 AM - 6:00 PM",
+      "Sunday": "8:30 AM - 6:00 PM",
+      "Monday": "8:30 AM - 6:00 PM",
+      "Tuesday": "8:30 AM - 6:00 PM",
+      "Wednesday": "8:30 AM - 6:00 PM",
+      "Thursday": "8:30 AM - 6:00 PM",
+      "Friday": "8:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "5. Marina Bay",
+    "category": "Marinas • Bodies of Water",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d7/53/1f/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1177497-Reviews-Marina_Bay-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "6. National Orchid Garden",
+    "category": "Gardens",
+    "price": "$8",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/2c/fd/73/img-20190908-153849-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317453-Reviews-National_Orchid_Garden-Singapore.html",
+    "opening_hours": {
+      "Saturday": "8:30 AM - 7:00 PM",
+      "Sunday": "8:30 AM - 7:00 PM",
+      "Monday": "8:30 AM - 7:00 PM",
+      "Tuesday": "8:30 AM - 7:00 PM",
+      "Wednesday": "8:30 AM - 7:00 PM",
+      "Thursday": "8:30 AM - 7:00 PM",
+      "Friday": "8:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "7. Sands Skypark Observation Deck",
+    "category": "Marina Bay",
+    "price": "$27",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/0a/92/56/sands-skypark.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1837767-Reviews-Sands_Skypark_Observation_Deck-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:30 PM",
+      "Sunday": "10:00 AM - 4:30 PM",
+      "Monday": "10:00 AM - 4:30 PM",
+      "Tuesday": "10:00 AM - 4:30 PM",
+      "Wednesday": "10:00 AM - 4:30 PM",
+      "Thursday": "10:00 AM - 4:30 PM",
+      "Friday": "10:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "8. Singapore Flyer",
+    "category": "Marina Bay",
+    "price": "$31",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ad/1f/18/singapore-flyer.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d678639-Reviews-Singapore_Flyer-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "9. Supertree Grove",
+    "category": "Marina Bay",
+    "price": "$55",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d7/cd/37/gli-alberi-dal-basso.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8634325-Reviews-Supertree_Grove-Singapore.html",
+    "opening_hours": {
+      "Saturday": "5:00 AM - 2:00 AM",
+      "Sunday": "5:00 AM - 2:00 AM",
+      "Monday": "5:00 AM - 2:00 AM",
+      "Tuesday": "5:00 AM - 2:00 AM",
+      "Wednesday": "5:00 AM - 2:00 AM",
+      "Thursday": "5:00 AM - 2:00 AM",
+      "Friday": "5:00 AM - 2:00 AM"
+    }
+  },
+  {
+    "name": "10. Chinatown",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/73/65/d0/photo9jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317415-Reviews-Chinatown-Singapore.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 12:00 AM",
+      "Sunday": "8:00 AM - 12:00 AM",
+      "Monday": "8:00 AM - 12:00 AM",
+      "Tuesday": "8:00 AM - 12:00 AM",
+      "Wednesday": "8:00 AM - 12:00 AM",
+      "Thursday": "8:00 AM - 12:00 AM",
+      "Friday": "8:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "11. Orchard Road",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/85/2e/7c/at-night.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317454-Reviews-Orchard_Road-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "12. Clarke Quay",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/15/64/20/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324756-Reviews-Clarke_Quay-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "10:00 AM - 11:00 PM",
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "13. Jewel Changi Airport",
+    "category": "Shopping Malls",
+    "price": "$9",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/29/d4/40/night-view-of-the-hsbc.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d17237163-Reviews-Jewel_Changi_Airport-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "14. Merlion Park",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4d/a7/97/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d644919-Reviews-Merlion_Park-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "15. Night Safari",
+    "category": "Nature & Wildlife Areas • Zoos",
+    "price": "$46",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/65/2b/14/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324761-Reviews-Night_Safari-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:15 PM - 12:00 AM",
+      "Sunday": "7:15 PM - 12:00 AM",
+      "Monday": "7:15 PM - 12:00 AM",
+      "Tuesday": "7:15 PM - 12:00 AM",
+      "Wednesday": "7:15 PM - 12:00 AM",
+      "Thursday": "7:15 PM - 12:00 AM",
+      "Friday": "7:15 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "16. Buddha Tooth Relic Temple and Museum",
+    "category": "Speciality Museums • Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ce/1f/25/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1438273-Reviews-Buddha_Tooth_Relic_Temple_and_Museum-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 5:00 PM",
+      "Sunday": "7:00 AM - 5:00 PM",
+      "Monday": "7:00 AM - 5:00 PM",
+      "Tuesday": "7:00 AM - 5:00 PM",
+      "Wednesday": "7:00 AM - 5:00 PM",
+      "Thursday": "7:00 AM - 5:00 PM",
+      "Friday": "7:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "17. Singapore Oceanarium",
+    "category": "Aquariums",
+    "price": "$64",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/33/94/49/sea-aquarium.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d4009739-Reviews-Singapore_Oceanarium-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "18. Singapore Cable Car",
+    "category": "Trams • Lookouts",
+    "price": "$27",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/11/1e/0a/fly-on-our-thematic-superman.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d315470-Reviews-Singapore_Cable_Car-Singapore.html",
+    "opening_hours": {
+      "Saturday": "8:45 AM - 10:00 PM",
+      "Sunday": "8:45 AM - 10:00 PM",
+      "Monday": "8:45 AM - 10:00 PM",
+      "Tuesday": "8:45 AM - 10:00 PM",
+      "Wednesday": "8:45 AM - 10:00 PM",
+      "Thursday": "8:45 AM - 10:00 PM",
+      "Friday": "8:45 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "19. Flower Dome",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/57/58/e9/rose-romance-floral-display.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d4400784-Reviews-Flower_Dome-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "20. National Museum of Singapore",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/45/9d/0f/national-museum-of-singapore.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324550-Reviews-National_Museum_of_Singapore-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "21. MacRitchie Nature Trail",
+    "category": "Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/59/34/c9/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d386880-Reviews-MacRitchie_Nature_Trail-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "22. Singapore Discovery Centre",
+    "category": "Speciality Museums • History Museums",
+    "price": "$12",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/c8/76/1d/no-visit-to-singapore.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d446421-Reviews-Singapore_Discovery_Centre-Singapore.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 7:00 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "12:00 PM - 6:00 PM",
+      "Tuesday": "12:00 PM - 6:00 PM",
+      "Wednesday": "12:00 PM - 6:00 PM",
+      "Thursday": "12:00 PM - 6:00 PM",
+      "Friday": "12:00 PM - 6:00 PM"
+    }
+  },
+  {
+    "name": "23. Adventure Cove Waterpark",
+    "category": "Water Parks",
+    "price": "$48",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0f/d1/1c/riptide-rocket-hydro.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d3747640-Reviews-Adventure_Cove_Waterpark-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "24. Mustafa Centre",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/3a/b4/09/mustafa-centre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2139541-Reviews-Mustafa_Centre-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "25. Haji Lane",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/73/c4/c8/haji-lane.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d3512383-Reviews-Haji_Lane-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "26. East Coast Park",
+    "category": "Beaches • Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0f/b9/07/west-coast-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317426-Reviews-East_Coast_Park-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "27. Arab Street",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/fc/d3/54/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324757-Reviews-Arab_Street-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Little India",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a9/7c/62/little-india.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324541-Reviews-Little_India-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:30 AM - 12:30 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "10:30 AM - 12:30 PM",
+      "Wednesday": "notice",
+      "Thursday": "10:30 AM - 12:30 PM",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "29. The Shoppes at Marina Bay Sands",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/85/ce/ad/20170609-185204-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2138910-Reviews-The_Shoppes_at_Marina_Bay_Sands-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "30. The Southern Ridges",
+    "category": "Hiking Trails • Scenic Walking Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b1/8d/eb/the-southern-ridges.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1523862-Reviews-The_Southern_Ridges-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Hell's Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/65/f8/0c/hell-s-museum-we-re-always.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d23731383-Reviews-Hell_s_Museum-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "32. Waterfront Promenade",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/86/7a/8c/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1888876-Reviews-Waterfront_Promenade-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "33. River Wonders",
+    "category": "Zoos",
+    "price": "$39",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/d8/e5/d0/be-amazed-by-the-world.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d4089881-Reviews-River_Wonders-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "34. Fort Canning Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d3/0a/14/fort-canning-park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324755-Reviews-Fort_Canning_Park-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "35. Palawan Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/09/6b/13/photo5jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d941828-Reviews-Palawan_Beach-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "36. Sentosa Sensoryscape",
+    "category": "Gardens • Scenic Walking Areas",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d3/51/10/welcome-to-symphony-streams.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d27497331-Reviews-Sentosa_Sensoryscape-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "37. Battle Box@fort Canning",
+    "category": "Military Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6f/39/a8/battlebox-visitor-centre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d9859121-Reviews-Battle_Box_fort_Canning-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "38. VivoCity",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/9b/2f/21/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d634131-Reviews-VivoCity-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "39. The Helix Bridge",
+    "category": "Historic Walking Areas • Bridges",
+    "price": "$16",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/48/52/69/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2138898-Reviews-The_Helix_Bridge-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "40. ArtScience Museum at Marina Bay Sands",
+    "category": "Speciality Museums",
+    "price": "$17",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/0a/88/c8/artscience-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2138895-Reviews-ArtScience_Museum_at_Marina_Bay_Sands-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "41. Haw Par Villa",
+    "category": "Historic Sites • Amusement & Theme Parks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/2a/ac/5a/tiger-balm-gardens.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324758-Reviews-Haw_Par_Villa-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM",
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "42. Changi Chapel and Museum",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/10/80/6c/changi-chapel-that-greets.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324543-Reviews-Changi_Chapel_and_Museum-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 5:30 PM",
+      "Sunday": "9:30 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "9:30 AM - 5:30 PM",
+      "Wednesday": "9:30 AM - 5:30 PM",
+      "Thursday": "9:30 AM - 5:30 PM",
+      "Friday": "9:30 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "43. Butterfly Garden",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/08/5e/14/butterfly-garden-at-terminal.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8152168-Reviews-Butterfly_Garden-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "44. ION Orchard",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/a1/69/4c/ion-orchard-during-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2139448-Reviews-ION_Orchard-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "45. Asian Civilisations Museum",
+    "category": "History Museums",
+    "price": "$13",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/0c/f3/5f/beautiful-building.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d310896-Reviews-Asian_Civilisations_Museum-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "46. National Gallery Singapore",
+    "category": "Architectural Buildings • Art Museums",
+    "price": "$13",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ec/5b/45/national-gallery-singapore.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8077179-Reviews-National_Gallery_Singapore-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "47. Siloso Beach",
+    "category": "Beaches",
+    "price": "$10",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/30/89/29/psx-20190223-020320-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d1891492-Reviews-Siloso_Beach-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "48. OCBC Skyway",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b5/e6/b0/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d10229455-Reviews-OCBC_Skyway-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "49. Food Folks @ Lau Pa Sat",
+    "category": "Historic Sites • Flea & Street Markets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/f3/be/food-folks-lau-pa-sat.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d386879-Reviews-Food_Folks_Lau_Pa_Sat-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "50. Chinatown Heritage Centre",
+    "category": "Speciality Museums",
+    "price": "$20",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a3/a3/1e/chinatown-heritage-centre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324540-Reviews-Chinatown_Heritage_Centre-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "51. Singapore Mass Rapid Transit (SMRT)",
+    "category": "Public Transportation Systems",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/17/d1/43/inside-smrt-train.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8016698-Reviews-Singapore_Mass_Rapid_Transit_SMRT-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "52. Marina Bay Sands Casino",
+    "category": "Casinos",
+    "price": "$35",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/ed/94/f4/marina-bay-sands.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1062119-Reviews-Marina_Bay_Sands_Casino-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "53. Singapore River",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/22/98/82/singapore-river.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d4283466-Reviews-Singapore_River-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. Sungei Buloh Wetland Reserve",
+    "category": "Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/79/27/9e/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d315468-Reviews-Sungei_Buloh_Wetland_Reserve-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 7:00 PM",
+      "Sunday": "7:00 AM - 7:00 PM",
+      "Monday": "7:00 AM - 7:00 PM",
+      "Tuesday": "7:00 AM - 7:00 PM",
+      "Wednesday": "7:00 AM - 7:00 PM",
+      "Thursday": "7:00 AM - 7:00 PM",
+      "Friday": "7:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "55. Singapore Cable Car (Sentosa)",
+    "category": "Scenic Railroads",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f6/6e/38/mosque.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317436-Reviews-Kampong_Gelam-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Kampong Gelam",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/11/10/9e/singapore-cable-car-sentosa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d1997266-Reviews-Singapore_Cable_Car_Sentosa-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Singapore City Gallery",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4f/48/03/photo8jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d315469-Reviews-Singapore_City_Gallery-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "58. Sultan Mosque",
+    "category": "Points of Interest & Landmarks • Religious Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d7/9b/12/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317468-Reviews-Sultan_Mosque-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 12:00 PM",
+      "Sunday": "9:30 AM - 12:00 PM",
+      "Monday": "9:30 AM - 12:00 PM",
+      "Tuesday": "9:30 AM - 12:00 PM",
+      "Wednesday": "9:30 AM - 12:00 PM",
+      "Thursday": "9:30 AM - 12:00 PM",
+      "Friday": "2:30 PM - 4:00 PM"
+    }
+  },
+  {
+    "name": "59. Esplanade - Theatres on the Bay",
+    "category": "Points of Interest & Landmarks • Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/61/41/e6/view-from-esplanade-forecourt.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324752-Reviews-Esplanade_Theatres_on_the_Bay-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Satay Street",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a7/7e/c7/satay-stall-8-really.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d9977571-Reviews-Satay_Street-Singapore.html",
+    "opening_hours": {
+      "Saturday": "3:00 PM - 3:00 AM",
+      "Sunday": "3:00 PM - 3:00 AM",
+      "Monday": "7:00 PM - 3:00 AM",
+      "Tuesday": "7:00 PM - 3:00 AM",
+      "Wednesday": "7:00 PM - 3:00 AM",
+      "Thursday": "7:00 PM - 3:00 AM",
+      "Friday": "7:00 PM - 3:00 AM"
+    }
+  },
+  {
+    "name": "61. Pit Grandstand",
+    "category": "Sporting Events",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/06/dc/2f/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8820216-Reviews-Pit_Grandstand-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. Chijmes",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/99/c5/8a/chijmes.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d338376-Reviews-Chijmes-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Boat Quay",
+    "category": "The Quays",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/64/74/68/boat-quay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317397-Reviews-Boat_Quay-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. MacRitchie Reservoir",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/db/7e/a6/the-main-lake-of-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1527627-Reviews-MacRitchie_Reservoir-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Suntec City",
+    "category": "Shopping Malls",
+    "price": "$25",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/99/c0/ca/fountain-of-wealth-touch.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317398-Reviews-Suntec_City-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "66. Emerald Hill",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d8/49/54/2017-singapore-emerald.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d592883-Reviews-Emerald_Hill-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "67. IMM Outlet Mall",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/37/39/0e/inside-the-mall.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d4717342-Reviews-IMM_Outlet_Mall-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "68. Sentosa Boardwalk",
+    "category": "Historic Walking Areas • Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7a/4b/6a/view-from-boardwalk.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d3475270-Reviews-Sentosa_Boardwalk-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Peranakan Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/14/7a/a6/view-from-across-the.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1491151-Reviews-Peranakan_Museum-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "70. Fort Siloso",
+    "category": "Military Museums • Historic Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/29/fc/3d/fire-director-tower.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d324747-Reviews-Fort_Siloso-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "71. Bukit Timah Nature Reserve",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/47/d9/e3/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2139569-Reviews-Raffles_City-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "72. Raffles City",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5a/ab/26/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d315472-Reviews-Bukit_Timah_Nature_Reserve-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "73. Wild Wild Wet",
+    "category": "Water Parks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/bd/cd/fd/wild-wild-wet-rides.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d641343-Reviews-Wild_Wild_Wet-Singapore.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "12:00 PM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "12:00 PM - 6:00 PM",
+      "Thursday": "12:00 PM - 6:00 PM",
+      "Friday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "74. The Intan",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/af/c0/a2/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d7791180-Reviews-The_Intan-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 10:00 PM",
+      "Sunday": "7:00 AM - 10:00 PM",
+      "Monday": "7:00 AM - 10:00 PM",
+      "Tuesday": "7:00 AM - 10:00 PM",
+      "Wednesday": "7:00 AM - 10:00 PM",
+      "Thursday": "7:00 AM - 10:00 PM",
+      "Friday": "7:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "75. Chinese and Japanese Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/af/81/84/lake.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d379346-Reviews-Chinese_and_Japanese_Gardens-Singapore.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 10:00 PM",
+      "Sunday": "6:00 AM - 10:00 PM",
+      "Monday": "6:00 AM - 10:00 PM",
+      "Tuesday": "6:00 AM - 10:00 PM",
+      "Wednesday": "6:00 AM - 10:00 PM",
+      "Thursday": "6:00 AM - 10:00 PM",
+      "Friday": "6:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "76. Sri Mariamman Temple",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/77/3f/ea/photo3jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d324753-Reviews-Sri_Mariamman_Temple-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 11:30 AM",
+      "Sunday": "7:00 AM - 11:30 AM",
+      "Monday": "7:00 AM - 11:30 AM",
+      "Tuesday": "7:00 AM - 11:30 AM",
+      "Wednesday": "7:00 AM - 11:30 AM",
+      "Thursday": "7:00 AM - 11:30 AM",
+      "Friday": "7:00 AM - 11:30 AM"
+    }
+  },
+  {
+    "name": "77. Raffles Hotel Arcade",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9a/6c/d3/raffles-boutique.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1492403-Reviews-Raffles_Hotel_Arcade-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "78. Henderson Waves",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/26/36/cc/the-view-back-towards.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d3561693-Reviews-Henderson_Waves-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "79. iFly Singapore",
+    "category": "Sports Complexes • Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bb/bd/21/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d2180413-Reviews-IFly_Singapore-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "11:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "80. Skyline Luge Singapore",
+    "category": "Game & Entertainment Centers",
+    "price": "$37",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f0/b6/01/hop-in-the-driver-seat.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d1626904-Reviews-Skyline_Luge_Singapore-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 7:30 PM",
+      "Tuesday": "10:00 AM - 7:30 PM",
+      "Wednesday": "10:00 AM - 7:30 PM",
+      "Thursday": "10:00 AM - 7:30 PM",
+      "Friday": "10:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "81. Kranji War Memorial",
+    "category": "Cemeteries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/a5/a4/34/kranji-war-memorial.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d386877-Reviews-Kranji_War_Memorial-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. Bugis Junction",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/31/71/9e/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1888873-Reviews-Bugis_Junction-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "83. Sri Veeramakaliamman Temple",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/df/21/9d/market-at-dusk.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2338943-Reviews-Chinatown_Street_Market-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "84. Chinatown Street Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/51/54/39/sri-veeramakaliamman.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317472-Reviews-Sri_Veeramakaliamman_Temple-Singapore.html",
+    "opening_hours": {
+      "Saturday": "5:00 AM - 9:00 PM",
+      "Sunday": "5:00 AM - 9:00 PM",
+      "Monday": "5:00 AM - 9:00 PM",
+      "Tuesday": "5:00 AM - 9:00 PM",
+      "Wednesday": "5:00 AM - 9:00 PM",
+      "Thursday": "5:00 AM - 9:00 PM",
+      "Friday": "5:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "85. Mount Faber",
+    "category": "Nature & Wildlife Areas",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/50/67/25/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2344356-Reviews-Mount_Faber-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. HSBC Rain Vortex",
+    "category": "Waterfalls",
+    "price": "$28",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/66/5c/1f/enjoy-up-to-5-unique.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d7178019-Reviews-Madame_Tussauds_Singapore-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "87. Tanjong Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2f/2b/c9/hsbc-rain-vortex-at-night.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d16824897-Reviews-HSBC_Rain_Vortex-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. Madame Tussauds Singapore",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/bd/82/19/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d1891491-Reviews-Tanjong_Beach-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Tekka Centre",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1e/9c/09/1807-1.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2338971-Reviews-Tekka_Centre-Singapore.html",
+    "opening_hours": {
+      "Saturday": "6:30 AM - 9:00 PM",
+      "Sunday": "6:30 AM - 9:00 PM",
+      "Monday": "6:30 AM - 9:00 PM",
+      "Tuesday": "6:30 AM - 9:00 PM",
+      "Wednesday": "6:30 AM - 9:00 PM",
+      "Thursday": "6:30 AM - 9:00 PM",
+      "Friday": "6:30 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "90. Science Centre Singapore",
+    "category": "Science Museums",
+    "price": "$10",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/5a/ab/d9/where-science-comes-alive.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d446423-Reviews-Science_Centre_Singapore-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "91. Fort Siloso Skywalk",
+    "category": "Lookouts • Observation Decks & Towers",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9e/4e/1b/fort-siloso-skywalk.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d10876665-Reviews-Fort_Siloso_Skywalk-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "92. Holland Village",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/12/3b/01/the-pinnacle-duxton.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d3512810-Reviews-The_Pinnacle_Duxton-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:30 PM",
+      "Sunday": "9:00 AM - 9:30 PM",
+      "Monday": "9:00 AM - 9:30 PM",
+      "Tuesday": "9:00 AM - 9:30 PM",
+      "Wednesday": "9:00 AM - 9:30 PM",
+      "Thursday": "9:00 AM - 9:30 PM",
+      "Friday": "9:00 AM - 9:30 PM"
+    }
+  },
+  {
+    "name": "93. The Pinnacle @ Duxton",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/4b/9b/f0/holland-village-market.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2062367-Reviews-Holland_Village-Singapore.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 2:00 PM",
+      "Sunday": "11:00 AM - 2:00 PM",
+      "Monday": "10:00 AM - 12:00 PM",
+      "Tuesday": "10:00 AM - 12:00 PM",
+      "Wednesday": "10:00 AM - 12:00 PM",
+      "Thursday": "10:00 AM - 12:00 PM",
+      "Friday": "11:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "94. Bird Paradise",
+    "category": "National Parks • Zoos",
+    "price": "$49",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/06/3c/32/ocean-network-express.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d25417906-Reviews-Bird_Paradise-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "95. Resorts World Sentosa Casino",
+    "category": "Casinos",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/aa/00/46/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1994850-Reviews-Resorts_World_Sentosa_Casino-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "96. Robertson Quay",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/09/c5/7c/img-20200919-214958-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d3460002-Reviews-Robertson_Quay-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Katong-Joo Chiat",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/75/ae/c0/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2344138-Reviews-Katong_Joo_Chiat-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. SkyHelix Sentosa",
+    "category": "Points of Interest & Landmarks",
+    "price": "$21",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cc/53/f7/amazing-city-lights-at.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d23808268-Reviews-SkyHelix_Sentosa-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "99. ION Sky",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/f8/a9/9e/20160713-153932-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2280987-Reviews-ION_Sky-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 12:00 AM",
+      "Sunday": "12:00 PM - 12:00 AM",
+      "Monday": "12:00 PM - 12:00 AM",
+      "Tuesday": "12:00 PM - 12:00 AM",
+      "Wednesday": "12:00 PM - 12:00 AM",
+      "Thursday": "12:00 PM - 12:00 AM",
+      "Friday": "12:00 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "100. Supertree Observatory",
+    "category": "Observation Decks & Towers",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/23/56/4c/supertree-observatory.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d19905463-Reviews-Supertree_Observatory-Singapore.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "101. National Library of Singapore",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fa/70/7c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1994786-Reviews-National_Library_of_Singapore-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "102. Takashimaya Singapore",
+    "category": "Orchard Road",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7c/40/3c/takashimaya-singapore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1640638-Reviews-Takashimaya_Singapore-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:30 PM",
+      "Sunday": "10:00 AM - 9:30 PM",
+      "Monday": "10:00 AM - 9:30 PM",
+      "Tuesday": "10:00 AM - 9:30 PM",
+      "Wednesday": "10:00 AM - 9:30 PM",
+      "Thursday": "10:00 AM - 9:30 PM",
+      "Friday": "10:00 AM - 9:30 PM"
+    }
+  },
+  {
+    "name": "103. Thian Hock Keng Temple",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ad/b9/74/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317402-Reviews-Thian_Hock_Keng_Temple-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:30 AM - 5:30 PM",
+      "Sunday": "7:30 AM - 5:30 PM",
+      "Monday": "7:30 AM - 5:30 PM",
+      "Tuesday": "7:30 AM - 5:30 PM",
+      "Wednesday": "7:30 AM - 5:30 PM",
+      "Thursday": "7:30 AM - 5:30 PM",
+      "Friday": "7:30 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "104. Floating Bridge at Siloso Beach",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/78/7b/34/floating-bridge-at-siloso.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294264-d7221262-Reviews-Floating_Bridge_at_Siloso_Beach-Sentosa_Island_Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Flight Experience",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/a2/c1/f4/flight-experience-singapore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1382651-Reviews-Flight_Experience-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "106. Black Crow Taxidermy & Art",
+    "category": "Art Galleries • Mysterious Sites",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/71/73/21/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d23629733-Reviews-Black_Crow_Taxidermy_Art-Singapore.html",
+    "opening_hours": {
+      "Saturday": "1:00 PM - 7:00 PM",
+      "Sunday": "1:00 PM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "1:00 PM - 7:00 PM",
+      "Thursday": "notice",
+      "Friday": "1:00 PM - 7:00 PM"
+    }
+  },
+  {
+    "name": "107. Marina Barrage",
+    "category": "Marinas • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/be/fc/f4/20191019-210138-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1823698-Reviews-Marina_Barrage-Singapore.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "108. Orchid Garden & Koi Pond",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c6/81/d6/orchid-garden-koi-pond.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8325443-Reviews-Orchid_Garden_Koi_Pond-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Esplanade Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9d/85/49/park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317427-Reviews-Esplanade_Park-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "110. Kuan Yin Thong Hood Cho Temple",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e5/f4/75/20180128-140457-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d386878-Reviews-Kuan_Yin_Thong_Hood_Cho_Temple-Singapore.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 6:00 PM",
+      "Sunday": "6:00 AM - 6:00 PM",
+      "Monday": "6:00 AM - 6:00 PM",
+      "Tuesday": "6:00 AM - 6:00 PM",
+      "Wednesday": "6:00 AM - 6:00 PM",
+      "Thursday": "6:00 AM - 6:00 PM",
+      "Friday": "6:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "111. Museum Of Ice Cream Singapore",
+    "category": "Speciality Museums",
+    "price": "$10",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/81/b4/4c/the-highlight-of-the.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d23543400-Reviews-Museum_Of_Ice_Cream_Singapore-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "112. Changi Beach",
+    "category": "Historic Sites • Beaches",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c8/18/3c/fountain-of-weal_r.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d317428-Reviews-Fountain_of_Wealth-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 12:00 PM",
+      "Sunday": "10:00 AM - 12:00 PM",
+      "Monday": "10:00 AM - 12:00 PM",
+      "Tuesday": "10:00 AM - 12:00 PM",
+      "Wednesday": "10:00 AM - 12:00 PM",
+      "Thursday": "10:00 AM - 12:00 PM",
+      "Friday": "10:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "113. Fountain of Wealth",
+    "category": "Points of Interest & Landmarks • Fountains",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b0/75/b0/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d3459679-Reviews-Changi_Beach-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Singapore Art Museum",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/47/24/14/singapore-art-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d310899-Reviews-Singapore_Art_Museum-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "115. Plaza Singapura",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f8/1c/86/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d1640639-Reviews-Plaza_Singapura-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "116. Funan",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a8/d3/4a/urban-connectivity-design.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d2139508-Reviews-Funan-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "117. People's Park Complex",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/87/ed/12/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d8015306-Reviews-People_s_Park_Complex-Singapore.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "118. St Andrew's Cathedral",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/bf/a4/9c/st-andrew-s-cathedral.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d446427-Reviews-St_Andrew_s_Cathedral-Singapore.html",
+    "opening_hours": {
+      "Saturday": "7:30 AM - 6:00 PM",
+      "Sunday": "7:30 AM - 6:00 PM",
+      "Monday": "7:30 AM - 6:00 PM",
+      "Tuesday": "7:30 AM - 6:00 PM",
+      "Wednesday": "7:30 AM - 6:00 PM",
+      "Thursday": "7:30 AM - 6:00 PM",
+      "Friday": "7:30 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "119. Kong Meng San Phor Kark See Monastery",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3b/ae/af/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d386876-Reviews-Kong_Meng_San_Phor_Kark_See_Monastery-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Peranakan Houses",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/14/ed/1a/20190111-170927-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g294265-d15684468-Reviews-Peranakan_Houses-Singapore.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

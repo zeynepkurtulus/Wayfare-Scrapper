@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Reichstag Building",
+    "category": "Tiergarten",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b3/e9/b6/im-inneren-der-kuppel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190517-Reviews-Reichstag_Building-Berlin.html"
+  },
+  {
+    "name": "2. Topography of Terror",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/0e/90/fc/topography-of-terror.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190535-Reviews-Topography_of_Terror-Berlin.html"
+  },
+  {
+    "name": "3. Brandenburg Gate",
+    "category": "Mitte",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/cd/1e/2e/caption.jpg?w=500&h=-1&s=1&cx=1070&cy=448&chk=v1_b58b92a890cf42edea5b",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190518-Reviews-Brandenburg_Gate-Berlin.html"
+  },
+  {
+    "name": "4. Memorial of the Berlin Wall",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b6/30/6f/memorial-of-the-berlin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d196239-Reviews-Memorial_of_the_Berlin_Wall-Berlin.html"
+  },
+  {
+    "name": "5. The Holocaust Memorial - Memorial to the Murdered Jews of Europe",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/8a/38/photo8jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d617423-Reviews-The_Holocaust_Memorial_Memorial_to_the_Murdered_Jews_of_Europe-Berlin.html"
+  },
+  {
+    "name": "6. Pergamonmuseum",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/b9/6e/70/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190527-Reviews-Pergamonmuseum-Berlin.html"
+  },
+  {
+    "name": "7. Friedrichstadt-Palast",
+    "category": "Mitte",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7f/37/57/humans-of-our-time.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190603-Reviews-Friedrichstadt_Palast-Berlin.html"
+  },
+  {
+    "name": "8. East Side Gallery",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/81/58/8d/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d191041-Reviews-East_Side_Gallery-Berlin.html"
+  },
+  {
+    "name": "9. Museum Island",
+    "category": "Mitte",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/f0/d6/museum-island.jpg?w=500&h=400&s=1&cx=991&cy=440&chk=v1_2ba60cd793ba70a72934",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190520-Reviews-Museum_Island-Berlin.html"
+  },
+  {
+    "name": "10. Zoo Berlin",
+    "category": "Zoos • Aquariums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/35/64/66/zoo-berlin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d314008-Reviews-Zoo_Berlin-Berlin.html"
+  },
+  {
+    "name": "11. Berliner Dom",
+    "category": "Architectural Buildings • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/2c/54/54/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190545-Reviews-Berliner_Dom-Berlin.html"
+  },
+  {
+    "name": "12. Tiergarten",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/3e/be/2c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d191290-Reviews-Tiergarten-Berlin.html"
+  },
+  {
+    "name": "13. Berliner Fernsehturm",
+    "category": "Mitte",
+    "price": "Admission tickets from $31",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/80/62/7f/der-berliner-fernsehturm.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190589-Reviews-Berliner_Fernsehturm-Berlin.html"
+  },
+  {
+    "name": "14. Gendarmenmarkt",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/09/0d/62/img-20160424-144108-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190695-Reviews-Gendarmenmarkt-Berlin.html"
+  },
+  {
+    "name": "15. DDR Museum",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $16",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/61/57/c3/fahrt-durch-ein-neubaugebiet.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d619185-Reviews-DDR_Museum-Berlin.html"
+  },
+  {
+    "name": "16. Berlin Story Bunker",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1c/36/6e/der-berlin-story-bunker.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d3497877-Reviews-Berlin_Story_Bunker-Berlin.html"
+  },
+  {
+    "name": "17. Classic Remise Berlin",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/fb/48/8b/the-aforementioned-retailer.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2136682-Reviews-Classic_Remise_Berlin-Berlin.html"
+  },
+  {
+    "name": "18. Neues Museum",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Admission tickets from $22",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b6/4b/28/achim-kleuker.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1595306-Reviews-Neues_Museum-Berlin.html"
+  },
+  {
+    "name": "19. German Spy Museum Berlin",
+    "category": "Speciality Museums • History Museums",
+    "price": "Admission tickets from $26",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f6/d4/e1/laser-parcours.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d8703348-Reviews-German_Spy_Museum_Berlin-Berlin.html"
+  },
+  {
+    "name": "20. German Museum of Technology",
+    "category": "Science Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/74/e5/aa/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d559453-Reviews-German_Museum_of_Technology-Berlin.html"
+  },
+  {
+    "name": "21. Die Hackeschen Hoefe",
+    "category": "Architectural Buildings • Shopping Malls",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/25/2b/3b/berliner-luft.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190659-Reviews-Die_Hackeschen_Hoefe-Berlin.html"
+  },
+  {
+    "name": "22. Stasimuseum",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f9/76/3a/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d547846-Reviews-Stasimuseum-Berlin.html"
+  },
+  {
+    "name": "23. Alexanderplatz",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/45/de/60/great-area.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d265858-Reviews-Alexanderplatz-Berlin.html"
+  },
+  {
+    "name": "24. Kaufhaus Des Westens",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/97/70/18/food-court.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190540-Reviews-Kaufhaus_Des_Westens-Berlin.html"
+  },
+  {
+    "name": "25. Charlottenburg Palace",
+    "category": "Historic Sites • Castles",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/91/e6/2d/caption.jpg?w=500&h=-1&s=1&cx=705&cy=535&chk=v1_7e929c2e932a32e56326",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d242760-Reviews-Charlottenburg_Palace-Berlin.html"
+  },
+  {
+    "name": "26. Olympiastadion Berlin",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/4b/a2/2b/olympiastadion-berlin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d242761-Reviews-Olympiastadion_Berlin-Berlin.html"
+  },
+  {
+    "name": "27. Berlin-Hohenschonhausen Memorial",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/60/df/c7/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d313983-Reviews-Berlin_Hohenschonhausen_Memorial-Berlin.html"
+  },
+  {
+    "name": "28. Gemäldegalerie",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/78/dd/d0/achim-kleuker.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190595-Reviews-Gemaldegalerie-Berlin.html"
+  },
+  {
+    "name": "29. Mauerpark Flea Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ad/e3/a4/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d3470243-Reviews-Mauerpark_Flea_Market-Berlin.html"
+  },
+  {
+    "name": "30. Palace of Tears",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/a0/ae/e5/palace-of-tears.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d195030-Reviews-Palace_of_Tears-Berlin.html"
+  },
+  {
+    "name": "31. Jewish Museum Berlin",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/40/75/52/esterno.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190519-Reviews-Jewish_Museum_Berlin-Berlin.html"
+  },
+  {
+    "name": "32. Museum Fuer Naturkunde Berlin",
+    "category": "Natural History Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/46/88/d0/museum-showcase.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d816093-Reviews-Museum_Fuer_Naturkunde_Berlin-Berlin.html"
+  },
+  {
+    "name": "33. Potsdamer Platz",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/25/f9/38/potsdamer-platz.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190537-Reviews-Potsdamer_Platz-Berlin.html"
+  },
+  {
+    "name": "34. Kaiser Wilhelm Memorial Church",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1e/b8/e2/kaiser-wilhelm-memorial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190541-Reviews-Kaiser_Wilhelm_Memorial_Church-Berlin.html"
+  },
+  {
+    "name": "35. Berliner Philharmonie",
+    "category": "Symphonies • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6c/ab/ad/berlin-philharmonic.jpg?w=200&h=200&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d195027-Reviews-Berliner_Philharmonie-Berlin.html"
+  },
+  {
+    "name": "36. Victory Column (Siegessäule)",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b7/10/92/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d501639-Reviews-Victory_Column_Siegessaule-Berlin.html"
+  },
+  {
+    "name": "37. Deutsches Historisches Museum",
+    "category": "Mitte",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/14/de/3f/deutsches-historisches.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d274497-Reviews-Deutsches_Historisches_Museum-Berlin.html"
+  },
+  {
+    "name": "38. Mall of Berlin",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/22/8a/c7/mall-of-berlin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d7194027-Reviews-Mall_of_Berlin-Berlin.html"
+  },
+  {
+    "name": "39. Berlin Central Station",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/78/78/32/berlin-hauptbahnhof.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2183304-Reviews-Berlin_Central_Station-Berlin.html"
+  },
+  {
+    "name": "40. Kurfürstendamm",
+    "category": "Points of Interest & Landmarks • Parks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/a5/c9/e6/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190539-Reviews-Kurfurstendamm-Berlin.html"
+  },
+  {
+    "name": "41. Mitte",
+    "category": "Neighborhoods",
+    "price": "Admission tickets from $19",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/86/5e/29/mitte.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190601-Reviews-Mitte-Berlin.html"
+  },
+  {
+    "name": "42. Sony Center",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/0b/07/d2/sony-center.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d4781598-Reviews-Sony_Center-Berlin.html"
+  },
+  {
+    "name": "43. Hackescher Markt",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/5b/c0/01/the-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d7083034-Reviews-Hackescher_Markt-Berlin.html"
+  },
+  {
+    "name": "44. Kreuzberg",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/16/fa/5e/oberbaum-bridge.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d191439-Reviews-Kreuzberg-Berlin.html"
+  },
+  {
+    "name": "45. Treptower Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9e/77/94/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d590899-Reviews-Treptower_Park-Berlin.html"
+  },
+  {
+    "name": "46. Mauerpark",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/25/fa/98/mauerpark.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1885199-Reviews-Mauerpark-Berlin.html"
+  },
+  {
+    "name": "47. Tempelhofer Feld",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ee/48/ea/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1881684-Reviews-Tempelhofer_Feld-Berlin.html"
+  },
+  {
+    "name": "48. Haus Schwarzenberg",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/3a/99/04/haus-schwarzenberg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190690-Reviews-Haus_Schwarzenberg-Berlin.html"
+  },
+  {
+    "name": "49. Berlin Dungeon",
+    "category": "Speciality Museums • Game & Entertainment Centers",
+    "price": "Admission tickets from $27",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/8d/ad/80/berlin-dungeon.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d3966099-Reviews-Berlin_Dungeon-Berlin.html"
+  },
+  {
+    "name": "50. Urban Nation",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/4f/01/d0/20180616-105751-largejpg.jpg?w=500&h=-1&s=1&cx=481&cy=264&chk=v1_d85e97bbf2e395a1fe3b",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d12906771-Reviews-Urban_Nation-Berlin.html"
+  },
+  {
+    "name": "51. Checkpoint Charlie",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/cc/30/69/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1166028-Reviews-Checkpoint_Charlie-Berlin.html"
+  },
+  {
+    "name": "52. Militärhistorisches Museum",
+    "category": "Military Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/62/7b/f2/ausstellungshalle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1798574-Reviews-Militarhistorisches_Museum-Berlin.html"
+  },
+  {
+    "name": "53. Teufelsberg",
+    "category": "Grunewald",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/71/b7/6b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d6847410-Reviews-Teufelsberg-Berlin.html"
+  },
+  {
+    "name": "54. Prenzlauer Berg",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/43/18/4a/arnswalder-platz-prenzlauer.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d191044-Reviews-Prenzlauer_Berg-Berlin.html"
+  },
+  {
+    "name": "55. Tierpark Berlin",
+    "category": "Zoos",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/3b/4b/3a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2174010-Reviews-Tierpark_Berlin-Berlin.html"
+  },
+  {
+    "name": "56. Panoramapunkt",
+    "category": "Points of Interest & Landmarks • Lookouts",
+    "price": "Admission tickets from $11",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/54/58/97/blick-richtung-osten.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d313992-Reviews-Panoramapunkt-Berlin.html"
+  },
+  {
+    "name": "57. Alte Nationalgalerie",
+    "category": "Art Museums",
+    "price": "Admission tickets from $14",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/79/08/a2/alte-nationalgalerie.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d242749-Reviews-Alte_Nationalgalerie-Berlin.html"
+  },
+  {
+    "name": "58. Turkish Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/5a/f3/77/i-colori-della-frutta.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2229722-Reviews-Turkish_Market-Berlin.html"
+  },
+  {
+    "name": "59. House of the Wannsee Conference",
+    "category": "Historic Sites • History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9f/7f/b6/haus-der-wannsee-konferenz.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d242766-Reviews-House_of_the_Wannsee_Conference-Berlin.html"
+  },
+  {
+    "name": "60. Unter Den Linden",
+    "category": "Mitte",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/50/0b/8e/altes-museum-old-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190538-Reviews-Unter_Den_Linden-Berlin.html"
+  },
+  {
+    "name": "61. Uber Arena",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/13/35/0e/concerto-u2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2146230-Reviews-Uber_Arena-Berlin.html"
+  },
+  {
+    "name": "62. Gärten der Welt",
+    "category": "Parks • Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/16/1c/fc/chinesischer-garten.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2282916-Reviews-Garten_der_Welt-Berlin.html"
+  },
+  {
+    "name": "63. Computerspielemuseum",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $22",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a0/6d/e2/computerspielemuseum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2035268-Reviews-Computerspielemuseum-Berlin.html"
+  },
+  {
+    "name": "64. Nikolaiviertel",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/bb/fc/5c/nicholas-quarter-nikolaivierte.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d191435-Reviews-Nikolaiviertel-Berlin.html"
+  },
+  {
+    "name": "65. Deutschlandmuseum",
+    "category": "Educational sites • History Museums",
+    "price": "Admission tickets from $30",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/b7/a3/71/key-visual.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d26251375-Reviews-Deutschlandmuseum-Berlin.html"
+  },
+  {
+    "name": "66. Bode-Museum",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b6/3d/30/bode-museum-staatliche.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d624830-Reviews-Bode_Museum-Berlin.html"
+  },
+  {
+    "name": "67. Madame Tussauds Berlin",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $29",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/52/b6/92/madame-tussauds-berlin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1828806-Reviews-Madame_Tussauds_Berlin-Berlin.html"
+  },
+  {
+    "name": "68. Museum Blindenwerkstatt Otto Weidt",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/77/3e/14/the-hallway-leading-to.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d594412-Reviews-Museum_Blindenwerkstatt_Otto_Weidt-Berlin.html"
+  },
+  {
+    "name": "69. Botanischen Gartens und Botanischen Museums Berlin",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e8/e9/07/botanischer-garten-berlin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1866171-Reviews-Botanischen_Gartens_und_Botanischen_Museums_Berlin-Berlin.html"
+  },
+  {
+    "name": "70. Museumsdienst Berlin",
+    "category": "Historic Sites • Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/69/8e/a8/photo-de-l-aeroport.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2062972-Reviews-Museumsdienst_Berlin-Berlin.html"
+  },
+  {
+    "name": "71. Gleis 17 Memorial",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/66/58/a6/20180726-125717-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d3371269-Reviews-Gleis_17_Memorial-Berlin.html"
+  },
+  {
+    "name": "72. Friedrichstraße",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/88/32/f0/berlin-friedrichstrasse.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190583-Reviews-Friedrichstrasse-Berlin.html"
+  },
+  {
+    "name": "73. Aquarium Berlin",
+    "category": "Aquariums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/35/6a/43/aquarium-berlin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2229043-Reviews-Aquarium_Berlin-Berlin.html"
+  },
+  {
+    "name": "74. Samurai Museum Berlin",
+    "category": "Speciality Museums • History Museums",
+    "price": "Admission tickets from $22",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/3e/b9/9f/samurai-museum-berlin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d23863112-Reviews-Samurai_Museum_Berlin-Berlin.html"
+  },
+  {
+    "name": "75. Strandbad Wannsee",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/9e/9a/68/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2431312-Reviews-Strandbad_Wannsee-Berlin.html"
+  },
+  {
+    "name": "76. Boxhagener Platz",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/88/eb/3b/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d547346-Reviews-Boxhagener_Platz-Berlin.html"
+  },
+  {
+    "name": "77. Pergamonmuseum - Das Panorama",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/10/19/ce/photo5jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d15523634-Reviews-Pergamonmuseum_Das_Panorama-Berlin.html"
+  },
+  {
+    "name": "78. KÖRPERWELTEN Museum",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $22",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/52/b6/92/madame-tussauds-berlin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1828806-Reviews-Madame_Tussauds_Berlin-Berlin.html"
+  },
+  {
+    "name": "79. HEY ALEX",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/c3/05/herzlich-willkommen-bei.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d26785789-Reviews-HEY_ALEX-Berlin.html"
+  },
+  {
+    "name": "80. Wintergarten Varieté",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/4e/f0/d0/artists-from-the-show.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190605-Reviews-Wintergarten_Variete-Berlin.html"
+  },
+  {
+    "name": "81. Monsterkabinett",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/aa/2e/7e/looks-like-a-mario-piranha.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2203902-Reviews-Monsterkabinett-Berlin.html"
+  },
+  {
+    "name": "82. Sammlung Boros",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/db/67/88/stunning-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1908472-Reviews-Sammlung_Boros-Berlin.html"
+  },
+  {
+    "name": "83. Oberbaumbrücke",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/16/ea/aa/vue-du-pont.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d3953115-Reviews-Oberbaumbrucke-Berlin.html"
+  },
+  {
+    "name": "84. KitKatClub",
+    "category": "Bars & Clubs",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/1e/65/c0/kitkatklub.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d254729-Reviews-KitKatClub-Berlin.html"
+  },
+  {
+    "name": "85. Wannsee Lake",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/62/cb/95/wannseerundfahrt.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2705579-Reviews-Wannsee_Lake-Berlin.html"
+  },
+  {
+    "name": "86. German Resistance Memorial Center",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f9/86/70/main-entrance.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d4751162-Reviews-German_Resistance_Memorial_Center-Berlin.html"
+  },
+  {
+    "name": "87. Friedrichshain",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/3e/bd/5a/by-juihong-on-instagram.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d442866-Reviews-Friedrichshain-Berlin.html"
+  },
+  {
+    "name": "88. Humboldthain Flak Tower",
+    "category": "Mitte (Borough)",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cc/68/87/humboldthain-flak-tower.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d7185858-Reviews-Humboldthain_Flak_Tower-Berlin.html"
+  },
+  {
+    "name": "89. Berghain",
+    "category": "Bars & Clubs • Dance Clubs & Discos",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/d2/de/2d/berghain.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2038917-Reviews-Berghain-Berlin.html"
+  },
+  {
+    "name": "90. Dark Matter",
+    "category": "Art Galleries • Speciality Museums",
+    "price": "Admission tickets from $26",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/78/f3/8b/grid-combines-kinetic.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d23313131-Reviews-Dark_Matter-Berlin.html"
+  },
+  {
+    "name": "91. Asisi Panorama Berlin",
+    "category": "Points of Interest & Landmarks",
+    "price": "Admission tickets from $16",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/be/bc/3e/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d6353067-Reviews-Asisi_Panorama_Berlin-Berlin.html"
+  },
+  {
+    "name": "92. Museum in der Kulturbrauerei",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/cf/fe/d1/museum-in-der-kulturbrauerei.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d5580809-Reviews-Museum_in_der_Kulturbrauerei-Berlin.html"
+  },
+  {
+    "name": "93. Berlinische Galerie",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/65/61/66/berlinische-galerie-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d641590-Reviews-Berlinische_Galerie-Berlin.html"
+  },
+  {
+    "name": "94. Alexa",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/89/04/8a/alexa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d4750379-Reviews-Alexa-Berlin.html"
+  },
+  {
+    "name": "95. Soviet Memorial Tiergarten",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/86/2b/f8/memorial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d313986-Reviews-Soviet_Memorial_Tiergarten-Berlin.html"
+  },
+  {
+    "name": "96. Schöneberg",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/86/f6/31/snaps-taken-around-schoneberg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d196255-Reviews-Schoneberg-Berlin.html"
+  },
+  {
+    "name": "97. Deutsche Oper Berlin",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/9e/1d/58/la-giaconda.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190530-Reviews-Deutsche_Oper_Berlin-Berlin.html"
+  },
+  {
+    "name": "98. Altes Museum",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b3/a6/d6/altes-museum-staatliche.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d11838582-Reviews-Altes_Museum-Berlin.html"
+  },
+  {
+    "name": "99. Museum Berggruen",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b6/77/b4/museum-berggruen-staatliche.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1569266-Reviews-Museum_Berggruen-Berlin.html"
+  },
+  {
+    "name": "100. art4berlin GALERIE",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b1/47/b6/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d9844657-Reviews-Art4berlin_GALERIE-Berlin.html"
+  },
+  {
+    "name": "101. KulturBrauerei",
+    "category": "Theaters • Shopping Malls",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/44/1b/fa/the-front-of-the-brewery.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d304857-Reviews-KulturBrauerei-Berlin.html"
+  },
+  {
+    "name": "102. Pfaueninsel",
+    "category": "Points of Interest & Landmarks • Islands",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/30/06/19/pfaueninsel-park-peacock.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d191443-Reviews-Pfaueninsel-Berlin.html"
+  },
+  {
+    "name": "103. WhatAGame",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/0e/e2/2a/whatagame.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d15222004-Reviews-WhatAGame-Berlin.html"
+  },
+  {
+    "name": "104. The Story of Berlin",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e5/0e/c4/story-of-berlin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190523-Reviews-The_Story_of_Berlin-Berlin.html"
+  },
+  {
+    "name": "105. Neue Wache",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d4/3c/86/img-20180430-095939-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190596-Reviews-Neue_Wache-Berlin.html"
+  },
+  {
+    "name": "106. Zitadelle Spandau",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/3d/1e/c9/20191213-113224-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d242771-Reviews-Zitadelle_Spandau-Berlin.html"
+  },
+  {
+    "name": "107. Hops & Barley",
+    "category": "Breweries",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c4/95/73/great-brewpub.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2166254-Reviews-Hops_Barley-Berlin.html"
+  },
+  {
+    "name": "108. Designpanoptikum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/51/22/57/designpanoptikum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d3618456-Reviews-Designpanoptikum-Berlin.html"
+  },
+  {
+    "name": "109. Showbühne Berlin",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/35/ad/77/live-show.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d23475624-Reviews-Showbuhne_Berlin-Berlin.html"
+  },
+  {
+    "name": "110. Futurium",
+    "category": "Speciality Museums • Science Museums",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d9/2e/e5/futurium.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d18937568-Reviews-Futurium-Berlin.html"
+  },
+  {
+    "name": "111. The Wall Museum",
+    "category": "Speciality Museums • History Museums",
+    "price": "Admission tickets from $12",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/88/e5/der-kalte-krieg-staniskaw.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d10109747-Reviews-The_Wall_Museum-Berlin.html"
+  },
+  {
+    "name": "112. GALERIA Berlin Alexanderplatz",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/1e/dc/ff/galeria-kaufhof.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d6752958-Reviews-GALERIA_Berlin_Alexanderplatz-Berlin.html"
+  },
+  {
+    "name": "113. Oranienburgerstrasse",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/a7/48/6d/oranienburgerstrasse.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d190602-Reviews-Oranienburgerstrasse-Berlin.html"
+  },
+  {
+    "name": "114. Anne Frank Zentrum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/76/15/0e/dauerausstellung-des.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2147289-Reviews-Anne_Frank_Zentrum-Berlin.html"
+  },
+  {
+    "name": "115. Deutsche Kinemathek",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/17/8c/e2/neues-quartier-fur-die.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d2147283-Reviews-Deutsche_Kinemathek-Berlin.html"
+  },
+  {
+    "name": "116. WINDOBONA Indoor Skydiving Berlin",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4f/29/73/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d13199676-Reviews-WINDOBONA_Indoor_Skydiving_Berlin-Berlin.html"
+  },
+  {
+    "name": "117. Strandbar Mitte",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c5/f1/e3/img-20170618-155152-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d664346-Reviews-Strandbar_Mitte-Berlin.html"
+  },
+  {
+    "name": "118. Marheineke Markthalle",
+    "category": "Farmers Markets",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d2/6f/77/marheineke-markthalle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d1896435-Reviews-Marheineke_Markthalle-Berlin.html"
+  },
+  {
+    "name": "119. Neue Nationalgalerie",
+    "category": "Art Museums",
+    "price": "Admission tickets from $12",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d1/6e/26/la-facade-cote-sud-est.jpg?w=500&h=-1&s=1&cx=1930&cy=2038&chk=v1_d9c59d00ff79c04d7a93",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d242748-Reviews-Neue_Nationalgalerie-Berlin.html"
+  },
+  {
+    "name": "120. Illuseum Berlin",
+    "category": "Speciality Museums",
+    "price": "Admission tickets from $18",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/91/4e/1f/komm-ins-illuseum-berlin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187323-d15042289-Reviews-Illuseum_Berlin-Berlin.html"
+  }
+]

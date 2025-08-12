@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Sydney Opera House",
+    "category": "Central Business District",
+    "price": "$32",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/93/a7/be/sydney-opera-house.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257278-Reviews-Sydney_Opera_House-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "2. Manly Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5e/31/a3/manly-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257487-Reviews-Manly_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "3. Sydney Harbour",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cf/69/07/sydney-harbour.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257842-Reviews-Sydney_Harbour-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "4. Sydney Harbour Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/38/6c/09/20171001-141954-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257355-Reviews-Sydney_Harbour_Bridge-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "5. Royal Botanic Garden Sydney",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4d/b1/9d/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257464-Reviews-Royal_Botanic_Garden_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "6. Sydney Ferries",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/eb/6d/42/sydney-ferries.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d1067915-Reviews-Sydney_Ferries-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "7. Bondi Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/57/55/75/queen-victoria-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d523757-Reviews-Queen_Victoria_Building_QVB-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "8. Queen Victoria Building (QVB)",
+    "category": "Central Business District",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ae/7e/12/memories-of-bondi-sydney.jpg?w=500&h=400&s=1&cx=1097&cy=594&chk=v1_d7722c0cf99f9c5f0949",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257354-Reviews-Bondi_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "9. The Rocks",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/f1/64/9c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257277-Reviews-The_Rocks-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "10. Darling Harbour",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e7/44/88/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257275-Reviews-Darling_Harbour-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "11. Sydney Tower Eye Observation Deck",
+    "category": "Central Business District",
+    "price": "$20",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/3e/66/21/dusk.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256631-Reviews-Sydney_Tower_Eye_Observation_Deck-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "12. Art Gallery Of New South Wales",
+    "category": "Art Museums",
+    "price": "$17",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/68/4c/c4/south-building-of-art.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256712-Reviews-Art_Gallery_Of_New_South_Wales-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "13. Circular Quay",
+    "category": "Piers & Boardwalks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/7a/fc/90/twin-pavilion.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d259700-Reviews-Chinese_Garden_of_Friendship-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "14. Chinese Garden of Friendship",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/05/57/a5/circular-quay-is-a-magical.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d592200-Reviews-Circular_Quay-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "15. Watsons Bay",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a3/72/e2/watson-s-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d544717-Reviews-Watsons_Bay-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "16. St. Mary's Cathedral",
+    "category": "Historic Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/59/09/25/impressive-place.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256719-Reviews-St_Mary_s_Cathedral-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "6:30 AM - 7:00 PM",
+      "Sunday": "6:30 AM - 7:00 PM",
+      "Monday": "6:30 AM - 6:30 PM",
+      "Tuesday": "6:30 AM - 6:30 PM",
+      "Wednesday": "6:30 AM - 6:30 PM",
+      "Thursday": "6:30 AM - 6:30 PM",
+      "Friday": "6:30 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "17. Australian National Maritime Museum",
+    "category": "Speciality Museums",
+    "price": "$24",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a6/bb/b1/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d258087-Reviews-Australian_National_Maritime_Museum-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "18. Sea Life Sydney Aquarium",
+    "category": "Aquariums",
+    "price": "$29",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/58/74/36/coral-cay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256853-Reviews-Sea_Life_Sydney_Aquarium-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 5:00 PM",
+      "Sunday": "9:30 AM - 5:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "19. The Rocks Markets",
+    "category": "Flea & Street Markets • Farmers Markets",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/00/5a/30/the-rocks.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d10130859-Reviews-The_Rocks_Markets-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "20. WILD LIFE Sydney Zoo",
+    "category": "Zoos",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/44/90/a9/west-elevation-front.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256638-Reviews-Hyde_Park_Barracks-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "21. Hyde Park Barracks",
+    "category": "Central Business District",
+    "price": "$26",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4a/50/34/buddy-the-koala-joey.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d632150-Reviews-WILD_LIFE_Sydney_Zoo-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "22. The Opera House to the Botanic Gardens Walk",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d4/80/66/casa-de-la-opera-de-sidney.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556175-Reviews-The_Opera_House_to_the_Botanic_Gardens_Walk-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Sydney Observatory",
+    "category": "Observatories & Planetariums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/22/0f/9a/sydney-observatory.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256722-Reviews-Sydney_Observatory-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 7:30 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "12:00 PM - 7:30 PM",
+      "Friday": "12:00 PM - 7:30 PM"
+    }
+  },
+  {
+    "name": "24. Coogee Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/c6/7b/c7/20160319-120831-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257492-Reviews-Coogee_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "25. Pylon Lookout at Sydney Harbour Bridge",
+    "category": "Lookouts • Observation Decks & Towers",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/90/cb/e1/view-from-pylon-lookout.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2643246-Reviews-Pylon_Lookout_at_Sydney_Harbour_Bridge-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "26. Opera Australia",
+    "category": "Operas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2c/fd/96/img-20200307-104852-01.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556260-Reviews-Hyde_Park-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "27. Paddy's Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/22/14/98/nye-gala-on-cockatoo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d607639-Reviews-Opera_Australia-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "28. Hyde Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/6c/da/a8/exterior-of-the-australian.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256713-Reviews-Australian_Museum-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "29. Australian Museum",
+    "category": "Natural History Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/32/f8/99/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d258583-Reviews-Paddy_s_Market-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "30. Manly Scenic Walkway",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/82/d1/4c/manly-scenic-walkway.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257302-Reviews-Manly_Scenic_Walkway-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Capitol Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/c4/73/a1/capitol-theatre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d606159-Reviews-Capitol_Theatre-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "32. Mrs Macquarie's Chair",
+    "category": "Geologic Formations",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/f6/f9/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556265-Reviews-Mrs_Macquarie_s_Chair-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. State Library of New South Wales",
+    "category": "Libraries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2f/c1/85/img-20200307-141509-01.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256720-Reviews-State_Library_of_New_South_Wales-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "34. Anzac Memorial",
+    "category": "Military Museums • Historic Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ac/23/dc/view-of-the-anzac-memorial.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556103-Reviews-Anzac_Memorial-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "35. Vivid Sydney",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/48/3f/7d/two-floor-4-rooms-and.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d12429323-Reviews-ATTY_Gallery-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "36. ATTY Gallery",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/55/7f/26/westfield-sydney.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2154398-Reviews-Westfield_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "9:30 AM - 7:00 PM",
+      "Tuesday": "9:30 AM - 7:00 PM",
+      "Wednesday": "9:30 AM - 7:00 PM",
+      "Thursday": "9:30 AM - 9:00 PM",
+      "Friday": "9:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "37. Westfield Sydney",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/9d/9b/67/rocks-discovery-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d618987-Reviews-The_Rocks_Discovery_Museum-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "38. The Rocks Discovery Museum",
+    "category": "Historic Sites • History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/77/88/7a/beside-duck-pond.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d526478-Reviews-Centennial_Park-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. Centennial Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/0d/63/ca/vivid-sydney.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d4307499-Reviews-Vivid_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "40. Powerhouse Museum",
+    "category": "Science Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/22/1d/53/powerhouse-museum-by.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d259707-Reviews-Powerhouse_Museum-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "41. Chinatown",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/60/51/ac/sydney-jewish-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256721-Reviews-Sydney_Jewish_Museum-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "42. Sydney Jewish Museum",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/25/37/32/chinatown.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d265958-Reviews-Chinatown-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. Sydney Fish Market",
+    "category": "Speciality & Gift Shops • Flea & Street Markets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7b/72/b7/sydney-fish-market.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257405-Reviews-Sydney_Fish_Market-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 4:00 PM",
+      "Sunday": "7:00 AM - 4:00 PM",
+      "Monday": "7:00 AM - 4:00 PM",
+      "Tuesday": "7:00 AM - 4:00 PM",
+      "Wednesday": "7:00 AM - 4:00 PM",
+      "Thursday": "7:00 AM - 4:00 PM",
+      "Friday": "7:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "44. Gap Park",
+    "category": "Geologic Formations",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ef/07/46/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556221-Reviews-Gap_Park-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "45. Madame Tussauds Sydney",
+    "category": "Speciality Museums",
+    "price": "$26",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8b/e7/1a/atlantis-is-calling-aquaman.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d3134560-Reviews-Madame_Tussauds_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "46. Paddington Markets",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/cc/54/24/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d258202-Reviews-Paddington_Markets-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "47. Sydney Cricket Ground",
+    "category": "Arenas & Stadiums",
+    "price": "$24",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/23/74/83/few-glimpses-of-icc-world.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d265773-Reviews-Sydney_Cricket_Ground-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "48. Cremorne Point to Mosman Bay Walk",
+    "category": "Historic Walking Areas",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/55/c5/25/low-tide-in-moseman-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556291-Reviews-Cremorne_Point_to_Mosman_Bay_Walk-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "49. Barangaroo Reserve",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/5d/a6/c0/barangaroo-reserve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d8610287-Reviews-Barangaroo_Reserve-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "50. White Rabbit Gallery",
+    "category": "Art Galleries • Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/31/59/d9/more-pigeons.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d1592805-Reviews-White_Rabbit_Gallery-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "51. James Craig Tall Ship",
+    "category": "Ships",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a5/c6/46/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2364985-Reviews-James_Craig_Tall_Ship-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:30 AM - 3:30 PM",
+      "Sunday": "10:30 AM - 3:30 PM",
+      "Monday": "10:30 AM - 3:30 PM",
+      "Tuesday": "10:30 AM - 3:30 PM",
+      "Wednesday": "10:30 AM - 3:30 PM",
+      "Thursday": "10:30 AM - 3:30 PM",
+      "Friday": "10:30 AM - 3:30 PM"
+    }
+  },
+  {
+    "name": "52. Central Railway Station",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/5f/7f/43/20201115-140145-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d526477-Reviews-Observatory_Hill-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. Observatory Hill",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/34/03/14/img-20190409-201544-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d265771-Reviews-Central_Railway_Station-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. State Theatre",
+    "category": "Historic Sites • Theaters",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/34/c3/5b/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d554354-Reviews-State_Theatre-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "55. Birkenhead Point Brand Outlet",
+    "category": "Factory Outlets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/06/9f/1d/located-on-sydney-harbour.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g552094-d5485095-Reviews-Birkenhead_Point_Brand_Outlet-Drummoyne_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Sydney Lyric Theatre",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/1f/1d/48/sydney-lyric-theatre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g23143306-d4026037-Reviews-Sydney_Lyric_Theatre-Pyrmont_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Pitt Street Mall",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/08/86/3d/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2709839-Reviews-Pitt_Street_Mall-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM",
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "58. Museum of Contemporary Art",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/25/3b/24/amazing-views.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d531648-Reviews-Clovelly_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "59. Clovelly Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/42/3c/cool-place-to-visit-in.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d4102830-Reviews-University_of_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. University of Sydney",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/18/86/ba/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256692-Reviews-Museum_of_Contemporary_Art-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "61. Sydney Town Hall",
+    "category": "Historic Sites • Government Buildings",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/76/3b/df/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d554343-Reviews-Sydney_Town_Hall-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "62. Milsons Point",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/12/ed/9a/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556266-Reviews-Milsons_Point-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Manly Fast Ferry",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d3/95/fa/thursday-6-june-2019.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d16708399-Reviews-Manly_Fast_Ferry-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "6:00 AM - 10:00 PM",
+      "Sunday": "6:00 AM - 10:00 PM",
+      "Monday": "6:00 AM - 10:00 PM",
+      "Tuesday": "6:00 AM - 10:00 PM",
+      "Wednesday": "6:00 AM - 10:00 PM",
+      "Thursday": "6:00 AM - 10:00 PM",
+      "Friday": "6:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "64. King Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9f/9e/a7/sidney-harbour-bridge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2587880-Reviews-King_Street-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Camp Cove",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/68/7d/8b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257489-Reviews-Camp_Cove-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. World Square",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/34/6f/31/the-square-world-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d10302329-Reviews-World_Square-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "67. Calmsley Hill City Farm",
+    "category": "Farms",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/db/f1/e4/calmsley-hill-city-farm.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556191-Reviews-Calmsley_Hill_City_Farm-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 4:00 PM",
+      "Sunday": "9:00 AM - 4:00 PM",
+      "Monday": "9:00 AM - 3:00 PM",
+      "Tuesday": "9:00 AM - 3:00 PM",
+      "Wednesday": "9:00 AM - 3:00 PM",
+      "Thursday": "9:00 AM - 3:00 PM",
+      "Friday": "9:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "68. Dee Why Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/52/f9/59/photo5jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d7676174-Reviews-Dee_Why_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Government House",
+    "category": "Historic Sites • Government Buildings",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4e/1e/ce/20180923-113144-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d263981-Reviews-Government_House-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:30 AM - 3:00 PM",
+      "Sunday": "10:30 AM - 3:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:30 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "70. Central Business District",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/77/f4/cc/from-above.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556318-Reviews-Freshwater_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. Freshwater Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/44/7d/a0/police-court-1885-outside.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d271283-Reviews-Justice_Police_Museum-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "72. Justice & Police Museum",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f8/a6/f0/central-business-district.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257356-Reviews-Central_Business_District-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "73. Spit Bridge",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b5/35/a4/the-spit-bridge-to-manly.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556403-Reviews-Spit_Bridge-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Sydney Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ee/25/19/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1165139-d2226311-Reviews-Sydney_Park-St_Peters_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Tramsheds",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/44/84/6f/view-of-the-exterior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g13073792-d256728-Reviews-Vaucluse_House-Vaucluse_Woollahra_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "76. Vaucluse House",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/44/e5/ec/towards-darling-harbour.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d8601635-Reviews-Barangaroo_Foreshore_Walk-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Susannah Place",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/f7/a2/1a/tramsheds.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d11809422-Reviews-Tramsheds-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "7:00 AM - 10:00 PM",
+      "Sunday": "7:00 AM - 10:00 PM",
+      "Monday": "7:00 AM - 10:00 PM",
+      "Tuesday": "7:00 AM - 10:00 PM",
+      "Wednesday": "7:00 AM - 10:00 PM",
+      "Thursday": "7:00 AM - 10:00 PM",
+      "Friday": "7:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "78. Barangaroo Foreshore Walk",
+    "category": "Scenic Walking Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/44/86/49/view-of-rear-of-susannah.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556412-Reviews-Susannah_Place-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "79. Woolloomooloo Wharf",
+    "category": "Historic Walking Areas • Architectural Buildings",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/fe/d2/b9/sydney-harbour-circle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556208-Reviews-Sydney_Harbour_Circle_Walk-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Sydney Harbour Circle Walk",
+    "category": "Historic Walking Areas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4a/f8/33/woolloomooloo-wharf.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d258580-Reviews-Woolloomooloo_Wharf-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Allianz Stadium",
+    "category": "Arenas & Stadiums",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/19/d6/17/sydney-football-stadium.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2162867-Reviews-Allianz_Stadium-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. Market City Shopping Centre",
+    "category": "Shopping Malls",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/99/ac/b6/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d8417606-Reviews-Market_City_Shopping_Centre-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "83. Fort Denison Island",
+    "category": "Historic Sites • Islands",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/40/32/66/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d526543-Reviews-Cockle_Bay_Wharf-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. Botany Bay",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9f/1e/25/fort-denison-and-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d258198-Reviews-Fort_Denison_Island-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "85. Cockle Bay Wharf",
+    "category": "Piers & Boardwalks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/67/86/42/botany-bay.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d561211-Reviews-Botany_Bay-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Marrickville Organic Food and Farmers Markets",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c2/08/af/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g1754380-d3578628-Reviews-Marrickville_Organic_Food_and_Farmers_Markets-Marrickville_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "notice",
+      "Sunday": "9:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "87. Murray Rose Pool",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/71/00/09/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g552126-d556258-Reviews-Murray_Rose_Pool-Woollahra_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. Opera on Sydney Harbour",
+    "category": "Music Festivals",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/81/8e/6a/la-boheme-on-sydney-harbour.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d8820324-Reviews-Opera_on_Sydney_Harbour-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Museum of Sydney",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/62/7f/91/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d257301-Reviews-Bradleys_Head_Trail-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. Bradleys Head Trail",
+    "category": "National Parks • Hiking Trails",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/49/46/c3/manly-fast-ferry.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d1755552-Reviews-My_Fast_Ferry-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "91. My Fast Ferry",
+    "category": "Ferries",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cf/97/52/the-world-s-most-stunning.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556346-Reviews-Olympic_Pool_North_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "92. Olympic Pool North Sydney",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/44/97/4f/visitors-at-museum-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256854-Reviews-Museum_of_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "93. Martin Place",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/3b/2e/70/monday-morning-somewhere.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d526516-Reviews-Martin_Place-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "94. South Cronulla Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/16/cf/84/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556396-Reviews-South_Cronulla_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "95. Customs House",
+    "category": "Art Museums • History Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9f/4f/b9/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d256716-Reviews-Customs_House-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "11:00 AM - 4:00 PM",
+      "Sunday": "11:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "96. NPWS South Head Heritage Trail",
+    "category": "Hiking Trails",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1e/8e/38/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g552124-d10779778-Reviews-NPWS_South_Head_Heritage_Trail-Watsons_Bay_Woollahra_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Glebe",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/39/01/1f/img-20190606-154937-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2203619-Reviews-Glebe-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Paddington Reservoir Gardens",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7f/d0/bd/ditto.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d14901966-Reviews-Overseas_Passenger_Terminal-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "99. Overseas Passenger Terminal",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1f/09/d3/carriageworks-farmers.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2258217-Reviews-Carriageworks-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "100. Darling Quarter",
+    "category": "Coffeehouses • Food & Drink Festivals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/97/b9/85/filename-120623-paddingtonrese.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2230032-Reviews-Paddington_Reservoir_Gardens-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Carriageworks",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/fc/85/44/darling-quarter.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d4343668-Reviews-Darling_Quarter-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Tumbalong Park",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/05/60/a3/p-20200227-153840-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d7352414-Reviews-Tumbalong_Park-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "103. Pyrmont Bridge",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/05/5e/06/p-20200227-155223-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d8821996-Reviews-Pyrmont_Bridge-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "12:00 PM - 12:00 AM",
+      "Sunday": "12:00 PM - 10:00 PM",
+      "Monday": "12:00 PM - 12:00 AM",
+      "Tuesday": "12:00 PM - 12:00 AM",
+      "Wednesday": "12:00 PM - 12:00 AM",
+      "Thursday": "12:00 PM - 12:00 AM",
+      "Friday": "12:00 PM - 12:00 AM"
+    }
+  },
+  {
+    "name": "104. West Head Lookout",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/39/44/74/looking-across-pittwater.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d3159790-Reviews-West_Head_Lookout-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Newport Beach",
+    "category": "Beaches",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/6e/ff/13/stunning-scenery.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g552124-d19684675-Reviews-The_Gap_Lookout-Watsons_Bay_Woollahra_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. The Gap Lookout",
+    "category": "Lookouts",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/40/53/95/img-3999-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556344-Reviews-Newport_Beach-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "107. Rozelle Collectors Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/d2/f1/fd/market.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g552115-d7245673-Reviews-Rozelle_Collectors_Market-Rozelle_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 3:00 PM",
+      "Sunday": "9:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice",
+      "Friday": "notice"
+    }
+  },
+  {
+    "name": "108. George Street",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ed/2e/f1/relection-pool.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d12641408-Reviews-The_Calyx-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 4:00 PM",
+      "Sunday": "10:00 AM - 4:00 PM",
+      "Monday": "10:00 AM - 4:00 PM",
+      "Tuesday": "10:00 AM - 4:00 PM",
+      "Wednesday": "10:00 AM - 4:00 PM",
+      "Thursday": "10:00 AM - 4:00 PM",
+      "Friday": "10:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "109. The Calyx",
+    "category": "Central Business District",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/3b/65/64/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d3332173-Reviews-George_Street-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "110. Parsley Bay Reserve",
+    "category": "Bodies of Water • Beaches",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/fd/7e/9d/photo5jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g13073792-d9885011-Reviews-Parsley_Bay_Reserve-Vaucluse_Woollahra_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Sydney Symphony Orchestra",
+    "category": "Symphonies",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/17/5e/39/harbour.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d8410977-Reviews-Taronga_Zoo_to_Manly_Beach_Walk-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Taronga Zoo to Manly Beach Walk",
+    "category": "Piers & Boardwalks • Scenic Walking Areas",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6f/d7/ff/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d601000-Reviews-Sydney_Symphony_Orchestra-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Goat Island",
+    "category": "Islands",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/31/c2/30/curtain-call-of-first.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d19257626-Reviews-The_Australian_Ballet-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. The Australian Ballet",
+    "category": "Ballets",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/93/d5/46/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d258193-Reviews-Goat_Island-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. Street Art of Newtown",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/45/21/4f/may-lane-in-st-peters.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g8572746-d13743289-Reviews-Street_Art_of_Newtown-Newtown_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. The Domain",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/92/7a/53/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d4154539-Reviews-Forgotten_Songs-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. Forgotten Songs",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/41/b7/f3/the-domain.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556227-Reviews-The_Domain-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Archibald Memorial Fountain",
+    "category": "Fountains",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/37/5c/09/the-cathedral-is-nearby.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d2157745-Reviews-Archibald_Memorial_Fountain-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Millers Point",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/f8/2a/76/kiss-my-axe-axe-throwing.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d21361311-Reviews-Kiss_My_Axe_Alexandria_Axe_Throwing_Sydney-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Kiss My Axe Alexandria - Axe Throwing Sydney",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e4/e4/88/photo6jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g255060-d556338-Reviews-Millers_Point-Sydney_New_South_Wales.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

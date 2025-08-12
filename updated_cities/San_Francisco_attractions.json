@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Alcatraz Island",
+    "category": "Historic Sites • Islands",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/7c/af/88/aerial-shot-of-alcatraz.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d102523-Reviews-Alcatraz_Island-San_Francisco_California.html"
+  },
+  {
+    "name": "2. Golden Gate Bridge",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/32/dd/10/golden-gate-bridge.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-Golden_Gate_Bridge-San_Francisco_California.html"
+  },
+  {
+    "name": "3. Cable Cars",
+    "category": "Trams",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/fb/e5/89/a-parked-car-on-the-california.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104821-Reviews-Cable_Cars-San_Francisco_California.html"
+  },
+  {
+    "name": "4. Pier 39",
+    "category": "Marinas",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/b1/fc/12/pier-39.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d102779-Reviews-Pier_39-San_Francisco_California.html"
+  },
+  {
+    "name": "5. Lombard Street",
+    "category": "Russian Hill",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/39/58/4b/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d106232-Reviews-Lombard_Street-San_Francisco_California.html"
+  },
+  {
+    "name": "6. Fisherman's Wharf",
+    "category": "Neighborhoods • Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/61/ba/b6/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d108678-Reviews-Fisherman_s_Wharf-San_Francisco_California.html"
+  },
+  {
+    "name": "7. Walt Disney Family Museum",
+    "category": "Art Galleries • Speciality Museums",
+    "price": "Admission tickets from $25",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/64/fb/aa/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d1556974-Reviews-Walt_Disney_Family_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "8. Oracle Park",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c8/d6/34/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d557330-Reviews-Oracle_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "9. Golden Gate Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c2/5d/2a/golden-gate-national.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d311684-Reviews-Golden_Gate_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "10. Exploratorium",
+    "category": "Science Museums",
+    "price": "Admission tickets from $40",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bb/23/c0/get-hands-on-with-more.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d102775-Reviews-Exploratorium-San_Francisco_California.html"
+  },
+  {
+    "name": "11. Palace of Fine Arts Theatre",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7a/04/73/the-palace-of-fine-arts.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104538-Reviews-Palace_of_Fine_Arts_Theatre-San_Francisco_California.html"
+  },
+  {
+    "name": "12. Ferry Building Marketplace",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/49/cf/15/ferry-building-marketplace.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d103851-Reviews-Ferry_Building_Marketplace-San_Francisco_California.html"
+  },
+  {
+    "name": "13. Twin Peaks",
+    "category": "Lookouts",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/6d/e9/d6/downtown.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d105363-Reviews-Twin_Peaks-San_Francisco_California.html"
+  },
+  {
+    "name": "14. California Academy of Sciences",
+    "category": "Science Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a5/2e/e1/california-academy-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d117078-Reviews-California_Academy_of_Sciences-San_Francisco_California.html"
+  },
+  {
+    "name": "15. Chinatown",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c1/dc/5e/chinatown.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d108679-Reviews-Chinatown-San_Francisco_California.html"
+  },
+  {
+    "name": "16. Lands End",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/8b/01/82/view-of-golden-gate-bridge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d117409-Reviews-Lands_End-San_Francisco_California.html"
+  },
+  {
+    "name": "17. Coit Tower",
+    "category": "Observation Decks & Towers",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/95/48/3d/coit-tower-from-financial.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104674-Reviews-Coit_Tower-San_Francisco_California.html"
+  },
+  {
+    "name": "18. Ghirardelli Square",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8f/dc/d5/vista.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104680-Reviews-Ghirardelli_Square-San_Francisco_California.html"
+  },
+  {
+    "name": "19. Baker Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e7/5d/e4/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d754023-Reviews-Baker_Beach-San_Francisco_California.html"
+  },
+  {
+    "name": "20. Japanese Tea Garden",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/3d/56/44/japanese-tea-garden.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142415-Reviews-Japanese_Tea_Garden-San_Francisco_California.html"
+  },
+  {
+    "name": "21. San Francisco Bay",
+    "category": "Bodies of Water",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1c/14/18/20160926-115435-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d106745-Reviews-San_Francisco_Bay-San_Francisco_California.html"
+  },
+  {
+    "name": "22. Union Square",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/48/46/14/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d103931-Reviews-Union_Square-San_Francisco_California.html"
+  },
+  {
+    "name": "23. Cable Car Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5a/58/2c/cable-car-museum.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104939-Reviews-Cable_Car_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "24. San Francisco Museum of Modern Art",
+    "category": "Art Museums",
+    "price": "Admission tickets from $30",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/29/f3/06/photo2jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d105418-Reviews-San_Francisco_Museum_of_Modern_Art-San_Francisco_California.html"
+  },
+  {
+    "name": "25. Presidio of San Francisco",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/48/91/1d/batteries-to-bluffs-trail.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d128930-Reviews-Presidio_of_San_Francisco-San_Francisco_California.html"
+  },
+  {
+    "name": "26. Musee Mecanique",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/5b/03/17/img-20190716-172619-482.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104542-Reviews-Musee_Mecanique-San_Francisco_California.html"
+  },
+  {
+    "name": "27. Club Fugazi",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/bf/08/0b/the-historic-jewel-box.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142393-Reviews-Club_Fugazi-San_Francisco_California.html"
+  },
+  {
+    "name": "28. de Young Museum",
+    "category": "Art Museums",
+    "price": "Admission tickets from $20",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/56/f1/eb/ed-ruscha-de-young-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d127943-Reviews-De_Young_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "29. Alamo Square",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/8f/0b/d9/alamo-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156290-Reviews-Alamo_Square-San_Francisco_California.html"
+  },
+  {
+    "name": "30. Legion of Honor",
+    "category": "Art Museums",
+    "price": "Admission tickets from $20",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/17/37/f2/entrance.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156333-Reviews-Legion_of_Honor-San_Francisco_California.html"
+  },
+  {
+    "name": "31. Painted Ladies",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/fb/ee/4d/painted-ladies.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104540-Reviews-Painted_Ladies-San_Francisco_California.html"
+  },
+  {
+    "name": "32. The Castro",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/83/39/3c/just-outside-castro-if.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d183745-Reviews-The_Castro-San_Francisco_California.html"
+  },
+  {
+    "name": "33. Haight-Ashbury",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f8/a0/2f/haight-ashbury.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d103856-Reviews-Haight_Ashbury-San_Francisco_California.html"
+  },
+  {
+    "name": "34. The Embarcadero",
+    "category": "Neighborhoods • Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c4/98/d5/enchanting.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d103850-Reviews-The_Embarcadero-San_Francisco_California.html"
+  },
+  {
+    "name": "35. San Francisco Botanical Garden",
+    "category": "Nature & Wildlife Areas • Gardens",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/6b/5f/ea/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104952-Reviews-San_Francisco_Botanical_Garden-San_Francisco_California.html"
+  },
+  {
+    "name": "36. San Francisco – Oakland Bay Bridge",
+    "category": "Bridges",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/2a/10/91/san-francisco-bay-bridge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156622-Reviews-San_Francisco_Oakland_Bay_Bridge-San_Francisco_California.html"
+  },
+  {
+    "name": "37. San Francisco Playhouse",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/d8/9b/8f/the-newly-renovated-199.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d1873656-Reviews-San_Francisco_Playhouse-San_Francisco_California.html"
+  },
+  {
+    "name": "38. Mrs Doubtfire House",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/1a/a9/05/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d10483994-Reviews-Mrs_Doubtfire_House-San_Francisco_California.html"
+  },
+  {
+    "name": "39. Fort Point National Historic Site",
+    "category": "Historic Sites • Lighthouses",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/ea/b9/16/fort-point-national-historic.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d143136-Reviews-Fort_Point_National_Historic_Site-San_Francisco_California.html"
+  },
+  {
+    "name": "40. Little Italy",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/87/ea/34/wow.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142403-Reviews-Little_Italy-San_Francisco_California.html"
+  },
+  {
+    "name": "41. Crissy Field",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/bb/fe/d7/crissy-field.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d144990-Reviews-Crissy_Field-San_Francisco_California.html"
+  },
+  {
+    "name": "42. San Francisco City Hall",
+    "category": "Architectural Buildings • Government Buildings",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f5/24/28/spring-morning-view-of.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d144407-Reviews-San_Francisco_City_Hall-San_Francisco_California.html"
+  },
+  {
+    "name": "43. Powell and Market Cable Car Turnaround",
+    "category": "Trams",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f5/6e/d8/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d3670548-Reviews-Powell_and_Market_Cable_Car_Turnaround-San_Francisco_California.html"
+  },
+  {
+    "name": "44. Misalignment Ai Museum",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/78/a5/51/art-piece.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d26682142-Reviews-Misalignment_Ai_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "45. Mission Dolores Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8f/0d/a1/mission-dolores-ao-fundo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d545911-Reviews-Mission_Dolores_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "46. Asian Art Museum",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/37/8c/65/pieces.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d103857-Reviews-Asian_Art_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "47. Filbert Steps",
+    "category": "Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/8e/a0/ed/filbert-steps.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142463-Reviews-Filbert_Steps-San_Francisco_California.html"
+  },
+  {
+    "name": "48. USS Pampanito",
+    "category": "Military Museums • Speciality Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a3/42/7c/uss-pampanito.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104530-Reviews-USS_Pampanito-San_Francisco_California.html"
+  },
+  {
+    "name": "49. 16 Avenue Tiled Steps",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fb/4f/63/looking-up.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d3440316-Reviews-16_Avenue_Tiled_Steps-San_Francisco_California.html"
+  },
+  {
+    "name": "50. Ocean Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/8a/02/c6/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d128875-Reviews-Ocean_Beach-San_Francisco_California.html"
+  },
+  {
+    "name": "51. Angel Island State Park",
+    "category": "State Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7b/38/9e/views-from-the-top-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d208341-Reviews-Angel_Island_State_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "52. San Francisco Centre",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/59/e0/9a/westfield-san-francisco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d1987350-Reviews-San_Francisco_Centre-San_Francisco_California.html"
+  },
+  {
+    "name": "53. Japantown",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/50/5a/63/japantown.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156533-Reviews-Japantown-San_Francisco_California.html"
+  },
+  {
+    "name": "54. Mission District",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/95/4c/3b/women-s-building.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d220163-Reviews-Mission_District-San_Francisco_California.html"
+  },
+  {
+    "name": "55. Nob Hill",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/fd/4d/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d110240-Reviews-Nob_Hill-San_Francisco_California.html"
+  },
+  {
+    "name": "56. Transamerica Pyramid",
+    "category": "Financial District",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/ef/ac/db/getting-closer.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d144408-Reviews-Transamerica_Pyramid-San_Francisco_California.html"
+  },
+  {
+    "name": "57. SS Jeremiah O'Brien",
+    "category": "Speciality Museums • Historic Sites",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/16/2f/e6/nave-e-sommergibile-pampanito.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104529-Reviews-SS_Jeremiah_O_Brien-San_Francisco_California.html"
+  },
+  {
+    "name": "58. Sea Lion Center",
+    "category": "Nature & Wildlife Areas • Aquariums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d8/83/5e/sea-lion-center.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d6352219-Reviews-Sea_Lion_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "59. Aquarium of the Bay",
+    "category": "Aquariums",
+    "price": "Admission tickets from $28",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/2f/f1/e2/aquarium-of-the-bay.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d527436-Reviews-Aquarium_of_the_Bay-San_Francisco_California.html"
+  },
+  {
+    "name": "60. San Francisco Zoo",
+    "category": "Zoos",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/08/a4/43/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d127854-Reviews-San_Francisco_Zoo-San_Francisco_California.html"
+  },
+  {
+    "name": "61. Golden Gate Ferry",
+    "category": "Ferries",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c0/99/ce/golden-gate-ferry-departing.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d2401870-Reviews-Golden_Gate_Ferry-San_Francisco_California.html"
+  },
+  {
+    "name": "62. Ferry Plaza Farmer's Market",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/4b/7b/cc/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d282299-Reviews-Ferry_Plaza_Farmer_s_Market-San_Francisco_California.html"
+  },
+  {
+    "name": "63. Scenic 49 Mile Drive",
+    "category": "Scenic Drives",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/30/e4/c8/scenic-49-mile-drive.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d526082-Reviews-Scenic_49_Mile_Drive-San_Francisco_California.html"
+  },
+  {
+    "name": "64. Full House House",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/cd/2e/ae/nighttime-nostalgia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d12711769-Reviews-Full_House_House-San_Francisco_California.html"
+  },
+  {
+    "name": "65. Marina District",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c1/e5/8c/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d108312-Reviews-Marina_District-San_Francisco_California.html"
+  },
+  {
+    "name": "66. Haight Street",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/93/48/59/attractive.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d213594-Reviews-Haight_Street-San_Francisco_California.html"
+  },
+  {
+    "name": "67. Treasure Island",
+    "category": "Islands • Military Bases & Facilities",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/79/f5/b8/the-bay-bridge-and-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d275174-Reviews-Treasure_Island-San_Francisco_California.html"
+  },
+  {
+    "name": "68. Telegraph Hill",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/fe/d5/10/telegraph-hill-a-cruel.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d105361-Reviews-Telegraph_Hill-San_Francisco_California.html"
+  },
+  {
+    "name": "69. North Beach",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/7a/a4/93/filename-20120422-pic8785.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d110239-Reviews-North_Beach-San_Francisco_California.html"
+  },
+  {
+    "name": "70. Historic Streetcars",
+    "category": "Trams",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/26/55/35/f-market-wharves-streetcar.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104964-Reviews-Historic_Streetcars-San_Francisco_California.html"
+  },
+  {
+    "name": "71. Golden Gate Promenade",
+    "category": "Historic Walking Areas • Jogging Paths & Tracks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/66/f1/41/superb-panorama.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156469-Reviews-Golden_Gate_Promenade-San_Francisco_California.html"
+  },
+  {
+    "name": "72. Pacific Heights",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a5/35/5a/the-owner-uses-the-balcony.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142482-Reviews-Pacific_Heights-San_Francisco_California.html"
+  },
+  {
+    "name": "73. Mission Dolores Basilica",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5c/bf/1b/mission-dolores.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d220164-Reviews-Mission_Dolores_Basilica-San_Francisco_California.html"
+  },
+  {
+    "name": "74. San Francisco Maritime National Historical Park",
+    "category": "Speciality Museums • National Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/c5/4f/fb/san-francisco-maritime.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104217-Reviews-San_Francisco_Maritime_National_Historical_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "75. Orpheum Theatre",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/bc/5a/a6/orpheum-theatre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156586-Reviews-Orpheum_Theatre-San_Francisco_California.html"
+  },
+  {
+    "name": "76. The InterContinental Mark Hopkins building",
+    "category": "Nob Hill",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/3f/7f/36/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d15286317-Reviews-The_InterContinental_Mark_Hopkins_building-San_Francisco_California.html"
+  },
+  {
+    "name": "77. Conservatory of Flowers",
+    "category": "Nature & Wildlife Areas • Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/54/3a/e6/conservatory-of-flowers.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d117151-Reviews-Conservatory_of_Flowers-San_Francisco_California.html"
+  },
+  {
+    "name": "78. Salesforce Tower",
+    "category": "SoMa",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/6e/f5/d1/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d15092454-Reviews-Salesforce_Tower-San_Francisco_California.html"
+  },
+  {
+    "name": "79. Sutro Baths",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/36/ca/e0/over-head-view-of-sutro.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d3242904-Reviews-Sutro_Baths-San_Francisco_California.html"
+  },
+  {
+    "name": "80. Chase Center",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/65/ab/1a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d18928609-Reviews-Chase_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "81. Aquatic Park",
+    "category": "Neighborhoods • Parks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/11/49/72/aquatic-park-part-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104950-Reviews-Aquatic_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "82. Russian Hill",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0d/4f/9c/photo7jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d105362-Reviews-Russian_Hill-San_Francisco_California.html"
+  },
+  {
+    "name": "83. Marshall’s Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/74/1f/7a/marshall-s-beach.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d8453923-Reviews-Marshall_s_Beach-San_Francisco_California.html"
+  },
+  {
+    "name": "84. Wells Fargo Museum",
+    "category": "Speciality Museums • History Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/96/20/bd/stage-coach-view-from.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d145245-Reviews-Wells_Fargo_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "85. Saints Peter And Paul Church",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/7d/30/ea/ss-peter-and-paul-church.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d561131-Reviews-Saints_Peter_And_Paul_Church-San_Francisco_California.html"
+  },
+  {
+    "name": "86. Hayes Valley",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8a/c7/11/park.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d217843-Reviews-Hayes_Valley-San_Francisco_California.html"
+  },
+  {
+    "name": "87. Macy’s Union Square",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/db/e6/view-from-macy-s.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d13203837-Reviews-Macy_s_Union_Square-San_Francisco_California.html"
+  },
+  {
+    "name": "88. The Coastal Trail",
+    "category": "Hiking Trails",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f6/34/ae/sutro-baths.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104643-Reviews-The_Coastal_Trail-San_Francisco_California.html"
+  },
+  {
+    "name": "89. Glide Memorial Church",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/71/62/3e/img-20180902-100333-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d143985-Reviews-Glide_Memorial_Church-San_Francisco_California.html"
+  },
+  {
+    "name": "90. Yoda fountain",
+    "category": "Presidio",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/de/2c/1c/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d14766141-Reviews-Yoda_fountain-San_Francisco_California.html"
+  },
+  {
+    "name": "91. Cathedral Of Saint Mary Of The Assumption",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/40/b4/5a/astonishing.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d15833155-Reviews-Cathedral_Of_Saint_Mary_Of_The_Assumption-San_Francisco_California.html"
+  },
+  {
+    "name": "92. Pier 7",
+    "category": "Piers & Boardwalks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/9e/6c/6d/pier-7.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156590-Reviews-Pier_7-San_Francisco_California.html"
+  },
+  {
+    "name": "93. Dragon's Gate",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/2b/02/fa/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d8660947-Reviews-Dragon_s_Gate-San_Francisco_California.html"
+  },
+  {
+    "name": "94. 7D-Experience",
+    "category": "Theaters • Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/3b/dc/82/7d-experience.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d3443131-Reviews-7D_Experience-San_Francisco_California.html"
+  },
+  {
+    "name": "95. San Francisco Symphony",
+    "category": "Symphonies",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f9/44/3a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142413-Reviews-San_Francisco_Symphony-San_Francisco_California.html"
+  },
+  {
+    "name": "96. Moscone Center",
+    "category": "Convention Centers",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/79/e3/8b/view-on-the-moscone-center.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d1419804-Reviews-Moscone_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "97. Japan Center",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/bd/5b/07/japan-center.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d311688-Reviews-Japan_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "98. Union Street",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/0b/f6/db/union-street.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d127868-Reviews-Union_Street-San_Francisco_California.html"
+  },
+  {
+    "name": "99. The Fillmore",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/af/d0/01/the-fillmore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d102418-Reviews-The_Fillmore-San_Francisco_California.html"
+  },
+  {
+    "name": "100. San Francisco Opera",
+    "category": "Operas",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2a/11/ef/auditorium.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142412-Reviews-San_Francisco_Opera-San_Francisco_California.html"
+  },
+  {
+    "name": "101. Lyon Street Steps",
+    "category": "Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/ac/41/from-the-top.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156554-Reviews-Lyon_Street_Steps-San_Francisco_California.html"
+  },
+  {
+    "name": "102. Fort Funston",
+    "category": "Beaches • Nature & Wildlife Areas",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b3/2c/66/this-is-how-gorgeous.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d255292-Reviews-Fort_Funston-San_Francisco_California.html"
+  },
+  {
+    "name": "103. Yerba Buena Gardens",
+    "category": "Parks • Gardens",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e2/0b/cf/detras-de-la-cascada.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104943-Reviews-Yerba_Buena_Gardens-San_Francisco_California.html"
+  },
+  {
+    "name": "104. Salesforce Transit Center",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5b/d5/e8/salesforce-transit-center.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d14140677-Reviews-Salesforce_Transit_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "105. Civic Center",
+    "category": "Civic Centres",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8f/1b/e4/city-hall.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104215-Reviews-Civic_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "106. City Lights Booksellers",
+    "category": "Speciality & Gift Shops • Historic Sites",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/45/7e/4a/city-lights-booksellers.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104544-Reviews-City_Lights_Booksellers-San_Francisco_California.html"
+  },
+  {
+    "name": "107. Children's Creativity Museum",
+    "category": "Speciality Museums • Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/0b/20/ff/on-the-south-end-of-yerba.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d105415-Reviews-Children_s_Creativity_Museum-San_Francisco_California.html"
+  },
+  {
+    "name": "108. China Beach",
+    "category": "Beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0c/97/41/china-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104539-Reviews-China_Beach-San_Francisco_California.html"
+  },
+  {
+    "name": "109. Embarcadero Center",
+    "category": "Points of Interest & Landmarks • Shopping Malls",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/67/5a/d5/embarcadero-center.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d103853-Reviews-Embarcadero_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "110. San Francisco Ballet",
+    "category": "Ballets",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/89/35/f5/ballet-don-quixote.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d142414-Reviews-San_Francisco_Ballet-San_Francisco_California.html"
+  },
+  {
+    "name": "111. War Memorial Opera House",
+    "category": "Architectural Buildings • Theaters",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/90/ab/ea/marvellous.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156729-Reviews-War_Memorial_Opera_House-San_Francisco_California.html"
+  },
+  {
+    "name": "112. Washington Square",
+    "category": "Points of Interest & Landmarks • Parks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/87/71/11/wow.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d104935-Reviews-Washington_Square-San_Francisco_California.html"
+  },
+  {
+    "name": "113. Balmy Alley Murals",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/0e/6b/bb/photo6jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d2155273-Reviews-Balmy_Alley_Murals-San_Francisco_California.html"
+  },
+  {
+    "name": "114. Lincoln Park",
+    "category": "Parks • Golf Courses",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c2/73/60/vue.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d156548-Reviews-Lincoln_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "115. Maison Bleu Maxime Le Forestier",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/00/9f/e9/maison-bleu-maxime-le.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d7236989-Reviews-Maison_Bleu_Maxime_Le_Forestier-San_Francisco_California.html"
+  },
+  {
+    "name": "116. Levi's Plaza Park",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/fb/d8/7f/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d6212675-Reviews-Levi_s_Plaza_Park-San_Francisco_California.html"
+  },
+  {
+    "name": "117. Golden Gate Bridge Welcome Center",
+    "category": "Visitor Centers",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/ac/13/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d15292023-Reviews-Golden_Gate_Bridge_Welcome_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "118. SFJazz Center",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c1/34/2f/sfjazz-center.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d3844100-Reviews-SFJazz_Center-San_Francisco_California.html"
+  },
+  {
+    "name": "119. Golden Gate Park Windmills & Tulips",
+    "category": "Points of Interest & Landmarks • Gardens",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/9a/95/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d7998276-Reviews-Golden_Gate_Park_Windmills_Tulips-San_Francisco_California.html"
+  },
+  {
+    "name": "120. Noe Valley",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6d/6a/10/st-paul-s-catholic-church.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g60713-d209304-Reviews-Noe_Valley-San_Francisco_California.html"
+  }
+]

@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Doge's Palace",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "$34",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/62/d4/a6/20160525-134703-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d194251-Reviews-Doge_s_Palace-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 11:00 PM",
+      "Saturday": "9:00 AM - 11:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "2. Basilica di San Marco",
+    "category": "San Marco",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/53/7b/0f/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191172-Reviews-Canal_Grande-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "3. Canal Grande",
+    "category": "Bodies of Water",
+    "price": "$11",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cd/3b/7e/basilica-de-san-marcos.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191226-Reviews-Basilica_di_San_Marco-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "4. Piazza San Marco",
+    "category": "San Marco",
+    "price": "$36",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/33/2b/20201018-122621-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191175-Reviews-Piazza_San_Marco-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "5. Campanile di San Marco",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d8/af/3e/grand-canal.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d194332-Reviews-Campanile_di_San_Marco-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 4:30 PM",
+      "Saturday": "9:00 AM - 4:30 PM",
+      "Sunday": "9:00 AM - 4:30 PM",
+      "Monday": "9:00 AM - 4:30 PM",
+      "Tuesday": "9:00 AM - 4:30 PM",
+      "Wednesday": "9:00 AM - 4:30 PM",
+      "Thursday": "9:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "6. Teatro La Fenice",
+    "category": "Theaters",
+    "price": "$16",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c8/a6/23/well-restore.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d207094-Reviews-Teatro_La_Fenice-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "7. Ponte di Rialto",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/53/71/5c/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d194252-Reviews-Ponte_di_Rialto-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "8. Peggy Guggenheim Collection",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "$21",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/24/70/04/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d196473-Reviews-Peggy_Guggenheim_Collection-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "9. Cannaregio",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/88/f5/40/l-imbocco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d266903-Reviews-Cannaregio-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "10. Scuola Grande Di San Rocco",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/9e/14/4b/interno-sala-capitolare.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191182-Reviews-Scuola_Grande_Di_San_Rocco-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 5:30 PM",
+      "Saturday": "9:30 AM - 5:30 PM",
+      "Sunday": "1:30 PM - 5:30 PM",
+      "Monday": "9:30 AM - 5:30 PM",
+      "Tuesday": "9:30 AM - 5:30 PM",
+      "Wednesday": "9:30 AM - 5:30 PM",
+      "Thursday": "9:30 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "11. Basilica di Santa Maria Gloriosa dei Frari",
+    "category": "Points of Interest & Landmarks • Religious Sites",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/71/0e/3b/basilica-dei-frari.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d194253-Reviews-Basilica_di_Santa_Maria_Gloriosa_dei_Frari-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "1:00 PM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "12. Mercati di Rialto",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/72/ee/bc/mercati-di-rialto.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d544357-Reviews-Mercati_di_Rialto-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 3:00 PM",
+      "Saturday": "7:30 AM - 3:00 PM",
+      "Sunday": "notice",
+      "Monday": "7:30 AM - 3:00 PM",
+      "Tuesday": "7:30 AM - 3:00 PM",
+      "Wednesday": "7:30 AM - 3:00 PM",
+      "Thursday": "7:30 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "13. Abbazia di San Giorgio Maggiore",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5f/f9/0e/san-giorgio-maggiore.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d243055-Reviews-Abbazia_di_San_Giorgio_Maggiore-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "14. Gallerie Dell'Accademia",
+    "category": "Art Museums",
+    "price": "$36",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/dc/00/88/santa-maria-della-salute.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d196474-Reviews-Basilica_di_Santa_Maria_della_Salute-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 12:00 PM",
+      "Saturday": "9:30 AM - 12:00 PM",
+      "Sunday": "9:30 AM - 12:00 PM",
+      "Monday": "9:30 AM - 12:00 PM",
+      "Tuesday": "9:30 AM - 12:00 PM",
+      "Wednesday": "9:30 AM - 12:00 PM",
+      "Thursday": "9:30 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "15. Basilica di Santa Maria della Salute",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/09/ca/2d/dorsoduro.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d545828-Reviews-Dorsoduro-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "16. Dorsoduro",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "$35",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/18/d7/8c/palma-il-vecchio-ste.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d194254-Reviews-Gallerie_Dell_Accademia-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "8:15 AM - 7:15 PM",
+      "Saturday": "8:15 AM - 11:15 PM",
+      "Sunday": "8:15 AM - 7:15 PM",
+      "Monday": "8:15 AM - 2:00 PM",
+      "Tuesday": "8:15 AM - 7:15 PM",
+      "Wednesday": "8:15 AM - 7:15 PM",
+      "Thursday": "8:15 AM - 7:15 PM"
+    }
+  },
+  {
+    "name": "17. Ponte dei Sospiri",
+    "category": "Historic Sites • Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/1f/60/77/img-20181016-172543-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191185-Reviews-Ponte_dei_Sospiri-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 7:00 PM",
+      "Saturday": "8:30 AM - 7:00 PM",
+      "Sunday": "8:30 AM - 7:00 PM",
+      "Monday": "8:30 AM - 7:00 PM",
+      "Tuesday": "8:30 AM - 7:00 PM",
+      "Wednesday": "8:30 AM - 7:00 PM",
+      "Thursday": "8:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "18. Ca' Rezzonico",
+    "category": "Architectural Buildings • Art Museums",
+    "price": "$12",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ce/96/08/ca-rezzonico.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191186-Reviews-Ca_Rezzonico-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "19. Museo Correr",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/29/8f/c5/the-shop.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d3981594-Reviews-Gioielleria_Eredi_Jovon-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:15 AM - 7:30 PM",
+      "Saturday": "10:15 AM - 7:30 PM",
+      "Sunday": "11:00 AM - 6:30 PM",
+      "Monday": "10:15 AM - 7:30 PM",
+      "Tuesday": "10:15 AM - 7:30 PM",
+      "Wednesday": "10:15 AM - 7:30 PM",
+      "Thursday": "10:15 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "20. Gioielleria Eredi Jovon",
+    "category": "Antique Shops",
+    "price": "$25",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/44/cd/0a/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191227-Reviews-Torre_dell_Orologio-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 4:00 PM",
+      "Saturday": "11:00 AM - 4:00 PM",
+      "Sunday": "11:00 AM - 4:00 PM",
+      "Monday": "11:00 AM - 4:00 PM",
+      "Tuesday": "11:00 AM - 4:00 PM",
+      "Wednesday": "11:00 AM - 4:00 PM",
+      "Thursday": "11:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "21. Torre dell'Orologio",
+    "category": "San Marco",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/36/cf/3c/img-20180608-155437-hdr.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191184-Reviews-Museo_Correr-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 11:00 PM",
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "22. Museo Leonardo da Vinci",
+    "category": "Speciality Museums",
+    "price": "$116",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/91/6f/eb/musica-a-palazzo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1786823-Reviews-Musica_A_Palazzo-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Musica A Palazzo",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/86/cc/79/campo-del-ghetto.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d195001-Reviews-Ghetto_Ebraico-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "24. Ghetto Ebraico",
+    "category": "Historic Sites • Neighborhoods",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/21/5b/21/view-looking-east.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1933669-Reviews-Ponte_dell_Accademia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "25. Creature Di Gomma - Venice Vintage Toys",
+    "category": "Speciality Museums • Children's Museums",
+    "price": "$12",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/9c/ba/68/blick-nach-san-marco.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191183-Reviews-Scala_Contarini_del_Bovolo-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "26. Ponte dell'Accademia",
+    "category": "Bridges",
+    "price": "$11",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/41/99/db/esterno-museo-leonardo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1963369-Reviews-Museo_Leonardo_da_Vinci-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 5:00 PM",
+      "Saturday": "10:30 AM - 5:00 PM",
+      "Sunday": "10:30 AM - 5:00 PM",
+      "Monday": "10:30 AM - 5:00 PM",
+      "Tuesday": "10:30 AM - 5:00 PM",
+      "Wednesday": "10:30 AM - 5:00 PM",
+      "Thursday": "10:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "27. Arsenale di Venezia",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/26/a3/17/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d519952-Reviews-Campo_Santa_Margherita-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Scala Contarini del Bovolo",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e4/e5/e9/the-central-area-with.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d19981154-Reviews-Creature_Di_Gomma_Venice_Vintage_Toys-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 7:00 PM",
+      "Saturday": "10:30 AM - 7:00 PM",
+      "Sunday": "10:30 AM - 7:00 PM",
+      "Monday": "10:30 AM - 7:00 PM",
+      "Tuesday": "10:30 AM - 7:00 PM",
+      "Wednesday": "10:30 AM - 7:00 PM",
+      "Thursday": "10:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "29. Campo Santa Margherita",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ae/4f/e3/on-the-wharf.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d196476-Reviews-Arsenale_di_Venezia-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 3:00 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:00 AM - 3:00 PM",
+      "Tuesday": "8:00 AM - 3:00 PM",
+      "Wednesday": "8:00 AM - 3:00 PM",
+      "Thursday": "8:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "30. Carnevale di Venezia",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/91/01/5d/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d8820179-Reviews-Carnevale_di_Venezia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "31. Basilica dei Santi Giovanni e Paolo (San Zanipolo)",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a0/3b/d4/santi-giovanni-e-paolo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d243058-Reviews-Basilica_dei_Santi_Giovanni_e_Paolo_San_Zanipolo-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "12:00 PM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "32. Natural History Museum of Venice Giancarlo Ligabue",
+    "category": "Natural History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c8/9a/07/alilaguna-public-boat.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2233155-Reviews-Alilaguna-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "33. Alilaguna",
+    "category": "Ferries",
+    "price": "",
+    "rating": "3.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a6/72/20/san-lazzaro-degli-armeni.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2042080-Reviews-San_Lazzaro_degli_Armeni-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "34. San Lazzaro degli Armeni",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/82/33/34/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d6714697-Reviews-Stazione_di_Venezia_Santa_Lucia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Stazione di Venezia Santa Lucia",
+    "category": "Cannaregio",
+    "price": "$12",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/69/88/ee/ouranosaurus.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1380984-Reviews-Natural_History_Museum_of_Venice_Giancarlo_Ligabue-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "36. Chiesa di San Zaccaria",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/36/86/1c/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d243057-Reviews-Chiesa_di_San_Zaccaria-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 12:00 PM",
+      "Saturday": "10:00 AM - 12:00 PM",
+      "Sunday": "4:00 PM - 6:00 PM",
+      "Monday": "10:00 AM - 12:00 PM",
+      "Tuesday": "10:00 AM - 12:00 PM",
+      "Wednesday": "10:00 AM - 12:00 PM",
+      "Thursday": "10:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "37. San Michele",
+    "category": "Islands • Cemeteries",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/8f/6f/e1/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d304572-Reviews-Laguna_di_Venezia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "38. Laguna di Venezia",
+    "category": "Bodies of Water",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/c6/7d/bb/museo-di-palazzo-grimani.jpg?w=400&h=300&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1946537-Reviews-Museo_di_Palazzo_Grimani-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "39. Museo di Palazzo Grimani",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f6/f6/a7/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d866623-Reviews-Church_of_San_Pantalon-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "10:00 AM - 12:30 PM",
+      "Sunday": "9:30 AM - 12:30 PM",
+      "Monday": "10:00 AM - 12:30 PM",
+      "Tuesday": "10:00 AM - 12:30 PM",
+      "Wednesday": "10:00 AM - 12:30 PM",
+      "Thursday": "10:00 AM - 12:30 PM"
+    }
+  },
+  {
+    "name": "40. Naval History Museum",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/66/a1/6c/naval-history-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d196475-Reviews-Naval_History_Museum-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM",
+      "Monday": "11:00 AM - 5:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "41. Church of San Pantalon",
+    "category": "Points of Interest & Landmarks • Religious Sites",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e7/64/25/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d313178-Reviews-Chiesa_di_Santa_Maria_dei_Miracoli-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 4:45 PM",
+      "Saturday": "10:30 AM - 4:45 PM",
+      "Sunday": "notice",
+      "Monday": "10:30 AM - 4:45 PM",
+      "Tuesday": "10:30 AM - 4:45 PM",
+      "Wednesday": "10:30 AM - 4:45 PM",
+      "Thursday": "10:30 AM - 4:45 PM"
+    }
+  },
+  {
+    "name": "42. Ca' Pesaro Galleria Internazionale d'Arte Moderna",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8f/93/77/view-of-grand-canal-from.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d243053-Reviews-Galleria_Giorgio_Franchetti_alla_Ca_d_Oro-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:30 PM",
+      "Saturday": "10:00 AM - 6:30 PM",
+      "Sunday": "10:00 AM - 6:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:30 PM",
+      "Wednesday": "10:00 AM - 6:30 PM",
+      "Thursday": "10:00 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "43. Galleria Giorgio Franchetti alla Ca' d'Oro",
+    "category": "Architectural Buildings • Castles",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/65/b5/98/sunrise-over-san-michele.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d274096-Reviews-San_Michele-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 4:00 PM",
+      "Saturday": "7:30 AM - 4:00 PM",
+      "Sunday": "7:30 AM - 4:00 PM",
+      "Monday": "7:30 AM - 4:00 PM",
+      "Tuesday": "7:30 AM - 4:00 PM",
+      "Wednesday": "7:30 AM - 4:00 PM",
+      "Thursday": "7:30 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "44. Punta della Dogana",
+    "category": "Monuments & Statues",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8b/14/1e/punta-della-dogana.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1551068-Reviews-Punta_della_Dogana-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "45. Chiesa di Santa Maria Assunta detta I Gesuiti",
+    "category": "Cannaregio",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/27/f5/30/chiesa-di-santa-maria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d4496205-Reviews-Chiesa_di_Santa_Maria_Assunta_detta_I_Gesuiti-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 1:00 PM",
+      "Saturday": "10:00 AM - 1:00 PM",
+      "Sunday": "10:00 AM - 1:00 PM",
+      "Monday": "10:30 AM - 1:00 PM",
+      "Tuesday": "10:30 AM - 1:00 PM",
+      "Wednesday": "10:30 AM - 1:00 PM",
+      "Thursday": "10:30 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "46. Chiesa di Santa Maria dei Miracoli",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "$13",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d7/ad/b8/img-20180725-155446-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d318166-Reviews-Ca_Pesaro_Galleria_Internazionale_d_Arte_Moderna-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "47. Museo di Palazzo Fortuny",
+    "category": "Architectural Buildings • Art Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4f/f6/a4/panorama-dalla-laguna.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2557606-Reviews-Riva_degli_Schiavoni-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "48. Palazzo Mocenigo",
+    "category": "Castles • Art Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/3f/49/74/rio-di-san-trovaso.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1887066-Reviews-Squero_di_San_Trovaso-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "49. Giardini Della Biennale",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/ea/7f/bc/ed-ecco-l-incisione-stampata.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d6614951-Reviews-Itaca_Art_Studio_di_Monica_Martin-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 7:00 PM",
+      "Saturday": "10:30 AM - 7:00 PM",
+      "Sunday": "10:30 AM - 7:00 PM",
+      "Monday": "10:30 AM - 7:00 PM",
+      "Tuesday": "10:30 AM - 7:00 PM",
+      "Wednesday": "10:30 AM - 7:00 PM",
+      "Thursday": "10:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "50. Squero di San Trovaso",
+    "category": "Historic Sites",
+    "price": "$12",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/72/89/b0/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2340191-Reviews-Museo_di_Palazzo_Fortuny-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "51. Itaca Art Studio di Monica Martin",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/32/68/62/20190910-182504-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d12787129-Reviews-Piazzale_Roma-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "52. Chiesa della Madonna dell'Orto",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/97/70/d4/photo7jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2422072-Reviews-Museo_di_San_Marco-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. Museo di San Marco",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a0/67/5f/san-polo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d194296-Reviews-San_Polo-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "54. Piazzale Roma",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "$19",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/96/16/ba/palazzo-mocenigo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2340198-Reviews-Palazzo_Mocenigo-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "55. Riva degli Schiavoni",
+    "category": "Marinas • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b4/6c/44/campo-san-barnaba.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1101140-Reviews-Campo_San_Barnaba-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. San Polo",
+    "category": "Neighborhoods",
+    "price": "$43",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/ec/78/ff/interior-with-venice.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d196477-Reviews-Chiesa_di_Santa_Maria_della_Pieta-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:15 AM - 12:00 PM",
+      "Saturday": "10:15 AM - 1:00 PM",
+      "Sunday": "10:15 AM - 1:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:15 AM - 12:00 PM",
+      "Wednesday": "10:15 AM - 12:00 PM",
+      "Thursday": "10:15 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "57. Museo della Musica",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/dc/2f/16/madonna-dell-orto.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d243054-Reviews-Chiesa_della_Madonna_dell_Orto-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 4:45 PM",
+      "Saturday": "10:00 AM - 4:45 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 4:45 PM",
+      "Tuesday": "10:00 AM - 4:45 PM",
+      "Wednesday": "10:00 AM - 4:45 PM",
+      "Thursday": "10:00 AM - 4:45 PM"
+    }
+  },
+  {
+    "name": "58. Scuola Grande di San Marco",
+    "category": "Castello",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/60/61/38/violas-y-bajos-alrededor.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2343797-Reviews-Museo_della_Musica-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 1:00 PM",
+      "Saturday": "10:00 AM - 1:00 PM",
+      "Sunday": "10:00 AM - 1:00 PM",
+      "Monday": "10:00 AM - 1:00 PM",
+      "Tuesday": "10:00 AM - 1:00 PM",
+      "Wednesday": "10:00 AM - 1:00 PM",
+      "Thursday": "10:00 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "59. Campo San Barnaba",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/2b/d4/29/the-gardens.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d7786217-Reviews-Giardini_Della_Biennale-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:00 PM",
+      "Saturday": "11:00 AM - 7:00 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 7:00 PM",
+      "Wednesday": "11:00 AM - 7:00 PM",
+      "Thursday": "11:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "60. Museo Ebraico di Venezia",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/cb/5d/9d/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d313160-Reviews-Museo_Ebraico_di_Venezia-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 3:00 PM",
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "10:00 AM - 5:30 PM",
+      "Tuesday": "10:00 AM - 5:30 PM",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "61. Palazzo Zaguri",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b2/a9/fb/biennale-giardini-2017.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d8820391-Reviews-Venice_Biennale_Festival-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. Chiesa di Santa Maria della Pieta",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/b1/10/0d/palazzo-zaguri-venezia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d12723154-Reviews-Palazzo_Zaguri-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "11:00 AM - 6:00 PM",
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 6:00 PM",
+      "Thursday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "63. Ex Cinema Teatro Italia",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5d/d6/e6/scuola-grande-di-san.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d7201523-Reviews-Scuola_Grande_di_San_Marco-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Palazzo Grassi",
+    "category": "Architectural Buildings • Art Museums",
+    "price": "$45",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/3c/18/5c/chiesa-di-san-vidal.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2557590-Reviews-Chiesa_di_San_Vidal-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Via Garibaldi",
+    "category": "Historic Walking Areas • Architectural Buildings",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4d/32/c4/elegante.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2346359-Reviews-Ponte_degli_Scalzi-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. Palazzo Cavalli-Franchetti",
+    "category": "Art Galleries • Architectural Buildings",
+    "price": "$21",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/18/db/43/palazzo-grassi-sur-le.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d531615-Reviews-Palazzo_Grassi-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "67. Venice Biennale Festival",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/35/00/62/santa-lucia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d3211435-Reviews-Chiesa_dei_Santi_Geremia_e_Lucia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Chiesa di San Giorgio dei Greci",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/9a/5d/df/20181128-133913-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d3357367-Reviews-Via_Garibaldi-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Isola di Sant'Erasmo",
+    "category": "Islands",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/85/4b/47/santa-croce.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2316656-Reviews-Santa_Croce-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Chiesa di San Sebastiano",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/83/63/79/il-maestro.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d5490329-Reviews-Stefano_Morasso_Studio_Murano_Glass_Fine_Art-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 12:00 PM",
+      "Saturday": "9:00 AM - 12:00 PM",
+      "Sunday": "9:00 AM - 12:00 PM",
+      "Monday": "9:00 AM - 12:00 PM",
+      "Tuesday": "9:00 AM - 12:00 PM",
+      "Wednesday": "9:00 AM - 12:00 PM",
+      "Thursday": "9:00 AM - 12:00 PM"
+    }
+  },
+  {
+    "name": "71. Fondazione Querini Stampalia",
+    "category": "Architectural Buildings • Libraries",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/91/78/2f/two-angles-of-this-large.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2557599-Reviews-Campo_Santo_Stefano-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. Biblioteca Nazionale Marciana",
+    "category": "Libraries",
+    "price": "$20",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/77/c0/4c/museo-querini-stampalisa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d244614-Reviews-Fondazione_Querini_Stampalia-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "73. Campo Santo Stefano",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0b/14/97/scuola-grande-di-san.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d786422-Reviews-Scuola_Grande_di_San_Teodoro-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Chiesa di San Vidal",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/49/00/67/2.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2085207-Reviews-Biblioteca_Nazionale_Marciana-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 6:30 PM",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 6:30 PM",
+      "Tuesday": "8:30 AM - 6:30 PM",
+      "Wednesday": "8:30 AM - 6:30 PM",
+      "Thursday": "8:30 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "75. San Francesco del Deserto",
+    "category": "Islands",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/f1/e8/b9/biennale-di-venezia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2391934-Reviews-La_Biennale_di_Venezia_Ca_Giustinian-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Stefano Morasso Studio Murano Glass Fine Art",
+    "category": "Speciality & Gift Shops • Art Galleries",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/96/68/f4/chiesa-di-san-sebastiano.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d295248-Reviews-Chiesa_di_San_Sebastiano-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "77. Scuola Grande di San Teodoro",
+    "category": "Architectural Buildings • Theaters",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/71/c2/4e/scuola-grande-di-san.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d244648-Reviews-Scuola_Grande_San_Giovanni_Evangelista_di_Venezia-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "9:30 AM - 1:00 PM",
+      "Sunday": "9:30 AM - 1:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "78. Scuola Grande San Giovanni Evangelista di Venezia",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/e1/2d/04/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d11965426-Reviews-Ex_Cinema_Teatro_Italia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "79. Santa Croce",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/48/c2/8f/na-ilha-em-frente-da.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1574803-Reviews-Chiesa_del_Santissimo_Redentore-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. La Biennale di Venezia - Ca’ Giustinian",
+    "category": "San Marco",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/aa/20/be/palazzo-cavalli-franchetti.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d7854391-Reviews-Palazzo_Cavalli_Franchetti-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Chiesa del Santissimo Redentore",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b1/fd/a8/san-francesco-del-deserto.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d304575-Reviews-San_Francesco_del_Deserto-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. Ponte degli Scalzi",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/56/b2/36/san-giorgio-dei-greci.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d313166-Reviews-Chiesa_di_San_Giorgio_dei_Greci-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 12:30 PM",
+      "Saturday": "9:00 AM - 12:30 PM",
+      "Sunday": "9:00 AM - 1:00 PM",
+      "Monday": "9:00 AM - 12:30 PM",
+      "Tuesday": "notice",
+      "Wednesday": "9:00 AM - 12:30 PM",
+      "Thursday": "9:00 AM - 12:30 PM"
+    }
+  },
+  {
+    "name": "83. Chiesa dei Santi Geremia e Lucia",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/35/15/1a/formosa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1101126-Reviews-Campo_Santa_Maria_Formosa-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. Campo Santa Maria Formosa",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/24/b5/bc/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d3837254-Reviews-Chiesa_di_Santa_Maria_di_Nazareth_Chiesa_degli_Scalzi-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "85. Ponte de Chiodo",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b9/e2/86/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d8820337-Reviews-Historic_Regatta-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Casa dei Tre Oci",
+    "category": "Art Galleries • Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/57/4b/83/vista.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d1886789-Reviews-Chiesa_di_San_Moise-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. Fondamenta Zattere",
+    "category": "Historic Sites • Piers & Boardwalks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d1/9a/ed/interior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d590946-Reviews-Chiesa_di_San_Zulian_Giuliano-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "88. Chiesa di Santa Maria del Giglio (Zobenigo)",
+    "category": "Points of Interest & Landmarks • Religious Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5e/ef/ac/p-20180619-064509-vhdr.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2556261-Reviews-Chiesa_di_San_Simeon_Piccolo-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Chiesa di Santa Maria di Nazareth - Chiesa degli Scalzi",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/73/72/ca/santa-maria-del-giglio.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2357873-Reviews-Chiesa_di_Santa_Maria_del_Giglio_Zobenigo-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 4:45 PM",
+      "Saturday": "10:00 AM - 4:45 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "10:00 AM - 4:45 PM",
+      "Tuesday": "10:00 AM - 4:45 PM",
+      "Wednesday": "10:00 AM - 4:45 PM",
+      "Thursday": "10:00 AM - 4:45 PM"
+    }
+  },
+  {
+    "name": "90. Dalmatian School of Saints George and Tryphon",
+    "category": "Art Galleries • Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/77/59/b0/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d12696145-Reviews-Fondamenta_Zattere-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "91. Chiesa di San Salvador",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/be/55/8b/ponte-chiodo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2547594-Reviews-Ponte_de_Chiodo-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "92. Historic Regatta",
+    "category": "Cultural Events",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/77/5a/b9/isola-di-sant-erasmo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2259303-Reviews-Isola_di_Sant_Erasmo-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Chiesa di San Moise",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/96/85/5c/chiesa-di-san-salvatore.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d295250-Reviews-Chiesa_di_San_Salvador-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. Chiesa di San Simeon Piccolo",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/50/2f/4a/scuola-dalmata-dei-ss.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d3211414-Reviews-Dalmatian_School_of_Saints_George_and_Tryphon-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "2:45 PM - 6:00 PM",
+      "Saturday": "2:45 PM - 6:00 PM",
+      "Sunday": "9:15 AM - 1:00 PM",
+      "Monday": "2:45 PM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "2:45 PM - 6:00 PM",
+      "Thursday": "2:45 PM - 6:00 PM"
+    }
+  },
+  {
+    "name": "95. Teatro Goldoni",
+    "category": "Theaters",
+    "price": "$12",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/19/36/2a/beautiful.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d25326351-Reviews-St_Mark_s_Basilica-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "96. Libreria Acqua alta",
+    "category": "Speciality & Gift Shops",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/19/1a/a1/sign-on-booth-in-arrivals.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2077204-Reviews-Consorzio_Motoscafi_Water_Taxi_Excursions-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Calle Varisco",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/60/6e/17/sovraffollato.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2557622-Reviews-Ponte_della_Paglia-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Chiesa di San Giacomo dell'Orio",
+    "category": "Churches & Cathedrals",
+    "price": "$11",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/03/25/b4/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d531603-Reviews-Scuola_Grande_dei_Carmini-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 4:00 PM",
+      "Saturday": "11:00 AM - 4:00 PM",
+      "Sunday": "11:00 AM - 4:00 PM",
+      "Monday": "11:00 AM - 4:00 PM",
+      "Tuesday": "11:00 AM - 4:00 PM",
+      "Wednesday": "11:00 AM - 4:00 PM",
+      "Thursday": "11:00 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "99. Scuola Grande dei Carmini",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/84/ec/30/casa-dei-tre-oci.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d3359670-Reviews-Casa_dei_Tre_Oci-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "100. Palazzo Pisani Moretta",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/42/15/91/chiesa-di-san-rocco.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d7592427-Reviews-Chiesa_di_San_Rocco-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Palazzo Barbarigo Minotto",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/75/ea/86/like-something-out-of.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d191176-Reviews-Palazzo_Pisani_Moretta-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Le Stanze Del Vetro",
+    "category": "Art Galleries • Art Museums",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/63/1d/cc/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d244638-Reviews-Teatro_Goldoni-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "103. Chiesa dei Gesuati o Santa Maria del Rosario",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/8f/12/cd/chiesa-di-san-giaccomo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2306695-Reviews-Chiesa_di_San_Giacomo_dell_Orio-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "104. Chiesa di Santa Maria Formosa",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/16/50/38/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d7854169-Reviews-Monumento_a_Vittorio_Emanuele_II-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Ponte della Paglia",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/74/46/fe/chiesa-dei-gesuati.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d600929-Reviews-Chiesa_dei_Gesuati_o_Santa_Maria_del_Rosario-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. Chiesa di San Zulian (Giuliano)",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/59/b7/ea/angolo-famoso-della-libreria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2208448-Reviews-Libreria_Acqua_alta-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 7:15 PM",
+      "Saturday": "9:00 AM - 7:15 PM",
+      "Sunday": "9:00 AM - 7:15 PM",
+      "Monday": "9:00 AM - 7:15 PM",
+      "Tuesday": "9:00 AM - 7:15 PM",
+      "Wednesday": "9:00 AM - 7:15 PM",
+      "Thursday": "9:00 AM - 7:15 PM"
+    }
+  },
+  {
+    "name": "107. Chiesa di San Nicolò dei Mendicoli",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/62/cf/89/chiesa-di-santa-maria.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d313181-Reviews-Chiesa_di_Santa_Maria_Formosa-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. Ca' Zenobio degli Armeni",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/44/6c/f8/palazzo-barbarigo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d11970368-Reviews-Palazzo_Barbarigo_Minotto-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Fondazione Giorgio Cini",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/9a/92/c6/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d7319751-Reviews-Chiesa_di_San_Barnaba-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "110. Chiesa di San Francesco della Vigna",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/9a/a0/94/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d21057512-Reviews-Chiesa_di_San_Giacomo_di_Rialto-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "111. Strada Nova",
+    "category": "Neighborhoods • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/31/80/09/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d12456414-Reviews-Calle_Varisco-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Chiesa di San Barnaba",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/29/b1/0c/cartolina.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d8807054-Reviews-Le_Stanze_Del_Vetro-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "notice",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "113. Consorzio Motoscafi (Water Taxi) - Excursions",
+    "category": "Taxis & Shuttles • Ferries",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a4/cb/ff/a-charming-passage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d8398887-Reviews-Strada_Nova-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Museo Archeologico Nazionale di Venezia",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f1/a5/71/museo-archeologico-nazionale.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d6936571-Reviews-Museo_Archeologico_Nazionale_di_Venezia-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "115. Campo San Polo",
+    "category": "Points of Interest & Landmarks",
+    "price": "$29",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3a/63/d8/fondazione-giorgio-cini.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d2054709-Reviews-Fondazione_Giorgio_Cini-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "116. Monumento a Vittorio Emanuele II",
+    "category": "Castello",
+    "price": "",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d9/86/6e/dettaglio-del-bancone.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d23633986-Reviews-Birreria_Penasa_2_0-Venice_Veneto.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 12:00 AM",
+      "Saturday": "7:00 AM - 12:00 AM",
+      "Sunday": "7:00 AM - 12:00 AM",
+      "Monday": "7:00 AM - 12:00 AM",
+      "Tuesday": "7:00 AM - 12:00 AM",
+      "Wednesday": "7:00 AM - 12:00 AM",
+      "Thursday": "7:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "117. San Pietro di Castello",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/01/46/30/photo3jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d12176901-Reviews-Ca_Zenobio_degli_Armeni-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Santo Stefano Church",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/29/fd/20/campo-san-polo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d244557-Reviews-Campo_San_Polo-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Chiesa di San Giacomo di Rialto",
+    "category": "Architectural Buildings • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/eb/ea/e6/main-altar-san-francesco.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d532241-Reviews-Chiesa_di_San_Francesco_della_Vigna-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Birreria Penasa 2.0",
+    "category": "Breweries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/a5/63/church-interior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187870-d6117148-Reviews-Chiesa_di_San_Nicolo_dei_Mendicoli-Venice_Veneto.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

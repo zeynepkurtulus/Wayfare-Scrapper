@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env
+.env.*
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+
+# Packaging/build
+build/
+dist/
+.eggs/
+*.egg-info/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and backups
+logs/
+*.log
+opening_hours_log_*.txt
+price_scraping_log_*.txt
+backup_categories_*/
+generative_files/backup/**
+
+# Data dumps/temp
+*.tmp
+*.temp
+
+# Selenium/driver downloads
+.chromedriver/

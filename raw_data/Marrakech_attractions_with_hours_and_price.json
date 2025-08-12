@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Jardin Majorelle",
+    "category": "Gardens",
+    "price": "$30",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/0b/92/marrakech-new-city.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d477277-Reviews-Jardin_Majorelle-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 6:30 PM",
+      "Sunday": "8:00 AM - 6:30 PM",
+      "Monday": "8:00 AM - 6:30 PM",
+      "Tuesday": "8:00 AM - 6:30 PM",
+      "Wednesday": "8:00 AM - 6:30 PM",
+      "Thursday": "8:00 AM - 6:30 PM",
+      "Friday": "8:00 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "2. Medina of Marrakesh",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1f/8e/b4/marrakech.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d324126-Reviews-Medina_of_Marrakesh-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "3. Bahia Palace",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e2/c5/8f/palais-bahia.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d610173-Reviews-Bahia_Palace-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "4. Sahara Tours 4x4",
+    "category": "Safaris",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/daodao/photo-o/10/ca/92/49/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2353510-Reviews-Sahara_Tours_4x4-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 2:00 PM",
+      "Sunday": "notice",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "5. Herbalism Marrakech",
+    "category": "Department Stores",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/27/c3/32/welcome-to-herbalism.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25386907-Reviews-Herbalism_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 8:30 PM",
+      "Sunday": "9:00 AM - 8:30 PM",
+      "Monday": "9:00 AM - 8:30 PM",
+      "Tuesday": "9:00 AM - 8:30 PM",
+      "Wednesday": "9:00 AM - 8:30 PM",
+      "Thursday": "9:00 AM - 8:30 PM",
+      "Friday": "9:00 AM - 8:30 PM"
+    }
+  },
+  {
+    "name": "6. Morocco Excursions",
+    "category": "Safaris",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/59/18/morocco-excursions.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d6105931-Reviews-Morocco_Excursions-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "7. Arib Voyages Day Tours",
+    "category": "Safaris",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/bb/24/b2/ait-ben-haddou.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d1997615-Reviews-Arib_Voyages_Day_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "8. Hammam Rosa Bonheur",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/23/cc/d9/hammam-rosa-bonheur.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d5655998-Reviews-Hammam_Rosa_Bonheur-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 12:00 AM",
+      "Sunday": "9:00 AM - 12:00 AM",
+      "Monday": "9:00 AM - 12:00 AM",
+      "Tuesday": "9:00 AM - 12:00 AM",
+      "Wednesday": "9:00 AM - 12:00 AM",
+      "Thursday": "9:00 AM - 12:00 AM",
+      "Friday": "9:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "9. Sahara Riders",
+    "category": "Safaris",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/98/2a/e3/sandboarding-in-the-sahara.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15559964-Reviews-Sahara_Riders-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "10. Book Desert Tours",
+    "category": "Safaris",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b7/2d/28/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d23972193-Reviews-Book_Desert_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "11. Marruecos Morocco",
+    "category": "Safaris",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/d7/d7/41/marruecos-morocco-travels.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2032499-Reviews-Marruecos_Morocco-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "12. marrakechairporttransfer.com",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/2a/bd/33/marrakech-medina-a-great.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d6839330-Reviews-Marrakechairporttransfer_com-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "13. Alphais Spa",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b6/a2/38/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d11958484-Reviews-Alphais_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM",
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "14. Isis Spa Marrakech",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dc/2f/ca/isis-spa-marrakech-salle.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3219834-Reviews-Isis_Spa_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "15. Babouchka Marrakech",
+    "category": "Dance Clubs & Discos",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/b1/41/bb/luxury-club-in-marrakech.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d28276841-Reviews-Babouchka_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 5:00 AM",
+      "Sunday": "12:00 AM - 5:00 AM",
+      "Monday": "12:00 AM - 5:00 AM",
+      "Tuesday": "12:00 AM - 5:00 AM",
+      "Wednesday": "12:00 AM - 5:00 AM",
+      "Thursday": "12:00 AM - 5:00 AM",
+      "Friday": "12:00 AM - 5:00 AM"
+    }
+  },
+  {
+    "name": "16. Medina Spa",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/21/96/90/salon-the-a-la-menthe.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d4461502-Reviews-Medina_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "17. Le Bain De Kasbah Marrakech",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1a/4e/34/hammam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d23401169-Reviews-Le_Bain_De_Kasbah_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "18. Cooking Workshops at La Maison Arabe",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/12/12/2d/cooking-school-private.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d777146-Reviews-Cooking_Workshops_at_La_Maison_Arabe-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "19. Touareg Trails",
+    "category": "Sports Camps & Clinics • Safaris",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/41/ca/bc/touareg-trails-day-tours.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d14134671-Reviews-Touareg_Trails-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "20. Tissir Jewellery",
+    "category": "Speciality & Gift Shops",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/0b/50/16/find-my-shop-next-door.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d12937993-Reviews-Tissir_Jewellery-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "21. Supplier Transport Morocco - Fennou Tours",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/ac/79/18/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d23604458-Reviews-Supplier_Transport_Morocco_Fennou_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "22. Marrakech Khmisa Cooking Class",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/92/cd/cb/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15554488-Reviews-Marrakech_Khmisa_Cooking_Class-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "23. Kosyspa",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/9e/8b/d2/kosyspa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7206830-Reviews-Kosyspa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "24. Medina Mall Marrakech",
+    "category": "Lessons & Workshops • Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/31/74/0b/medina-mall-marrakech.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d24052003-Reviews-Medina_Mall_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "25. Spa Hammam Paradis Marrakech",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b5/bb/e3/terrace.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d12135660-Reviews-Spa_Hammam_Paradis_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 11:45 PM",
+      "Sunday": "9:00 AM - 11:45 PM",
+      "Monday": "9:00 AM - 11:45 PM",
+      "Tuesday": "9:00 AM - 11:45 PM",
+      "Wednesday": "9:00 AM - 11:45 PM",
+      "Thursday": "9:00 AM - 11:45 PM",
+      "Friday": "9:00 AM - 11:45 PM"
+    }
+  },
+  {
+    "name": "26. Mor Thai Spa",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/1c/fb/ab/welcome-to-mor-thai-spa.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d9980774-Reviews-Mor_Thai_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "10:00 AM - 10:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "27. Aux Merveilles de Marrakech",
+    "category": "Speciality & Gift Shops",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/aa/8d/60/we-had-a-great-time-choosing.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7137816-Reviews-Aux_Merveilles_de_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "28. Beauty Click Spa",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0f/ad/03/beauty-click-spa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d26996871-Reviews-Beauty_Click_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "29. Chef Laila cooking classes",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/fe/b4/f4/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d23929997-Reviews-Chef_Laila_cooking_classes-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "30. Miss Lalla Hammam Authentic & Spa",
+    "category": "Arab Baths • Hammams & Turkish Baths",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/80/76/63/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d17333913-Reviews-Morocco_Transfer-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 1:00 PM",
+      "Sunday": "notice",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "31. Morocco Transfer",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/39/b0/e1/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d19125481-Reviews-Morocco_Travel_Discovery-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "32. Morocco Travel Discovery",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/64/4b/25/the-time.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d24185350-Reviews-Miss_Lalla_Hammam_Authentic_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "10:00 AM - 9:00 PM",
+      "Tuesday": "10:00 AM - 9:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "33. Morocco Private Excursion",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3f/5d/af/our-tourist-transport.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d8064226-Reviews-Morocco_Private_Excursion-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM",
+      "Friday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "34. Faim d'Epices",
+    "category": "Lessons & Workshops • Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/08/28/b1/couscous-party-in-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d1985394-Reviews-Faim_d_Epices-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 4:00 PM",
+      "Sunday": "9:30 AM - 4:00 PM",
+      "Monday": "9:30 AM - 4:00 PM",
+      "Tuesday": "9:00 AM - 4:00 PM",
+      "Wednesday": "9:30 AM - 4:00 PM",
+      "Thursday": "9:30 AM - 4:00 PM",
+      "Friday": "9:30 AM - 4:00 PM"
+    }
+  },
+  {
+    "name": "35. Amal Cooking Class",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bc/79/9d/class.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d8125241-Reviews-Amal_Cooking_Class-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "8:30 AM - 5:00 PM",
+      "Sunday": "notice",
+      "Monday": "8:30 AM - 5:00 PM",
+      "Tuesday": "8:30 AM - 5:00 PM",
+      "Wednesday": "8:30 AM - 5:00 PM",
+      "Thursday": "8:30 AM - 5:00 PM",
+      "Friday": "8:30 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "36. Céline Spa",
+    "category": "Hammams & Turkish Baths",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/5b/a3/40/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d26135550-Reviews-Celine_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "37. Souk Cuisine",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/19/00/53/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d1014909-Reviews-Souk_Cuisine-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 5:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "38. Farm to Table Marrakech",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/82/4c/f6/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d19109750-Reviews-Farm_to_Table_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM",
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "39. Atelier De Cuisine Chef Tarik Orty-Ct",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/89/fd/e4/atelier-de-cuisine-chef.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d6530897-Reviews-Atelier_De_Cuisine_Chef_Tarik_Orty_Ct-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 2:00 PM",
+      "Sunday": "10:00 AM - 2:00 PM",
+      "Monday": "10:00 AM - 2:00 PM",
+      "Tuesday": "10:00 AM - 2:00 PM",
+      "Wednesday": "10:00 AM - 2:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "40. Al Fidan Spa",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d2/68/a6/moroccan-ambiance.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25105990-Reviews-Al_Fidan_Spa-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "41. Sahara Shop",
+    "category": "Speciality & Gift Shops",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/9b/04/c9/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d27454217-Reviews-Sahara_Shop-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "42. Hijama Marrakech Cupping Therapy Services",
+    "category": "Spas",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/9b/98/c0/cabinet-hijama-cupping.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d24915475-Reviews-Hijama_Marrakech_Cupping_Therapy_Services-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM",
+      "Monday": "9:00 AM - 9:00 PM",
+      "Tuesday": "9:00 AM - 9:00 PM",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 9:00 PM",
+      "Friday": "9:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "43. LAMAI CHEF",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/d9/aa/43/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25264334-Reviews-LAMAI_CHEF-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "44. Marrakesh: Moroccan Dishes Cooking Class with a Local Chef",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/63/ad/77/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25241502-Reviews-Marrakesh_Moroccan_Dishes_Cooking_Class_with_a_Local_Chef-Marrakech_Marrakech_Sa.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "45. Marrakech By Air",
+    "category": "Safaris • Balloon Rides",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1b/13/eb/marrakech-by-air.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d1598688-Reviews-Marrakech_By_Air-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "46. Fatima Zahra ALAOUI",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d7/ee/e9/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d17559436-Reviews-Fatima_Zahra_ALAOUI-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "47. Orelia Spa & Beauty",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/b9/04/c8/escape-the-hustle-and.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25247536-Reviews-Orelia_Spa_Beauty-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "10:00 AM - 11:00 PM",
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "48. Wafajet",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/79/29/7e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15887355-Reviews-Wafajet-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "49. Dunes & Desert",
+    "category": "",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/ab/dd/2d/camel-excursion-in-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d1723070-Reviews-Dunes_Desert-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "50. Peter Brings You Everywhere",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/e1/43/27/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d18379656-Reviews-Peter_Brings_You_Everywhere-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "51. Shared Morocco Desert Tours",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9e/7d/26/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d19905756-Reviews-Shared_Morocco_Desert_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "52. Marrakech Tour Guide",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c2/ab/af/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d18186384-Reviews-Monriad-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "53. Moroccan Cooking Classes at Dar Chef",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5c/ab/38/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d19048648-Reviews-Moroccan_Cooking_Classes_at_Dar_Chef-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Saturday": "9:30 AM - 12:30 PM",
+      "Sunday": "9:30 AM - 12:30 PM",
+      "Monday": "9:30 AM - 12:30 PM",
+      "Tuesday": "9:30 AM - 12:30 PM",
+      "Wednesday": "9:30 AM - 12:30 PM",
+      "Thursday": "9:30 AM - 12:30 PM",
+      "Friday": "9:30 AM - 12:30 PM"
+    }
+  },
+  {
+    "name": "54. Monriad",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/69/2b/8a/private-marrakech-shopping.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2355618-Reviews-Marrakech_Tour_Guide-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "55. najlae el rhazi",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/56/1a/e3/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d17559305-Reviews-Najlae_el_rhazi-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "56. Morocco Inspiring Tours",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/01/af/48/natural-colors-contrast.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d8715716-Reviews-Morocco_Inspiring_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Ciel d'Afrique Hot Air Ballooning",
+    "category": "Balloon Rides",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/44/2c/85/flight-over-farm-in-desert.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d1439299-Reviews-Ciel_d_Afrique_Hot_Air_Ballooning-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "58. Marrakech Desert Trips",
+    "category": "",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/07/bd/0e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d20238379-Reviews-Morocco_Trips_solutions-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "59. Morocco Trips solutions",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0e/0b/7c/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d23985418-Reviews-Cooking_class_with_Mommy-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Jony Travel",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/b8/2d/5a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d23405778-Reviews-Jony_Travel-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "61. Venamarruecos",
+    "category": "Multi-day Tours • Historical & Heritage Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/3e/ae/ea/marrakech-desert-trips.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d10501245-Reviews-Marrakech_Desert_Trips-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "62. cooking class with Mommy",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d0/79/94/todo-terreno-ven-a-marruecos.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2374899-Reviews-Venamarruecos-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. Medloc Maroc",
+    "category": "Cultural Tours • Historical & Heritage Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/85/06/be/medloc.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7603729-Reviews-Medloc_Maroc-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Marrakech Dream Ballooning",
+    "category": "Balloon Rides",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/1c/8b/ac/marrakech-dream-ballooning.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15227697-Reviews-Marrakech_Dream_Ballooning-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "65. Marrakech Quad Evasion",
+    "category": "",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3d/eb/bd/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d5993270-Reviews-Marrakech_Quad_Evasion-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "66. Viaje En Marruecos",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/61/3c/0d/viaje-en-marruecos-y.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2437690-Reviews-Viaje_En_Marruecos-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "67. Tour Marocco",
+    "category": "",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/db/0f/60/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3716567-Reviews-Tour_Marocco-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "68. Tour in Marocco",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/e6/60/a6/camel-trek.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2160691-Reviews-Tour_in_Marocco-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "69. Merzouga Tours - Viaggi in Marocco",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/1e/10/89/img-20191122-201351-065.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7094585-Reviews-Merzouga_Tours_Viaggi_in_Marocco-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "70. Toubkal Guide",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/36/c9/ff/family-trekking-in-the.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2141452-Reviews-Toubkal_Guide-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. Deep Morocco Tours - Day Tours",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d7/93/7a/the-best-travel-company.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d4340545-Reviews-Deep_Morocco_Tours_Day_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. Morocco Tours Agency",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/58/63/f8/morocco-tours-agency.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15610477-Reviews-Morocco_Tours_Agency-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "73. Marrakech Tours Trips",
+    "category": "Multi-day Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/24/dd/d5/we-organize-private-and.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d8073490-Reviews-Marrakech_Tours_Trips-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Sahara Desert Tour - Day Tours",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5f/43/3f/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7725781-Reviews-Sahara_Desert_Tour_Day_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "75. Chameau Marrakech",
+    "category": "Safaris • Sightseeing Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ff/8a/5f/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d13505249-Reviews-Chameau_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Marrakech Insiders",
+    "category": "Cultural Tours • Motorcycle Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/2d/7e/e1/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d12056073-Reviews-Marrakech_Insiders-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Merzouga Tours",
+    "category": "Multi-day Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/f1/c0/0a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d21251331-Reviews-Atlas_Mountains_View-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. Atlas Mountains View",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/cf/e7/35/13-days-tour-from-tangier.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d4410087-Reviews-Merzouga_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "79. Discover Sahara Tours",
+    "category": "",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9f/11/aa/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d16746038-Reviews-Discover_Sahara_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Turismo Marruecos",
+    "category": "Multi-day Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ac/ca/99/viajes-a-marruecos.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d10766104-Reviews-Turismo_Marruecos-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Marrakech Food Tours",
+    "category": "Food Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/03/cc/f4/enjoy-a-relaxed-evening.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d6608483-Reviews-Marrakech_Food_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "82. Morocco Tour Experience",
+    "category": "Multi-day Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ae/2a/be/morocco-moha-trip.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d12345477-Reviews-Morocco_Tour_Experience-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "83. Red City Tours Marrakech",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/df/c3/13/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d18857601-Reviews-Red_City_Tours_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "84. Top Desert",
+    "category": "",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e1/5c/8a/our-cooking-class.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15752072-Reviews-Xcursion_Guide_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "85. Discover Morocco Tours",
+    "category": "Multi-day Tours • Bus Services",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b8/7e/43/top-desert-day-tours.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2523469-Reviews-Top_Desert-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "86. Agafay Quad Loisirs",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6e/a4/6e/merzouga-desert-morocco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3306975-Reviews-Discover_Morocco_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. Xcursion Guide Marrakech",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/24/f4/50/handcraft-morocco.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3685115-Reviews-Maroc_Expedition_Travel-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "88. Morocco Camel Trekking",
+    "category": "Cultural Tours • Historical & Heritage Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/0d/f4/f7/agafay-canyon.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d16643492-Reviews-Agafay_Quad_Loisirs-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "89. Maroc Expedition Travel",
+    "category": "Multi-day Tours • Cultural Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/d1/3d/d7/our-happy-people.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d4232762-Reviews-Morocco_Camel_Trekking-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "90. Marrakech Guided Tours",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/4f/70/a8/marrakech-tour-guide.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3469271-Reviews-Marrakech_Guided_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "91. Marruecos Alla Vamos",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/12/aa/3b/marruecos.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15010244-Reviews-Marruecos_Alla_Vamos-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "92. Attractive Tours",
+    "category": "Sightseeing Tours • Private Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/27/82/db/atlas-mountains.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2092270-Reviews-Attractive_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Marrakech Day Trips",
+    "category": "Cultural Tours • Sightseeing Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/de/4a/1a/quads-marrakech.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d9986402-Reviews-Marrakech_Day_Trips-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. Nomad Expeditions 4x4",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/59/9b/10/nomad-expeditions-4x4.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d5575182-Reviews-Nomad_Expeditions_4x4-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "95. Viajes Marruecos 4x4",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/fa/68/23/un-viaje-de-parejas-a.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2558016-Reviews-Viajes_Marruecos_4x4-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "96. Viajar En Marruecos",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/8c/06/21/disfrutarlo-al-maximo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d6740825-Reviews-Viajar_En_Marruecos-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. One Life Trips",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/a1/97/6b/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d21168362-Reviews-One_Life_Trips-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "98. Trans Marrakech",
+    "category": "City Tours • Historical & Heritage Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f3/84/05/location-de-minibus-marrakech.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7060571-Reviews-Trans_Marrakech-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "99. Morocco Desert Trips",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/64/54/5e/zmot.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d13426735-Reviews-Morocco_Lifetime_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "100. Marvelous Morocco Tours",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/d0/7e/34/amridel-kasbah.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3510302-Reviews-Morocco_Desert_Trips-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Morocco Lifetime Tours",
+    "category": "Multi-day Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/94/95/b4/marvelous-morocco-tours.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d2314397-Reviews-Marvelous_Morocco_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. I Go Morocco",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/25/d6/26/igomorocco-day-tours.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d5532689-Reviews-I_Go_Morocco-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "103. Marrakech Excursao Deserto",
+    "category": "Multi-day Tours • Sightseeing Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/18/0e/e6/youssef-faska.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d12219247-Reviews-Marrakech_Excursao_Deserto-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "104. Marrakech Desert Tour",
+    "category": "City Tours • Nature & Wildlife Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/87/a7/dc/marrakech-desert-tour.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3247373-Reviews-Marrakech_Desert_Tour-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "105. Authentic Sahara Tours",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/83/25/1f/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d5562866-Reviews-Authentic_Sahara_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "106. Maroc Montgolfière",
+    "category": "Balloon Rides",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/94/1d/d3/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d26819429-Reviews-Amazouz_Morocco_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "107. Toubkal Trekking",
+    "category": "Nature & Wildlife Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d9/11/e2/rental-4-4-with-driver.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3983882-Reviews-Easy_Take_Travel-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "108. Easy Take Travel",
+    "category": "City Tours • Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/9f/f6/7c/maroc-montgolfiere.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3784157-Reviews-Maroc_Montgolfiere-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "109. Amazouz Morocco Tours",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/92/d1/86/high-atlas-mountains.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d10825996-Reviews-Toubkal_Trekking-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "110. Vita Morocco",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/a5/3c/86/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d26194088-Reviews-Vita_Morocco-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Buggy Event Maroc",
+    "category": "",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0e/1d/84/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d18819637-Reviews-Marrakech_WITH_Locals-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "112. Atlas Montgolfiere",
+    "category": "Balloon Rides",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/1d/85/46/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25180497-Reviews-Atlas_Montgolfiere-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "113. Marrakech WITH Locals",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/21/66/8e/pikala-aims-to-improve.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d12206006-Reviews-Pikala_Bikes-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. Pikala Bikes",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/90/db/5b/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d7887158-Reviews-Buggy_Event_Maroc-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "115. herboriste secret",
+    "category": "Food Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/62/8d/b5/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d19769801-Reviews-Herboriste_secret-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "116. Moroccan Desert Trips",
+    "category": "Day Trips",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f4/6d/5e/tramonto-nel-deserto.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d15591916-Reviews-Marocco_Tour-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "117. Marocco Tour",
+    "category": "City Tours • Multi-day Tours",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/72/dd/c1/moroccan-desert-trips.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d3428353-Reviews-Moroccan_Desert_Trips-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Yalla - Let's Go Travel",
+    "category": "Multi-day Tours • Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/7e/98/ca/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d25220481-Reviews-Yalla_Let_s_Go_Travel-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "119. Sahara Experience Tours",
+    "category": "",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/79/14/81/camel-trekking.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d9826477-Reviews-Morocco_Best_Sahara_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. Morocco Best Sahara Tours",
+    "category": "City Tours • Cultural Tours",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8d/13/44/escursioni-di-un-giorno.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g293734-d11811101-Reviews-Sahara_Experience_Tours-Marrakech_Marrakech_Safi.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  }
+]

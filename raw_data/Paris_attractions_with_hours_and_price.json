@@ -1,0 +1,2042 @@
+[
+  {
+    "name": "1. Eiffel Tower",
+    "category": "Tour Eiffel / Invalides",
+    "price": "$30",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9e/7f/9d/eiffeltoren.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188151-Reviews-Eiffel_Tower-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:45 AM - 11:45 PM",
+      "Saturday": "6:00 PM - 11:45 PM",
+      "Sunday": "8:45 AM - 11:45 PM",
+      "Monday": "notice",
+      "Tuesday": "8:45 AM - 11:45 PM",
+      "Wednesday": "8:45 AM - 11:45 PM",
+      "Thursday": "8:45 AM - 11:45 PM"
+    }
+  },
+  {
+    "name": "2. Louvre Museum",
+    "category": "Louvre / Palais-Royal",
+    "price": "$45",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/4f/70/dc/cour-napoleon-et-pyramide.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 9:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "9:00 AM - 9:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "3. Musée d'Orsay",
+    "category": "Art Museums",
+    "price": "$24",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8d/a4/84/the-amazingly-detailed.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188679-Reviews-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "4. Cathédrale Notre-Dame de Paris",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "$29",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/26/b3/6e/20180601-122841-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188150-Reviews-Musee_d_Orsay-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 6:00 PM",
+      "Saturday": "9:30 AM - 6:00 PM",
+      "Sunday": "9:30 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "9:30 AM - 6:00 PM",
+      "Wednesday": "9:30 AM - 6:00 PM",
+      "Thursday": "9:30 AM - 9:45 PM"
+    }
+  },
+  {
+    "name": "5. Luxembourg Gardens",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ac/28/b5/20190702-130125-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189687-Reviews-Luxembourg_Gardens-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 4:30 PM",
+      "Saturday": "7:30 AM - 4:30 PM",
+      "Sunday": "7:30 AM - 4:30 PM",
+      "Monday": "7:30 AM - 4:30 PM",
+      "Tuesday": "7:30 AM - 4:30 PM",
+      "Wednesday": "7:30 AM - 4:30 PM",
+      "Thursday": "7:30 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "6. Basilique du Sacre-Coeur de Montmartre",
+    "category": "Churches & Cathedrals",
+    "price": "$27",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/53/47/52/arc-de-triomphe.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188709-Reviews-Arc_de_Triomphe-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:30 PM",
+      "Saturday": "10:00 AM - 10:30 PM",
+      "Sunday": "10:00 AM - 10:30 PM",
+      "Monday": "10:00 AM - 10:30 PM",
+      "Tuesday": "10:00 AM - 10:30 PM",
+      "Wednesday": "10:00 AM - 10:30 PM",
+      "Thursday": "10:00 AM - 10:30 PM"
+    }
+  },
+  {
+    "name": "7. Arc de Triomphe",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "$6",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/83/34/41/basilica-del-sagrado.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190685-Reviews-Basilique_du_Sacre_Coeur_de_Montmartre-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 8:00 PM",
+      "Saturday": "8:30 AM - 8:00 PM",
+      "Sunday": "8:30 AM - 8:00 PM",
+      "Monday": "8:30 AM - 8:00 PM",
+      "Tuesday": "8:30 AM - 8:00 PM",
+      "Wednesday": "8:30 AM - 8:00 PM",
+      "Thursday": "8:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "8. Montmartre",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/0c/65/6e/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189284-Reviews-Montmartre-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "9. Palais Garnier",
+    "category": "Architectural Buildings • Theaters",
+    "price": "$48",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/e4/d4/38/river-seine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189683-Reviews-Seine_River-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "10. Seine River",
+    "category": "Bodies of Water",
+    "price": "$17",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/50/c6/dd/palais-garnier.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190204-Reviews-Palais_Garnier-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "11. Le Marais",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/21/02/95/le-marais.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d292257-Reviews-Le_Marais-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "12. Sainte-Chapelle",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/1d/e5/9b/sainte-chapelle.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190202-Reviews-Sainte_Chapelle-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "13. Musée de l’Orangerie",
+    "category": "Speciality Museums",
+    "price": "$23",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/cd/fa/ac/museo-de-la-orangerie.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d265635-Reviews-Musee_de_l_Orangerie-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "14. Musée Rodin",
+    "category": "Speciality Museums",
+    "price": "$22",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ec/32/31/vue-de-la-cour-d-honneur.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188149-Reviews-Musee_Rodin-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:30 PM",
+      "Saturday": "10:00 AM - 6:30 PM",
+      "Sunday": "10:00 AM - 6:30 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:30 PM",
+      "Wednesday": "10:00 AM - 6:30 PM",
+      "Thursday": "10:00 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "15. Pont Alexandre III",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c2/1c/cf/pont-alexandre-iii.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d265614-Reviews-Pont_Alexandre_III-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "16. Champs-Elysees",
+    "category": "Champs-Élysées",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b0/d1/f8/the-champs-elysees-in.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d209760-Reviews-Champs_Elysees-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "17. Place des Vosges",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/08/d8/a8/jardin-des-tuileries.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d194171-Reviews-Jardin_des_Tuileries-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 9:30 PM",
+      "Saturday": "7:00 AM - 9:30 PM",
+      "Sunday": "7:00 AM - 9:30 PM",
+      "Monday": "7:00 AM - 9:30 PM",
+      "Tuesday": "7:00 AM - 9:30 PM",
+      "Wednesday": "7:00 AM - 9:30 PM",
+      "Thursday": "7:00 AM - 9:30 PM"
+    }
+  },
+  {
+    "name": "18. Jardin des Tuileries",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/47/ec/ab/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188467-Reviews-Place_des_Vosges-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "19. Musee de l’Armee des Invalides",
+    "category": "Military Museums",
+    "price": "$20",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5d/cb/56/dome-des-invalides.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189245-Reviews-Musee_de_l_Armee_des_Invalides-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "20. Père-Lachaise Cemetery",
+    "category": "Points of Interest & Landmarks • Cemeteries",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e4/4a/1e/saint-germain-3.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191240-Reviews-Saint_Germain_des_Pres_Quarter-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "notice",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "21. Musée Marmottan Monet",
+    "category": "Speciality Museums • Art Museums",
+    "price": "$30",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/4e/58/76/20171118-153214-largejpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188485-Reviews-Musee_Marmottan_Monet-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM"
+    }
+  },
+  {
+    "name": "22. Petit Palais",
+    "category": "Art Museums",
+    "price": "$59",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/73/ff/49/portail-de-l-entree-principale.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188698-Reviews-Pere_Lachaise_Cemetery-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 5:30 PM",
+      "Saturday": "8:30 AM - 5:30 PM",
+      "Sunday": "9:00 AM - 5:30 PM",
+      "Monday": "8:00 AM - 5:30 PM",
+      "Tuesday": "8:00 AM - 5:30 PM",
+      "Wednesday": "8:00 AM - 5:30 PM",
+      "Thursday": "8:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "23. Quartier Latin",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/55/a2/2c/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d601755-Reviews-Ile_de_la_Cite-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "24. Les Pavillons de Bercy - Musée Des Arts Forains",
+    "category": "Speciality Museums",
+    "price": "$28",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/cf/71/d2/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189280-Reviews-Pantheon-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:30 PM",
+      "Saturday": "10:00 AM - 6:30 PM",
+      "Sunday": "10:00 AM - 6:30 PM",
+      "Monday": "10:00 AM - 6:30 PM",
+      "Tuesday": "10:00 AM - 6:30 PM",
+      "Wednesday": "10:00 AM - 6:30 PM",
+      "Thursday": "10:00 AM - 6:30 PM"
+    }
+  },
+  {
+    "name": "25. Panthéon",
+    "category": "Monuments & Statues • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/44/74/6c/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d232167-Reviews-Petit_Palais-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "26. Saint Germain des Pres Quarter",
+    "category": "Neighborhoods • Architectural Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/27/bd/2c/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d3249136-Reviews-Bastille_Market-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "notice",
+      "Sunday": "7:00 AM - 3:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "7:00 AM - 2:30 PM"
+    }
+  },
+  {
+    "name": "27. Parc des Buttes-Chaumont",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d0/ac/de/photo4jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189685-Reviews-Quartier_Latin-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "28. Bastille Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/84/4a/a7/musee-des-arts-forains.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d2507208-Reviews-Les_Pavillons_de_Bercy_Musee_Des_Arts_Forains-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 4:30 PM",
+      "Saturday": "11:00 AM - 4:30 PM",
+      "Sunday": "11:00 AM - 4:30 PM",
+      "Monday": "11:00 AM - 4:30 PM",
+      "Tuesday": "11:00 AM - 4:30 PM",
+      "Wednesday": "11:00 AM - 4:30 PM",
+      "Thursday": "11:00 AM - 4:30 PM"
+    }
+  },
+  {
+    "name": "29. Île de la Cité",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/3c/f9/a3/galerie-dior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d23961934-Reviews-La_Galerie_Dior-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:00 PM",
+      "Saturday": "11:00 AM - 7:00 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "11:00 AM - 7:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "11:00 AM - 7:00 PM",
+      "Thursday": "11:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "30. La Galerie Dior",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/d3/d1/82/le-pont.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189249-Reviews-Parc_des_Buttes_Chaumont-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 10:00 PM",
+      "Saturday": "7:00 AM - 10:00 PM",
+      "Sunday": "7:00 AM - 10:00 PM",
+      "Monday": "7:00 AM - 10:00 PM",
+      "Tuesday": "7:00 AM - 10:00 PM",
+      "Wednesday": "7:00 AM - 10:00 PM",
+      "Thursday": "7:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "31. Le Trocadero et son esplanade",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4a/0e/5a/trocadero.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d18845487-Reviews-Le_Trocadero_et_son_esplanade-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "32. Rue Montorgueil",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/5b/35/3b/rue-montorgueil.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d208054-Reviews-Rue_Montorgueil-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "33. Coulée Verte René-Dumont",
+    "category": "Parks • Gardens",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/dc/ac/3e/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d2397509-Reviews-Towers_of_Notre_Dame_Cathedral-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "34. La Madeleine",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/67/63/0c/ile-saint-louis.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d209761-Reviews-Ile_Saint_Louis-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "35. Mouffetard Market",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/70/82/fa/l-autel-entoure-de-saint.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d1759606-Reviews-Chapelle_Notre_Dame_de_la_Medaille_Miraculeuse-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:45 AM - 1:00 PM",
+      "Saturday": "7:45 AM - 1:00 PM",
+      "Sunday": "7:45 AM - 1:00 PM",
+      "Monday": "7:45 AM - 1:00 PM",
+      "Tuesday": "7:45 AM - 7:00 PM",
+      "Wednesday": "7:45 AM - 1:00 PM",
+      "Thursday": "7:45 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "36. Musee du Parfum - Fragonard",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/25/3f/5a/musee-de-cluny-thermes.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188484-Reviews-Musee_De_Cluny-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 6:15 PM",
+      "Saturday": "9:30 AM - 6:15 PM",
+      "Sunday": "9:30 AM - 6:15 PM",
+      "Monday": "notice",
+      "Tuesday": "9:30 AM - 6:15 PM",
+      "Wednesday": "9:30 AM - 6:15 PM",
+      "Thursday": "9:30 AM - 6:15 PM"
+    }
+  },
+  {
+    "name": "37. Towers of Notre-Dame Cathedral",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c9/ba/ce/rue-cler.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190512-Reviews-Rue_Cler-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "38. Musee De Cluny",
+    "category": "Art Museums",
+    "price": "$60",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f0/ad/a7/grand-orgue-de-tribune.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d209790-Reviews-La_Madeleine-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "39. Hôtel de Ville",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/69/68/a8/coulee-verte-rene-dumont.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d652872-Reviews-Coulee_Verte_Rene_Dumont-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 9:30 PM",
+      "Saturday": "8:00 AM - 9:30 PM",
+      "Sunday": "8:00 AM - 9:30 PM",
+      "Monday": "8:00 AM - 8:30 PM",
+      "Tuesday": "7:00 AM - 9:30 PM",
+      "Wednesday": "7:00 AM - 9:30 PM",
+      "Thursday": "7:00 AM - 9:30 PM"
+    }
+  },
+  {
+    "name": "40. Ile Saint-Louis",
+    "category": "Points of Interest & Landmarks • Islands",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e4/6f/73/hotel-de-ville-6.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d208055-Reviews-Hotel_de_Ville-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "41. Musee Carnavalet - Histoire de Paris",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/7f/98/00/parte-da-rua-fechada.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191100-Reviews-Mouffetard_Market-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 1:00 PM",
+      "Saturday": "8:00 AM - 1:00 PM",
+      "Sunday": "8:00 AM - 1:00 PM",
+      "Monday": "notice",
+      "Tuesday": "8:00 AM - 1:00 PM",
+      "Wednesday": "8:00 AM - 1:00 PM",
+      "Thursday": "8:00 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "42. Musée Des Arts Et Métiers",
+    "category": "Speciality Museums • Science Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/2e/d1/36/more-flowers.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d210197-Reviews-Luxembourg_Palace-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "43. Musée Jacquemart-André",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f4/dd/5e/musee-carnavalet-histoire.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188758-Reviews-Musee_Carnavalet_Histoire_de_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "44. Rue Cler",
+    "category": "Tour Eiffel / Invalides",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/35/0e/c8/beautiful-display-in.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d10128174-Reviews-Musee_du_Parfum_Fragonard-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 5:00 PM",
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "45. Galerie Vivienne",
+    "category": "Shopping Malls",
+    "price": "$326",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/0e/8f/44/musee-jacquemart-andre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188761-Reviews-Musee_Jacquemart_Andre-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "46. Montparnasse",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7c/fc/79/jardin-du-palais-royal.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d209789-Reviews-Jardin_du_Palais_Royal-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 10:30 AM",
+      "Saturday": "8:30 AM - 10:30 AM",
+      "Sunday": "8:30 AM - 10:30 AM",
+      "Monday": "8:30 AM - 10:30 AM",
+      "Tuesday": "8:30 AM - 10:30 AM",
+      "Wednesday": "8:30 AM - 10:30 AM",
+      "Thursday": "8:30 AM - 10:30 AM"
+    }
+  },
+  {
+    "name": "47. Luxembourg Palace",
+    "category": "Odeon",
+    "price": "$14",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/3b/25/3f/musee-des-arts-et-metiers.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d265615-Reviews-Musee_Des_Arts_Et_Metiers-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 9:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "48. Musee du quai Branly - Jacques Chirac",
+    "category": "Speciality Museums • Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e1/5f/ee/eglise-saint-etienne.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191146-Reviews-St_Etienne_du_Mont-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:45 AM - 7:45 PM",
+      "Saturday": "2:00 AM - 7:45 PM",
+      "Sunday": "8:45 AM - 12:15 PM",
+      "Monday": "notice",
+      "Tuesday": "8:45 AM - 7:45 PM",
+      "Wednesday": "8:45 AM - 7:45 PM",
+      "Thursday": "8:45 AM - 7:45 PM"
+    }
+  },
+  {
+    "name": "49. Chapelle Notre Dame de la Medaille Miraculeuse",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/65/02/7d/museu-do-holocausto-de.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d549934-Reviews-Memorial_De_La_Shoah-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "notice",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "50. 59 Rivoli",
+    "category": "Art Galleries",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/39/27/f0/galerie-vivienne.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d2015887-Reviews-Galerie_Vivienne-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 8:00 PM",
+      "Saturday": "8:30 AM - 8:00 PM",
+      "Sunday": "8:30 AM - 8:00 PM",
+      "Monday": "8:30 AM - 8:00 PM",
+      "Tuesday": "8:30 AM - 8:00 PM",
+      "Wednesday": "8:30 AM - 8:00 PM",
+      "Thursday": "8:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "51. Shakespeare and Company",
+    "category": "Odéon / Saint-Michel",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e0/3d/85/parc-monceau.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d194190-Reviews-Parc_Monceau-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:00 AM - 10:00 PM",
+      "Saturday": "7:00 AM - 10:00 PM",
+      "Sunday": "7:00 AM - 10:00 PM",
+      "Monday": "7:00 AM - 10:00 PM",
+      "Tuesday": "7:00 AM - 10:00 PM",
+      "Wednesday": "7:00 AM - 10:00 PM",
+      "Thursday": "7:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "52. Mémorial De La Shoah",
+    "category": "History Museums",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/c8/a3/66/bookshop-facade.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d263032-Reviews-Shakespeare_and_Company-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:30 PM - 8:00 PM",
+      "Saturday": "12:30 PM - 8:00 PM",
+      "Sunday": "12:30 PM - 7:00 PM",
+      "Monday": "12:30 PM - 8:00 PM",
+      "Tuesday": "12:30 PM - 8:00 PM",
+      "Wednesday": "12:30 PM - 8:00 PM",
+      "Thursday": "12:30 PM - 8:00 PM"
+    }
+  },
+  {
+    "name": "53. St. Etienne du Mont",
+    "category": "Quartier Latin",
+    "price": "$24",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/46/36/3b/img-20180613-135834-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d500272-Reviews-Musee_du_quai_Branly_Jacques_Chirac-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:30 AM - 7:00 PM",
+      "Saturday": "10:30 AM - 7:00 PM",
+      "Sunday": "10:30 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:30 AM - 7:00 PM",
+      "Wednesday": "10:30 AM - 7:00 PM",
+      "Thursday": "10:30 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "54. Parc Monceau",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/62/bb/2e/musee-nissim-de-camondo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d232159-Reviews-Musee_Nissim_de_Camondo-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:30 PM",
+      "Saturday": "10:00 AM - 5:30 PM",
+      "Sunday": "10:00 AM - 5:30 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 5:30 PM",
+      "Thursday": "10:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "55. Jardin du Palais Royal",
+    "category": "Gardens",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/77/e3/72/plaza.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189189-Reviews-Place_Vendome-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "56. Musee Nissim de Camondo",
+    "category": "Speciality Museums",
+    "price": "$48",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/17/96/f6/montparnasse-aussicht.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d194214-Reviews-Montparnasse-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "57. Grevin Museum",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/60/4c/be/saint-sulpice.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d208638-Reviews-Eglise_Saint_Sulpice-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 7:30 PM",
+      "Saturday": "7:30 AM - 7:30 PM",
+      "Sunday": "7:30 AM - 7:30 PM",
+      "Monday": "7:30 AM - 7:30 PM",
+      "Tuesday": "7:30 AM - 7:30 PM",
+      "Wednesday": "7:30 AM - 7:30 PM",
+      "Thursday": "7:30 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "58. Église Saint-Sulpice",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f2/8c/a0/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d6642124-Reviews-1st_Arrondissement-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "59. Place Vendome",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fa/7c/58/7th-arrondissement.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188146-Reviews-7eme_Arrondissement-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "60. Dalí Museum Paris",
+    "category": "Art Galleries • Speciality Museums",
+    "price": "",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/ef/7d/a8/pont-neuf.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191012-Reviews-Pont_Neuf-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "61. Musee de Montmartre",
+    "category": "Speciality Museums • History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/28/9b/fd/img-20190413-193434-913.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d4757867-Reviews-59_Rivoli-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "1:00 PM - 8:00 PM",
+      "Saturday": "1:00 PM - 8:00 PM",
+      "Sunday": "1:00 PM - 8:00 PM",
+      "Monday": "notice",
+      "Tuesday": "1:00 PM - 8:00 PM",
+      "Wednesday": "1:00 PM - 8:00 PM",
+      "Thursday": "1:00 PM - 8:00 PM"
+    }
+  },
+  {
+    "name": "62. Pont Neuf",
+    "category": "Points of Interest & Landmarks • Bridges",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d3/ac/ce/fontanna-stsulpice.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d6642134-Reviews-6th_Arrondissement-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "63. 7ème Arrondissement",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e6/1a/8d/bellissima-come-sempre.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191149-Reviews-Eglise_Saint_Eustache-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "64. Marché Aligre",
+    "category": "Flea & Street Markets",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/81/3d/d2/rue-d-aligre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189197-Reviews-Marche_Aligre-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 1:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 1:00 PM",
+      "Monday": "notice",
+      "Tuesday": "8:00 AM - 1:00 PM",
+      "Wednesday": "8:00 AM - 1:00 PM",
+      "Thursday": "8:00 AM - 1:00 PM"
+    }
+  },
+  {
+    "name": "65. Église Saint-Eustache",
+    "category": "Churches & Cathedrals",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/19/3c/77/view-of-the-vineyard.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d210318-Reviews-Musee_de_Montmartre-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "66. 1st Arrondissement",
+    "category": "Neighborhoods",
+    "price": "$18",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7d/68/45/entree-du-musee.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d1891773-Reviews-Dali_Museum_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "67. 6th Arrondissement",
+    "category": "Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/30/02/52/musee-grevin.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d2508568-Reviews-Grevin_Museum-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 7:00 PM",
+      "Saturday": "9:30 AM - 7:00 PM",
+      "Sunday": "9:30 AM - 7:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "9:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "68. Théatre de Mogador",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1e/fe/ce/palais-royal.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189251-Reviews-Domaine_National_du_Palais_Royal-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "7:30 AM - 8:00 PM",
+      "Saturday": "7:30 AM - 8:00 PM",
+      "Sunday": "7:30 AM - 8:00 PM",
+      "Monday": "7:30 AM - 8:00 PM",
+      "Tuesday": "7:30 AM - 8:00 PM",
+      "Wednesday": "7:30 AM - 8:00 PM",
+      "Thursday": "7:30 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "69. Le Dôme des Invalides",
+    "category": "Religious Sites",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/10/0e/2e/musee-national-des-arts.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d188488-Reviews-Musee_National_des_Arts_Asiatiques_Guimet-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "70. Musee National des Arts Asiatiques - Guimet",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/51/4e/be/boulevard-saint-germain.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d194242-Reviews-Boulevard_St_Germain-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "71. Montmartre Cemetery",
+    "category": "Points of Interest & Landmarks • Cemeteries",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/5f/a7/1d/cheour-et-nef.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d653106-Reviews-Eglise_Saint_Germain_Des_Pres-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "72. Domaine National du Palais-Royal",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "$34",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/6a/69/6e/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189244-Reviews-Le_Dome_des_Invalides-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "73. Eglise Saint-Séverin",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/4f/76/5c/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d246663-Reviews-Palais_de_Chaillot-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "74. Église Saint Germain Des Prés",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e7/91/aa/st-severin.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d191243-Reviews-Eglise_Saint_Severin-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:30 PM",
+      "Saturday": "11:00 AM - 7:30 PM",
+      "Sunday": "9:00 AM - 8:30 PM",
+      "Monday": "11:00 AM - 7:30 PM",
+      "Tuesday": "11:00 AM - 7:30 PM",
+      "Wednesday": "11:00 AM - 7:30 PM",
+      "Thursday": "11:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "75. Boulevard St. Germain",
+    "category": "Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/bd/bd/e1/left-bank-rive-gauche.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189684-Reviews-Left_Bank_Rive_Gauche-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "76. Musee Bourdelle",
+    "category": "Art Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3f/ca/6e/place-dauphine-les-immeubles.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d314455-Reviews-Place_Dauphine-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "77. Palais de Chaillot",
+    "category": "Historic Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/14/8c/8e/la-fontaine.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d194191-Reviews-Medici_Fountain-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "78. Quartier de l'Opéra",
+    "category": "Architectural Buildings",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/92/58/6d/musee-bourdelle.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d232121-Reviews-Musee_Bourdelle-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "79. Moulin Rouge",
+    "category": "Dinner Theaters • Cabarets",
+    "price": "",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e8/fd/d4/le-pont-de-bir-hakeim.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d1905600-Reviews-Pont_de_Bir_Hakeim-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "80. Left Bank (Rive Gauche)",
+    "category": "Historic Sites • Neighborhoods",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f4/46/1a/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d246661-Reviews-Quartier_de_l_Opera-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "81. Wave In Paris",
+    "category": "Sports Complexes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cf/55/3b/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d10265472-Reviews-BT_Transfer-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "6:00 AM - 11:45 PM",
+      "Saturday": "6:00 AM - 11:45 PM",
+      "Sunday": "6:00 AM - 11:45 PM",
+      "Monday": "6:00 AM - 11:45 PM",
+      "Tuesday": "6:00 AM - 11:45 PM",
+      "Wednesday": "6:00 AM - 11:45 PM",
+      "Thursday": "6:00 AM - 11:45 PM"
+    }
+  },
+  {
+    "name": "82. Jardins De Trocadero",
+    "category": "Monuments & Statues • Gardens",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/27/87/15/theatre-mogador.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d5999345-Reviews-Theatre_de_Mogador-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:00 PM - 11:00 PM",
+      "Saturday": "8:00 PM - 11:00 PM",
+      "Sunday": "8:00 PM - 11:00 PM",
+      "Monday": "notice",
+      "Tuesday": "8:00 PM - 11:00 PM",
+      "Wednesday": "8:00 PM - 11:00 PM",
+      "Thursday": "8:00 PM - 11:00 PM"
+    }
+  },
+  {
+    "name": "83. Medici Fountain",
+    "category": "Fountains",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/38/7f/3b/trocadero-overlooking.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d10398853-Reviews-Jardins_De_Trocadero-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "84. Place Dauphine",
+    "category": "Points of Interest & Landmarks",
+    "price": "$468",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/61/e5/08/night-time-the-rouge.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d189283-Reviews-Moulin_Rouge-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 AM - 11:59 PM",
+      "Saturday": "12:00 AM - 11:59 PM",
+      "Sunday": "12:00 AM - 11:59 PM",
+      "Monday": "12:00 AM - 11:59 PM",
+      "Tuesday": "12:00 AM - 11:59 PM",
+      "Wednesday": "12:00 AM - 11:59 PM",
+      "Thursday": "12:00 AM - 11:59 PM"
+    }
+  },
+  {
+    "name": "85. Parc Montsouris",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/30/15/af/cimetiere-de-montmartre.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d194993-Reviews-Montmartre_Cemetery-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:00 AM - 5:30 PM",
+      "Saturday": "8:00 AM - 5:30 PM",
+      "Sunday": "8:00 AM - 5:30 PM",
+      "Monday": "8:00 AM - 5:30 PM",
+      "Tuesday": "8:00 AM - 5:30 PM",
+      "Wednesday": "8:00 AM - 5:30 PM",
+      "Thursday": "8:00 AM - 5:30 PM"
+    }
+  },
+  {
+    "name": "86. Pont de Bir-Hakeim",
+    "category": "Bridges",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ed/a4/06/het-meer.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d545891-Reviews-Parc_Montsouris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "87. BT-Transfer",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/49/a6/9e/trophy-room.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d232162-Reviews-Musee_de_la_Chasse_et_de_la_Nature-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 6:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "11:00 AM - 6:00 PM",
+      "Wednesday": "11:00 AM - 9:30 PM",
+      "Thursday": "11:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "88. Musée de la Liberation de Paris - Musee du general Leclerc - Musee Jean Moulin",
+    "category": "Military Museums • History Museums",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e1/34/bc/musee-jean-moulin-1-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d4783796-Reviews-Musee_de_la_Liberation_de_Paris_Musee_du_general_Leclerc_Musee_Jean_Moulin-Paris_.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "89. Musee de la Chasse et de la Nature",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/c4/14/91/espace-xviieme.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190977-Reviews-Le_Musee_de_la_Musique-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "12:00 PM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "12:00 PM - 6:00 PM",
+      "Wednesday": "12:00 PM - 6:00 PM",
+      "Thursday": "12:00 PM - 6:00 PM"
+    }
+  },
+  {
+    "name": "90. Le Musée de la Musique",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/96/ef/a3/memorial-des-martyrs.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190975-Reviews-Memorial_des_Martyrs_de_la_Deportation-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM",
+      "Monday": "notice",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM"
+    }
+  },
+  {
+    "name": "91. Parc de Bagatelle",
+    "category": "Parks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/e7/3c/53/flowboard.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d23512333-Reviews-Wave_In_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "8:30 AM - 11:00 PM",
+      "Saturday": "8:30 AM - 8:00 PM",
+      "Sunday": "8:30 AM - 8:00 PM",
+      "Monday": "8:30 AM - 11:00 PM",
+      "Tuesday": "8:30 AM - 11:00 PM",
+      "Wednesday": "8:30 AM - 11:00 PM",
+      "Thursday": "8:30 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "92. Memorial des Martyrs de la Deportation",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/21/bc/58/city-tour-in-the-evening.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d7886944-Reviews-Easy_Go_Shuttle-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "93. Tour Saint-Jacques",
+    "category": "Saint-Merri",
+    "price": "",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/ac/45/6b/parc-de-bagatelle.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d2493647-Reviews-Parc_de_Bagatelle-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "94. Paris Disney Best Transfer",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/60/00/6b/teatime-with-chocolate.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d3704252-Reviews-Le_Foodist-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 11:00 PM",
+      "Saturday": "9:00 AM - 11:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM",
+      "Monday": "9:00 AM - 11:00 PM",
+      "Tuesday": "9:00 AM - 11:00 PM",
+      "Wednesday": "9:00 AM - 11:00 PM",
+      "Thursday": "9:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "95. Easy Go Shuttle",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/95/e3/f6/la-tour-saint-jacques.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d3406006-Reviews-Tour_Saint_Jacques-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM"
+    }
+  },
+  {
+    "name": "96. One Hour – Live Escape Game",
+    "category": "Escape Games • Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/1b/9d/53/photo0jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d246752-Reviews-Triumphal_Way_Voie_Triomphale-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "97. Triumphal Way (Voie Triomphale)",
+    "category": "Batignolles",
+    "price": "",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bd/a9/5a/eglise-saint-pierre-de.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d190981-Reviews-Eglise_Saint_Pierre_de_Montmartre-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 7:00 PM",
+      "Saturday": "9:30 AM - 7:00 PM",
+      "Sunday": "9:30 AM - 7:00 PM",
+      "Monday": "9:30 AM - 7:00 PM",
+      "Tuesday": "9:30 AM - 7:00 PM",
+      "Wednesday": "9:30 AM - 7:00 PM",
+      "Thursday": "9:30 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "98. Église Saint-Pierre de Montmartre",
+    "category": "Churches & Cathedrals",
+    "price": "$141",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/32/65/68/crazy-horse-paris-2022.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d211691-Reviews-Crazy_Horse-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 10:00 PM",
+      "Saturday": "2:00 PM - 10:00 PM",
+      "Sunday": "2:00 PM - 10:00 PM",
+      "Monday": "9:30 AM - 10:00 PM",
+      "Tuesday": "9:30 AM - 10:00 PM",
+      "Wednesday": "9:30 AM - 10:00 PM",
+      "Thursday": "9:30 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "99. Ban Sin Thai",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e2/6c/37/mundolingua.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d5588577-Reviews-Mundolingua-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "notice",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "notice"
+    }
+  },
+  {
+    "name": "100. Mundolingua",
+    "category": "Speciality Museums",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/db/f0/a6/cathedrale-saint-louis.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d8310462-Reviews-Cathedrale_Saint_Louis_des_Invalides-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "101. Crazy Horse",
+    "category": "Dinner Theaters • Cabarets",
+    "price": "",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/2c/4b/cc/le-terrible-abattoir.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d8843110-Reviews-One_Hour_Live_Escape_Game-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "102. Molitor Spa by Clarins",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/35/5d/fd/we-are-paris-disney-best.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d11761360-Reviews-Paris_Disney_Best_Transfer-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "103. Cathédrale Saint-Louis des Invalides",
+    "category": "Historic Sites • Religious Sites",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/d3/50/e1/notre-bassin-d-hiver.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d8613951-Reviews-Molitor_Spa_by_Clarins-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "104. Quiz Room Paris Odeon",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/23/e1/6b/ban-sin-thai.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d8638884-Reviews-Ban_Sin_Thai-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:30 PM",
+      "Saturday": "11:00 AM - 7:30 PM",
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "11:00 AM - 7:30 PM",
+      "Tuesday": "11:00 AM - 7:30 PM",
+      "Wednesday": "11:00 AM - 7:30 PM",
+      "Thursday": "11:00 AM - 7:30 PM"
+    }
+  },
+  {
+    "name": "105. Le Foodist",
+    "category": "Cooking Classes",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ae/2c/05/spectacle-ados.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d4310592-Reviews-Le_Grand_Point_Virgule-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 7:00 PM",
+      "Saturday": "11:00 AM - 7:00 PM",
+      "Sunday": "notice",
+      "Monday": "11:00 AM - 7:00 PM",
+      "Tuesday": "11:00 AM - 7:00 PM",
+      "Wednesday": "11:00 AM - 7:00 PM",
+      "Thursday": "11:00 AM - 7:00 PM"
+    }
+  },
+  {
+    "name": "106. iFLY Paris",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/83/f3/4d/photo1jpg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d17639278-Reviews-Quiz_Room_Paris_Odeon-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 11:30 PM",
+      "Saturday": "10:00 AM - 11:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM",
+      "Monday": "10:00 AM - 11:30 PM",
+      "Tuesday": "10:00 AM - 11:30 PM",
+      "Wednesday": "10:00 AM - 11:30 PM",
+      "Thursday": "10:00 AM - 11:30 PM"
+    }
+  },
+  {
+    "name": "107. Le Grand Point Virgule",
+    "category": "Theaters",
+    "price": "",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/48/f6/6a/ifly-paris-le-reve-du.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d11811003-Reviews-IFLY_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 11:30 PM",
+      "Saturday": "8:00 AM - 10:30 PM",
+      "Sunday": "8:00 AM - 10:30 PM",
+      "Monday": "9:00 AM - 11:30 PM",
+      "Tuesday": "9:00 AM - 11:30 PM",
+      "Wednesday": "9:00 AM - 11:30 PM",
+      "Thursday": "9:00 AM - 11:30 PM"
+    }
+  },
+  {
+    "name": "108. Les Etoiles",
+    "category": "Concerts • Bars & Clubs",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f1/84/1e/the-game-750m2-d-escape.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d7340269-Reviews-The_Game_Escape_if_you_can-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:30 AM - 11:30 PM",
+      "Saturday": "9:30 AM - 11:30 PM",
+      "Sunday": "9:30 AM - 11:30 PM",
+      "Monday": "9:30 AM - 11:30 PM",
+      "Tuesday": "9:30 AM - 11:30 PM",
+      "Wednesday": "9:30 AM - 11:30 PM",
+      "Thursday": "9:30 AM - 11:30 PM"
+    }
+  },
+  {
+    "name": "109. The Game - Escape if you can",
+    "category": "Escape Games",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1a/1e/c9/massage-duo-creatif.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d7646990-Reviews-Sensation_Spa-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 10:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 10:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "110. Virtual Room Paris",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/bc/fc/4a/party-at-les-etoiles.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d245105-Reviews-Les_Etoiles-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "111. Paris Disney Transfer",
+    "category": "Taxis & Shuttles",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/56/4d/03/1ere-aventure-de-realite.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d12403992-Reviews-Virtual_Room_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 10:00 PM",
+      "Sunday": "9:00 AM - 10:00 PM",
+      "Monday": "9:00 AM - 10:00 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "112. Sensation Spa",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/0f/31/2d/o-kari-hammam.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d1212938-Reviews-O_Kari-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 8:00 PM",
+      "Sunday": "notice",
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM"
+    }
+  },
+  {
+    "name": "113. O'Kari",
+    "category": "Spas",
+    "price": "",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/5d/31/70/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d17762527-Reviews-Paris_Disney_Transfer-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "114. SENSAS Paris",
+    "category": "Escape Games",
+    "price": "",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/32/8f/f4/la-piscine-aux-60000.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d23450855-Reviews-SENSAS_Paris-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "9:00 AM - 11:00 PM",
+      "Saturday": "9:00 AM - 11:00 PM",
+      "Sunday": "9:00 AM - 11:00 PM",
+      "Monday": "9:00 AM - 11:00 PM",
+      "Tuesday": "9:00 AM - 11:00 PM",
+      "Wednesday": "9:00 AM - 11:00 PM",
+      "Thursday": "9:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "115. Panik Room",
+    "category": "Escape Games • Game & Entertainment Centers",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/62/e6/e1/salle-de-repos.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d2211151-Reviews-Hammam_Pacha-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "11:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 7:00 PM",
+      "Sunday": "10:00 AM - 7:00 PM",
+      "Monday": "notice",
+      "Tuesday": "notice",
+      "Wednesday": "notice",
+      "Thursday": "11:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "116. Quiz Room Paris La Villette",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/fb/10/60/quiz-room-la-villette.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d25170466-Reviews-Quiz_Room_Paris_La_Villette-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 10:30 PM",
+      "Saturday": "10:00 AM - 11:30 PM",
+      "Sunday": "10:00 AM - 7:30 PM",
+      "Monday": "8:00 AM - 11:30 PM",
+      "Tuesday": "10:00 AM - 11:30 PM",
+      "Wednesday": "10:00 AM - 11:30 PM",
+      "Thursday": "10:00 AM - 11:30 PM"
+    }
+  },
+  {
+    "name": "117. Les Cognées - Lancer de haches",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a7/ca/c2/comfortable-8-seaters.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d11761223-Reviews-Paris_Private_Transfer_Cabs-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "118. Hammam Pacha",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/ae/4a/f7/bienvenue-dans-la-panik.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d17464830-Reviews-Panik_Room-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "10:00 AM - 11:00 PM",
+      "Saturday": "10:00 AM - 11:00 PM",
+      "Sunday": "10:00 AM - 11:00 PM",
+      "Monday": "10:00 AM - 11:00 PM",
+      "Tuesday": "10:00 AM - 11:00 PM",
+      "Wednesday": "10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "119. L'Horizon de Kheops - Paris Bercy",
+    "category": "Game & Entertainment Centers",
+    "price": "",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/35/44/5b/grande-epicerie-du-bon.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d208056-Reviews-La_Grande_Epicerie_de_Paris_Rive_Gauche-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Sunday": "",
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": ""
+    }
+  },
+  {
+    "name": "120. The Live Thriller",
+    "category": "Escape Games • Scavenger Hunts",
+    "price": "",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8c/8a/46/horizon-de-kheops-paris.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187147-d26613767-Reviews-L_Horizon_de_Kheops_Paris_Bercy-Paris_Ile_de_France.html",
+    "opening_hours": {
+      "Friday": "2:00 PM - 8:00 PM",
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM",
+      "Monday": "2:00 PM - 8:00 PM",
+      "Tuesday": "2:00 PM - 8:00 PM",
+      "Wednesday": "2:00 PM - 8:00 PM",
+      "Thursday": "2:00 PM - 8:00 PM"
+    }
+  }
+]

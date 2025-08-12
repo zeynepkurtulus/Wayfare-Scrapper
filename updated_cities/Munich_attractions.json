@@ -1,0 +1,962 @@
+[
+  {
+    "name": "1. Munich Marienplatz",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/82/c5/ab/the-neues-rathaus-building.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190283-Reviews-Munich_Marienplatz-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "2. English Garden",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c7/0b/16/3.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242776-Reviews-English_Garden-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "3. BMW Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/23/c2/91/bmw.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190264-Reviews-BMW_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "4. Residenz München",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ae/8f/19/the-great-hall.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d553830-Reviews-Residenz_Munchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "5. Asamkirche",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/44/d5/6d/interior-da-igreja.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242775-Reviews-Asamkirche-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "6. Allianz Arena",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c7/15/cf/10.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d594437-Reviews-Allianz_Arena-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "7. Nymphenburg Palace",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8a/e0/fa/the-palace-outside-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242773-Reviews-Nymphenburg_Palace-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "8. Viktualienmarkt",
+    "category": "Flea & Street Markets • Farmers Markets",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/00/d6/77/viktualienmarkt.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d191297-Reviews-Viktualienmarkt-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "9. Deutsches Museum",
+    "category": "Science Museums",
+    "price": "Admission tickets from $101",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/59/13/07/deutsches-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190295-Reviews-Deutsches_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "10. Olympiapark",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8d/7f/46/olympiapark-von-oben.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d258379-Reviews-Olympiapark-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "11. Alte Pinakothek",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/94/95/08/die-pinakotheken.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d194174-Reviews-Alte_Pinakothek-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "12. BMW Welt",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/60/9e/40/bmw-welt-view-from-the.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d856420-Reviews-BMW_Welt-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "13. New Town Hall (Neus Rathaus)",
+    "category": "Architectural Buildings • Government Buildings",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/24/5a/48/new-town-hall-neus-rathaus.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d191296-Reviews-New_Town_Hall_Neus_Rathaus-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "14. Oktoberfest",
+    "category": "Food & Drink Festivals",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/c9/00/32/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d8820318-Reviews-Oktoberfest-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "15. St. Peter's Church",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/1a/51/b2/st-peter-s-church-peterskirche.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190287-Reviews-St_Peter_s_Church-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "16. Tierpark Hellabrunn",
+    "category": "Zoos • Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/1a/23/6f/tierpark-hellabrunn.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d260473-Reviews-Tierpark_Hellabrunn-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "17. Eisbachwelle",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fe/f6/b2/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d4609080-Reviews-Eisbachwelle-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "18. Lenbachhaus",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/8e/46/55/stadtische-galerie-im.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242839-Reviews-Lenbachhaus-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "19. Rathaus-Glockenspiel",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b8/63/de/vista-pajaro.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190307-Reviews-Rathaus_Glockenspiel-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "20. NS-Dokumentationszentrum Muenchen",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/89/92/7b/conteudo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d8026991-Reviews-NS_Dokumentationszentrum_Muenchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "21. Theresienwiese",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/80/56/ad/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190263-Reviews-Theresienwiese-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "22. Botanischer Garten Muenchen-Nymphenburg",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a6/95/58/botanischer-garten.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d568247-Reviews-Botanischer_Garten_Muenchen_Nymphenburg-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "23. Olympic Tower",
+    "category": "Points of Interest & Landmarks • Observation Decks & Towers",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8d/12/27/olympic-tower.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2140652-Reviews-Olympic_Tower-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "24. Staatliche Museum Ägyptischer Kunst",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/9a/d5/99/das-prachtstuck-des-museums.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242845-Reviews-Staatliche_Museum_Agyptischer_Kunst-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "25. BMW Headquarters",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4c/fe/23/edificio.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d501704-Reviews-BMW_Headquarters-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "26. Pinakothek der Moderne",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/cf/ec/f9/museu.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d282766-Reviews-Pinakothek_der_Moderne-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "27. Frauenkirche",
+    "category": "Architectural Buildings • Observation Decks & Towers",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/73/68/d4/church-of-our-lady-frauenkirch.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190285-Reviews-Frauenkirche-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "28. FC Bayern Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/df/30/b0/via-triumphalis.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d3590402-Reviews-FC_Bayern_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "29. Bayerische Staatsoper",
+    "category": "Operas • Theaters",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/92/23/8c/2-4.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190289-Reviews-Bayerische_Staatsoper-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "30. Neue Pinakothek",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1c/e1/a4/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d194175-Reviews-Neue_Pinakothek-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "31. Alexander Krist Theater",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ed/88/4b/alexander-krist-theater.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d7075829-Reviews-Alexander_Krist_Theater-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "32. Glyptothek",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/66/4d/ba/if-you-like-ancient-sculptures.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242810-Reviews-Glyptothek-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "33. Deutsches Museum Verkehrszentrum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6d/39/c5/blick-auf-den-haupteingang.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2049350-Reviews-Deutsches_Museum_Verkehrszentrum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "34. Chinesischen Turm",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8a/cd/bd/biergarten-am-chinesischen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2153156-Reviews-Chinesischen_Turm-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "35. Theatinerkirche St. Kajetan",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/32/a4/31/exterior-early-morning.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d591102-Reviews-Theatinerkirche_St_Kajetan-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "36. St. Michael",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/88/eb/04/st-michael.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1759764-Reviews-St_Michael-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "37. Magic Bavaria Erlebnismuseum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/48/f6/0e/wandel-kopfuber-an-der.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d26795655-Reviews-Magic_Bavaria_Erlebnismuseum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "38. Odeonsplatz",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c4/bc/61/the-square.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d265840-Reviews-Odeonsplatz-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "39. Kunsthalle Munich",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/90/03/b2/kunsthalle-munchen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2690646-Reviews-Kunsthalle_Munich-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "40. Königsplatz",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/73/6e/1b/glytotheque-de-munich.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d196253-Reviews-Konigsplatz-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "41. Bavarian National Museum",
+    "category": "Art Museums • History Museums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/90/11/3c/haupteingang-des-bayerischen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242781-Reviews-Bavarian_National_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "42. Heilig Geist",
+    "category": "Architectural Buildings • Religious Sites",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b8/08/1e/heilig-geist-kirche.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190293-Reviews-Heilig_Geist-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "43. Hofgarten",
+    "category": "Gardens",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c6/94/0c/diana-temple.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2459913-Reviews-Hofgarten-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "44. Old Town Hall",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f7/0e/66/old-town-hall-altes-rathaus.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190284-Reviews-Old_Town_Hall-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "45. Westpark",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/6c/2d/ae/die-pagode-spiegelt-sich.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d577455-Reviews-Westpark-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "46. Munich Central Station",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/66/a4/52/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d8568637-Reviews-Munich_Central_Station-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "47. Olympia Einkaufszentrum",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d1/f7/01/20151221-163256-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2077194-Reviews-Olympia_Einkaufszentrum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "48. Flaucher",
+    "category": "Bodies of Water • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/2a/17/28/flaucher-beach.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d5571388-Reviews-Flaucher-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "49. Burgersaalkirche",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/cd/86/69/burgersaalkirche-obergeschoss.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2511653-Reviews-Burgersaalkirche-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "50. Bier- Und Oktoberfest Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/98/ad/72/bier-und-oktoberfestmuseum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1916332-Reviews-Bier_Und_Oktoberfest_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "51. ESO Supernova Planetarium & Visitor Centre",
+    "category": "Observatories & Planetariums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/36/9f/37/p-horalek.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d10637528-Reviews-ESO_Supernova_Planetarium_Visitor_Centre-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "52. DenkStätte Weiße Rose",
+    "category": "Historic Sites • Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/50/ec/75/brunnen-am-geschwister.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d3618465-Reviews-DenkStatte_Weisse_Rose-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "53. Maximillianstrasse",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e8/6f/aa/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d196249-Reviews-Maximillianstrasse-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "54. Museum Brandhorst",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/bd/e2/4b/img-20200804-144304-largejpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1806284-Reviews-Museum_Brandhorst-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "55. Munich Christmas Market",
+    "category": "Cultural Events",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6f/af/fc/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d19646921-Reviews-Munich_Christmas_Market-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "56. Cuvilliestheater",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f0/85/f2/cuvillies-theatre-rococo.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d241614-Reviews-Cuvilliestheater-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "57. Karlstor",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9e/a9/5b/karls-gate-karlstor.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d501702-Reviews-Karlstor-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "58. Justizpalast",
+    "category": "Architectural Buildings",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/49/0d/20/justizpalast.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d590774-Reviews-Justizpalast-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "59. Museum Mensch und Natur",
+    "category": "Speciality Museums • Natural History Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/0e/ca/ac/unter-dem-motto-naturkunde.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2227458-Reviews-Museum_Mensch_und_Natur-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "60. SEA LIFE Munich",
+    "category": "Aquariums",
+    "price": "Admission tickets from $25",
+    "rating": "3.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/23/e4/2c/ryby.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1088295-Reviews-SEA_LIFE_Munich-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "61. Schwabing",
+    "category": "Neighborhoods",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/73/76/fa/schwabing.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d194961-Reviews-Schwabing-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "62. Haus der Kunst",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fe/ed/cf/house-of-the-arts-haus.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242833-Reviews-Haus_der_Kunst-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "63. Valentin Musäum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/2f/2d/ae/immer-interessant-das.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2248188-Reviews-Valentin_Musaum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "64. Paleontological Museum Munich",
+    "category": "Science Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/87/b3/bc/paleontological-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d3474478-Reviews-Paleontological_Museum_Munich-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "65. Motorworld München",
+    "category": "Speciality Museums • Convention Centers",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/22/e2/96/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d27416249-Reviews-Motorworld_Munchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "66. Isartor",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/73/71/9a/isartor.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2459910-Reviews-Isartor-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "67. Ruhmeshalle und Bavaria",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/40/1d/2e/ruhmeshalle-und-bavaria.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1907313-Reviews-Ruhmeshalle_und_Bavaria-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "68. Visitors Park Munich Airport",
+    "category": "Visitor Centers",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/4c/3d/d1/besucherpark-flughafen.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2240975-Reviews-Visitors_Park_Munich_Airport-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "69. Alter Sudfriedhof",
+    "category": "Cemeteries",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/e4/de/9e/old-southern-cemetery.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d590505-Reviews-Alter_Sudfriedhof-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "70. Fassade des Hirmer Stammhauses",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/55/97/ce/getlstd-property-photo.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d3807814-Reviews-Fassade_des_Hirmer_Stammhauses-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "71. Ludwig Beck",
+    "category": "Department Stores",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9e/8f/bd/kaufhaus-der-sinne.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d7386870-Reviews-Ludwig_Beck-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "72. Friedensengel",
+    "category": "Monuments & Statues",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e3/c6/ed/photo2jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242829-Reviews-Friedensengel-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "73. Sendlinger Tor",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/67/f5/55/beautiful-at-night.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2459919-Reviews-Sendlinger_Tor-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "74. St. Paul's Church",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/14/3c/10/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d7182458-Reviews-St_Paul_s_Church-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "75. VS - The interim quarters of the Villa Stuck Museum",
+    "category": "Art Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/97/fc/20/stuck-villa.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242807-Reviews-VS_The_interim_quarters_of_the_Villa_Stuck_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "76. Staatliche Antikensammlung",
+    "category": "Art Museums • History Museums",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/a9/34/78/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242772-Reviews-Staatliche_Antikensammlung-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "77. Ludwig Maximilian University",
+    "category": "Universities & Schools",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/af/5e/cc/fuentes-como-las-de-bernini.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242837-Reviews-Ludwig_Maximilian_University-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "78. Kunstareal Muenchen",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/73/26/76/museum-quarter.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1569267-Reviews-Kunstareal_Muenchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "79. Flohmarkt Munchen-Riem",
+    "category": "Flea & Street Markets",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/ad/07/83/bei-schonem-wetter-versammeln.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d543019-Reviews-Flohmarkt_Munchen_Riem-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "80. WOW Museum - Room for Illusions Munich",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/ba/2a/06/riesen-kaleidoskop-2.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d28438322-Reviews-WOW_Museum_Room_for_Illusions_Munich-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "81. Fischbrunnen",
+    "category": "Fountains",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/22/9e/a4/fischbrunnen.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1907311-Reviews-Fischbrunnen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "82. Haidhausen",
+    "category": "Neighborhoods • Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/44/f1/16/haidhausen.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d194962-Reviews-Haidhausen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "83. Viscardigasse",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d2/a5/ff/viscardigasse-street.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d8811398-Reviews-Viscardigasse-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "84. Marstallmuseum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/af/8f/e3/caption.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d14000899-Reviews-Marstallmuseum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "85. Flying Fox",
+    "category": "Game & Entertainment Centers",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/38/f6/44/das-einmalige-munchner.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1598493-Reviews-Flying_Fox-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "86. Spielzeugmuseum",
+    "category": "Speciality Museums • Children's Museums",
+    "price": "Free",
+    "rating": "3.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f2/f2/a2/trains.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190294-Reviews-Spielzeugmuseum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "87. Mariensaule",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/77/bf/49/detail-du-piedestal.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d7103004-Reviews-Mariensaule-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "88. Feldherrnhalle",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c4/c0/78/feldherrnhalle-and-theatinerki.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d543016-Reviews-Feldherrnhalle-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "89. Sudetendeutsches Museum",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "5.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/78/c5/fd/sudetendeutsches-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d23863299-Reviews-Sudetendeutsches_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "90. Blutenburg Castle",
+    "category": "Castles",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/22/ba/24/schloss-blutenburg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d593062-Reviews-Blutenburg_Castle-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "91. Mathilden HAMAM",
+    "category": "Hammams & Turkish Baths • Spas",
+    "price": "Free",
+    "rating": "4.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/0a/e8/9e/erleben-sie-pure-entspannung.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d6154438-Reviews-Mathilden_HAMAM-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "92. H. Jakob Forschungsbrauerei und Braustuberl KG",
+    "category": "Breweries",
+    "price": "Free",
+    "rating": "4.5",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/c0/e7/27/photo1jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2260486-Reviews-H_Jakob_Forschungsbrauerei_und_Braustuberl_KG-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "93. Gruenwalder Stadion",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/57/51/86/gruenwalder-stadion.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d12240172-Reviews-Gruenwalder_Stadion-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "94. Prinzregententheater",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/82/66/1e/prinzregententheater.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190286-Reviews-Prinzregententheater-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "95. Führer Building",
+    "category": "Historic Sites",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/82/a9/98/fuhrerbau.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d194963-Reviews-Fuhrer_Building-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "96. Museum Funf Kontinente",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/0c/57/c5/national-ethnology-museum.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d242846-Reviews-Museum_Funf_Kontinente-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "97. German Hunting and Fishing Museum",
+    "category": "Speciality Museums",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/b1/ec/aa/museum-of-hunting-and.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d241621-Reviews-German_Hunting_and_Fishing_Museum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "98. Leopoldstraße",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3c/13/2f/ludwigstrasse-17.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d196252-Reviews-Leopoldstrasse-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "99. Audi Dome",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/7b/b1/7d/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d2415676-Reviews-Audi_Dome-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "100. St. Anna Damenstiftskirche",
+    "category": "Religious Sites • Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/77/98/0e/la-nef.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d9871047-Reviews-St_Anna_Damenstiftskirche-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "101. Olympiastadion München",
+    "category": "Arenas & Stadiums",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/3b/0b/5a/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d25009459-Reviews-Olympiastadion_Munchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "102. Siegestor",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/73/38/0a/l-arc-de-triomple.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d3354097-Reviews-Siegestor-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "103. Naturbad Maria Einsiedel",
+    "category": "Sports Complexes",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/72/b7/fb/naturbad-maria-einsiedel.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d10749425-Reviews-Naturbad_Maria_Einsiedel-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "104. St. Ludwig München",
+    "category": "Churches & Cathedrals",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/de/65/67/ludwigskirche.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d3618461-Reviews-St_Ludwig_Munchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "105. Platzl",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/da/98/92/scorcio-della-piazza.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d9868964-Reviews-Platzl-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "106. Kaufingertor Passage",
+    "category": "Shopping Malls",
+    "price": "Free",
+    "rating": "3.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b6/8f/70/pleasant-passage.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d10803786-Reviews-Kaufingertor_Passage-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "107. Maximilianeum",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ad/2b/81/banderas-de-baviera-alemania.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d6606870-Reviews-Maximilianeum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "108. Ostpark",
+    "category": "Parks",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/e3/db/4b/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d1887794-Reviews-Ostpark-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "109. Amalienburg",
+    "category": "Historic Sites • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.7",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e9/3c/2d/amalienburg.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d14032113-Reviews-Amalienburg-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "110. Stachus",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "4.0",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c5/f1/7f/stachus.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d8556419-Reviews-Stachus-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "111. Karlsplatz",
+    "category": "Points of Interest & Landmarks • Historic Walking Areas",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/00/e2/7d/caption.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d20375108-Reviews-Karlsplatz-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "112. Deutsches Theater München",
+    "category": "Theaters",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/b2/13/f8/auf-der-buhne-werden.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d605222-Reviews-Deutsches_Theater_Munchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "113. Staatliche Munzsammlung Munchen",
+    "category": "Speciality Museums • Art Museums",
+    "price": "Free",
+    "rating": "4.6",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/5e/44/e6/some-highlights-from.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d8616465-Reviews-Staatliche_Munzsammlung_Munchen-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "114. MVV - Munich Tram System",
+    "category": "Public Transportation Systems",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d3/2b/2b/photo0jpg.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d7650553-Reviews-MVV_Munich_Tram_System-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "115. Sammlung Schack",
+    "category": "Art Galleries",
+    "price": "Free",
+    "rating": "4.1",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/9f/32/21/schack-galerie.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d318634-Reviews-Sammlung_Schack-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "116. Ruffinihaus",
+    "category": "Points of Interest & Landmarks • Architectural Buildings",
+    "price": "Free",
+    "rating": "4.4",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fa/07/2e/ruffinihaus.jpg?w=500&h=-1&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d4197399-Reviews-Ruffinihaus-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "117. Alter Hof",
+    "category": "Historic Sites • Castles",
+    "price": "Free",
+    "rating": "3.9",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/1a/1a/e0/street-view.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d241612-Reviews-Alter_Hof-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "118. Münchner Stadtmuseum",
+    "category": "History Museums",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0a/bb/24/exterior-view-of-munchner.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d190291-Reviews-Munchner_Stadtmuseum-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "119. Ohel Jakob Synagogue",
+    "category": "Religious Sites",
+    "price": "Free",
+    "rating": "4.2",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c3/48/8e/exterior.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d7240860-Reviews-Ohel_Jakob_Synagogue-Munich_Upper_Bavaria_Bavaria.html"
+  },
+  {
+    "name": "120. Umadum das Münchner Riesenrad",
+    "category": "Points of Interest & Landmarks",
+    "price": "Free",
+    "rating": "3.8",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/5a/62/be/white.jpg?w=500&h=400&s=1",
+    "detail_url": "https://www.tripadvisor.com/Attraction_Review-g187309-d17343257-Reviews-Umadum_das_Munchner_Riesenrad-Munich_Upper_Bavaria_Bavaria.html"
+  }
+]

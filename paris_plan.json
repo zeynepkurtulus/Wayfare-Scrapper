@@ -1,0 +1,213 @@
+{
+  "city": "Paris",
+  "total_places": 18,
+  "total_days": 6,
+  "max_distance_km": 25.0,
+  "max_places_per_day": 5,
+  "days": {
+    "1": {
+      "day_number": 1,
+      "total_places": 1,
+      "total_distance_km": 0,
+      "places": [
+        {
+          "order": 1,
+          "name": "Château de Fontainebleau, France",
+          "address": "Château de Fontainebleau, Rue Denecourt, Hyper-Centre, Fontainebleau, Seine-et-Marne, France métropolitaine, 77300, France",
+          "latitude": 48.4021166,
+          "longitude": 2.699851,
+          "rating": null,
+          "distance_from_previous": 0
+        }
+      ]
+    },
+    "2": {
+      "day_number": 2,
+      "total_places": 5,
+      "total_distance_km": 18.6,
+      "places": [
+        {
+          "order": 1,
+          "name": "Palace of Versailles, France",
+          "address": "Château de Versailles, Cour de l'Apothicairerie, Notre-Dame, Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France",
+          "latitude": 48.8044252,
+          "longitude": 2.1202853,
+          "rating": null,
+          "distance_from_previous": 0
+        },
+        {
+          "order": 2,
+          "name": "Luxembourg Gardens, Paris",
+          "address": "Petit Luxembourg, Rue de Vaugirard, Quartier de l'Odéon, Paris 6e Arrondissement, Paris, France métropolitaine, 75006, France",
+          "latitude": 48.8486408,
+          "longitude": 2.3351989,
+          "rating": null,
+          "distance_from_previous": 16.5
+        },
+        {
+          "order": 3,
+          "name": "Panthéon, Paris",
+          "address": "Panthéon, Place du Panthéon, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, France métropolitaine, 75005, France",
+          "latitude": 48.8461908,
+          "longitude": 2.3460785,
+          "rating": null,
+          "distance_from_previous": 0.8
+        },
+        {
+          "order": 4,
+          "name": "Notre-Dame Cathedral, Paris",
+          "address": "Cathédrale Notre-Dame de Paris, 6, Parvis Notre-Dame - Place Jean-Paul II, Quartier Les Îles, Paris 4e Arrondissement, Paris, France métropolitaine, 75004, France",
+          "latitude": 48.8529371,
+          "longitude": 2.3500501,
+          "rating": null,
+          "distance_from_previous": 0.8
+        },
+        {
+          "order": 5,
+          "name": "Sainte-Chapelle, Paris",
+          "address": "Sainte-Chapelle, 8, Boulevard du Palais, Quartier Saint-Germain-l'Auxerrois, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",
+          "latitude": 48.8553933,
+          "longitude": 2.3449941,
+          "rating": null,
+          "distance_from_previous": 0.5
+        }
+      ]
+    },
+    "3": {
+      "day_number": 3,
+      "total_places": 5,
+      "total_distance_km": 4.7,
+      "places": [
+        {
+          "order": 1,
+          "name": "Eiffel Tower, Paris",
+          "address": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, France métropolitaine, 75007, France",
+          "latitude": 48.8582599,
+          "longitude": 2.2945006,
+          "rating": null,
+          "distance_from_previous": 0
+        },
+        {
+          "order": 2,
+          "name": "Musée d'Orsay, Paris",
+          "address": "Musée d'Orsay, 1, Rue de la Légion d'Honneur, Quartier Saint-Thomas-d'Aquin, Paris 7e Arrondissement, Paris, France métropolitaine, 75007, France",
+          "latitude": 48.8599179,
+          "longitude": 2.3265849,
+          "rating": null,
+          "distance_from_previous": 2.4
+        },
+        {
+          "order": 3,
+          "name": "Tuileries Garden, Paris",
+          "address": "Jardin des Tuileries, 113, Paris, France métropolitaine, 75001, France",
+          "latitude": 48.8635662,
+          "longitude": 2.3269552,
+          "rating": null,
+          "distance_from_previous": 0.4
+        },
+        {
+          "order": 4,
+          "name": "Louvre Museum, Paris",
+          "address": "Musée du Louvre, Cour de l'Horloge, Quartier du Palais Royal, Paris 1er Arrondissement, Paris, France métropolitaine, 75001, France",
+          "latitude": 48.8611473,
+          "longitude": 2.3380277,
+          "rating": null,
+          "distance_from_previous": 0.9
+        },
+        {
+          "order": 5,
+          "name": "Centre Pompidou, Paris",
+          "address": "Centre Georges Pompidou, 19, Rue Beaubourg, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, France métropolitaine, 75004, France",
+          "latitude": 48.8605918,
+          "longitude": 2.3524736,
+          "rating": null,
+          "distance_from_previous": 1.1
+        }
+      ]
+    },
+    "4": {
+      "day_number": 4,
+      "total_places": 5,
+      "total_distance_km": 6.5,
+      "places": [
+        {
+          "order": 1,
+          "name": "Place de la Concorde, Paris",
+          "address": "Place de la Concorde, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, France métropolitaine, 75008, France",
+          "latitude": 48.8655715,
+          "longitude": 2.3212248,
+          "rating": null,
+          "distance_from_previous": 0
+        },
+        {
+          "order": 2,
+          "name": "Palais Garnier, Paris",
+          "address": "L'Opéra Restaurant, Place Jacques Rouché, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, France métropolitaine, 75009, France",
+          "latitude": 48.8720949,
+          "longitude": 2.3323339,
+          "rating": null,
+          "distance_from_previous": 1.1
+        },
+        {
+          "order": 3,
+          "name": "Montmartre, Paris",
+          "address": "Montmartre, Paris, France métropolitaine, 75018, France",
+          "latitude": 48.8854618,
+          "longitude": 2.3391535,
+          "rating": null,
+          "distance_from_previous": 1.6
+        },
+        {
+          "order": 4,
+          "name": "Champs-Élysées, Paris",
+          "address": "Champs Élysées, Champs-Elysées, Paris, France métropolitaine, 75008, France",
+          "latitude": 48.8707573,
+          "longitude": 2.3053312,
+          "rating": null,
+          "distance_from_previous": 3.0
+        },
+        {
+          "order": 5,
+          "name": "Arc de Triomphe, Paris",
+          "address": "Arc de Triomphe, Place Charles de Gaulle, Quartier du Faubourg-du-Roule, Paris 8e Arrondissement, Paris, France métropolitaine, 75008, France",
+          "latitude": 48.8737791,
+          "longitude": 2.2950372,
+          "rating": null,
+          "distance_from_previous": 0.8
+        }
+      ]
+    },
+    "5": {
+      "day_number": 5,
+      "total_places": 1,
+      "total_distance_km": 0,
+      "places": [
+        {
+          "order": 1,
+          "name": "Sacre-Coeur, Paris",
+          "address": "Basilique du Sacré-Cœur, Rue du Chevalier de la Barre, Quartier de Clignancourt, Paris 18e Arrondissement, Paris, France métropolitaine, 75018, France",
+          "latitude": 48.8868058,
+          "longitude": 2.3430153,
+          "rating": null,
+          "distance_from_previous": 0
+        }
+      ]
+    },
+    "6": {
+      "day_number": 6,
+      "total_places": 1,
+      "total_distance_km": 0,
+      "places": [
+        {
+          "order": 1,
+          "name": "Disneyland Paris, France",
+          "address": "Disneyland Paris, Rue d'Ariane, World of Frozen, Chessy, Torcy, Seine-et-Marne, France métropolitaine, 77700, France",
+          "latitude": 48.8700934,
+          "longitude": 2.7740499,
+          "rating": null,
+          "distance_from_previous": 0
+        }
+      ]
+    }
+  }
+}
