@@ -49,5 +49,8 @@ updated_cities/
 *.tmp
 *.temp
 
+# JSON data files
+*.json
+
 # Selenium/driver downloads
 .chromedriver/
