@@ -269,4 +269,4 @@ def get_category_summary():
             }
         categories[cat_name]["count"] += 1
     
-    return categories 
+    return categories

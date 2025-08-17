@@ -212,4 +212,4 @@ def process_all_cities():
     log_and_print(f"📝 Complete log saved to: {log_filename}")
 
 if __name__ == "__main__":
-    process_all_cities() 
+    process_all_cities()

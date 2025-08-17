@@ -83,6 +83,3 @@ If you need the datasets:
 
 Issues and PRs welcome. See docs and scripts for entry points.
 
-## License
-
-MIT — see `LICENSE`.

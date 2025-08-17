@@ -7,7 +7,7 @@ Creates customized travel plans by grouping nearby places together
 import json
 import os
 from typing import List, Dict
-from scrapper import PlaceScraper, TravelPlanner, Place
+from wayfare_scrapper import PlaceScraper, TravelPlanner, Place
 
 class TravelPlannerApp:
     def __init__(self):
@@ -212,9 +212,9 @@ class TravelPlannerApp:
                 print("  🚗 Distances:")
                 total_distance = 0
                 for i in range(len(optimized_route) - 1):
-                    distance = self.planner.calculate_distance(optimized_route[i], optimized_route[i + 1])
-                    total_distance += distance
-                    print(f"     {optimized_route[i].name} → {optimized_route[i + 1].name}: {distance:.1f} km")
+                    distance_km = self.planner.calculate_distance(optimized_route[i], optimized_route[i + 1])
+                    total_distance += distance_km
+                    print(f"     {optimized_route[i].name} → {optimized_route[i + 1].name}: {distance_km:.1f} km")
                 print(f"     📊 Total distance for day: {total_distance:.1f} km")
     
     def show_places(self):
@@ -293,4 +293,4 @@ class TravelPlannerApp:
 
 if __name__ == "__main__":
     app = TravelPlannerApp()
-    app.run() 
+    app.run()

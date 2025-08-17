@@ -4,7 +4,7 @@ Generate a 4-day Paris travel plan and save to paris_plan.json
 """
 
 import json
-from scrapper import PlaceScraper, TravelPlanner, Place
+from wayfare_scrapper import PlaceScraper, TravelPlanner, Place
 
 def generate_paris_plan():
     """Generate a comprehensive 4-day Paris travel plan"""
@@ -90,9 +90,9 @@ def generate_paris_plan():
             
             # Calculate distance from previous place
             if i > 0:
-                distance = planner.calculate_distance(optimized_route[i-1], place)
-                place_data["distance_from_previous"] = round(distance, 1)
-                day_data["total_distance_km"] += distance
+                distance_km = planner.calculate_distance(optimized_route[i-1], place)
+                place_data["distance_from_previous"] = round(distance_km, 1)
+                day_data["total_distance_km"] += distance_km
             
             day_data["places"].append(place_data)
         
@@ -125,4 +125,4 @@ def generate_paris_plan():
     return plan_data
 
 if __name__ == "__main__":
-    generate_paris_plan() 
+    generate_paris_plan()

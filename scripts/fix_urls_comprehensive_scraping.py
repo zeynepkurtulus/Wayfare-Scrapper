@@ -7,6 +7,7 @@ import urllib.parse
 import time
 import random
 
+
 def normalize_text(text):
     """Normalize text for comparison"""
     if not text:
@@ -23,6 +24,7 @@ def normalize_text(text):
     words = [word for word in words if word not in common_words]
     
     return ' '.join(words)
+
 
 def extract_name_from_url(url):
     """Extract attraction name from TripAdvisor URL"""
@@ -45,6 +47,7 @@ def extract_name_from_url(url):
         return ""
     except:
         return ""
+
 
 def validate_url_correctness(attraction_name, url):
     """Validate if a URL is correct for the given attraction name"""
@@ -72,6 +75,7 @@ def validate_url_correctness(attraction_name, url):
     except Exception as e:
         return False
 
+
 def get_city_urls():
     """Get main URLs for cities"""
     return {
@@ -86,6 +90,7 @@ def get_city_urls():
         "Sydney": "https://www.tripadvisor.com/Attractions-g255060-Activities-oa0-Sydney_New_South_Wales.html",
         "Dubai": "https://www.tripadvisor.com/Attractions-g295424-Activities-oa0-Dubai_Emirate_of_Dubai.html"
     }
+
 
 def scrape_city_urls(city_name, max_pages=3):
     """Scrape attraction URLs from a city's main page and pagination"""
@@ -145,6 +150,7 @@ def scrape_city_urls(city_name, max_pages=3):
     print(f"  Total unique attractions found: {len(all_attraction_links)}")
     return all_attraction_links
 
+
 def fix_city_urls(city_name):
     """Fix URLs for a specific city"""
     print(f"\nProcessing {city_name}...")
@@ -198,6 +204,7 @@ def fix_city_urls(city_name):
     
     return fixed_count
 
+
 def main():
     """Main function to fix URLs for multiple cities"""
     print("Comprehensive URL Fixing by Scraping Main Pages")
@@ -223,5 +230,6 @@ def main():
     
     print(f"\n✓ Total URLs fixed: {total_fixed}")
 
+
 if __name__ == "__main__":
-    main() 
+    main()

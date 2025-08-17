@@ -7,7 +7,8 @@ Adds wayfare_category and duration fields to JSON files based on category mappin
 import os
 import json
 import re
-from category_mapping import get_category_mapping, get_category_summary, CATEGORY_MAPPING
+from wayfare_scrapper.data.category_mapping import get_category_mapping, get_category_summary, CATEGORY_MAPPING
+
 
 def find_best_category_match(original_category):
     """Find the best matching category from the mapping, handling partial matches"""
@@ -85,6 +86,7 @@ def find_best_category_match(original_category):
     # Default fallback
     return CATEGORY_MAPPING.get("Other", {"new_category": "Other", "duration": 60, "type": "other"})
 
+
 def apply_category_mapping_to_file(file_path):
     """Apply category mapping to a single JSON file, adding new fields"""
     try:
@@ -145,6 +147,7 @@ def apply_category_mapping_to_file(file_path):
     except Exception as e:
         print(f"Error processing {file_path}: {e}")
         return None
+
 
 def main():
     cities_dir = 'cities'
@@ -235,5 +238,6 @@ def main():
     print("New fields 'wayfare_category' and 'duration' have been added to all JSON files.")
     print("Original 'category' fields have been preserved.")
 
+
 if __name__ == "__main__":
-    main() 
+    main()

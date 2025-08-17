@@ -147,8 +147,8 @@ class TravelPlanner:
                 if j in used_places or i == j:
                     continue
                     
-                distance = self.calculate_distance(place, other_place)
-                if distance <= self.max_distance_km:
+                distance_km = self.calculate_distance(place, other_place)
+                if distance_km <= self.max_distance_km:
                     current_group.append(other_place)
                     used_places.add(j)
             
@@ -187,6 +187,7 @@ class TravelPlanner:
             unvisited.remove(nearest)
         
         return route
+
 
 def main():
     # Example usage
@@ -235,8 +236,9 @@ def main():
         if len(day_places) > 1:
             print("  Distances:")
             for i in range(len(day_places) - 1):
-                distance = planner.calculate_distance(day_places[i], day_places[i + 1])
-                print(f"    {day_places[i].name} → {day_places[i + 1].name}: {distance:.1f} km")
+                distance_km = planner.calculate_distance(day_places[i], day_places[i + 1])
+                print(f"    {day_places[i].name} → {day_places[i + 1].name}: {distance_km:.1f} km")
+
 
 if __name__ == "__main__":
     main()
