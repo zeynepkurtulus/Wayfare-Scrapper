@@ -1,4 +1,4 @@
-# 🌍 Travel Planner Application
+#Travel Planner Application
 
 A Python application that creates customized travel plans by grouping nearby places together. The app scrapes place coordinates and intelligently organizes them into daily itineraries based on proximity.
 
@@ -98,23 +98,23 @@ Total days: 2
 Max distance: 30 km
 Max places per day: 4
 
-📅 Day 1 (4 places):
-  1. 📍 Eiffel Tower
-     📍 Coordinates: (48.8584, 2.2945)
-     ⭐ Rating: 4.6
-  2. 📍 Arc de Triomphe
-     📍 Coordinates: (48.8738, 2.2950)
-     ⭐ Rating: 4.4
-  3. 📍 Champs-Élysées
-     📍 Coordinates: (48.8698, 2.3077)
-  4. 📍 Louvre Museum
-     📍 Coordinates: (48.8606, 2.3376)
-     ⭐ Rating: 4.7
-  🚗 Distances:
+ Day 1 (4 places):
+  1.  Eiffel Tower
+      Coordinates: (48.8584, 2.2945)
+      Rating: 4.6
+  2.  Arc de Triomphe
+      Coordinates: (48.8738, 2.2950)
+      Rating: 4.4
+  3.  Champs-Élysées
+      Coordinates: (48.8698, 2.3077)
+  4. Louvre Museum
+     Coordinates: (48.8606, 2.3376)
+     Rating: 4.7
+   Distances:
      Eiffel Tower → Arc de Triomphe: 1.7 km
      Arc de Triomphe → Champs-Élysées: 0.9 km
      Champs-Élysées → Louvre Museum: 2.5 km
-     📊 Total distance for day: 5.1 km
+      Total distance for day: 5.1 km
 ```
 
 ## Customization
